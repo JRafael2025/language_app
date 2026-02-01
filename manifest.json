@@ -1,0 +1,25 @@
+{
+  "name": "LinguaFlip",
+  "short_name": "LinguaFlip",
+  "description": "Offline-first grammar learning app — fill the blank, tap the answer.",
+  "start_url": "/linguaflip/index.html",
+  "scope": "/linguaflip/",
+  "display": "standalone",
+  "theme_color": "#1a1a2e",
+  "background_color": "#0f0f1a",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/linguaflip/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/linguaflip/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

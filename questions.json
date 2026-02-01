@@ -1,0 +1,134 @@
+[
+  {
+    "language": "es",
+    "tense": "Presente del Indicativo",
+    "sentence": "_______ desde casa porque me permite concentrarme mejor.",
+    "options": ["Trabajo", "Trabajar", "Trabajaste"],
+    "correct": 0,
+    "explanations": [
+      "Correcto. «Trabajo» es la primera persona singular (yo) del presente del indicativo de «trabajar».",
+      "Incorrecto. «Trabajar» es el infinitivo del verbo; aquí se necesita una forma conjugada en presente.",
+      "Incorrecto. «Trabajaste» es la segunda persona singular (tú) del pretérito indefinido, no del presente."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente del Indicativo",
+    "sentence": "Ella _______ muy bien el piano.",
+    "options": ["toca", "tocó", "tocar"],
+    "correct": 0,
+    "explanations": [
+      "Correcto. «Toca» es la tercera persona singular (él/ella) del presente del indicativo de «tocar».",
+      "Incorrecto. «Tocó» es la tercera persona singular del pretérito indefinido, que indica una acción pasada completada.",
+      "Incorrecto. «Tocar» es el infinitivo; la oración necesita una forma conjugada en presente."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Yo _______ esta película tres veces.",
+    "options": ["vi", "he visto", "veía"],
+    "correct": 1,
+    "explanations": [
+      "Incorrecto. «Vi» es pretérito indefinido (primera persona singular de «ver»). Aquí se necesita un tiempo que conecte el pasado con el presente.",
+      "Correcto. «He visto» es la primera persona singular del presente perfecto de «ver». Se usa para acciones pasadas que tienen relevancia en el presente.",
+      "Incorrecto. «Veía» es pretérito imperfecto, que describe acciones habituales o descriptivas en el pasado, sin relación explícita al presente."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "Ayer _______ un libro muy interesante.",
+    "options": ["leí", "leo", "leía"],
+    "correct": 0,
+    "explanations": [
+      "Correcto. «Leí» es la primera persona singular del pretérito indefinido de «leer». Se usa para acciones pasadas completadas, como algo que ocurrió ayer.",
+      "Incorrecto. «Leo» es presente del indicativo (primera persona singular). La palabra «ayer» indica que la acción ya se completó.",
+      "Incorrecto. «Leía» es pretérito imperfecto, que describe acciones habituales o en progreso en el pasado, no acciones completadas."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "Cuando era niño, _______ todos los días al parque.",
+    "options": ["fui", "iba", "fue"],
+    "correct": 1,
+    "explanations": [
+      "Incorrecto. «Fui» es pretérito indefinido (primera persona singular de «ir»). No expresa una acción habitual en el pasado.",
+      "Correcto. «Iba» es la primera persona singular del pretérito imperfecto de «ir». Se usa para describir acciones que se repetían habitualmente en el pasado.",
+      "Incorrecto. «Fue» es pretérito indefinido (tercera persona singular de «ir»). No encaja ni en persona ni en el significado habitual que requiere la oración."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "¡_______ la puerta, por favor!",
+    "options": ["Abre", "Abres", "Abriste"],
+    "correct": 0,
+    "explanations": [
+      "Correcto. «Abre» es el imperativo informal (tú) de «abrir». Se usa para dar órdenes o peticiones directas.",
+      "Incorrecto. «Abres» es la segunda persona singular del presente del indicativo, no una forma imperativa.",
+      "Incorrecto. «Abriste» es la segunda persona singular del pretérito indefinido. No puede expresar una orden."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Condicional",
+    "sentence": "Si tuviera más tiempo, _______ a estudiar el francés.",
+    "options": ["empiezo", "empezaría", "empezaste"],
+    "correct": 1,
+    "explanations": [
+      "Incorrecto. «Empiezo» es presente del indicativo (primera persona singular). No expresa una situación hipotética.",
+      "Correcto. «Empezaría» es la primera persona singular del condicional de «empezar». Se usa en oraciones hipotéticas introducidas por «si».",
+      "Incorrecto. «Empezaste» es pretérito indefinido (segunda persona singular). No encaja ni en persona ni en el significado condicional."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente del Indicativo",
+    "sentence": "Nosotros _______ al trabajo en metro.",
+    "options": ["yamos", "vamos", "fue"],
+    "correct": 1,
+    "explanations": [
+      "Incorrecto. «Yamos» no es una forma verbal válida en español. El verbo «ir» tiene conjugaciones irregulares.",
+      "Correcto. «Vamos» es la primera persona plural (nosotros) del presente del indicativo del verbo irregular «ir».",
+      "Incorrecto. «Fue» es pretérito indefinido (tercera persona singular de «ir»). No concuerda en persona ni en tiempo."
+    ]
+  },
+  {
+    "language": "en",
+    "tense": null,
+    "sentence": "She _______ to the store every morning.",
+    "options": ["go", "goes", "gone"],
+    "correct": 1,
+    "explanations": [
+      "Incorrect. «Go» is the base form of the verb. With a third-person singular subject (she), you must add the appropriate ending.",
+      "Correct. «Goes» is the third-person singular present tense of «go». Verbs ending in a consonant + 'o' add '-es' for he / she / it.",
+      "Incorrect. «Gone» is the past participle of «go» (e.g., «She has gone»). It cannot stand alone as the main verb here."
+    ]
+  },
+  {
+    "language": "en",
+    "tense": null,
+    "sentence": "They _______ already finished the project by last Friday.",
+    "options": ["have", "had", "has"],
+    "correct": 1,
+    "explanations": [
+      "Incorrect. «Have» is the present perfect auxiliary (e.g., «They have finished»). «By last Friday» signals a past reference point, so the past perfect is needed.",
+      "Correct. «Had» is the past perfect auxiliary. «Had + past participle» indicates an action completed before another point in the past.",
+      "Incorrect. «Has» is the third-person singular present perfect auxiliary. It does not agree with the plural subject «They», and the tense is wrong."
+    ]
+  },
+  {
+    "language": "en",
+    "tense": null,
+    "sentence": "If I _______ rich, I would travel the world.",
+    "options": ["am", "were", "be"],
+    "correct": 1,
+    "explanations": [
+      "Incorrect. «Am» is the simple present tense. This sentence expresses a hypothetical, not a real current state.",
+      "Correct. «Were» is the subjunctive form used in hypothetical conditionals. Even with a singular subject like «I», English uses «were» (not «was») in this structure.",
+      "Incorrect. «Be» is the infinitive / base form of the verb. It cannot function as the finite verb in this conditional clause."
+    ]
+  }
+]

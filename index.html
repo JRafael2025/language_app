@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
+  <meta name="theme-color" content="#1a1a2e" />
+  <meta name="description" content="Offline-first grammar learning PWA — fill the blank, tap the answer." />
+
+  <link rel="manifest" href="manifest.json" />
+  <link rel="stylesheet" href="styles.css" />
+
+  <title>LinguaFlip</title>
+</head>
+<body>
+
+<div id="app">
+
+  <!-- ============================================================
+       SCREEN 1 — Language Selection
+       ============================================================ -->
+  <section id="screen-lang" class="screen active">
+    <div class="logo">
+      <div class="logo-icon">🌐</div>
+      <h1>LinguaFlip</h1>
+      <p>Grammar in a flash</p>
+    </div>
+
+    <!-- text nodes updated by applyI18n() after language is chosen;
+         English defaults shown here for first render -->
+    <h2 class="section-title" id="lang-title">Pick a language</h2>
+    <p  class="section-sub"  id="lang-sub">Choose what you want to practice today</p>
+
+    <div class="lang-cards">
+      <div class="lang-card" data-lang="es" role="button" tabindex="0">
+        <span class="flag">🇪🇸</span>
+        <div class="info">
+          <h3>Spanish</h3>
+          <span>Tiempos verbales</span>
+        </div>
+        <span class="arrow">›</span>
+      </div>
+
+      <div class="lang-card" data-lang="en" role="button" tabindex="0">
+        <span class="flag">🇺🇸</span>
+        <div class="info">
+          <h3>US English</h3>
+          <span>Grammar exercises</span>
+        </div>
+        <span class="arrow">›</span>
+      </div>
+    </div>
+
+    <!-- PWA install nudge -->
+    <div id="install-banner" class="install-banner">
+      <p id="install-banner-text">Add LinguaFlip to your home screen<br/>for an offline experience.</p>
+      <button id="install-btn" class="install-btn">⬇ Install App</button>
+    </div>
+  </section>
+
+  <!-- ============================================================
+       SCREEN 2 — Tense Selection (Spanish only)
+       ============================================================ -->
+  <section id="screen-tense" class="screen">
+    <button id="back-btn-tense" class="back-btn">← Back</button>
+
+    <h2 class="section-title" id="tense-title">Choose a tense</h2>
+    <p  class="section-sub"  id="tense-sub">Pick one or mix them all</p>
+
+    <div id="tense-list" class="tense-list">
+      <div class="tense-item" data-tense="Presente del Indicativo">
+        <span class="num">1</span>
+        <span class="name">Presente del Indicativo</span>
+      </div>
+      <div class="tense-item" data-tense="Presente Perfecto">
+        <span class="num">2</span>
+        <span class="name">Presente Perfecto</span>
+      </div>
+      <div class="tense-item" data-tense="Pretérito Indefinido">
+        <span class="num">3</span>
+        <span class="name">Pretérito Indefinido</span>
+      </div>
+      <div class="tense-item" data-tense="Pretérito Imperfecto">
+        <span class="num">4</span>
+        <span class="name">Pretérito Imperfecto</span>
+      </div>
+      <div class="tense-item" data-tense="Imperativo">
+        <span class="num">5</span>
+        <span class="name">Imperativo</span>
+      </div>
+      <div class="tense-item" data-tense="Condicional">
+        <span class="num">6</span>
+        <span class="name">Condicional</span>
+      </div>
+      <div class="tense-item highlight" data-tense="Todos">
+        <span class="num">★</span>
+        <span class="name">Todos — Mix all tenses</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================================================
+       SCREEN 3 — Exercise
+       ============================================================ -->
+  <section id="screen-exercise" class="screen">
+
+    <!-- progress bar -->
+    <div class="progress-bar-track">
+      <div id="progress-fill" class="progress-bar-fill"></div>
+    </div>
+
+    <!-- Question card -->
+    <div class="question-card">
+      <div class="question-meta">
+        <span class="badge" id="q-badge"></span>
+      </div>
+      <p class="question-sentence" id="q-sentence"></p>
+    </div>
+
+    <!-- Answer options (populated by JS) -->
+    <div id="options" class="options"></div>
+
+    <!-- Feedback panel -->
+    <div id="feedback" class="feedback">
+      <div class="fb-head" id="fb-head"></div>
+      <div class="fb-text" id="fb-text"></div>
+    </div>
+
+    <!-- Next button (text set by i18n) -->
+    <button id="next-btn" class="next-btn">Next question →</button>
+
+    <!-- Restart link (text set by i18n) -->
+    <button id="restart-btn" class="restart-btn">← Back to start</button>
+  </section>
+
+</div><!-- #app -->
+
+<script src="app.js"></script>
+</body>
+</html>
