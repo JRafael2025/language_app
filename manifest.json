@@ -1,7 +1,7 @@
 {
   "name": "Language App",
   "short_name": "Language App",
-  "description": "Offline-first grammar learning app – fill the blank, tap the answer.",
+  "description": "Offline-first grammar learning app - fill the blank, tap the answer.",
   "start_url": "/language_app/index.html",
   "scope": "/language_app/",
   "display": "standalone",
@@ -10,15 +10,15 @@
   "orientation": "portrait-primary",
   "icons": [
     {
-      "src": "/language_app/icon-192.png",
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='0.9em' font-size='90'>🌐</text></svg>",
       "sizes": "192x192",
-      "type": "image/png",
+      "type": "image/svg+xml",
       "purpose": "any maskable"
     },
     {
-      "src": "/language_app/icon-512.png",
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='0.9em' font-size='90'>🌐</text></svg>",
       "sizes": "512x512",
-      "type": "image/png",
+      "type": "image/svg+xml",
       "purpose": "any maskable"
     }
   ]
