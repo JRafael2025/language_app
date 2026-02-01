@@ -131,7 +131,7 @@ function applyI18n() {
 async function init() {
   // 1. Load questions
   try {
-    const res = await fetch("questions.json");
+    const res = await fetch("./questions.json");
     allQuestions = await res.json();
   } catch (e) {
     console.error("[Language App] Failed to load questions.json", e);
