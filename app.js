@@ -1,5 +1,5 @@
 /* ============================================================
-   LinguaFlip — app.js  (v4)
+   Language App – app.js  (v4)
    Changes from v1:
      • i18n: all user-facing strings switch on selectedLang
      • Feedback shows the explanation for the TAPPED option, not just correct
@@ -7,7 +7,7 @@
    ============================================================ */
 
 // ============================================================
-// i18n dictionary — every user-facing string lives here
+// i18n dictionary – every user-facing string lives here
 // ============================================================
 const i18n = {
   es: {
@@ -20,10 +20,10 @@ const i18n = {
     correct:       "✓ ¡Correcto!",
     wrong:         "✗ No del todo",
     next:          "Siguiente →",
-    badgeAll:      "Español — Todos los tiempos",
-    badgeTense:    (t) => `Español — ${t}`,
+    badgeAll:      "Español – Todos los tiempos",
+    badgeTense:    (t) => `Español – ${t}`,
     badgeEn:       "Inglés (EE.UU.)",   // fallback, shouldn't show
-    installTitle:  "Añade LinguaFlip a tu pantalla de inicio\npara una experiencia offline.",
+    installTitle:  "Añade Language App a tu pantalla de inicio\npara una experiencia offline.",
     installBtn:    "⬇ Instalar app"
   },
   en: {
@@ -36,10 +36,10 @@ const i18n = {
     correct:       "✓ Correct!",
     wrong:         "✗ Not quite",
     next:          "Next question →",
-    badgeAll:      "Spanish — All Tenses",
-    badgeTense:    (t) => `Spanish — ${t}`,
+    badgeAll:      "Spanish – All Tenses",
+    badgeTense:    (t) => `Spanish – ${t}`,
     badgeEn:       "US English",
-    installTitle:  "Add LinguaFlip to your home screen\nfor an offline experience.",
+    installTitle:  "Add Language App to your home screen\nfor an offline experience.",
     installBtn:    "⬇ Install App"
   }
 };
@@ -85,7 +85,7 @@ const els = {
 // ============================================================
 let allQuestions   = [];   // full dataset
 let pool           = [];   // filtered & shuffled for this session
-let poolIndex      = 0;    // linear cursor — never skip, never repeat in session
+let poolIndex      = 0;    // linear cursor – never skip, never repeat in session
 let selectedLang   = null; // "es" | "en"
 let selectedTense  = null; // tense string | "Todos" | null
 let deferredPrompt = null; // PWA install prompt
@@ -134,7 +134,7 @@ async function init() {
     const res = await fetch("questions.json");
     allQuestions = await res.json();
   } catch (e) {
-    console.error("[LinguaFlip] Failed to load questions.json", e);
+    console.error("[Language App] Failed to load questions.json", e);
   }
 
   // 2. Language cards
@@ -165,11 +165,11 @@ async function init() {
     });
   });
 
-  // 5. Next button — advance cursor; reshuffle only when pool is exhausted
+  // 5. Next button – advance cursor; reshuffle only when pool is exhausted
   els.nextBtn.addEventListener("click", () => {
     poolIndex++;
     if (poolIndex >= pool.length) {
-      // Session complete — reshuffle for a fresh round
+      // Session complete – reshuffle for a fresh round
       shuffle(pool);
       poolIndex = 0;
     }
@@ -206,7 +206,7 @@ async function init() {
 }
 
 // ============================================================
-// BUILD POOL — filter, shuffle, reset cursor
+// BUILD POOL – filter, shuffle, reset cursor
 // ============================================================
 function buildPool() {
   let filtered = allQuestions.filter(q => q.language === selectedLang);
@@ -215,7 +215,7 @@ function buildPool() {
     filtered = filtered.filter(q => q.tense === selectedTense);
   }
 
-  // Fresh shuffle — every question in the filtered set appears exactly once
+  // Fresh shuffle – every question in the filtered set appears exactly once
   // before any question can repeat (linear walk)
   pool      = shuffle([...filtered]);
   poolIndex = 0;
@@ -240,7 +240,7 @@ function renderQuestion() {
       : d.badgeTense(q.tense);
   }
 
-  // Sentence — replace _______ with styled blank
+  // Sentence – replace _______ with styled blank
   els.sentence.innerHTML = q.sentence.replace(
     "_______",
     '<span class="blank"></span>'
@@ -286,7 +286,7 @@ function handleAnswer(chosen, q) {
     btns[q.correct].classList.add("correct");
   }
 
-  // Feedback — always show the explanation for the CHOSEN option
+  // Feedback – always show the explanation for the CHOSEN option
   els.fbHead.textContent = isCorrect ? d.correct : d.wrong;
   els.fbText.textContent = q.explanations[chosen];
   els.feedback.className = "feedback " + (isCorrect ? "correct-fb" : "wrong-fb") + " show";

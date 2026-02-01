@@ -1,12 +1,12 @@
-// Service Worker — LinguaFlip
-// GitHub Pages serves the site inside a subfolder, e.g. /linguaflip/
+// Service Worker – Language App
+// GitHub Pages serves the site inside a subfolder, e.g. /language_app/
 // BASE_PATH must match the repo name in your GitHub Pages URL.
-// If your repo is called "linguaflip", set BASE_PATH = "/linguaflip".
+// If your repo is called "language_app", set BASE_PATH = "/language_app".
 // If you rename the repo, update this value.
 // For local dev (python -m http.server) set BASE_PATH = "".
 
-const BASE_PATH  = "/linguaflip";
-const CACHE_NAME = "linguaflip-v2";
+const BASE_PATH  = "/language_app";
+const CACHE_NAME = "language_app-v2";
 
 // All paths are relative to BASE_PATH
 const STATIC_ASSETS = [

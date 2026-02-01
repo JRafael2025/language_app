@@ -1,5 +1,5 @@
 /* ============================================================
-   LinguaFlip — Mobile-first PWA Styles
+   Language App – Mobile-first PWA Styles
    Dark editorial theme: deep navy base, electric teal accent,
    warm coral for feedback. Playful yet focused.
    ============================================================ */
@@ -55,7 +55,7 @@ html, body {
 }
 
 /* ============================================================
-   SCREENS — each screen is a self-contained card
+   SCREENS – each screen is a self-contained card
    ============================================================ */
 .screen {
   display: none;
