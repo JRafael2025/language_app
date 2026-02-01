@@ -3,7 +3,11 @@
     "language": "en",
     "tense": "Present Simple",
     "sentence": "She usually _______ to work by bus.",
-    "options": ["go", "goes", "is going"],
+    "options": [
+      "go",
+      "goes",
+      "is going"
+    ],
     "correct": 1,
     "explanations": [
       "Incorrect. 'Go' is the base form and cannot be used with third-person singular subjects.",
@@ -15,7 +19,11 @@
     "language": "en",
     "tense": "Present Simple",
     "sentence": "They _______ coffee every morning.",
-    "options": ["drink", "drinks", "are drinking"],
+    "options": [
+      "drink",
+      "drinks",
+      "are drinking"
+    ],
     "correct": 0,
     "explanations": [
       "Correct. 'Drink' is the correct present simple form for plural subjects.",
@@ -27,7 +35,11 @@
     "language": "en",
     "tense": "Present Continuous",
     "sentence": "I _______ for my keys right now.",
-    "options": ["look", "am looking", "looked"],
+    "options": [
+      "look",
+      "am looking",
+      "looked"
+    ],
     "correct": 1,
     "explanations": [
       "Incorrect. Present simple does not express actions happening now.",
@@ -39,7 +51,11 @@
     "language": "en",
     "tense": "Present Continuous",
     "sentence": "They _______ a new system this week.",
-    "options": ["install", "are installing", "installed"],
+    "options": [
+      "install",
+      "are installing",
+      "installed"
+    ],
     "correct": 1,
     "explanations": [
       "Incorrect. Present simple does not fit temporary actions.",
@@ -51,7 +67,11 @@
     "language": "en",
     "tense": "Past Simple",
     "sentence": "We _______ the meeting yesterday.",
-    "options": ["finish", "finished", "have finished"],
+    "options": [
+      "finish",
+      "finished",
+      "have finished"
+    ],
     "correct": 1,
     "explanations": [
       "Incorrect. Present simple cannot be used with a finished time reference.",
@@ -63,7 +83,11 @@
     "language": "en",
     "tense": "Past Simple",
     "sentence": "She _______ late last night.",
-    "options": ["arrives", "arrived", "has arrived"],
+    "options": [
+      "arrives",
+      "arrived",
+      "has arrived"
+    ],
     "correct": 1,
     "explanations": [
       "Incorrect. Present simple is not used for past events.",
@@ -75,7 +99,11 @@
     "language": "en",
     "tense": "Present Perfect",
     "sentence": "I _______ this book before.",
-    "options": ["read", "have read", "was reading"],
+    "options": [
+      "read",
+      "have read",
+      "was reading"
+    ],
     "correct": 1,
     "explanations": [
       "Incorrect. Past simple does not emphasize experience.",
@@ -87,7 +115,11 @@
     "language": "en",
     "tense": "Present Perfect",
     "sentence": "They _______ already finished the project.",
-    "options": ["have", "have already", "have already finished"],
+    "options": [
+      "have",
+      "have already",
+      "have already finished"
+    ],
     "correct": 2,
     "explanations": [
       "Incorrect. The sentence needs a main verb.",
@@ -99,7 +131,11 @@
     "language": "en",
     "tense": "Future (will)",
     "sentence": "I think it _______ rain tomorrow.",
-    "options": ["will", "is going to", "rains"],
+    "options": [
+      "will",
+      "is going to",
+      "rains"
+    ],
     "correct": 0,
     "explanations": [
       "Correct. 'Will' is used for predictions based on opinion.",
@@ -111,7 +147,11 @@
     "language": "en",
     "tense": "Future (going to)",
     "sentence": "Look at those clouds! It _______ rain.",
-    "options": ["will", "is going to", "rains"],
+    "options": [
+      "will",
+      "is going to",
+      "rains"
+    ],
     "correct": 1,
     "explanations": [
       "Incorrect. 'Will' is less common when there is clear evidence.",
@@ -123,7 +163,11 @@
     "language": "en",
     "tense": "Conditional",
     "sentence": "If I had more time, I _______ travel more.",
-    "options": ["will", "would", "can"],
+    "options": [
+      "will",
+      "would",
+      "can"
+    ],
     "correct": 1,
     "explanations": [
       "Incorrect. 'Will' is not used in second conditional main clauses.",
@@ -132,771 +176,5939 @@
     ]
   },
   {
+    "language": "en",
+    "tense": "Present Simple",
+    "sentence": "Water _______ at 100 °C.",
+    "options": [
+      "boil",
+      "boils",
+      "is boiling"
+    ],
+    "correct": 1,
+    "explanations": [
+      "Incorrect – wrong form.",
+      "Correct – general fact.",
+      "Incorrect – continuous not used for permanent truths."
+    ]
+  },
+  {
+    "language": "en",
+    "tense": "Present Simple",
+    "sentence": "He never _______ breakfast before leaving home.",
+    "options": [
+      "eat",
+      "eats",
+      "is eating"
+    ],
+    "correct": 1,
+    "explanations": [
+      "Incorrect form.",
+      "Correct – third person singular.",
+      "Incorrect tense for habit."
+    ]
+  },
+  {
+    "language": "en",
+    "tense": "Present Simple",
+    "sentence": "The sun _______ in the east.",
+    "options": [
+      "rise",
+      "rises",
+      "is rising"
+    ],
+    "correct": 1,
+    "explanations": [
+      "Incorrect.",
+      "Correct – general truth.",
+      "Incorrect – not a temporary action."
+    ]
+  },
+  {
+    "language": "en",
+    "tense": "Present Continuous",
+    "sentence": "Listen! Someone _______ at the door.",
+    "options": [
+      "knock",
+      "is knocking",
+      "knocked"
+    ],
+    "correct": 1,
+    "explanations": [
+      "Incorrect.",
+      "Correct – action happening now.",
+      "Past tense."
+    ]
+  },
+  {
+    "language": "en",
+    "tense": "Present Continuous",
+    "sentence": "We _______ to Paris next week.",
+    "options": [
+      "fly",
+      "are flying",
+      "flew"
+    ],
+    "correct": 1,
+    "explanations": [
+      "Incorrect for future arrangement.",
+      "Correct – planned future action.",
+      "Past tense."
+    ]
+  },
+  {
+    "language": "en",
+    "tense": "Present Continuous",
+    "sentence": "Why _______ you wearing a coat? It's summer!",
+    "options": [
+      "are",
+      "do",
+      "did"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correct – present continuous question.",
+      "Present simple – wrong here.",
+      "Past tense."
+    ]
+  },
+  {
+    "language": "en",
+    "tense": "Past Simple",
+    "sentence": "They _______ a fantastic concert last night.",
+    "options": [
+      "see",
+      "saw",
+      "have seen"
+    ],
+    "correct": 1,
+    "explanations": [
+      "Present.",
+      "Correct – completed action.",
+      "Present perfect – wrong with last night."
+    ]
+  },
+  {
+    "language": "en",
+    "tense": "Past Simple",
+    "sentence": "When I was young, I _______ to school by bike.",
+    "options": [
+      "go",
+      "went",
+      "have gone"
+    ],
+    "correct": 1,
+    "explanations": [
+      "Present.",
+      "Correct – past habit (but single completed action context).",
+      "Present perfect."
+    ]
+  },
+  {
+    "language": "en",
+    "tense": "Past Simple",
+    "sentence": "She _______ me an email yesterday morning.",
+    "options": [
+      "send",
+      "sent",
+      "has sent"
+    ],
+    "correct": 1,
+    "explanations": [
+      "Present.",
+      "Correct.",
+      "Present perfect – wrong with yesterday."
+    ]
+  },
+  {
+    "language": "en",
+    "tense": "Present Perfect",
+    "sentence": "I _______ to Japan twice.",
+    "options": [
+      "was",
+      "have been",
+      "went"
+    ],
+    "correct": 1,
+    "explanations": [
+      "Past simple – no connection to now.",
+      "Correct – experience up to now.",
+      "Past simple."
+    ]
+  },
+  {
+    "language": "en",
+    "tense": "Present Perfect",
+    "sentence": "We _______ this film yet.",
+    "options": [
+      "haven't seen",
+      "didn't see",
+      "don't see"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correct – present perfect + yet.",
+      "Past simple – wrong time frame.",
+      "Present simple."
+    ]
+  },
+  {
+    "language": "en",
+    "tense": "Present Perfect",
+    "sentence": "How many countries _______ you _______ so far?",
+    "options": [
+      "have / visit",
+      "did / visit",
+      "do / visit"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correct – present perfect question.",
+      "Past simple.",
+      "Present simple."
+    ]
+  },
+  {
+    "language": "en",
+    "tense": "Present Perfect",
+    "sentence": "She _______ just _______ her driving test!",
+    "options": [
+      "has / pass",
+      "has / passed",
+      "passed"
+    ],
+    "correct": 1,
+    "explanations": [
+      "Wrong participle.",
+      "Correct – just + present perfect.",
+      "Past simple."
+    ]
+  },
+  {
+    "language": "en",
+    "tense": "Future (will)",
+    "sentence": "Don't worry, I _______ you with your homework.",
+    "options": [
+      "help",
+      "will help",
+      "am helping"
+    ],
+    "correct": 1,
+    "explanations": [
+      "Base form – wrong.",
+      "Correct – spontaneous decision.",
+      "Present continuous – wrong context."
+    ]
+  },
+  {
+    "language": "en",
+    "tense": "Future (going to)",
+    "sentence": "Look at that boy on the bike! He _______ fall!",
+    "options": [
+      "will",
+      "is going to",
+      "falls"
+    ],
+    "correct": 1,
+    "explanations": [
+      "Opinion – less natural here.",
+      "Correct – prediction with present evidence.",
+      "Present simple."
+    ]
+  },
+  {
+    "language": "en",
+    "tense": "Second Conditional",
+    "sentence": "If I _______ rich, I would buy a yacht.",
+    "options": [
+      "am",
+      "were",
+      "was"
+    ],
+    "correct": 1,
+    "explanations": [
+      "First conditional.",
+      "Correct – unreal / hypothetical (subjunctive were).",
+      "Common informal variant but less correct in formal writing."
+    ]
+  },
+  {
+    "language": "en",
+    "tense": "Second Conditional",
+    "sentence": "If she _______ harder, she would pass the exam.",
+    "options": [
+      "study",
+      "studied",
+      "studies"
+    ],
+    "correct": 1,
+    "explanations": [
+      "Present simple – wrong.",
+      "Correct – past form for unreal present/future.",
+      "Present simple – first conditional."
+    ]
+  },
+  {
+    "language": "en",
+    "tense": "Present Simple",
+    "sentence": "My brother _______ in London now.",
+    "options": [
+      "live",
+      "lives",
+      "is living"
+    ],
+    "correct": 1,
+    "explanations": [
+      "Incorrect.",
+      "Correct – permanent situation.",
+      "Possible but emphasizes temporary."
+    ]
+  },
+  {
+    "language": "en",
+    "tense": "Present Continuous",
+    "sentence": "What _______ you _______ these days?",
+    "options": [
+      "do / do",
+      "are / doing",
+      "did / do"
+    ],
+    "correct": 1,
+    "explanations": [
+      "Present simple.",
+      "Correct – present continuous for current period.",
+      "Past."
+    ]
+  },
+  {
+    "language": "en",
+    "tense": "Past Simple",
+    "sentence": "Columbus _______ America in 1492.",
+    "options": [
+      "discover",
+      "discovered",
+      "has discovered"
+    ],
+    "correct": 1,
+    "explanations": [
+      "Present.",
+      "Correct – historical fact.",
+      "Present perfect."
+    ]
+  },
+  {
+    "language": "en",
+    "tense": "Present Perfect",
+    "sentence": "_______ you ever _______ sushi?",
+    "options": [
+      "Did / try",
+      "Have / tried",
+      "Do / try"
+    ],
+    "correct": 1,
+    "explanations": [
+      "Past simple.",
+      "Correct – life experience question.",
+      "Present simple."
+    ]
+  },
+  {
+    "language": "en",
+    "tense": "Future (will)",
+    "sentence": "It's very cold in here. I _______ the window.",
+    "options": [
+      "close",
+      "will close",
+      "am closing"
+    ],
+    "correct": 1,
+    "explanations": [
+      "Base form.",
+      "Correct – instant decision.",
+      "Present continuous."
+    ]
+  },
+  {
+    "language": "en",
+    "tense": "First Conditional",
+    "sentence": "If it _______ tomorrow, we will stay home.",
+    "options": [
+      "rain",
+      "rains",
+      "will rain"
+    ],
+    "correct": 1,
+    "explanations": [
+      "Base form – wrong.",
+      "Correct – first conditional if-clause.",
+      "Future – wrong in if-clause."
+    ]
+  },
+  {
+    "language": "en",
+    "tense": "Present Simple",
+    "sentence": "She _______ English and French fluently.",
+    "options": [
+      "speak",
+      "speaks",
+      "is speaking"
+    ],
+    "correct": 1,
+    "explanations": [
+      "Incorrect.",
+      "Correct – ability / fact.",
+      "Continuous – wrong."
+    ]
+  },
+  {
+    "language": "en",
+    "tense": "Past Simple",
+    "sentence": "We _______ very tired after the long flight.",
+    "options": [
+      "are",
+      "were",
+      "have been"
+    ],
+    "correct": 1,
+    "explanations": [
+      "Present.",
+      "Correct – past state.",
+      "Present perfect."
+    ]
+  },
+  {
+    "language": "en",
+    "tense": "Present Perfect",
+    "sentence": "They _______ in this city since 2015.",
+    "options": [
+      "live",
+      "lived",
+      "have lived"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Present simple.",
+      "Past simple.",
+      "Correct – duration from past to now."
+    ]
+  },
+  {
+    "language": "en",
+    "tense": "Present Continuous",
+    "sentence": "The kids _______ in the garden right now.",
+    "options": [
+      "play",
+      "are playing",
+      "played"
+    ],
+    "correct": 1,
+    "explanations": [
+      "Present simple.",
+      "Correct – now.",
+      "Past."
+    ]
+  },
+  {
+    "language": "en",
+    "tense": "Past Simple",
+    "sentence": "He _______ his phone on the bus yesterday.",
+    "options": [
+      "lose",
+      "lost",
+      "has lost"
+    ],
+    "correct": 1,
+    "explanations": [
+      "Present.",
+      "Correct.",
+      "Present perfect."
+    ]
+  },
+  {
+    "language": "en",
+    "tense": "Future (going to)",
+    "sentence": "She _______ a baby in June.",
+    "options": [
+      "has",
+      "is going to have",
+      "will have"
+    ],
+    "correct": 1,
+    "explanations": [
+      "Present.",
+      "Correct – future plan / intention.",
+      "Will – also possible but going to more common for personal plans."
+    ]
+  },
+  {
+    "language": "en",
+    "tense": "Second Conditional",
+    "sentence": "If we _______ more money, we could buy a bigger house.",
+    "options": [
+      "have",
+      "had",
+      "will have"
+    ],
+    "correct": 1,
+    "explanations": [
+      "Present – first conditional.",
+      "Correct – unreal present.",
+      "Future."
+    ]
+  },
+  {
+    "language": "en",
+    "tense": "Present Simple",
+    "sentence": "The bus _______ every 15 minutes.",
+    "options": [
+      "come",
+      "comes",
+      "is coming"
+    ],
+    "correct": 1,
+    "explanations": [
+      "Incorrect.",
+      "Correct – timetable / habit.",
+      "Continuous."
+    ]
+  },
+  {
+    "language": "en",
+    "tense": "Present Perfect",
+    "sentence": "I _______ my homework yet.",
+    "options": [
+      "haven't finished",
+      "didn't finish",
+      "don't finish"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correct – yet + present perfect.",
+      "Past simple.",
+      "Present simple."
+    ]
+  },
+  {
+    "language": "en",
+    "tense": "Past Simple",
+    "sentence": "Leonardo da Vinci _______ the Mona Lisa.",
+    "options": [
+      "paint",
+      "painted",
+      "has painted"
+    ],
+    "correct": 1,
+    "explanations": [
+      "Present.",
+      "Correct – historical fact.",
+      "Present perfect."
+    ]
+  },
+  {
+    "language": "en",
+    "tense": "Future (will)",
+    "sentence": "I promise I _______ you tomorrow.",
+    "options": [
+      "call",
+      "will call",
+      "am calling"
+    ],
+    "correct": 1,
+    "explanations": [
+      "Base form.",
+      "Correct – promise.",
+      "Present continuous."
+    ]
+  },
+  {
+    "language": "en",
+    "tense": "Present Continuous",
+    "sentence": "He _______ TV at the moment.",
+    "options": [
+      "watch",
+      "is watching",
+      "watched"
+    ],
+    "correct": 1,
+    "explanations": [
+      "Present simple.",
+      "Correct – now.",
+      "Past."
+    ]
+  },
+  {
+    "language": "en",
+    "tense": "Second Conditional",
+    "sentence": "If I _______ you, I would apologize.",
+    "options": [
+      "am",
+      "were",
+      "was"
+    ],
+    "correct": 1,
+    "explanations": [
+      "First conditional.",
+      "Correct – hypothetical advice.",
+      "Informal variant."
+    ]
+  },
+  {
+    "language": "en",
+    "tense": "Present Simple",
+    "sentence": "Birds _______ south in winter.",
+    "options": [
+      "fly",
+      "flies",
+      "are flying"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correct – general truth.",
+      "Third person singular – wrong subject.",
+      "Continuous – wrong."
+    ]
+  },
+  {
+    "language": "en",
+    "tense": "Past Simple",
+    "sentence": "We _______ to the cinema last weekend.",
+    "options": [
+      "go",
+      "went",
+      "have gone"
+    ],
+    "correct": 1,
+    "explanations": [
+      "Present.",
+      "Correct.",
+      "Present perfect."
+    ]
+  },
+  {
     "language": "es",
     "tense": "Presente del Indicativo",
     "sentence": "Yo _______ en una empresa de tecnología.",
-    "options": ["trabajo", "trabajé", "trabajar"],
+    "options": [
+      "trabajo",
+      "trabajé",
+      "trabajaba"
+    ],
     "correct": 0,
     "explanations": [
-      "Correcto. 'Trabajo' es la primera persona del singular del presente del indicativo.",
-      "Incorrecto. 'Trabajé' es pretérito indefinido.",
-      "Incorrecto. 'Trabajar' es el infinitivo."
+      "Correcto. Forma presente de 'trabajar'.",
+      "Pretérito indefinido.",
+      "Pretérito imperfecto."
     ]
   },
   {
     "language": "es",
     "tense": "Presente del Indicativo",
-    "sentence": "Ella _______ todos los días a las ocho.",
-    "options": ["despierta", "despertó", "despertar"],
+    "sentence": "Nosotros _______ al gimnasio tres veces por semana.",
+    "options": [
+      "vamos",
+      "fuimos",
+      "íbamos"
+    ],
     "correct": 0,
     "explanations": [
-      "Correcto. El presente se usa para rutinas diarias.",
-      "Incorrecto. 'Despertó' indica una acción pasada.",
-      "Incorrecto. El infinitivo no es una forma conjugada."
+      "Correcto. Presente de 'ir'.",
+      "Pretérito indefinido.",
+      "Pretérito imperfecto."
     ]
   },
   {
     "language": "es",
     "tense": "Presente del Indicativo",
-    "sentence": "Nosotros _______ español en la universidad.",
-    "options": ["estudiamos", "estudiábamos", "estudiaremos"],
+    "sentence": "Ella _______ muy bien la guitarra.",
+    "options": [
+      "toca",
+      "tocó",
+      "tocaba"
+    ],
     "correct": 0,
     "explanations": [
-      "Correcto. Presente del indicativo para hechos actuales.",
-      "Incorrecto. Imperfecto indica hábito en el pasado.",
-      "Incorrecto. Futuro no corresponde al contexto."
+      "Correcto. Habilidad actual.",
+      "Pasado puntual.",
+      "Hábito pasado."
     ]
   },
   {
     "language": "es",
     "tense": "Presente del Indicativo",
-    "sentence": "Mi hermano _______ muy bien inglés.",
-    "options": ["habla", "habló", "hablar"],
+    "sentence": "Tú _______ siempre muy temprano.",
+    "options": [
+      "despiertas",
+      "despertaste",
+      "despertabas"
+    ],
     "correct": 0,
     "explanations": [
-      "Correcto. 'Habla' es tercera persona del singular en presente.",
-      "Incorrecto. 'Habló' es pasado.",
-      "Incorrecto. El infinitivo no funciona como verbo principal."
+      "Correcto. Hábito con 'siempre'.",
+      "Pretérito indefinido.",
+      "Pretérito imperfecto."
     ]
   },
   {
     "language": "es",
     "tense": "Presente del Indicativo",
-    "sentence": "Ellos _______ café por la mañana.",
-    "options": ["beben", "bebieron", "beber"],
+    "sentence": "El tren _______ a las 7:15 todos los días.",
+    "options": [
+      "sale",
+      "salió",
+      "salía"
+    ],
     "correct": 0,
     "explanations": [
-      "Correcto. Presente usado para hábitos.",
-      "Incorrecto. Pretérito indefinido indica pasado.",
-      "Incorrecto. Forma infinitiva."
+      "Correcto. Horario fijo.",
+      "Acción pasada.",
+      "Descripción pasada."
     ]
   },
   {
     "language": "es",
     "tense": "Presente del Indicativo",
-    "sentence": "Siempre _______ el correo antes de salir.",
-    "options": ["reviso", "revisé", "revisar"],
+    "sentence": "Mis padres _______ cerca del mar.",
+    "options": [
+      "viven",
+      "vivieron",
+      "vivían"
+    ],
     "correct": 0,
     "explanations": [
-      "Correcto. El adverbio 'siempre' indica hábito.",
-      "Incorrecto. Pasado terminado.",
-      "Incorrecto. Infinitivo."
+      "Correcto. Situación actual.",
+      "Acción terminada.",
+      "Situación pasada prolongada."
     ]
   },
   {
     "language": "es",
     "tense": "Presente del Indicativo",
-    "sentence": "El tren _______ a las siete en punto.",
-    "options": ["sale", "salió", "saldrá"],
+    "sentence": "Nosotros no _______ carne.",
+    "options": [
+      "comemos",
+      "comimos",
+      "comíamos"
+    ],
     "correct": 0,
     "explanations": [
-      "Correcto. El presente se usa para horarios fijos.",
-      "Incorrecto. Pasado.",
-      "Incorrecto. Futuro no es necesario aquí."
+      "Correcto. Preferencia / hábito actual.",
+      "Pasado puntual.",
+      "Hábito pasado."
     ]
   },
   {
     "language": "es",
     "tense": "Presente del Indicativo",
-    "sentence": "¿Tú _______ música mientras trabajas?",
-    "options": ["escuchas", "escuchaste", "escuchar"],
+    "sentence": "Él _______ tres idiomas con fluidez.",
+    "options": [
+      "habla",
+      "habló",
+      "hablaba"
+    ],
     "correct": 0,
     "explanations": [
-      "Correcto. Pregunta en presente del indicativo.",
-      "Incorrecto. Tiempo pasado.",
-      "Incorrecto. Infinitivo."
+      "Correcto. Capacidad actual.",
+      "Acción pasada.",
+      "Hábito pasado."
     ]
   },
   {
     "language": "es",
     "tense": "Presente del Indicativo",
-    "sentence": "Mis padres _______ cerca del centro.",
-    "options": ["viven", "vivieron", "vivir"],
+    "sentence": "¿Tú _______ café o té por la mañana?",
+    "options": [
+      "prefieres",
+      "preferiste",
+      "preferías"
+    ],
     "correct": 0,
     "explanations": [
-      "Correcto. Hecho actual.",
-      "Incorrecto. Pasado terminado.",
-      "Incorrecto. Forma no conjugada."
+      "Correcto. Pregunta sobre preferencia actual.",
+      "Pasado.",
+      "Preferencia pasada."
     ]
   },
   {
     "language": "es",
     "tense": "Presente del Indicativo",
-    "sentence": "Yo no _______ carne.",
-    "options": ["como", "comí", "comer"],
+    "sentence": "Los niños _______ mucho en el parque.",
+    "options": [
+      "juegan",
+      "jugaron",
+      "jugaban"
+    ],
     "correct": 0,
     "explanations": [
-      "Correcto. Negación en presente.",
-      "Incorrecto. Pasado.",
-      "Incorrecto. Infinitivo."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Presente del Indicativo",
-    "sentence": "Ella _______ muy cansada hoy.",
-    "options": ["está", "estuvo", "estar"],
-    "correct": 0,
-    "explanations": [
-      "Correcto. 'Estar' se usa para estados temporales.",
-      "Incorrecto. Pasado.",
-      "Incorrecto. Infinitivo."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Presente del Indicativo",
-    "sentence": "Siempre _______ temprano al trabajo.",
-    "options": ["llego", "llegué", "llegar"],
-    "correct": 0,
-    "explanations": [
-      "Correcto. Hábito actual.",
-      "Incorrecto. Pasado.",
-      "Incorrecto. Infinitivo."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Presente del Indicativo",
-    "sentence": "Nosotros _______ mucho en este proyecto.",
-    "options": ["aprendemos", "aprendimos", "aprender"],
-    "correct": 0,
-    "explanations": [
-      "Correcto. Acción actual.",
-      "Incorrecto. Pasado terminado.",
-      "Incorrecto. Infinitivo."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Presente del Indicativo",
-    "sentence": "¿Dónde _______ tus amigos?",
-    "options": ["viven", "vivieron", "vivir"],
-    "correct": 0,
-    "explanations": [
-      "Correcto. Pregunta en presente.",
-      "Incorrecto. Pasado.",
-      "Incorrecto. Infinitivo."
-    ]
-  },
-{
-    "language": "es",
-    "tense": "Presente del Indicativo",
-    "sentence": "El profesor siempre _______ la lección con ejemplos.",
-    "options": ["explica", "explicó", "explicar"],
-    "correct": 0,
-    "explanations": [
-      "Correcto. El presente del indicativo se usa para hábitos.",
-      "Incorrecto. 'Explicó' es pasado.",
-      "Incorrecto. El infinitivo no es una forma conjugada."
+      "Correcto. Acción habitual.",
+      "Acción terminada.",
+      "Acción habitual pasada."
     ]
   },
   {
     "language": "es",
     "tense": "Presente del Indicativo",
     "sentence": "Yo _______ correos electrónicos todos los días.",
-    "options": ["envío", "envié", "enviar"],
+    "options": [
+      "envío",
+      "envié",
+      "enviaba"
+    ],
     "correct": 0,
     "explanations": [
-      "Correcto. Acción habitual en el presente.",
-      "Incorrecto. Pasado.",
-      "Incorrecto. Infinitivo."
+      "Correcto. Rutina diaria.",
+      "Pasado puntual.",
+      "Rutina pasada."
     ]
   },
   {
     "language": "es",
     "tense": "Presente del Indicativo",
-    "sentence": "Ella _______ mucha atención en clase.",
-    "options": ["presta", "prestó", "prestar"],
+    "sentence": "Ella _______ atención en clase.",
+    "options": [
+      "presta",
+      "prestó",
+      "prestaba"
+    ],
     "correct": 0,
     "explanations": [
-      "Correcto. 'Presta atención' es una expresión fija.",
-      "Incorrecto. Tiempo pasado.",
-      "Incorrecto. Infinitivo."
+      "Correcto. Expresión habitual.",
+      "Acción pasada.",
+      "Hábito pasado."
     ]
   },
   {
     "language": "es",
     "tense": "Presente del Indicativo",
-    "sentence": "Nosotros _______ las noticias por la mañana.",
-    "options": ["leemos", "leímos", "leer"],
+    "sentence": "Nosotros _______ las noticias todas las mañanas.",
+    "options": [
+      "leemos",
+      "leímos",
+      "leíamos"
+    ],
     "correct": 0,
     "explanations": [
-      "Correcto. Presente para rutinas.",
-      "Incorrecto. Pasado terminado.",
-      "Incorrecto. Infinitivo."
+      "Correcto. Rutina actual.",
+      "Pasado puntual.",
+      "Rutina pasada."
     ]
   },
   {
     "language": "es",
     "tense": "Presente del Indicativo",
-    "sentence": "Mis compañeros _______ muchas preguntas.",
-    "options": ["hacen", "hicieron", "hacer"],
+    "sentence": "Mis amigos _______ muchas preguntas.",
+    "options": [
+      "hacen",
+      "hicieron",
+      "hacían"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto. Acción habitual.",
+      "Pasado.",
+      "Acción repetida pasada."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente del Indicativo",
+    "sentence": "El profesor _______ muy claro.",
+    "options": [
+      "explica",
+      "explicó",
+      "explicaba"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto. Característica habitual.",
+      "Acción pasada puntual.",
+      "Explicación pasada prolongada."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente del Indicativo",
+    "sentence": "Yo _______ música clásica cuando estudio.",
+    "options": [
+      "escucho",
+      "escuché",
+      "escuchaba"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto. Hábito condicionado.",
+      "Acción pasada.",
+      "Hábito pasado."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente del Indicativo",
+    "sentence": "Ellos _______ el problema muy rápido.",
+    "options": [
+      "resuelven",
+      "resolvieron",
+      "resolvían"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto. Capacidad actual.",
+      "Acción terminada.",
+      "Proceso pasado."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente del Indicativo",
+    "sentence": "¿Tú _______ tiempo libre los fines de semana?",
+    "options": [
+      "tienes",
+      "tuviste",
+      "tenías"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto. Pregunta sobre situación actual.",
+      "Pasado puntual.",
+      "Situación pasada."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente del Indicativo",
+    "sentence": "La tienda _______ a las 9 de la mañana.",
+    "options": [
+      "abre",
+      "abrió",
+      "abría"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto. Horario comercial.",
+      "Acción pasada.",
+      "Horario pasado."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente del Indicativo",
+    "sentence": "Mi hermano _______ videojuegos todas las tardes.",
+    "options": [
+      "juega",
+      "jugó",
+      "jugaba"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto. Rutina actual.",
+      "Acción pasada.",
+      "Rutina pasada."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente del Indicativo",
+    "sentence": "Nosotros _______ español en la universidad.",
+    "options": [
+      "estudiamos",
+      "estudió",
+      "estudiábamos"
+    ],
     "correct": 0,
     "explanations": [
       "Correcto. Acción actual.",
-      "Incorrecto. Pasado.",
-      "Incorrecto. Infinitivo."
+      "Tercera persona del pretérito (no concuerda con \"nosotros\").",
+      "Acción pasada prolongada."
     ]
   },
   {
     "language": "es",
     "tense": "Presente del Indicativo",
-    "sentence": "El jefe _______ decisiones importantes.",
-    "options": ["toma", "tomó", "tomar"],
+    "sentence": "El agua _______ a 100 grados.",
+    "options": [
+      "hierve",
+      "hirvió",
+      "hervía"
+    ],
     "correct": 0,
     "explanations": [
-      "Correcto. Hecho habitual.",
-      "Incorrecto. Pasado.",
-      "Incorrecto. Infinitivo."
+      "Correcto. Verdad científica.",
+      "Acción pasada puntual.",
+      "Descripción pasada."
     ]
   },
   {
     "language": "es",
     "tense": "Presente del Indicativo",
-    "sentence": "Yo _______ mucho este tipo de música.",
-    "options": ["escucho", "escuché", "escuchar"],
+    "sentence": "Yo no _______ entender este ejercicio.",
+    "options": [
+      "puedo",
+      "pude",
+      "podía"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto. Incapacidad actual.",
+      "Pasado puntual.",
+      "Incapacidad pasada."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente del Indicativo",
+    "sentence": "Ellos _______ muy contentos con el resultado.",
+    "options": [
+      "están",
+      "estuvieron",
+      "estaban"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto. Estado actual (ser/estar).",
+      "Estado pasado puntual.",
+      "Estado pasado prolongado."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente del Indicativo",
+    "sentence": "La clase _______ a las ocho en punto.",
+    "options": [
+      "empieza",
+      "empezó",
+      "empezaba"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto. Horario fijo.",
+      "Inicio pasado.",
+      "Horario pasado."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente del Indicativo",
+    "sentence": "Tú _______ muy rápido cuando corres.",
+    "options": [
+      "corres",
+      "corriste",
+      "corrías"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto. Característica actual.",
+      "Acción pasada puntual.",
+      "Acción pasada habitual."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente del Indicativo",
+    "sentence": "Mi hermana _______ libros de fantasía.",
+    "options": [
+      "lee",
+      "leyó",
+      "leía"
+    ],
     "correct": 0,
     "explanations": [
       "Correcto. Preferencia actual.",
-      "Incorrecto. Pasado.",
-      "Incorrecto. Infinitivo."
+      "Acción pasada.",
+      "Hábito pasado."
     ]
   },
   {
     "language": "es",
     "tense": "Presente del Indicativo",
-    "sentence": "Ellos _______ el problema rápidamente.",
-    "options": ["resuelven", "resolvieron", "resolver"],
+    "sentence": "Nosotros _______ una película nueva cada viernes.",
+    "options": [
+      "vemos",
+      "vimos",
+      "veíamos"
+    ],
     "correct": 0,
     "explanations": [
-      "Correcto. Presente para hechos actuales.",
-      "Incorrecto. Pasado.",
-      "Incorrecto. Infinitivo."
+      "Correcto. Rutina semanal.",
+      "Pasado puntual.",
+      "Rutina pasada."
     ]
   },
   {
     "language": "es",
     "tense": "Presente del Indicativo",
-    "sentence": "¿Tú _______ tiempo para estudiar?",
-    "options": ["tienes", "tuviste", "tener"],
+    "sentence": "El perro _______ mucho cuando hay visitas.",
+    "options": [
+      "ladra",
+      "ladró",
+      "ladraba"
+    ],
     "correct": 0,
     "explanations": [
-      "Correcto. Verbo irregular en presente.",
-      "Incorrecto. Pasado.",
-      "Incorrecto. Infinitivo."
+      "Correcto. Reacción habitual.",
+      "Acción pasada puntual.",
+      "Reacción pasada."
     ]
   },
   {
     "language": "es",
     "tense": "Presente del Indicativo",
-    "sentence": "La empresa _______ soluciones digitales.",
-    "options": ["ofrece", "ofreció", "ofrecer"],
+    "sentence": "Yo _______ yoga todas las mañanas.",
+    "options": [
+      "practico",
+      "practiqué",
+      "practicaba"
+    ],
     "correct": 0,
     "explanations": [
-      "Correcto. Acción actual.",
-      "Incorrecto. Pasado.",
-      "Incorrecto. Infinitivo."
-    ]
-  },
-    {
-    "language": "es",
-    "tense": "Pretérito Indefinido",
-    "sentence": "Ayer _______ una reunión importante.",
-    "options": ["tengo", "tuve", "tenía"],
-    "correct": 1,
-    "explanations": [
-      "Incorrecto. Presente del indicativo.",
-      "Correcto. El pretérito indefinido se usa para acciones terminadas en el pasado.",
-      "Incorrecto. El imperfecto describe acciones habituales o en progreso en el pasado."
+      "Correcto. Rutina diaria.",
+      "Acción terminada.",
+      "Rutina pasada."
     ]
   },
   {
     "language": "es",
-    "tense": "Pretérito Indefinido",
-    "sentence": "La semana pasada _______ a mis abuelos.",
-    "options": ["visito", "visité", "visitaba"],
-    "correct": 1,
-    "explanations": [
-      "Incorrecto. Presente.",
-      "Correcto. Acción puntual y terminada en el pasado.",
-      "Incorrecto. Imperfecto indica repetición o descripción."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Pretérito Indefinido",
-    "sentence": "Ellos _______ el proyecto a tiempo.",
-    "options": ["terminan", "terminaron", "terminaban"],
-    "correct": 1,
-    "explanations": [
-      "Incorrecto. Presente.",
-      "Correcto. El indefinido indica una acción completada.",
-      "Incorrecto. Imperfecto no expresa finalización."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Pretérito Indefinido",
-    "sentence": "Yo _______ el correo esta mañana.",
-    "options": ["envío", "envié", "enviaba"],
-    "correct": 1,
-    "explanations": [
-      "Incorrecto. Presente.",
-      "Correcto. Acción concreta en un momento específico.",
-      "Incorrecto. Imperfecto indica duración o hábito."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Pretérito Indefinido",
-    "sentence": "El tren _______ con retraso.",
-    "options": ["sale", "salió", "salía"],
-    "correct": 1,
-    "explanations": [
-      "Incorrecto. Presente.",
-      "Correcto. Acción puntual en el pasado.",
-      "Incorrecto. Imperfecto describe contexto."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Pretérito Indefinido",
-    "sentence": "Nosotros _______ mucho en ese curso.",
-    "options": ["aprendemos", "aprendimos", "aprendíamos"],
-    "correct": 1,
-    "explanations": [
-      "Incorrecto. Presente.",
-      "Correcto. Resultado final de una experiencia pasada.",
-      "Incorrecto. Imperfecto indica proceso."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Pretérito Indefinido",
-    "sentence": "Ella _______ su primer trabajo en 2022.",
-    "options": ["consigue", "consiguió", "conseguía"],
-    "correct": 1,
-    "explanations": [
-      "Incorrecto. Presente.",
-      "Correcto. Hecho puntual con fecha definida.",
-      "Incorrecto. Imperfecto no indica finalización."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Pretérito Indefinido",
-    "sentence": "Anoche _______ muy cansados.",
-    "options": ["estamos", "estuvimos", "estábamos"],
-    "correct": 1,
-    "explanations": [
-      "Incorrecto. Presente.",
-      "Correcto. Estado puntual en el pasado.",
-      "Incorrecto. Imperfecto describe estados prolongados."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Pretérito Indefinido",
-    "sentence": "Yo _______ el informe antes del plazo.",
-    "options": ["entrego", "entregué", "entregaba"],
-    "correct": 1,
-    "explanations": [
-      "Incorrecto. Presente.",
-      "Correcto. Acción terminada.",
-      "Incorrecto. Imperfecto indica acción en progreso."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Pretérito Indefinido",
-    "sentence": "¿Dónde _______ ayer por la tarde?",
-    "options": ["estás", "estuviste", "estabas"],
-    "correct": 1,
-    "explanations": [
-      "Incorrecto. Presente.",
-      "Correcto. Pregunta sobre un momento específico del pasado.",
-      "Incorrecto. Imperfecto no se usa para eventos puntuales."
-    ]
-  },
-    {
-    "language": "es",
-    "tense": "Pretérito Indefinido",
-    "sentence": "La empresa _______ un nuevo producto el año pasado.",
-    "options": ["lanza", "lanzó", "lanzaba"],
-    "correct": 1,
-    "explanations": [
-      "Incorrecto. Presente del indicativo.",
-      "Correcto. Acción puntual y finalizada en el pasado.",
-      "Incorrecto. El imperfecto no indica finalización."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Pretérito Indefinido",
-    "sentence": "Nosotros _______ el contrato sin problemas.",
-    "options": ["firmamos", "firmábamos", "firmamos"],
+    "tense": "Presente del Indicativo",
+    "sentence": "Ella _______ dos idiomas desde pequeña.",
+    "options": [
+      "sabe",
+      "supo",
+      "sabía"
+    ],
     "correct": 0,
     "explanations": [
-      "Correcto. Pretérito indefinido para una acción completada.",
-      "Incorrecto. Imperfecto indica proceso o repetición.",
-      "Incorrecto. Aunque la forma es correcta, solo una opción debe ser válida."
+      "Correcto. Conocimiento actual.",
+      "Descubrimiento puntual.",
+      "Conocimiento pasado."
     ]
   },
   {
     "language": "es",
-    "tense": "Pretérito Indefinido",
-    "sentence": "Ella _______ la verdad finalmente.",
-    "options": ["dice", "dijo", "decía"],
-    "correct": 1,
-    "explanations": [
-      "Incorrecto. Presente.",
-      "Correcto. Acción puntual concluida.",
-      "Incorrecto. Imperfecto expresa hábito o descripción."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Pretérito Indefinido",
-    "sentence": "Yo _______ el problema rápidamente.",
-    "options": ["resuelvo", "resolví", "resolvía"],
-    "correct": 1,
-    "explanations": [
-      "Incorrecto. Presente.",
-      "Correcto. Acción concreta y terminada.",
-      "Incorrecto. Imperfecto indica duración."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Pretérito Indefinido",
-    "sentence": "Ellos _______ tarde a la reunión.",
-    "options": ["llegan", "llegaron", "llegaban"],
-    "correct": 1,
-    "explanations": [
-      "Incorrecto. Presente.",
-      "Correcto. Evento puntual.",
-      "Incorrecto. Imperfecto describe contexto."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Pretérito Indefinido",
-    "sentence": "¿Quién _______ ese correo?",
-    "options": ["envía", "envió", "enviaba"],
-    "correct": 1,
-    "explanations": [
-      "Incorrecto. Presente.",
-      "Correcto. Acción concreta en el pasado.",
-      "Incorrecto. Imperfecto no expresa puntualidad."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Pretérito Indefinido",
-    "sentence": "El jefe _______ la decisión ayer.",
-    "options": ["toma", "tomó", "tomaba"],
-    "correct": 1,
-    "explanations": [
-      "Incorrecto. Presente.",
-      "Correcto. Acción cerrada en el pasado.",
-      "Incorrecto. Imperfecto no indica final."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Pretérito Indefinido",
-    "sentence": "Nosotros _______ un taxi anoche.",
-    "options": ["tomamos", "tomábamos", "tomar"],
+    "tense": "Presente del Indicativo",
+    "sentence": "Los estudiantes _______ mucho en esta asignatura.",
+    "options": [
+      "aprenden",
+      "aprendieron",
+      "aprendían"
+    ],
     "correct": 0,
     "explanations": [
-      "Correcto. Acción puntual en el pasado.",
-      "Incorrecto. Imperfecto indica acción en desarrollo.",
-      "Incorrecto. Infinitivo."
+      "Correcto. Proceso actual.",
+      "Resultado pasado.",
+      "Proceso pasado."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente del Indicativo",
+    "sentence": "¿Dónde _______ tus abuelos ahora?",
+    "options": [
+      "viven",
+      "vivieron",
+      "vivían"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto. Pregunta sobre situación actual.",
+      "Pasado terminado.",
+      "Situación pasada."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente del Indicativo",
+    "sentence": "El sol _______ por el este.",
+    "options": [
+      "sale",
+      "salió",
+      "salía"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto. Verdad general.",
+      "Evento pasado puntual.",
+      "Descripción pasada."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente del Indicativo",
+    "sentence": "Nosotros _______ a la playa en verano.",
+    "options": [
+      "vamos",
+      "fuimos",
+      "íbamos"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto. Hábito estacional.",
+      "Viaje pasado puntual.",
+      "Hábito pasado."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente del Indicativo",
+    "sentence": "Tú _______ muy bien en matemáticas.",
+    "options": [
+      "destacas",
+      "destacaste",
+      "destacabas"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto. Característica actual.",
+      "Logro pasado puntual.",
+      "Característica pasada."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente del Indicativo",
+    "sentence": "Mi jefe _______ reuniones todos los lunes.",
+    "options": [
+      "tiene",
+      "tuvo",
+      "tenía"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto. Rutina semanal.",
+      "Reunión pasada puntual.",
+      "Rutina pasada."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente del Indicativo",
+    "sentence": "Ellos _______ en bicicleta al trabajo.",
+    "options": [
+      "van",
+      "fueron",
+      "iban"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto. Medio de transporte habitual.",
+      "Acción pasada.",
+      "Hábito pasado."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente del Indicativo",
+    "sentence": "Yo _______ el móvil todo el día.",
+    "options": [
+      "uso",
+      "usé",
+      "usaba"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto. Hábito actual (con matiz de exceso).",
+      "Uso puntual pasado.",
+      "Uso habitual pasado."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente del Indicativo",
+    "sentence": "La biblioteca _______ hasta las 20:00.",
+    "options": [
+      "cierra",
+      "cerró",
+      "cerraba"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto. Horario actual.",
+      "Cierre pasado puntual.",
+      "Horario pasado."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente del Indicativo",
+    "sentence": "Mis primos _______ mucho con los videojuegos.",
+    "options": [
+      "juegan",
+      "jugaron",
+      "jugaban"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto. Pasatiempo actual.",
+      "Jugada pasada puntual.",
+      "Pasatiempo pasado."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente del Indicativo",
+    "sentence": "Ella _______ flores en el balcón.",
+    "options": [
+      "cultiva",
+      "cultivó",
+      "cultivaba"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto. Actividad habitual.",
+      "Acción pasada terminada.",
+      "Actividad pasada prolongada."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente del Indicativo",
+    "sentence": "Nosotros _______ cena juntos los domingos.",
+    "options": [
+      "cenamos",
+      "cenaron",
+      "cenábamos"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto. Tradición familiar actual.",
+      "Cena pasada puntual.",
+      "Tradición pasada."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente del Indicativo",
+    "sentence": "El profesor _______ exámenes muy difíciles.",
+    "options": [
+      "prepara",
+      "preparó",
+      "preparaba"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto. Característica habitual.",
+      "Preparación pasada puntual.",
+      "Preparación pasada prolongada."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente del Indicativo",
+    "sentence": "Tú _______ siempre la verdad.",
+    "options": [
+      "dices",
+      "dijiste",
+      "decías"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto. Rasgo de personalidad actual.",
+      "Declaración pasada puntual.",
+      "Hábito pasado."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente del Indicativo",
+    "sentence": "Yo _______ caminar por las mañanas.",
+    "options": [
+      "prefiero",
+      "preferí",
+      "prefería"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto. Preferencia actual.",
+      "Decisión pasada puntual.",
+      "Preferencia pasada."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente del Indicativo",
+    "sentence": "Ellos _______ en una casa muy grande.",
+    "options": [
+      "viven",
+      "vivieron",
+      "vivían"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto. Situación actual.",
+      "Vivienda pasada puntual.",
+      "Vivienda pasada prolongada."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente del Indicativo",
+    "sentence": "La empresa _______ productos ecológicos.",
+    "options": [
+      "fabrica",
+      "fabricó",
+      "fabricaba"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto. Actividad actual de la empresa.",
+      "Producción pasada puntual.",
+      "Producción pasada."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente del Indicativo",
+    "sentence": "Mis vecinos _______ fiestas los sábados.",
+    "options": [
+      "hacen",
+      "hicieron",
+      "hacían"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto. Hábito ruidoso actual.",
+      "Fiesta pasada puntual.",
+      "Hábito pasado."
     ]
   },
   {
     "language": "es",
     "tense": "Pretérito Indefinido",
-    "sentence": "Ella _______ muy nerviosa antes del examen.",
-    "options": ["está", "estuvo", "estaba"],
+    "sentence": "Ayer yo _______ una película excelente en el cine.",
+    "options": [
+      "veo",
+      "vi",
+      "veía"
+    ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. Presente.",
-      "Correcto. Estado puntual en un momento concreto.",
-      "Incorrecto. Imperfecto indica estado prolongado."
+      "Presente.",
+      "Correcto – acción terminada ayer.",
+      "Imperfecto (descripción o hábito pasado)."
     ]
   },
   {
     "language": "es",
     "tense": "Pretérito Indefinido",
-    "sentence": "Yo _______ el curso en solo tres meses.",
-    "options": ["termino", "terminé", "terminaba"],
+    "sentence": "La semana pasada ellos _______ el examen final.",
+    "options": [
+      "aprueban",
+      "aprobaron",
+      "aprobaban"
+    ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. Presente.",
-      "Correcto. Acción finalizada.",
-      "Incorrecto. Imperfecto no marca final."
+      "Presente.",
+      "Correcto – resultado puntual.",
+      "Imperfecto."
     ]
   },
-    {
+  {
     "language": "es",
-    "tense": "Pretérito Imperfecto",
-    "sentence": "Cuando era niño, _______ al parque todos los días.",
-    "options": ["fui", "iba", "he ido"],
+    "tense": "Pretérito Indefinido",
+    "sentence": "Anoche nosotros _______ muy tarde a casa.",
+    "options": [
+      "llegamos",
+      "llegábamos",
+      "llegar"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – llegada concreta anoche.",
+      "Imperfecto (proceso o repetición).",
+      "Infinitivo."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "En 2020 ella _______ su primer trabajo.",
+    "options": [
+      "consigue",
+      "consiguió",
+      "conseguía"
+    ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. El pretérito indefinido indica una acción puntual.",
-      "Correcto. El imperfecto se usa para acciones habituales en el pasado.",
-      "Incorrecto. El presente perfecto no se usa para hábitos pasados."
+      "Presente.",
+      "Correcto – hecho puntual con fecha.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "El mes pasado yo _______ un coche nuevo.",
+    "options": [
+      "compro",
+      "compré",
+      "compraba"
+    ],
+    "correct": 1,
+    "explanations": [
+      "Presente.",
+      "Correcto – compra terminada.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "Mis amigos _______ la fiesta sorpresa perfectamente.",
+    "options": [
+      "organizan",
+      "organizaron",
+      "organizaban"
+    ],
+    "correct": 1,
+    "explanations": [
+      "Presente.",
+      "Correcto – evento completado.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "Tú _______ el regalo justo a tiempo.",
+    "options": [
+      "entregas",
+      "entregaste",
+      "entregabas"
+    ],
+    "correct": 1,
+    "explanations": [
+      "Presente.",
+      "Correcto – acción puntual.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "El año pasado nosotros _______ a México de vacaciones.",
+    "options": [
+      "viajamos",
+      "viajábamos",
+      "viajar"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – viaje terminado.",
+      "Imperfecto.",
+      "Infinitivo."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "Ella _______ la verdad después de mucho tiempo.",
+    "options": [
+      "dice",
+      "dijo",
+      "decía"
+    ],
+    "correct": 1,
+    "explanations": [
+      "Presente.",
+      "Correcto – momento concreto.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "Ayer por la tarde _______ una tormenta muy fuerte.",
+    "options": [
+      "hay",
+      "hubo",
+      "había"
+    ],
+    "correct": 1,
+    "explanations": [
+      "Presente.",
+      "Correcto – evento puntual.",
+      "Imperfecto (descripción)."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "Yo _______ el informe antes de la reunión.",
+    "options": [
+      "entrego",
+      "entregué",
+      "entregaba"
+    ],
+    "correct": 1,
+    "explanations": [
+      "Presente.",
+      "Correcto – entrega terminada.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "Ellos _______ el contrato el lunes pasado.",
+    "options": [
+      "firman",
+      "firmaron",
+      "firmaban"
+    ],
+    "correct": 1,
+    "explanations": [
+      "Presente.",
+      "Correcto – acción cerrada.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "Mi hermano _______ su primer gol en el partido.",
+    "options": [
+      "marca",
+      "marcó",
+      "marcaba"
+    ],
+    "correct": 1,
+    "explanations": [
+      "Presente.",
+      "Correcto – momento específico.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "Nosotros _______ el problema en cinco minutos.",
+    "options": [
+      "resolvemos",
+      "resolvimos",
+      "resolvíamos"
+    ],
+    "correct": 1,
+    "explanations": [
+      "Presente.",
+      "Correcto – solución terminada.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "¿Quién _______ la ventana anoche?",
+    "options": [
+      "rompe",
+      "rompió",
+      "rompía"
+    ],
+    "correct": 1,
+    "explanations": [
+      "Presente.",
+      "Correcto – acción concreta.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "El tren _______ con 20 minutos de retraso.",
+    "options": [
+      "llega",
+      "llegó",
+      "llegaba"
+    ],
+    "correct": 1,
+    "explanations": [
+      "Presente.",
+      "Correcto – llegada puntual.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "Ayer ella _______ muy nerviosa durante el examen.",
+    "options": [
+      "está",
+      "estuvo",
+      "estaba"
+    ],
+    "correct": 1,
+    "explanations": [
+      "Presente.",
+      "Correcto – estado en momento concreto.",
+      "Imperfecto (prolongado)."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "Yo _______ tres libros en una semana.",
+    "options": [
+      "leo",
+      "leí",
+      "leía"
+    ],
+    "correct": 1,
+    "explanations": [
+      "Presente.",
+      "Correcto – período terminado.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "El equipo _______ el campeonato en 2023.",
+    "options": [
+      "gana",
+      "ganó",
+      "ganaba"
+    ],
+    "correct": 1,
+    "explanations": [
+      "Presente.",
+      "Correcto – victoria puntual.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "Nosotros _______ la decisión después de discutir mucho.",
+    "options": [
+      "tomamos",
+      "tomábamos",
+      "tomar"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – decisión tomada.",
+      "Imperfecto.",
+      "Infinitivo."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "Tú _______ la puerta con mucha fuerza.",
+    "options": [
+      "cierras",
+      "cerraste",
+      "cerrabas"
+    ],
+    "correct": 1,
+    "explanations": [
+      "Presente.",
+      "Correcto – acción concreta.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "El accidente _______ a las 8 de la mañana.",
+    "options": [
+      "ocurre",
+      "ocurrió",
+      "ocurría"
+    ],
+    "correct": 1,
+    "explanations": [
+      "Presente.",
+      "Correcto – evento puntual.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "Ella _______ su maleta y se fue.",
+    "options": [
+      "prepara",
+      "preparó",
+      "preparaba"
+    ],
+    "correct": 1,
+    "explanations": [
+      "Presente.",
+      "Correcto – secuencia de acciones terminadas.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "Ayer por la noche _______ una llamada importante.",
+    "options": [
+      "recibo",
+      "recibí",
+      "recibía"
+    ],
+    "correct": 1,
+    "explanations": [
+      "Presente.",
+      "Correcto – llamada concreta.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "Mis padres _______ una casa en la playa el verano pasado.",
+    "options": [
+      "compran",
+      "compraron",
+      "compraban"
+    ],
+    "correct": 1,
+    "explanations": [
+      "Presente.",
+      "Correcto – compra terminada.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "El niño _______ el vaso y se rompió.",
+    "options": [
+      "deja",
+      "dejó",
+      "dejaba"
+    ],
+    "correct": 1,
+    "explanations": [
+      "Presente.",
+      "Correcto – acción puntual.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "Yo _______ la respuesta correcta en el último segundo.",
+    "options": [
+      "escribo",
+      "escribí",
+      "escribía"
+    ],
+    "correct": 1,
+    "explanations": [
+      "Presente.",
+      "Correcto – momento específico.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "Ellos _______ el premio gordo de la lotería.",
+    "options": [
+      "ganan",
+      "ganaron",
+      "ganaban"
+    ],
+    "correct": 1,
+    "explanations": [
+      "Presente.",
+      "Correcto – evento único.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "La reunión _______ más de tres horas.",
+    "options": [
+      "dura",
+      "duró",
+      "duraba"
+    ],
+    "correct": 1,
+    "explanations": [
+      "Presente.",
+      "Correcto – duración terminada.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "Tú _______ muy bien el discurso ayer.",
+    "options": [
+      "hablas",
+      "hablaste",
+      "hablabas"
+    ],
+    "correct": 1,
+    "explanations": [
+      "Presente.",
+      "Correcto – actuación concreta.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "Nosotros _______ el vuelo a las 6 de la mañana.",
+    "options": [
+      "perdemos",
+      "perdimos",
+      "perdíamos"
+    ],
+    "correct": 1,
+    "explanations": [
+      "Presente.",
+      "Correcto – pérdida puntual.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "El ladrón _______ por la ventana trasera.",
+    "options": [
+      "entra",
+      "entró",
+      "entraba"
+    ],
+    "correct": 1,
+    "explanations": [
+      "Presente.",
+      "Correcto – acción terminada.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "Ayer _______ un regalo muy bonito.",
+    "options": [
+      "recibo",
+      "recibí",
+      "recibía"
+    ],
+    "correct": 1,
+    "explanations": [
+      "Presente.",
+      "Correcto – recepción concreta.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "Ella _______ la carta y empezó a llorar.",
+    "options": [
+      "lee",
+      "leyó",
+      "leía"
+    ],
+    "correct": 1,
+    "explanations": [
+      "Presente.",
+      "Correcto – acción puntual + consecuencia.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "El médico _______ la operación con éxito.",
+    "options": [
+      "realiza",
+      "realizó",
+      "realizaba"
+    ],
+    "correct": 1,
+    "explanations": [
+      "Presente.",
+      "Correcto – operación terminada.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "Nosotros _______ la meta en menos de dos horas.",
+    "options": [
+      "alcanzamos",
+      "alcanzábamos",
+      "alcanzar"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – logro puntual.",
+      "Imperfecto.",
+      "Infinitivo."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "Tú _______ la pregunta más difícil del examen.",
+    "options": [
+      "responde",
+      "respondió",
+      "respondía"
+    ],
+    "correct": 1,
+    "explanations": [
+      "Presente.",
+      "Correcto – respuesta concreta.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "El concierto _______ con un bis espectacular.",
+    "options": [
+      "termina",
+      "terminó",
+      "terminaba"
+    ],
+    "correct": 1,
+    "explanations": [
+      "Presente.",
+      "Correcto – final puntual.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "Yo _______ mi primer vuelo solo a los 18 años.",
+    "options": [
+      "tomo",
+      "tomé",
+      "tomaba"
+    ],
+    "correct": 1,
+    "explanations": [
+      "Presente.",
+      "Correcto – experiencia puntual.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "Ellos _______ la noticia ayer por la tarde.",
+    "options": [
+      "escuchan",
+      "escucharon",
+      "escuchaban"
+    ],
+    "correct": 1,
+    "explanations": [
+      "Presente.",
+      "Correcto – momento específico.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "La profesora _______ la lección y todos aplaudimos.",
+    "options": [
+      "explica",
+      "explicó",
+      "explicaba"
+    ],
+    "correct": 1,
+    "explanations": [
+      "Presente.",
+      "Correcto – explicación terminada.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "Ayer _______ un error muy grave en el código.",
+    "options": [
+      "cometo",
+      "cometí",
+      "cometía"
+    ],
+    "correct": 1,
+    "explanations": [
+      "Presente.",
+      "Correcto – error puntual.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "Mi abuelo _______ 92 años el mes pasado.",
+    "options": [
+      "cumple",
+      "cumplió",
+      "cumplía"
+    ],
+    "correct": 1,
+    "explanations": [
+      "Presente.",
+      "Correcto – cumpleaños puntual.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "Nosotros _______ la montaña en solo cuatro horas.",
+    "options": [
+      "subimos",
+      "subíamos",
+      "subir"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – ascenso terminado.",
+      "Imperfecto.",
+      "Infinitivo."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "Tú _______ el récord personal en la carrera.",
+    "options": [
+      "mejoras",
+      "mejoraste",
+      "mejorabas"
+    ],
+    "correct": 1,
+    "explanations": [
+      "Presente.",
+      "Correcto – mejora concreta.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "El director _______ la película en solo 18 días.",
+    "options": [
+      "filma",
+      "filmó",
+      "filmaba"
+    ],
+    "correct": 1,
+    "explanations": [
+      "Presente.",
+      "Correcto – rodaje terminado.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "Yo _______ la noticia en el periódico esta mañana.",
+    "options": [
+      "leo",
+      "leí",
+      "leía"
+    ],
+    "correct": 1,
+    "explanations": [
+      "Presente.",
+      "Correcto – lectura puntual.",
+      "Imperfecto."
     ]
   },
   {
     "language": "es",
     "tense": "Pretérito Imperfecto",
-    "sentence": "Antes _______ mucho tiempo leyendo.",
-    "options": ["pasé", "pasaba", "he pasado"],
-    "correct": 1,
+    "sentence": "Cuando era niño, yo _______ al parque todos los días.",
+    "options": [
+      "iba",
+      "fui",
+      "he ido"
+    ],
+    "correct": 0,
     "explanations": [
-      "Incorrecto. Acción puntual.",
-      "Correcto. Acción repetida o habitual en el pasado.",
-      "Incorrecto. El presente perfecto no encaja en este contexto."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Pretérito Imperfecto",
-    "sentence": "Mientras estudiábamos, ella _______ música.",
-    "options": ["escuchó", "escuchaba", "ha escuchado"],
-    "correct": 1,
-    "explanations": [
-      "Incorrecto. Acción puntual que interrumpe.",
-      "Correcto. Acción en progreso en el pasado.",
-      "Incorrecto. Tiempo no adecuado."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Pretérito Imperfecto",
-    "sentence": "Siempre _______ temprano a la oficina.",
-    "options": ["llegué", "llegaba", "he llegado"],
-    "correct": 1,
-    "explanations": [
-      "Incorrecto. Acción puntual.",
-      "Correcto. Hábito en el pasado.",
-      "Incorrecto. El presente perfecto no se usa con 'siempre' en pasado."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Pretérito Imperfecto",
-    "sentence": "El profesor _______ la lección cuando sonó el teléfono.",
-    "options": ["explicó", "explicaba", "ha explicado"],
-    "correct": 1,
-    "explanations": [
-      "Incorrecto. Acción cerrada.",
-      "Correcto. Acción en desarrollo interrumpida por otra.",
-      "Incorrecto. Tiempo incorrecto."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Pretérito Imperfecto",
-    "sentence": "Antes no _______ tanto estrés.",
-    "options": ["tuve", "tenía", "he tenido"],
-    "correct": 1,
-    "explanations": [
-      "Incorrecto. Acción puntual.",
-      "Correcto. Estado continuo en el pasado.",
-      "Incorrecto. Tiempo no apropiado."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Pretérito Imperfecto",
-    "sentence": "Mis abuelos _______ en el campo.",
-    "options": ["vivieron", "vivían", "han vivido"],
-    "correct": 1,
-    "explanations": [
-      "Incorrecto. Hecho puntual.",
-      "Correcto. Situación prolongada en el pasado.",
-      "Incorrecto. Presente perfecto no corresponde."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Pretérito Imperfecto",
-    "sentence": "Mientras trabajaba, _______ llamadas constantemente.",
-    "options": ["recibí", "recibía", "he recibido"],
-    "correct": 1,
-    "explanations": [
-      "Incorrecto. Acción puntual.",
-      "Correcto. Acción repetida en el pasado.",
-      "Incorrecto. Tiempo incorrecto."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Pretérito Imperfecto",
-    "sentence": "En esa época, no _______ coche.",
-    "options": ["tuve", "tenía", "he tenido"],
-    "correct": 1,
-    "explanations": [
-      "Incorrecto. Acción puntual.",
-      "Correcto. Estado en el pasado.",
-      "Incorrecto. Presente perfecto."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Pretérito Imperfecto",
-    "sentence": "De pequeños, _______ muchas historias.",
-    "options": ["leímos", "leíamos", "hemos leído"],
-    "correct": 1,
-    "explanations": [
-      "Incorrecto. Acción puntual.",
-      "Correcto. Hábito pasado.",
-      "Incorrecto. Presente perfecto no corresponde."
-    ]
-  },
-    {
-    "language": "es",
-    "tense": "Pretérito Imperfecto",
-    "sentence": "Cuando vivía en Madrid, _______ en metro todos los días.",
-    "options": ["viajé", "viajaba", "he viajado"],
-    "correct": 1,
-    "explanations": [
-      "Incorrecto. El indefinido indica una acción puntual.",
-      "Correcto. El imperfecto expresa una acción habitual en el pasado.",
-      "Incorrecto. El presente perfecto no se usa para hábitos pasados."
+      "Correcto – hábito repetido en el pasado.",
+      "Pretérito indefinido – acción puntual.",
+      "Presente perfecto – no corresponde."
     ]
   },
   {
     "language": "es",
     "tense": "Pretérito Imperfecto",
     "sentence": "Antes _______ mucho más tiempo libre.",
-    "options": ["tuve", "tenía", "he tenido"],
-    "correct": 1,
-    "explanations": [
-      "Incorrecto. Acción puntual.",
-      "Correcto. Estado continuo en el pasado.",
-      "Incorrecto. Tiempo no adecuado."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Pretérito Imperfecto",
-    "sentence": "Mientras ellos hablaban, yo _______ notas.",
-    "options": ["tomé", "tomaba", "he tomado"],
-    "correct": 1,
-    "explanations": [
-      "Incorrecto. Acción puntual.",
-      "Correcto. Acción en desarrollo en el pasado.",
-      "Incorrecto. Presente perfecto."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Pretérito Imperfecto",
-    "sentence": "Siempre _______ nervioso antes de los exámenes.",
-    "options": ["estuve", "estaba", "he estado"],
-    "correct": 1,
-    "explanations": [
-      "Incorrecto. Estado puntual.",
-      "Correcto. Estado habitual en el pasado.",
-      "Incorrecto. Presente perfecto no corresponde."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Pretérito Imperfecto",
-    "sentence": "En esa empresa _______ mucha presión.",
-    "options": ["hubo", "había", "ha habido"],
-    "correct": 1,
-    "explanations": [
-      "Incorrecto. Evento puntual.",
-      "Correcto. Descripción de una situación pasada.",
-      "Incorrecto. Presente perfecto."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Pretérito Imperfecto",
-    "sentence": "Mis amigos siempre _______ tarde.",
-    "options": ["llegaron", "llegaban", "han llegado"],
-    "correct": 1,
-    "explanations": [
-      "Incorrecto. Acción puntual.",
-      "Correcto. Hábito en el pasado.",
-      "Incorrecto. Presente perfecto."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Pretérito Imperfecto",
-    "sentence": "Cuando estudiaba, no _______ televisión.",
-    "options": ["veía", "vi", "he visto"],
+    "options": [
+      "tenía",
+      "tuve",
+      "he tenido"
+    ],
     "correct": 0,
     "explanations": [
-      "Correcto. El imperfecto expresa una acción habitual negativa.",
-      "Incorrecto. Acción puntual.",
-      "Incorrecto. Presente perfecto."
+      "Correcto – estado prolongado en el pasado.",
+      "Acción puntual.",
+      "Presente perfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "Mientras estudiábamos, ella _______ música.",
+    "options": [
+      "escuchaba",
+      "escuchó",
+      "ha escuchado"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – acción en progreso / simultánea.",
+      "Acción puntual que interrumpe.",
+      "Presente perfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "De pequeño siempre _______ muy tímido.",
+    "options": [
+      "era",
+      "fui",
+      "he sido"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – característica prolongada.",
+      "Acción puntual.",
+      "Presente perfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "Cuando vivía en Madrid, _______ en metro todos los días.",
+    "options": [
+      "iba",
+      "fui",
+      "he ido"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – hábito pasado.",
+      "Acción puntual.",
+      "Presente perfecto."
     ]
   },
   {
     "language": "es",
     "tense": "Pretérito Imperfecto",
     "sentence": "Antes la gente _______ menos tecnología.",
-    "options": ["usó", "usaba", "ha usado"],
-    "correct": 1,
+    "options": [
+      "usaba",
+      "usó",
+      "ha usado"
+    ],
+    "correct": 0,
     "explanations": [
-      "Incorrecto. Evento puntual.",
-      "Correcto. Descripción general del pasado.",
-      "Incorrecto. Presente perfecto."
+      "Correcto – descripción general del pasado.",
+      "Acción puntual.",
+      "Presente perfecto."
     ]
   },
   {
     "language": "es",
     "tense": "Pretérito Imperfecto",
-    "sentence": "Mientras cocinábamos, _______ música.",
-    "options": ["poníamos", "pusimos", "hemos puesto"],
+    "sentence": "Mis abuelos _______ en el campo cuando eran jóvenes.",
+    "options": [
+      "vivían",
+      "vivieron",
+      "han vivido"
+    ],
     "correct": 0,
     "explanations": [
-      "Correcto. Acción en desarrollo en el pasado.",
-      "Incorrecto. Acción puntual.",
-      "Incorrecto. Presente perfecto."
+      "Correcto – situación prolongada.",
+      "Acción terminada.",
+      "Presente perfecto."
     ]
   },
   {
     "language": "es",
     "tense": "Pretérito Imperfecto",
-    "sentence": "De joven, _______ muchos libros.",
-    "options": ["leía", "leí", "he leído"],
+    "sentence": "Mientras cocinábamos, _______ música muy alta.",
+    "options": [
+      "poníamos",
+      "pusimos",
+      "hemos puesto"
+    ],
     "correct": 0,
     "explanations": [
-      "Correcto. Hábito pasado.",
-      "Incorrecto. Acción puntual.",
-      "Incorrecto. Presente perfecto."
+      "Correcto – acción simultánea / en progreso.",
+      "Acción puntual.",
+      "Presente perfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "En esa época no _______ tanto estrés.",
+    "options": [
+      "tenía",
+      "tuve",
+      "he tenido"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – estado continuo.",
+      "Momento puntual.",
+      "Presente perfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "De joven _______ muchos libros cada mes.",
+    "options": [
+      "leía",
+      "leí",
+      "he leído"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – hábito repetido.",
+      "Acción puntual.",
+      "Presente perfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "Siempre _______ nervioso antes de los exámenes.",
+    "options": [
+      "estaba",
+      "estuve",
+      "he estado"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – estado habitual en el pasado.",
+      "Estado puntual.",
+      "Presente perfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "Cuando íbamos al colegio, _______ a las 8 en punto.",
+    "options": [
+      "llegábamos",
+      "llegamos",
+      "hemos llegado"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – hábito escolar pasado.",
+      "Llegada puntual.",
+      "Presente perfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "El profesor _______ muy despacio para que entendiéramos.",
+    "options": [
+      "hablaba",
+      "habló",
+      "ha hablado"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – manera habitual de hablar.",
+      "Acción puntual.",
+      "Presente perfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "En los años 90 la vida _______ más tranquila.",
+    "options": [
+      "era",
+      "fue",
+      "ha sido"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – descripción general.",
+      "Evento puntual.",
+      "Presente perfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "Mientras él trabajaba, yo _______ la cena.",
+    "options": [
+      "preparaba",
+      "preparé",
+      "he preparado"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – acción simultánea.",
+      "Acción terminada.",
+      "Presente perfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "Cuando tenía 10 años, _______ muy alto para mi edad.",
+    "options": [
+      "era",
+      "fui",
+      "he sido"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – descripción física en el pasado.",
+      "Momento puntual.",
+      "Presente perfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "Los domingos por la tarde _______ paseos largos.",
+    "options": [
+      "dábamos",
+      "dimos",
+      "hemos dado"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – hábito dominical pasado.",
+      "Paseo puntual.",
+      "Presente perfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "Antes no _______ tanto como ahora.",
+    "options": [
+      "viajaba",
+      "viajé",
+      "he viajado"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – hábito de viaje pasado.",
+      "Viaje puntual.",
+      "Presente perfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "El cielo _______ gris y llovía sin parar.",
+    "options": [
+      "estaba",
+      "estuvo",
+      "ha estado"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – descripción del tiempo + acción simultánea.",
+      "Momento puntual.",
+      "Presente perfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "Mis amigos y yo _______ fútbol todos los días después del colegio.",
+    "options": [
+      "jugábamos",
+      "jugamos",
+      "hemos jugado"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – actividad repetida.",
+      "Partido puntual.",
+      "Presente perfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "Cuando vivía sola, _______ muy independiente.",
+    "options": [
+      "era",
+      "fui",
+      "he sido"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – rasgo de personalidad prolongado.",
+      "Momento puntual.",
+      "Presente perfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "En aquella casa siempre _______ ruidos extraños por la noche.",
+    "options": [
+      "había",
+      "hubo",
+      "ha habido"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – existencia repetida / descripción.",
+      "Evento puntual.",
+      "Presente perfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "Mientras esperábamos el autobús, _______ chistes.",
+    "options": [
+      "contábamos",
+      "contamos",
+      "hemos contado"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – acción simultánea.",
+      "Acción terminada.",
+      "Presente perfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "De adolescente _______ mucho deporte.",
+    "options": [
+      "hacía",
+      "hice",
+      "he hecho"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – hábito adolescente.",
+      "Acción puntual.",
+      "Presente perfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "El profesor _______ muy paciente con nosotros.",
+    "options": [
+      "era",
+      "fue",
+      "ha sido"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – característica prolongada.",
+      "Momento puntual.",
+      "Presente perfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "Cuando éramos pequeños, _______ en la misma calle.",
+    "options": [
+      "vivíamos",
+      "vivimos",
+      "hemos vivido"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – situación prolongada.",
+      "Mudanza puntual.",
+      "Presente perfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "Siempre _______ que estudiar más cuando era estudiante.",
+    "options": [
+      "pensaba",
+      "pensé",
+      "he pensado"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – pensamiento repetido.",
+      "Pensamiento puntual.",
+      "Presente perfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "En el pueblo donde crecí _______ muy pocas tiendas.",
+    "options": [
+      "había",
+      "hubo",
+      "ha habido"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – descripción del lugar en el pasado.",
+      "Evento puntual.",
+      "Presente perfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "Mientras conducía, _______ la radio.",
+    "options": [
+      "escuchaba",
+      "escuché",
+      "he escuchado"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – acción simultánea.",
+      "Acción terminada.",
+      "Presente perfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "Cuando tenía 20 años, _______ en una residencia.",
+    "options": [
+      "vivía",
+      "viví",
+      "he vivido"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – situación en una etapa de la vida.",
+      "Momento puntual.",
+      "Presente perfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "Los fines de semana _______ a la casa de mis abuelos.",
+    "options": [
+      "íbamos",
+      "fuimos",
+      "hemos ido"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – hábito de fin de semana pasado.",
+      "Viaje puntual.",
+      "Presente perfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "En aquella época todo el mundo _______ más tranquilo.",
+    "options": [
+      "era",
+      "fue",
+      "ha sido"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – descripción general.",
+      "Evento puntual.",
+      "Presente perfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "Mientras llovía, nosotros _______ dentro de casa.",
+    "options": [
+      "jugábamos",
+      "jugamos",
+      "hemos jugado"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – acción simultánea con lluvia.",
+      "Partido puntual.",
+      "Presente perfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "Mi hermana _______ muy estudiosa de niña.",
+    "options": [
+      "era",
+      "fue",
+      "ha sido"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – rasgo prolongado.",
+      "Momento puntual.",
+      "Presente perfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "Cuando estábamos en la playa, _______ mucho el sol.",
+    "options": [
+      "tomábamos",
+      "tomamos",
+      "hemos tomado"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – hábito vacacional pasado.",
+      "Momento puntual.",
+      "Presente perfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "En el colegio siempre _______ los deberes a última hora.",
+    "options": [
+      "hacía",
+      "hice",
+      "he hecho"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – hábito negativo repetido.",
+      "Deber puntual.",
+      "Presente perfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "La ciudad _______ mucho más pequeña hace 20 años.",
+    "options": [
+      "era",
+      "fue",
+      "ha sido"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – descripción comparativa del pasado.",
+      "Cambio puntual.",
+      "Presente perfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "Mientras veíamos la película, _______ palomitas.",
+    "options": [
+      "comíamos",
+      "comimos",
+      "hemos comido"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – acción simultánea.",
+      "Acción terminada.",
+      "Presente perfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "Cuando era adolescente, _______ rock todo el día.",
+    "options": [
+      "escuchaba",
+      "escuché",
+      "he escuchado"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – gusto musical prolongado.",
+      "Concierto puntual.",
+      "Presente perfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "En mi infancia no _______ móviles ni internet.",
+    "options": [
+      "había",
+      "hubo",
+      "ha habido"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – ausencia prolongada.",
+      "Evento puntual.",
+      "Presente perfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "Mis padres _______ muy estrictos conmigo.",
+    "options": [
+      "eran",
+      "fueron",
+      "han sido"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – estilo educativo prolongado.",
+      "Momento puntual.",
+      "Presente perfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "Cuando trabajaba en esa empresa, _______ mucho estrés.",
+    "options": [
+      "tenía",
+      "tuve",
+      "he tenido"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – estado habitual en el trabajo.",
+      "Momento puntual.",
+      "Presente perfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "Los veranos de mi infancia _______ interminables.",
+    "options": [
+      "parecían",
+      "parecieron",
+      "han parecido"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – percepción prolongada.",
+      "Momento puntual.",
+      "Presente perfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "Mientras caminábamos por el bosque, _______ pájaros.",
+    "options": [
+      "escuchábamos",
+      "escuchamos",
+      "hemos escuchado"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – acción simultánea.",
+      "Sonido puntual.",
+      "Presente perfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "En aquella época la gente _______ más cartas.",
+    "options": [
+      "escribía",
+      "escribió",
+      "ha escrito"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – hábito social pasado.",
+      "Carta puntual.",
+      "Presente perfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "Cuando era estudiante, _______ poco dinero.",
+    "options": [
+      "tenía",
+      "tuve",
+      "he tenido"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – situación económica prolongada.",
+      "Momento puntual.",
+      "Presente perfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Este año ya _______ tres países diferentes.",
+    "options": [
+      "visito",
+      "visité",
+      "he visitado"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente simple.",
+      "Pretérito indefinido.",
+      "Correcto – experiencia hasta ahora."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Todavía no _______ la nueva temporada de la serie.",
+    "options": [
+      "veo",
+      "vi",
+      "he visto"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – con 'todavía no'."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "¿_______ alguna vez sushi casero?",
+    "options": [
+      "comes",
+      "comiste",
+      "has comido"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – pregunta de experiencia vital."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Acabo de _______ el libro que me recomendaste.",
+    "options": [
+      "terminar",
+      "terminé",
+      "he terminado"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Infinitivo.",
+      "Indefinido.",
+      "Correcto – acción muy reciente."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Nunca _______ en avión.",
+    "options": [
+      "viajo",
+      "viajé",
+      "he viajado"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – experiencia negativa en la vida."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Hoy ya _______ dos veces al gimnasio.",
+    "options": [
+      "voy",
+      "fui",
+      "he ido"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – acciones en el día de hoy."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Últimamente _______ muy cansado.",
+    "options": [
+      "estoy",
+      "estuve",
+      "he estado"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – estado reciente y continuo."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Mis padres _______ ya la cena.",
+    "options": [
+      "preparan",
+      "prepararon",
+      "han preparado"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – acción terminada con resultado actual."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "¿Cuántas películas _______ este mes?",
+    "options": [
+      "ves",
+      "viste",
+      "has visto"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – período no terminado."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Esta semana _______ tres veces al dentista.",
+    "options": [
+      "voy",
+      "fui",
+      "he ido"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – repetición en semana actual."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Ya _______ todo el trabajo que me tocaba.",
+    "options": [
+      "hago",
+      "hice",
+      "he hecho"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – tarea completada con 'ya'."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Nunca _______ probado comida tailandesa.",
+    "options": [
+      "pruebo",
+      "probé",
+      "he probado"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – experiencia negativa."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Esta mañana _______ un mensaje muy importante.",
+    "options": [
+      "recibo",
+      "recibí",
+      "he recibido"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – acción reciente en el día."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Ellos _______ ya la casa nueva.",
+    "options": [
+      "compran",
+      "compraron",
+      "han comprado"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – resultado presente visible."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "¿_______ alguna vez saltado en paracaídas?",
+    "options": [
+      "saltas",
+      "saltaste",
+      "has saltado"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – experiencia extrema."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "En mi vida _______ más de 20 países.",
+    "options": [
+      "visito",
+      "visité",
+      "he visitado"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – total acumulado en la vida."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Todavía no _______ el informe que me pediste.",
+    "options": [
+      "termino",
+      "terminé",
+      "he terminado"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – acción pendiente."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Este mes _______ mucho ejercicio.",
+    "options": [
+      "hago",
+      "hice",
+      "he hecho"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – período actual no terminado."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Ya _______ dos cafés esta mañana.",
+    "options": [
+      "tomo",
+      "tomé",
+      "he tomado"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – repetición en la mañana actual."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Nunca _______ tan feliz como ahora.",
+    "options": [
+      "estoy",
+      "estuve",
+      "he estado"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – comparación de experiencia vital."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Mis amigos _______ ya la entrada para el concierto.",
+    "options": [
+      "compran",
+      "compraron",
+      "han comprado"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – acción con resultado actual."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "¿_______ ya cenado hoy?",
+    "options": [
+      "cenas",
+      "cenaste",
+      "has cenado"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – pregunta sobre acción reciente."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Esta semana _______ muy productiva.",
+    "options": [
+      "es",
+      "fue",
+      "ha sido"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – valoración de período actual."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Ya _______ perdido las llaves tres veces este mes.",
+    "options": [
+      "pierdo",
+      "perdí",
+      "he perdido"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – repetición en mes actual."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Nunca _______ visto una película tan larga.",
+    "options": [
+      "veo",
+      "vi",
+      "he visto"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – experiencia única."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Hoy _______ mucho frío en la calle.",
+    "options": [
+      "hace",
+      "hizo",
+      "ha hecho"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente (correcto también, pero aquí se busca perfecto).",
+      "Indefinido.",
+      "Correcto – tiempo atmosférico reciente."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Mis hermanos _______ ya el regalo para mamá.",
+    "options": [
+      "compran",
+      "compraron",
+      "han comprado"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – preparación terminada."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "¿_______ alguna vez montado en globo aerostático?",
+    "options": [
+      "montas",
+      "montaste",
+      "has montado"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – experiencia inusual."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Este trimestre _______ muy buenos resultados.",
+    "options": [
+      "obtengo",
+      "obtuve",
+      "he obtenido"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – balance de período."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Ya _______ terminado el curso de inglés.",
+    "options": [
+      "termino",
+      "terminé",
+      "he terminado"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – logro reciente."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Nunca _______ entendido bien la física cuántica.",
+    "options": [
+      "entiendo",
+      "entendí",
+      "he entendido"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – incapacidad acumulada."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Esta tarde _______ tres capítulos seguidos.",
+    "options": [
+      "veo",
+      "vi",
+      "he visto"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – acción en tarde actual."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Mis compañeros _______ ya el proyecto.",
+    "options": [
+      "entregan",
+      "entregaron",
+      "han entregado"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – entrega con relevancia actual."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "¿_______ ya pagado la factura de la luz?",
+    "options": [
+      "pagas",
+      "pagaste",
+      "has pagado"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – pregunta sobre acción reciente."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "En mi vida _______ probado más de 50 tipos de queso.",
+    "options": [
+      "pruebo",
+      "probé",
+      "he probado"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – acumulación vital."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Ya _______ hablado con el jefe sobre el aumento.",
+    "options": [
+      "hablo",
+      "hablé",
+      "he hablado"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – conversación terminada."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Este verano _______ muy poco al mar.",
+    "options": [
+      "voy",
+      "fui",
+      "he ido"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – balance de verano (si aún no terminó)."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Nunca _______ visto un eclipse total.",
+    "options": [
+      "veo",
+      "vi",
+      "he visto"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – experiencia no vivida."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Hoy _______ leído más de 100 páginas.",
+    "options": [
+      "leo",
+      "leí",
+      "he leído"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – logro del día."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Mis hijos _______ ya aprendido a nadar.",
+    "options": [
+      "aprenden",
+      "aprendieron",
+      "han aprendido"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – habilidad adquirida."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "¿_______ ya reservado el hotel para las vacaciones?",
+    "options": [
+      "reservas",
+      "reservaste",
+      "has reservado"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – acción preparatoria."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Esta vida _______ muy buena suerte.",
+    "options": [
+      "tengo",
+      "tuve",
+      "he tenido"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – balance vital."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Ya _______ terminado todos los exámenes del curso.",
+    "options": [
+      "termino",
+      "terminé",
+      "he terminado"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – período académico cerrado."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Nunca _______ imaginado que llegaría tan lejos.",
+    "options": [
+      "imagino",
+      "imaginé",
+      "he imaginado"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – reflexión sobre vida."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Este fin de semana _______ muy relajante.",
+    "options": [
+      "es",
+      "fue",
+      "ha sido"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – valoración de fin de semana reciente."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Ya _______ visto esa película dos veces.",
+    "options": [
+      "veo",
+      "vi",
+      "he visto"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – repetición acumulada."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Mis vecinos _______ ya mudado a otra ciudad.",
+    "options": [
+      "se mudan",
+      "se mudaron",
+      "se han mudado"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – cambio con relevancia actual."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "¿_______ ya hablado con el profesor sobre la nota?",
+    "options": [
+      "hablas",
+      "hablaste",
+      "has hablado"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – acción reciente pendiente."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Este año ya _______ tres países diferentes.",
+    "options": [
+      "visito",
+      "visité",
+      "he visitado"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente simple.",
+      "Pretérito indefinido.",
+      "Correcto – experiencia hasta ahora."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Todavía no _______ la nueva temporada de la serie.",
+    "options": [
+      "veo",
+      "vi",
+      "he visto"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – con 'todavía no'."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "¿_______ alguna vez sushi casero?",
+    "options": [
+      "comes",
+      "comiste",
+      "has comido"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – pregunta de experiencia vital."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Acabo de _______ el libro que me recomendaste.",
+    "options": [
+      "terminar",
+      "terminé",
+      "he terminado"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Infinitivo.",
+      "Indefinido.",
+      "Correcto – acción muy reciente."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Nunca _______ en avión.",
+    "options": [
+      "viajo",
+      "viajé",
+      "he viajado"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – experiencia negativa en la vida."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Hoy ya _______ dos veces al gimnasio.",
+    "options": [
+      "voy",
+      "fui",
+      "he ido"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – acciones en el día de hoy."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Últimamente _______ muy cansado.",
+    "options": [
+      "estoy",
+      "estuve",
+      "he estado"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – estado reciente y continuo."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Mis padres _______ ya la cena.",
+    "options": [
+      "preparan",
+      "prepararon",
+      "han preparado"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – acción terminada con resultado actual."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "¿Cuántas películas _______ este mes?",
+    "options": [
+      "ves",
+      "viste",
+      "has visto"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – período no terminado."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Esta semana _______ tres veces al dentista.",
+    "options": [
+      "voy",
+      "fui",
+      "he ido"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – repetición en semana actual."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Ya _______ todo el trabajo que me tocaba.",
+    "options": [
+      "hago",
+      "hice",
+      "he hecho"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – tarea completada con 'ya'."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Nunca _______ probado comida tailandesa.",
+    "options": [
+      "pruebo",
+      "probé",
+      "he probado"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – experiencia negativa."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Esta mañana _______ un mensaje muy importante.",
+    "options": [
+      "recibo",
+      "recibí",
+      "he recibido"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – acción reciente en el día."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Ellos _______ ya la casa nueva.",
+    "options": [
+      "compran",
+      "compraron",
+      "han comprado"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – resultado presente visible."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "¿_______ alguna vez saltado en paracaídas?",
+    "options": [
+      "saltas",
+      "saltaste",
+      "has saltado"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – experiencia extrema."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "En mi vida _______ más de 20 países.",
+    "options": [
+      "visito",
+      "visité",
+      "he visitado"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – total acumulado en la vida."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Todavía no _______ el informe que me pediste.",
+    "options": [
+      "termino",
+      "terminé",
+      "he terminado"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – acción pendiente."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Este mes _______ mucho ejercicio.",
+    "options": [
+      "hago",
+      "hice",
+      "he hecho"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – período actual no terminado."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Ya _______ dos cafés esta mañana.",
+    "options": [
+      "tomo",
+      "tomé",
+      "he tomado"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – repetición en la mañana actual."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Nunca _______ tan feliz como ahora.",
+    "options": [
+      "estoy",
+      "estuve",
+      "he estado"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – comparación de experiencia vital."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Mis amigos _______ ya la entrada para el concierto.",
+    "options": [
+      "compran",
+      "compraron",
+      "han comprado"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – acción con resultado actual."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "¿_______ ya cenado hoy?",
+    "options": [
+      "cenas",
+      "cenaste",
+      "has cenado"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – pregunta sobre acción reciente."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Esta semana _______ muy productiva.",
+    "options": [
+      "es",
+      "fue",
+      "ha sido"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – valoración de período actual."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Ya _______ perdido las llaves tres veces este mes.",
+    "options": [
+      "pierdo",
+      "perdí",
+      "he perdido"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – repetición en mes actual."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Nunca _______ visto una película tan larga.",
+    "options": [
+      "veo",
+      "vi",
+      "he visto"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – experiencia única."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Hoy _______ mucho frío en la calle.",
+    "options": [
+      "hace",
+      "hizo",
+      "ha hecho"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente (correcto también, pero aquí se busca perfecto).",
+      "Indefinido.",
+      "Correcto – tiempo atmosférico reciente."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Mis hermanos _______ ya el regalo para mamá.",
+    "options": [
+      "compran",
+      "compraron",
+      "han comprado"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – preparación terminada."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "¿_______ alguna vez montado en globo aerostático?",
+    "options": [
+      "montas",
+      "montaste",
+      "has montado"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – experiencia inusual."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Este trimestre _______ muy buenos resultados.",
+    "options": [
+      "obtengo",
+      "obtuve",
+      "he obtenido"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – balance de período."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Ya _______ terminado el curso de inglés.",
+    "options": [
+      "termino",
+      "terminé",
+      "he terminado"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – logro reciente."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Nunca _______ entendido bien la física cuántica.",
+    "options": [
+      "entiendo",
+      "entendí",
+      "he entendido"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – incapacidad acumulada."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Esta tarde _______ tres capítulos seguidos.",
+    "options": [
+      "veo",
+      "vi",
+      "he visto"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – acción en tarde actual."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Mis compañeros _______ ya el proyecto.",
+    "options": [
+      "entregan",
+      "entregaron",
+      "han entregado"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – entrega con relevancia actual."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "¿_______ ya pagado la factura de la luz?",
+    "options": [
+      "pagas",
+      "pagaste",
+      "has pagado"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – pregunta sobre acción reciente."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "En mi vida _______ probado más de 50 tipos de queso.",
+    "options": [
+      "pruebo",
+      "probé",
+      "he probado"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – acumulación vital."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Ya _______ hablado con el jefe sobre el aumento.",
+    "options": [
+      "hablo",
+      "hablé",
+      "he hablado"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – conversación terminada."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Este verano _______ muy poco al mar.",
+    "options": [
+      "voy",
+      "fui",
+      "he ido"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – balance de verano (si aún no terminó)."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Nunca _______ visto un eclipse total.",
+    "options": [
+      "veo",
+      "vi",
+      "he visto"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – experiencia no vivida."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Hoy _______ leído más de 100 páginas.",
+    "options": [
+      "leo",
+      "leí",
+      "he leído"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – logro del día."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Mis hijos _______ ya aprendido a nadar.",
+    "options": [
+      "aprenden",
+      "aprendieron",
+      "han aprendido"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – habilidad adquirida."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "¿_______ ya reservado el hotel para las vacaciones?",
+    "options": [
+      "reservas",
+      "reservaste",
+      "has reservado"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – acción preparatoria."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Esta vida _______ muy buena suerte.",
+    "options": [
+      "tengo",
+      "tuve",
+      "he tenido"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – balance vital."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Ya _______ terminado todos los exámenes del curso.",
+    "options": [
+      "termino",
+      "terminé",
+      "he terminado"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – período académico cerrado."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Nunca _______ imaginado que llegaría tan lejos.",
+    "options": [
+      "imagino",
+      "imaginé",
+      "he imaginado"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – reflexión sobre vida."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Este fin de semana _______ muy relajante.",
+    "options": [
+      "es",
+      "fue",
+      "ha sido"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – valoración de fin de semana reciente."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Ya _______ visto esa película dos veces.",
+    "options": [
+      "veo",
+      "vi",
+      "he visto"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – repetición acumulada."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Mis vecinos _______ ya mudado a otra ciudad.",
+    "options": [
+      "se mudan",
+      "se mudaron",
+      "se han mudado"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – cambio con relevancia actual."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "¿_______ ya hablado con el profesor sobre la nota?",
+    "options": [
+      "hablas",
+      "hablaste",
+      "has hablado"
+    ],
+    "correct": 2,
+    "explanations": [
+      "Presente.",
+      "Indefinido.",
+      "Correcto – acción reciente pendiente."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "_______ la puerta con cuidado, por favor. (tú)",
+    "options": [
+      "cierra",
+      "cierras",
+      "cerraba"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – imperativo afirmativo tú.",
+      "Presente indicativo.",
+      "Pretérito imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "No _______ tan alto, los vecinos se quejan. (tú)",
+    "options": [
+      "hables",
+      "habla",
+      "hablabas"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – imperativo negativo tú.",
+      "Afirmativo tú.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "_______ más despacio, por favor. (vosotros)",
+    "options": [
+      "hablad",
+      "habláis",
+      "hablabais"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – imperativo afirmativo vosotros.",
+      "Presente indicativo vosotros.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "_______ la verdad ahora mismo. (tú)",
+    "options": [
+      "di",
+      "dices",
+      "decías"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – irregular tú (decir).",
+      "Presente indicativo.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "No _______ el vaso, está muy caliente. (tú)",
+    "options": [
+      "toques",
+      "toca",
+      "tocabas"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – negativo tú (tocar).",
+      "Afirmativo tú.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "_______ aquí inmediatamente. (usted)",
+    "options": [
+      "venga",
+      "viene",
+      "venía"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – imperativo formal usted (venir).",
+      "Presente indicativo.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "_______ la música, estoy estudiando. (tú – negativo)",
+    "options": [
+      "apagues",
+      "apaga",
+      "apagabas"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – negativo tú (apagar).",
+      "Afirmativo tú.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "_______ la mesa antes de comer. (vosotros)",
+    "options": [
+      "poned",
+      "ponéis",
+      "poníais"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – irregular vosotros (poner).",
+      "Presente indicativo.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "_______ conmigo al supermercado. (tú)",
+    "options": [
+      "ven",
+      "vienes",
+      "venías"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – irregular tú (venir).",
+      "Presente indicativo.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "No _______ tan rápido, hay niños. (ustedes)",
+    "options": [
+      "corran",
+      "corren",
+      "corrían"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – negativo ustedes.",
+      "Presente indicativo.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "_______ el volumen, no se oye nada. (tú)",
+    "options": [
+      "sube",
+      "subes",
+      "subías"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – afirmativo tú (subir).",
+      "Presente indicativo.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "_______ las manos antes de comer. (vosotros)",
+    "options": [
+      "lavaos",
+      "laváis",
+      "lavabais"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – reflexivo vosotros.",
+      "Presente indicativo.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "No _______ mentiras, por favor. (tú)",
+    "options": [
+      "digas",
+      "diga",
+      "decías"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – negativo tú (decir).",
+      "Formal usted.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "_______ silencio, el bebé está durmiendo. (ustedes)",
+    "options": [
+      "hagan",
+      "hacen",
+      "hacían"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – irregular ustedes (hacer).",
+      "Presente indicativo.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "_______ el regalo que te compré. (tú)",
+    "options": [
+      "abre",
+      "abres",
+      "abrías"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – afirmativo tú (abrir).",
+      "Presente indicativo.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "No _______ el móvil en clase. (tú)",
+    "options": [
+      "uses",
+      "usa",
+      "usabas"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – negativo tú (usar).",
+      "Afirmativo tú.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "_______ más agua, hace mucho calor. (tú)",
+    "options": [
+      "bebe",
+      "bebes",
+      "bebías"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – irregular tú (beber).",
+      "Presente indicativo.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "_______ la ventana, entra frío. (usted)",
+    "options": [
+      "cierre",
+      "cierra",
+      "cerraba"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – formal usted.",
+      "Tú afirmativo.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "No _______ tan pronto, aún es temprano. (vosotros)",
+    "options": [
+      "os vayáis",
+      "váis",
+      "ibais"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – negativo vosotros (ir).",
+      "Presente indicativo.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "_______ atención a lo que digo. (tú)",
+    "options": [
+      "presta",
+      "prestas",
+      "prestabas"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – afirmativo tú.",
+      "Presente indicativo.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "_______ el perro a pasear ahora. (tú)",
+    "options": [
+      "saca",
+      "sacas",
+      "sacabas"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – afirmativo tú (sacar).",
+      "Presente indicativo.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "No _______ más dulces, te hará daño. (tú)",
+    "options": [
+      "comas",
+      "come",
+      "comías"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – negativo tú (comer).",
+      "Afirmativo tú.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "_______ las maletas en el coche. (vosotros)",
+    "options": [
+      "meted",
+      "metéis",
+      "metíais"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – afirmativo vosotros (meter).",
+      "Presente indicativo.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "_______ el favor de cerrar la puerta. (usted)",
+    "options": [
+      "haga",
+      "hace",
+      "hacía"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – formal cortés (hacer).",
+      "Presente indicativo.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "_______ rápido, se nos hace tarde. (tú)",
+    "options": [
+      "date prisa",
+      "das prisa",
+      "dabas prisa"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – expresión idiomática tú.",
+      "Presente indicativo.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "No _______ el secreto a nadie. (tú)",
+    "options": [
+      "cuentes",
+      "cuenta",
+      "contabas"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – negativo tú (contar).",
+      "Afirmativo tú.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "_______ conmigo esta noche. (tú)",
+    "options": [
+      "sal",
+      "sales",
+      "salías"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – irregular tú (salir).",
+      "Presente indicativo.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "_______ las luces antes de salir. (vosotros)",
+    "options": [
+      "apagad",
+      "apagáis",
+      "apagabais"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – afirmativo vosotros.",
+      "Presente indicativo.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "_______ el perro, por favor. (ustedes)",
+    "options": [
+      "saquen",
+      "sacan",
+      "sacaban"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – formal ustedes.",
+      "Presente indicativo.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "No _______ miedo, todo va a salir bien. (tú)",
+    "options": [
+      "tengas",
+      "ten",
+      "tenías"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – negativo tú (tener).",
+      "Afirmativo tú.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "_______ la verdad aunque duela. (tú)",
+    "options": [
+      "di",
+      "dices",
+      "decías"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – irregular tú (decir).",
+      "Presente indicativo.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "_______ las manos con jabón. (vosotros)",
+    "options": [
+      "lavaos",
+      "laváis",
+      "lavabais"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – reflexivo vosotros.",
+      "Presente indicativo.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "No _______ el móvil mientras conduces. (tú)",
+    "options": [
+      "uses",
+      "usa",
+      "usabas"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – negativo tú.",
+      "Afirmativo tú.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "_______ el volumen un poco más. (tú)",
+    "options": [
+      "sube",
+      "subes",
+      "subías"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – afirmativo tú.",
+      "Presente indicativo.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "_______ las reglas del juego. (ustedes)",
+    "options": [
+      "cumplan",
+      "cumplen",
+      "cumplían"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – formal ustedes.",
+      "Presente indicativo.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "No _______ tan serio, sonríe. (tú)",
+    "options": [
+      "pongas",
+      "pon",
+      "ponías"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – negativo tú (poner).",
+      "Afirmativo tú.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "_______ el ejemplo que te doy. (tú)",
+    "options": [
+      "sigue",
+      "sigues",
+      "seguías"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – afirmativo tú (seguir).",
+      "Presente indicativo.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "_______ cuidado con el escalón. (tú)",
+    "options": [
+      "ten",
+      "tienes",
+      "tenías"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – irregular tú (tener).",
+      "Presente indicativo.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "No _______ el secreto a tu hermana. (tú)",
+    "options": [
+      "digas",
+      "diga",
+      "decías"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – negativo tú (decir).",
+      "Formal usted.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "_______ la tarea antes de jugar. (vosotros)",
+    "options": [
+      "haced",
+      "hacéis",
+      "hacíais"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – afirmativo vosotros (hacer).",
+      "Presente indicativo.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "_______ el abrigo, hace frío fuera. (tú)",
+    "options": [
+      "ponte",
+      "pones",
+      "ponías"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – reflexivo tú (ponerse).",
+      "Presente indicativo.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "No _______ la puerta tan fuerte. (ustedes)",
+    "options": [
+      "cierren",
+      "cierran",
+      "cerraban"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – negativo ustedes.",
+      "Presente indicativo.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "_______ la verdad sin miedo. (tú)",
+    "options": [
+      "di",
+      "dices",
+      "decías"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – irregular tú.",
+      "Presente indicativo.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "_______ las verduras antes de cocinarlas. (vosotros)",
+    "options": [
+      "lavad",
+      "laváis",
+      "lavabais"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – afirmativo vosotros.",
+      "Presente indicativo.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "No _______ tan despacio, llegaremos tarde. (tú)",
+    "options": [
+      "conduzcas",
+      "conduce",
+      "conducías"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – negativo tú (conducir).",
+      "Afirmativo tú.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "_______ el ejemplo y todos seguirán. (usted)",
+    "options": [
+      "dé",
+      "da",
+      "daba"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – irregular formal usted (dar).",
+      "Tú afirmativo.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "_______ la música que te gusta. (tú)",
+    "options": [
+      "pon",
+      "pones",
+      "ponías"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – irregular tú (poner).",
+      "Presente indicativo.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "No _______ las promesas que no puedas cumplir. (tú)",
+    "options": [
+      "hagas",
+      "haga",
+      "hacías"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – negativo tú (hacer).",
+      "Formal usted.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "_______ la oportunidad que tienes. (tú)",
+    "options": [
+      "aprovecha",
+      "aprovechas",
+      "aprovechabas"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – afirmativo tú.",
+      "Presente indicativo.",
+      "Imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Condicional",
+    "sentence": "Si tuviera más dinero, _______ de viaje todo el año.",
+    "options": [
+      "iría",
+      "voy",
+      "iba"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – condicional simple en oración hipotética.",
+      "Presente indicativo.",
+      "Pretérito imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Condicional",
+    "sentence": "En tu lugar, yo no _______ eso.",
+    "options": [
+      "haría",
+      "hago",
+      "hacía"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – consejo con condicional.",
+      "Presente indicativo.",
+      "Pretérito imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Condicional",
+    "sentence": "Si me lo pidieras, te _______ sin dudar.",
+    "options": [
+      "ayudaría",
+      "ayudo",
+      "ayudaba"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – condicional en la principal.",
+      "Presente indicativo.",
+      "Pretérito imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Condicional",
+    "sentence": "¿_______ tan amable de pasarme la sal? (cortesía)",
+    "options": [
+      "podrías",
+      "puedes",
+      "podías"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – petición educada con condicional.",
+      "Presente indicativo.",
+      "Pretérito imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Condicional",
+    "sentence": "Si ganara la lotería, _______ la casa de mis sueños.",
+    "options": [
+      "compraría",
+      "compro",
+      "compraba"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – hipótesis irreal.",
+      "Presente indicativo.",
+      "Pretérito imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Condicional",
+    "sentence": "Dijo que _______ a la fiesta si terminaba temprano.",
+    "options": [
+      "vendría",
+      "viene",
+      "venía"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – futuro en el pasado (estilo indirecto).",
+      "Presente indicativo.",
+      "Pretérito imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Condicional",
+    "sentence": "Yo te _______ si supiera la respuesta.",
+    "options": [
+      "diría",
+      "digo",
+      "decía"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – condicional simple (decir irregular).",
+      "Presente indicativo.",
+      "Pretérito imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Condicional",
+    "sentence": "Si no lloviera, _______ al parque ahora.",
+    "options": [
+      "iríamos",
+      "vamos",
+      "íbamos"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – condicional en la principal.",
+      "Presente indicativo.",
+      "Pretérito imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Condicional",
+    "sentence": "Me _______ muy bien si me dejaras explicarte.",
+    "options": [
+      "gustaría",
+      "gusta",
+      "gustaba"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – gustar en condicional (cortesía/hipótesis).",
+      "Presente indicativo.",
+      "Pretérito imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Condicional",
+    "sentence": "Si fueras más puntual, no _______ siempre tarde.",
+    "options": [
+      "llegarías",
+      "llegas",
+      "llegabas"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – reproche suave con condicional.",
+      "Presente indicativo.",
+      "Pretérito imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Condicional",
+    "sentence": "¿_______ el favor de cerrar la ventana? (cortesía)",
+    "options": [
+      "podrías",
+      "puedes",
+      "podías"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – petición educada.",
+      "Presente indicativo.",
+      "Pretérito imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Condicional",
+    "sentence": "Si tuviera alas, _______ como un pájaro.",
+    "options": [
+      "volaría",
+      "vuelo",
+      "volaba"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – hipótesis imposible.",
+      "Presente indicativo.",
+      "Pretérito imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Condicional",
+    "sentence": "Pensé que _______ más tarde.",
+    "options": [
+      "llegarías",
+      "llegas",
+      "llegabas"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – futuro en el pasado.",
+      "Presente indicativo.",
+      "Pretérito imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Condicional",
+    "sentence": "Si me invitaras, _______ encantada.",
+    "options": [
+      "iría",
+      "voy",
+      "iba"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – aceptación hipotética.",
+      "Presente indicativo.",
+      "Pretérito imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Condicional",
+    "sentence": "_______ más tranquilo si supiera la verdad.",
+    "options": [
+      "estaría",
+      "estoy",
+      "estaba"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – estado hipotético.",
+      "Presente indicativo.",
+      "Pretérito imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Condicional",
+    "sentence": "Si estudiara más, _______ mejores notas.",
+    "options": [
+      "sacaría",
+      "saco",
+      "sacaba"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – consecuencia lógica hipotética.",
+      "Presente indicativo.",
+      "Pretérito imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Condicional",
+    "sentence": "¿Me _______ ayudar con esto? (cortesía)",
+    "options": [
+      "podrías",
+      "puedes",
+      "podías"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – petición educada.",
+      "Presente indicativo.",
+      "Pretérito imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Condicional",
+    "sentence": "Si fuera rico, _______ una casa en la playa.",
+    "options": [
+      "compraría",
+      "compro",
+      "compraba"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – hipótesis irreal.",
+      "Presente indicativo.",
+      "Pretérito imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Condicional",
+    "sentence": "Dijo que _______ mañana si no lloviera.",
+    "options": [
+      "vendría",
+      "viene",
+      "venía"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – futuro condicionado en estilo indirecto.",
+      "Presente indicativo.",
+      "Pretérito imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Condicional",
+    "sentence": "Yo _______ que lo intentaras de nuevo.",
+    "options": [
+      "querría",
+      "quiero",
+      "quería"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – deseo hipotético.",
+      "Presente indicativo.",
+      "Pretérito imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Condicional",
+    "sentence": "Si tuviera tiempo, _______ más deporte.",
+    "options": [
+      "haría",
+      "hago",
+      "hacía"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – condición irreal.",
+      "Presente indicativo.",
+      "Pretérito imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Condicional",
+    "sentence": "_______ el favor de esperar un momento? (cortesía)",
+    "options": [
+      "podrías",
+      "puedes",
+      "podías"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – petición educada.",
+      "Presente indicativo.",
+      "Pretérito imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Condicional",
+    "sentence": "Si vinieras antes, _______ verlo.",
+    "options": [
+      "podrías",
+      "puedes",
+      "podías"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – posibilidad hipotética.",
+      "Presente indicativo.",
+      "Pretérito imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Condicional",
+    "sentence": "Me _______ gustar vivir en otra ciudad.",
+    "options": [
+      "gustaría",
+      "gusta",
+      "gustaba"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – preferencia hipotética.",
+      "Presente indicativo.",
+      "Pretérito imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Condicional",
+    "sentence": "Si no tuvieras tanto trabajo, _______ más tiempo juntos.",
+    "options": [
+      "tendríamos",
+      "tenemos",
+      "teníamos"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – consecuencia hipotética.",
+      "Presente indicativo.",
+      "Pretérito imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Condicional",
+    "sentence": "_______ más si me lo pidieras con educación.",
+    "options": [
+      "haría",
+      "hago",
+      "hacía"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – condición de cortesía.",
+      "Presente indicativo.",
+      "Pretérito imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Condicional",
+    "sentence": "Si fuera presidente, _______ muchas cosas.",
+    "options": [
+      "cambiaría",
+      "cambio",
+      "cambiaba"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – hipótesis irreal.",
+      "Presente indicativo.",
+      "Pretérito imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Condicional",
+    "sentence": "Dijeron que _______ si les pagábamos antes.",
+    "options": [
+      "vendrían",
+      "vienen",
+      "venían"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – futuro en el pasado.",
+      "Presente indicativo.",
+      "Pretérito imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Condicional",
+    "sentence": "Yo _______ que lo pensaras mejor.",
+    "options": [
+      "querría",
+      "quiero",
+      "quería"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – sugerencia suave.",
+      "Presente indicativo.",
+      "Pretérito imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Condicional",
+    "sentence": "Si me dieras la oportunidad, _______ lo mejor.",
+    "options": [
+      "haría",
+      "hago",
+      "hacía"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – promesa hipotética.",
+      "Presente indicativo.",
+      "Pretérito imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Condicional",
+    "sentence": "¿_______ tan amable de repetirlo? (cortesía)",
+    "options": [
+      "podrías",
+      "puedes",
+      "podías"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – petición educada.",
+      "Presente indicativo.",
+      "Pretérito imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Condicional",
+    "sentence": "Si supiera la respuesta, te la _______ ahora mismo.",
+    "options": [
+      "diría",
+      "digo",
+      "decía"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – condicional irregular (decir).",
+      "Presente indicativo.",
+      "Pretérito imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Condicional",
+    "sentence": "Si no fuera tan caro, lo _______ sin pensarlo.",
+    "options": [
+      "compraría",
+      "compro",
+      "compraba"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – hipótesis de compra.",
+      "Presente indicativo.",
+      "Pretérito imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Condicional",
+    "sentence": "Me _______ muy bien si me ayudaras un poco.",
+    "options": [
+      "gustaría",
+      "gusta",
+      "gustaba"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – deseo hipotético.",
+      "Presente indicativo.",
+      "Pretérito imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Condicional",
+    "sentence": "Si vivieras más cerca, _______ más a menudo.",
+    "options": [
+      "nos veríamos",
+      "nos vemos",
+      "nos veíamos"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – consecuencia hipotética.",
+      "Presente indicativo.",
+      "Pretérito imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Condicional",
+    "sentence": "_______ que vinieras mañana por la mañana.",
+    "options": [
+      "preferiría",
+      "prefiero",
+      "prefería"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – preferencia hipotética.",
+      "Presente indicativo.",
+      "Pretérito imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Condicional",
+    "sentence": "Si tuviera tu edad, _______ de otra manera.",
+    "options": [
+      "haría",
+      "hago",
+      "hacía"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – reflexión hipotética.",
+      "Presente indicativo.",
+      "Pretérito imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Condicional",
+    "sentence": "¿_______ la bondad de abrir la puerta? (cortesía)",
+    "options": [
+      "tendrías",
+      "tienes",
+      "tenías"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – petición muy educada.",
+      "Presente indicativo.",
+      "Pretérito imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Condicional",
+    "sentence": "Si no hubiera tráfico, _______ en 20 minutos.",
+    "options": [
+      "llegaríamos",
+      "llegamos",
+      "llegábamos"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – condición de tiempo.",
+      "Presente indicativo.",
+      "Pretérito imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Condicional",
+    "sentence": "Yo _______ que lo reconsideraras.",
+    "options": [
+      "querría",
+      "quiero",
+      "quería"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – sugerencia suave.",
+      "Presente indicativo.",
+      "Pretérito imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Condicional",
+    "sentence": "Si me escucharas, no _______ tantos errores.",
+    "options": [
+      "cometerías",
+      "cometes",
+      "cometías"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – reproche con condicional.",
+      "Presente indicativo.",
+      "Pretérito imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Condicional",
+    "sentence": "_______ más si supiera que te hacía ilusión.",
+    "options": [
+      "vendría",
+      "vengo",
+      "venía"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – condición emocional.",
+      "Presente indicativo.",
+      "Pretérito imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Condicional",
+    "sentence": "Si fuera posible, _______ el tiempo atrás.",
+    "options": [
+      "haría",
+      "hago",
+      "hacía"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – deseo imposible.",
+      "Presente indicativo.",
+      "Pretérito imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Condicional",
+    "sentence": "Me _______ saber qué piensas realmente.",
+    "options": [
+      "gustaría",
+      "gusta",
+      "gustaba"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – deseo de información.",
+      "Presente indicativo.",
+      "Pretérito imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Condicional",
+    "sentence": "Si no tuvieras miedo, _______ mucho más.",
+    "options": [
+      "harías",
+      "haces",
+      "hacías"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – potencial bloqueado.",
+      "Presente indicativo.",
+      "Pretérito imperfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Condicional",
+    "sentence": "¿_______ la amabilidad de explicármelo otra vez?",
+    "options": [
+      "tendrías",
+      "tienes",
+      "tenías"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto – petición muy formal.",
+      "Presente indicativo.",
+      "Pretérito imperfecto."
     ]
   }
 ]
