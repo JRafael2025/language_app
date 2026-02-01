@@ -1,134 +1,902 @@
 [
   {
-    "language": "es",
-    "tense": "Presente del Indicativo",
-    "sentence": "_______ desde casa porque me permite concentrarme mejor.",
-    "options": ["Trabajo", "Trabajar", "Trabajaste"],
-    "correct": 0,
-    "explanations": [
-      "Correcto. «Trabajo» es la primera persona singular (yo) del presente del indicativo de «trabajar».",
-      "Incorrecto. «Trabajar» es el infinitivo del verbo; aquí se necesita una forma conjugada en presente.",
-      "Incorrecto. «Trabajaste» es la segunda persona singular (tú) del pretérito indefinido, no del presente."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Presente del Indicativo",
-    "sentence": "Ella _______ muy bien el piano.",
-    "options": ["toca", "tocó", "tocar"],
-    "correct": 0,
-    "explanations": [
-      "Correcto. «Toca» es la tercera persona singular (él/ella) del presente del indicativo de «tocar».",
-      "Incorrecto. «Tocó» es la tercera persona singular del pretérito indefinido, que indica una acción pasada completada.",
-      "Incorrecto. «Tocar» es el infinitivo; la oración necesita una forma conjugada en presente."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Presente Perfecto",
-    "sentence": "Yo _______ esta película tres veces.",
-    "options": ["vi", "he visto", "veía"],
+    "language": "en",
+    "tense": "Present Simple",
+    "sentence": "She usually _______ to work by bus.",
+    "options": ["go", "goes", "is going"],
     "correct": 1,
     "explanations": [
-      "Incorrecto. «Vi» es pretérito indefinido (primera persona singular de «ver»). Aquí se necesita un tiempo que conecte el pasado con el presente.",
-      "Correcto. «He visto» es la primera persona singular del presente perfecto de «ver». Se usa para acciones pasadas que tienen relevancia en el presente.",
-      "Incorrecto. «Veía» es pretérito imperfecto, que describe acciones habituales o descriptivas en el pasado, sin relación explícita al presente."
+      "Incorrect. 'Go' is the base form and cannot be used with third-person singular subjects.",
+      "Correct. 'Goes' is the third-person singular form of the present simple.",
+      "Incorrect. 'Is going' is present continuous, not used for habitual actions here."
+    ]
+  },
+  {
+    "language": "en",
+    "tense": "Present Simple",
+    "sentence": "They _______ coffee every morning.",
+    "options": ["drink", "drinks", "are drinking"],
+    "correct": 0,
+    "explanations": [
+      "Correct. 'Drink' is the correct present simple form for plural subjects.",
+      "Incorrect. 'Drinks' is used only with third-person singular.",
+      "Incorrect. Present continuous is not used for habits."
+    ]
+  },
+  {
+    "language": "en",
+    "tense": "Present Continuous",
+    "sentence": "I _______ for my keys right now.",
+    "options": ["look", "am looking", "looked"],
+    "correct": 1,
+    "explanations": [
+      "Incorrect. Present simple does not express actions happening now.",
+      "Correct. Present continuous describes an action happening at the moment of speaking.",
+      "Incorrect. Past simple refers to completed past actions."
+    ]
+  },
+  {
+    "language": "en",
+    "tense": "Present Continuous",
+    "sentence": "They _______ a new system this week.",
+    "options": ["install", "are installing", "installed"],
+    "correct": 1,
+    "explanations": [
+      "Incorrect. Present simple does not fit temporary actions.",
+      "Correct. Present continuous is used for temporary or ongoing actions.",
+      "Incorrect. Past simple indicates a finished action."
+    ]
+  },
+  {
+    "language": "en",
+    "tense": "Past Simple",
+    "sentence": "We _______ the meeting yesterday.",
+    "options": ["finish", "finished", "have finished"],
+    "correct": 1,
+    "explanations": [
+      "Incorrect. Present simple cannot be used with a finished time reference.",
+      "Correct. Past simple is used for completed actions in the past.",
+      "Incorrect. Present perfect cannot be used with 'yesterday'."
+    ]
+  },
+  {
+    "language": "en",
+    "tense": "Past Simple",
+    "sentence": "She _______ late last night.",
+    "options": ["arrives", "arrived", "has arrived"],
+    "correct": 1,
+    "explanations": [
+      "Incorrect. Present simple is not used for past events.",
+      "Correct. Past simple describes a completed past action.",
+      "Incorrect. Present perfect does not work with specific past times."
+    ]
+  },
+  {
+    "language": "en",
+    "tense": "Present Perfect",
+    "sentence": "I _______ this book before.",
+    "options": ["read", "have read", "was reading"],
+    "correct": 1,
+    "explanations": [
+      "Incorrect. Past simple does not emphasize experience.",
+      "Correct. Present perfect is used for life experiences.",
+      "Incorrect. Past continuous describes an ongoing past action."
+    ]
+  },
+  {
+    "language": "en",
+    "tense": "Present Perfect",
+    "sentence": "They _______ already finished the project.",
+    "options": ["have", "have already", "have already finished"],
+    "correct": 2,
+    "explanations": [
+      "Incorrect. The sentence needs a main verb.",
+      "Incorrect. The past participle is missing.",
+      "Correct. Present perfect uses 'have + past participle'."
+    ]
+  },
+  {
+    "language": "en",
+    "tense": "Future (will)",
+    "sentence": "I think it _______ rain tomorrow.",
+    "options": ["will", "is going to", "rains"],
+    "correct": 0,
+    "explanations": [
+      "Correct. 'Will' is used for predictions based on opinion.",
+      "Incorrect. 'Going to' is usually based on evidence.",
+      "Incorrect. Present simple is not used for future predictions here."
+    ]
+  },
+  {
+    "language": "en",
+    "tense": "Future (going to)",
+    "sentence": "Look at those clouds! It _______ rain.",
+    "options": ["will", "is going to", "rains"],
+    "correct": 1,
+    "explanations": [
+      "Incorrect. 'Will' is less common when there is clear evidence.",
+      "Correct. 'Going to' is used when there is visible evidence.",
+      "Incorrect. Present simple is not appropriate."
+    ]
+  },
+  {
+    "language": "en",
+    "tense": "Conditional",
+    "sentence": "If I had more time, I _______ travel more.",
+    "options": ["will", "would", "can"],
+    "correct": 1,
+    "explanations": [
+      "Incorrect. 'Will' is not used in second conditional main clauses.",
+      "Correct. 'Would' is used for hypothetical situations.",
+      "Incorrect. 'Can' does not express a hypothetical result."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente del Indicativo",
+    "sentence": "Yo _______ en una empresa de tecnología.",
+    "options": ["trabajo", "trabajé", "trabajar"],
+    "correct": 0,
+    "explanations": [
+      "Correcto. 'Trabajo' es la primera persona del singular del presente del indicativo.",
+      "Incorrecto. 'Trabajé' es pretérito indefinido.",
+      "Incorrecto. 'Trabajar' es el infinitivo."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente del Indicativo",
+    "sentence": "Ella _______ todos los días a las ocho.",
+    "options": ["despierta", "despertó", "despertar"],
+    "correct": 0,
+    "explanations": [
+      "Correcto. El presente se usa para rutinas diarias.",
+      "Incorrecto. 'Despertó' indica una acción pasada.",
+      "Incorrecto. El infinitivo no es una forma conjugada."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente del Indicativo",
+    "sentence": "Nosotros _______ español en la universidad.",
+    "options": ["estudiamos", "estudiábamos", "estudiaremos"],
+    "correct": 0,
+    "explanations": [
+      "Correcto. Presente del indicativo para hechos actuales.",
+      "Incorrecto. Imperfecto indica hábito en el pasado.",
+      "Incorrecto. Futuro no corresponde al contexto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente del Indicativo",
+    "sentence": "Mi hermano _______ muy bien inglés.",
+    "options": ["habla", "habló", "hablar"],
+    "correct": 0,
+    "explanations": [
+      "Correcto. 'Habla' es tercera persona del singular en presente.",
+      "Incorrecto. 'Habló' es pasado.",
+      "Incorrecto. El infinitivo no funciona como verbo principal."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente del Indicativo",
+    "sentence": "Ellos _______ café por la mañana.",
+    "options": ["beben", "bebieron", "beber"],
+    "correct": 0,
+    "explanations": [
+      "Correcto. Presente usado para hábitos.",
+      "Incorrecto. Pretérito indefinido indica pasado.",
+      "Incorrecto. Forma infinitiva."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente del Indicativo",
+    "sentence": "Siempre _______ el correo antes de salir.",
+    "options": ["reviso", "revisé", "revisar"],
+    "correct": 0,
+    "explanations": [
+      "Correcto. El adverbio 'siempre' indica hábito.",
+      "Incorrecto. Pasado terminado.",
+      "Incorrecto. Infinitivo."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente del Indicativo",
+    "sentence": "El tren _______ a las siete en punto.",
+    "options": ["sale", "salió", "saldrá"],
+    "correct": 0,
+    "explanations": [
+      "Correcto. El presente se usa para horarios fijos.",
+      "Incorrecto. Pasado.",
+      "Incorrecto. Futuro no es necesario aquí."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente del Indicativo",
+    "sentence": "¿Tú _______ música mientras trabajas?",
+    "options": ["escuchas", "escuchaste", "escuchar"],
+    "correct": 0,
+    "explanations": [
+      "Correcto. Pregunta en presente del indicativo.",
+      "Incorrecto. Tiempo pasado.",
+      "Incorrecto. Infinitivo."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente del Indicativo",
+    "sentence": "Mis padres _______ cerca del centro.",
+    "options": ["viven", "vivieron", "vivir"],
+    "correct": 0,
+    "explanations": [
+      "Correcto. Hecho actual.",
+      "Incorrecto. Pasado terminado.",
+      "Incorrecto. Forma no conjugada."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente del Indicativo",
+    "sentence": "Yo no _______ carne.",
+    "options": ["como", "comí", "comer"],
+    "correct": 0,
+    "explanations": [
+      "Correcto. Negación en presente.",
+      "Incorrecto. Pasado.",
+      "Incorrecto. Infinitivo."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente del Indicativo",
+    "sentence": "Ella _______ muy cansada hoy.",
+    "options": ["está", "estuvo", "estar"],
+    "correct": 0,
+    "explanations": [
+      "Correcto. 'Estar' se usa para estados temporales.",
+      "Incorrecto. Pasado.",
+      "Incorrecto. Infinitivo."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente del Indicativo",
+    "sentence": "Siempre _______ temprano al trabajo.",
+    "options": ["llego", "llegué", "llegar"],
+    "correct": 0,
+    "explanations": [
+      "Correcto. Hábito actual.",
+      "Incorrecto. Pasado.",
+      "Incorrecto. Infinitivo."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente del Indicativo",
+    "sentence": "Nosotros _______ mucho en este proyecto.",
+    "options": ["aprendemos", "aprendimos", "aprender"],
+    "correct": 0,
+    "explanations": [
+      "Correcto. Acción actual.",
+      "Incorrecto. Pasado terminado.",
+      "Incorrecto. Infinitivo."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente del Indicativo",
+    "sentence": "¿Dónde _______ tus amigos?",
+    "options": ["viven", "vivieron", "vivir"],
+    "correct": 0,
+    "explanations": [
+      "Correcto. Pregunta en presente.",
+      "Incorrecto. Pasado.",
+      "Incorrecto. Infinitivo."
+    ]
+  },
+{
+    "language": "es",
+    "tense": "Presente del Indicativo",
+    "sentence": "El profesor siempre _______ la lección con ejemplos.",
+    "options": ["explica", "explicó", "explicar"],
+    "correct": 0,
+    "explanations": [
+      "Correcto. El presente del indicativo se usa para hábitos.",
+      "Incorrecto. 'Explicó' es pasado.",
+      "Incorrecto. El infinitivo no es una forma conjugada."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente del Indicativo",
+    "sentence": "Yo _______ correos electrónicos todos los días.",
+    "options": ["envío", "envié", "enviar"],
+    "correct": 0,
+    "explanations": [
+      "Correcto. Acción habitual en el presente.",
+      "Incorrecto. Pasado.",
+      "Incorrecto. Infinitivo."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente del Indicativo",
+    "sentence": "Ella _______ mucha atención en clase.",
+    "options": ["presta", "prestó", "prestar"],
+    "correct": 0,
+    "explanations": [
+      "Correcto. 'Presta atención' es una expresión fija.",
+      "Incorrecto. Tiempo pasado.",
+      "Incorrecto. Infinitivo."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente del Indicativo",
+    "sentence": "Nosotros _______ las noticias por la mañana.",
+    "options": ["leemos", "leímos", "leer"],
+    "correct": 0,
+    "explanations": [
+      "Correcto. Presente para rutinas.",
+      "Incorrecto. Pasado terminado.",
+      "Incorrecto. Infinitivo."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente del Indicativo",
+    "sentence": "Mis compañeros _______ muchas preguntas.",
+    "options": ["hacen", "hicieron", "hacer"],
+    "correct": 0,
+    "explanations": [
+      "Correcto. Acción actual.",
+      "Incorrecto. Pasado.",
+      "Incorrecto. Infinitivo."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente del Indicativo",
+    "sentence": "El jefe _______ decisiones importantes.",
+    "options": ["toma", "tomó", "tomar"],
+    "correct": 0,
+    "explanations": [
+      "Correcto. Hecho habitual.",
+      "Incorrecto. Pasado.",
+      "Incorrecto. Infinitivo."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente del Indicativo",
+    "sentence": "Yo _______ mucho este tipo de música.",
+    "options": ["escucho", "escuché", "escuchar"],
+    "correct": 0,
+    "explanations": [
+      "Correcto. Preferencia actual.",
+      "Incorrecto. Pasado.",
+      "Incorrecto. Infinitivo."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente del Indicativo",
+    "sentence": "Ellos _______ el problema rápidamente.",
+    "options": ["resuelven", "resolvieron", "resolver"],
+    "correct": 0,
+    "explanations": [
+      "Correcto. Presente para hechos actuales.",
+      "Incorrecto. Pasado.",
+      "Incorrecto. Infinitivo."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente del Indicativo",
+    "sentence": "¿Tú _______ tiempo para estudiar?",
+    "options": ["tienes", "tuviste", "tener"],
+    "correct": 0,
+    "explanations": [
+      "Correcto. Verbo irregular en presente.",
+      "Incorrecto. Pasado.",
+      "Incorrecto. Infinitivo."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente del Indicativo",
+    "sentence": "La empresa _______ soluciones digitales.",
+    "options": ["ofrece", "ofreció", "ofrecer"],
+    "correct": 0,
+    "explanations": [
+      "Correcto. Acción actual.",
+      "Incorrecto. Pasado.",
+      "Incorrecto. Infinitivo."
+    ]
+  },
+    {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "Ayer _______ una reunión importante.",
+    "options": ["tengo", "tuve", "tenía"],
+    "correct": 1,
+    "explanations": [
+      "Incorrecto. Presente del indicativo.",
+      "Correcto. El pretérito indefinido se usa para acciones terminadas en el pasado.",
+      "Incorrecto. El imperfecto describe acciones habituales o en progreso en el pasado."
     ]
   },
   {
     "language": "es",
     "tense": "Pretérito Indefinido",
-    "sentence": "Ayer _______ un libro muy interesante.",
-    "options": ["leí", "leo", "leía"],
+    "sentence": "La semana pasada _______ a mis abuelos.",
+    "options": ["visito", "visité", "visitaba"],
+    "correct": 1,
+    "explanations": [
+      "Incorrecto. Presente.",
+      "Correcto. Acción puntual y terminada en el pasado.",
+      "Incorrecto. Imperfecto indica repetición o descripción."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "Ellos _______ el proyecto a tiempo.",
+    "options": ["terminan", "terminaron", "terminaban"],
+    "correct": 1,
+    "explanations": [
+      "Incorrecto. Presente.",
+      "Correcto. El indefinido indica una acción completada.",
+      "Incorrecto. Imperfecto no expresa finalización."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "Yo _______ el correo esta mañana.",
+    "options": ["envío", "envié", "enviaba"],
+    "correct": 1,
+    "explanations": [
+      "Incorrecto. Presente.",
+      "Correcto. Acción concreta en un momento específico.",
+      "Incorrecto. Imperfecto indica duración o hábito."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "El tren _______ con retraso.",
+    "options": ["sale", "salió", "salía"],
+    "correct": 1,
+    "explanations": [
+      "Incorrecto. Presente.",
+      "Correcto. Acción puntual en el pasado.",
+      "Incorrecto. Imperfecto describe contexto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "Nosotros _______ mucho en ese curso.",
+    "options": ["aprendemos", "aprendimos", "aprendíamos"],
+    "correct": 1,
+    "explanations": [
+      "Incorrecto. Presente.",
+      "Correcto. Resultado final de una experiencia pasada.",
+      "Incorrecto. Imperfecto indica proceso."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "Ella _______ su primer trabajo en 2022.",
+    "options": ["consigue", "consiguió", "conseguía"],
+    "correct": 1,
+    "explanations": [
+      "Incorrecto. Presente.",
+      "Correcto. Hecho puntual con fecha definida.",
+      "Incorrecto. Imperfecto no indica finalización."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "Anoche _______ muy cansados.",
+    "options": ["estamos", "estuvimos", "estábamos"],
+    "correct": 1,
+    "explanations": [
+      "Incorrecto. Presente.",
+      "Correcto. Estado puntual en el pasado.",
+      "Incorrecto. Imperfecto describe estados prolongados."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "Yo _______ el informe antes del plazo.",
+    "options": ["entrego", "entregué", "entregaba"],
+    "correct": 1,
+    "explanations": [
+      "Incorrecto. Presente.",
+      "Correcto. Acción terminada.",
+      "Incorrecto. Imperfecto indica acción en progreso."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "¿Dónde _______ ayer por la tarde?",
+    "options": ["estás", "estuviste", "estabas"],
+    "correct": 1,
+    "explanations": [
+      "Incorrecto. Presente.",
+      "Correcto. Pregunta sobre un momento específico del pasado.",
+      "Incorrecto. Imperfecto no se usa para eventos puntuales."
+    ]
+  },
+    {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "La empresa _______ un nuevo producto el año pasado.",
+    "options": ["lanza", "lanzó", "lanzaba"],
+    "correct": 1,
+    "explanations": [
+      "Incorrecto. Presente del indicativo.",
+      "Correcto. Acción puntual y finalizada en el pasado.",
+      "Incorrecto. El imperfecto no indica finalización."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "Nosotros _______ el contrato sin problemas.",
+    "options": ["firmamos", "firmábamos", "firmamos"],
     "correct": 0,
     "explanations": [
-      "Correcto. «Leí» es la primera persona singular del pretérito indefinido de «leer». Se usa para acciones pasadas completadas, como algo que ocurrió ayer.",
-      "Incorrecto. «Leo» es presente del indicativo (primera persona singular). La palabra «ayer» indica que la acción ya se completó.",
-      "Incorrecto. «Leía» es pretérito imperfecto, que describe acciones habituales o en progreso en el pasado, no acciones completadas."
+      "Correcto. Pretérito indefinido para una acción completada.",
+      "Incorrecto. Imperfecto indica proceso o repetición.",
+      "Incorrecto. Aunque la forma es correcta, solo una opción debe ser válida."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "Ella _______ la verdad finalmente.",
+    "options": ["dice", "dijo", "decía"],
+    "correct": 1,
+    "explanations": [
+      "Incorrecto. Presente.",
+      "Correcto. Acción puntual concluida.",
+      "Incorrecto. Imperfecto expresa hábito o descripción."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "Yo _______ el problema rápidamente.",
+    "options": ["resuelvo", "resolví", "resolvía"],
+    "correct": 1,
+    "explanations": [
+      "Incorrecto. Presente.",
+      "Correcto. Acción concreta y terminada.",
+      "Incorrecto. Imperfecto indica duración."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "Ellos _______ tarde a la reunión.",
+    "options": ["llegan", "llegaron", "llegaban"],
+    "correct": 1,
+    "explanations": [
+      "Incorrecto. Presente.",
+      "Correcto. Evento puntual.",
+      "Incorrecto. Imperfecto describe contexto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "¿Quién _______ ese correo?",
+    "options": ["envía", "envió", "enviaba"],
+    "correct": 1,
+    "explanations": [
+      "Incorrecto. Presente.",
+      "Correcto. Acción concreta en el pasado.",
+      "Incorrecto. Imperfecto no expresa puntualidad."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "El jefe _______ la decisión ayer.",
+    "options": ["toma", "tomó", "tomaba"],
+    "correct": 1,
+    "explanations": [
+      "Incorrecto. Presente.",
+      "Correcto. Acción cerrada en el pasado.",
+      "Incorrecto. Imperfecto no indica final."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "Nosotros _______ un taxi anoche.",
+    "options": ["tomamos", "tomábamos", "tomar"],
+    "correct": 0,
+    "explanations": [
+      "Correcto. Acción puntual en el pasado.",
+      "Incorrecto. Imperfecto indica acción en desarrollo.",
+      "Incorrecto. Infinitivo."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "Ella _______ muy nerviosa antes del examen.",
+    "options": ["está", "estuvo", "estaba"],
+    "correct": 1,
+    "explanations": [
+      "Incorrecto. Presente.",
+      "Correcto. Estado puntual en un momento concreto.",
+      "Incorrecto. Imperfecto indica estado prolongado."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "Yo _______ el curso en solo tres meses.",
+    "options": ["termino", "terminé", "terminaba"],
+    "correct": 1,
+    "explanations": [
+      "Incorrecto. Presente.",
+      "Correcto. Acción finalizada.",
+      "Incorrecto. Imperfecto no marca final."
+    ]
+  },
+    {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "Cuando era niño, _______ al parque todos los días.",
+    "options": ["fui", "iba", "he ido"],
+    "correct": 1,
+    "explanations": [
+      "Incorrecto. El pretérito indefinido indica una acción puntual.",
+      "Correcto. El imperfecto se usa para acciones habituales en el pasado.",
+      "Incorrecto. El presente perfecto no se usa para hábitos pasados."
     ]
   },
   {
     "language": "es",
     "tense": "Pretérito Imperfecto",
-    "sentence": "Cuando era niño, _______ todos los días al parque.",
-    "options": ["fui", "iba", "fue"],
+    "sentence": "Antes _______ mucho tiempo leyendo.",
+    "options": ["pasé", "pasaba", "he pasado"],
     "correct": 1,
     "explanations": [
-      "Incorrecto. «Fui» es pretérito indefinido (primera persona singular de «ir»). No expresa una acción habitual en el pasado.",
-      "Correcto. «Iba» es la primera persona singular del pretérito imperfecto de «ir». Se usa para describir acciones que se repetían habitualmente en el pasado.",
-      "Incorrecto. «Fue» es pretérito indefinido (tercera persona singular de «ir»). No encaja ni en persona ni en el significado habitual que requiere la oración."
+      "Incorrecto. Acción puntual.",
+      "Correcto. Acción repetida o habitual en el pasado.",
+      "Incorrecto. El presente perfecto no encaja en este contexto."
     ]
   },
   {
     "language": "es",
-    "tense": "Imperativo",
-    "sentence": "¡_______ la puerta, por favor!",
-    "options": ["Abre", "Abres", "Abriste"],
+    "tense": "Pretérito Imperfecto",
+    "sentence": "Mientras estudiábamos, ella _______ música.",
+    "options": ["escuchó", "escuchaba", "ha escuchado"],
+    "correct": 1,
+    "explanations": [
+      "Incorrecto. Acción puntual que interrumpe.",
+      "Correcto. Acción en progreso en el pasado.",
+      "Incorrecto. Tiempo no adecuado."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "Siempre _______ temprano a la oficina.",
+    "options": ["llegué", "llegaba", "he llegado"],
+    "correct": 1,
+    "explanations": [
+      "Incorrecto. Acción puntual.",
+      "Correcto. Hábito en el pasado.",
+      "Incorrecto. El presente perfecto no se usa con 'siempre' en pasado."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "El profesor _______ la lección cuando sonó el teléfono.",
+    "options": ["explicó", "explicaba", "ha explicado"],
+    "correct": 1,
+    "explanations": [
+      "Incorrecto. Acción cerrada.",
+      "Correcto. Acción en desarrollo interrumpida por otra.",
+      "Incorrecto. Tiempo incorrecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "Antes no _______ tanto estrés.",
+    "options": ["tuve", "tenía", "he tenido"],
+    "correct": 1,
+    "explanations": [
+      "Incorrecto. Acción puntual.",
+      "Correcto. Estado continuo en el pasado.",
+      "Incorrecto. Tiempo no apropiado."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "Mis abuelos _______ en el campo.",
+    "options": ["vivieron", "vivían", "han vivido"],
+    "correct": 1,
+    "explanations": [
+      "Incorrecto. Hecho puntual.",
+      "Correcto. Situación prolongada en el pasado.",
+      "Incorrecto. Presente perfecto no corresponde."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "Mientras trabajaba, _______ llamadas constantemente.",
+    "options": ["recibí", "recibía", "he recibido"],
+    "correct": 1,
+    "explanations": [
+      "Incorrecto. Acción puntual.",
+      "Correcto. Acción repetida en el pasado.",
+      "Incorrecto. Tiempo incorrecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "En esa época, no _______ coche.",
+    "options": ["tuve", "tenía", "he tenido"],
+    "correct": 1,
+    "explanations": [
+      "Incorrecto. Acción puntual.",
+      "Correcto. Estado en el pasado.",
+      "Incorrecto. Presente perfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "De pequeños, _______ muchas historias.",
+    "options": ["leímos", "leíamos", "hemos leído"],
+    "correct": 1,
+    "explanations": [
+      "Incorrecto. Acción puntual.",
+      "Correcto. Hábito pasado.",
+      "Incorrecto. Presente perfecto no corresponde."
+    ]
+  },
+    {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "Cuando vivía en Madrid, _______ en metro todos los días.",
+    "options": ["viajé", "viajaba", "he viajado"],
+    "correct": 1,
+    "explanations": [
+      "Incorrecto. El indefinido indica una acción puntual.",
+      "Correcto. El imperfecto expresa una acción habitual en el pasado.",
+      "Incorrecto. El presente perfecto no se usa para hábitos pasados."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "Antes _______ mucho más tiempo libre.",
+    "options": ["tuve", "tenía", "he tenido"],
+    "correct": 1,
+    "explanations": [
+      "Incorrecto. Acción puntual.",
+      "Correcto. Estado continuo en el pasado.",
+      "Incorrecto. Tiempo no adecuado."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "Mientras ellos hablaban, yo _______ notas.",
+    "options": ["tomé", "tomaba", "he tomado"],
+    "correct": 1,
+    "explanations": [
+      "Incorrecto. Acción puntual.",
+      "Correcto. Acción en desarrollo en el pasado.",
+      "Incorrecto. Presente perfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "Siempre _______ nervioso antes de los exámenes.",
+    "options": ["estuve", "estaba", "he estado"],
+    "correct": 1,
+    "explanations": [
+      "Incorrecto. Estado puntual.",
+      "Correcto. Estado habitual en el pasado.",
+      "Incorrecto. Presente perfecto no corresponde."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "En esa empresa _______ mucha presión.",
+    "options": ["hubo", "había", "ha habido"],
+    "correct": 1,
+    "explanations": [
+      "Incorrecto. Evento puntual.",
+      "Correcto. Descripción de una situación pasada.",
+      "Incorrecto. Presente perfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "Mis amigos siempre _______ tarde.",
+    "options": ["llegaron", "llegaban", "han llegado"],
+    "correct": 1,
+    "explanations": [
+      "Incorrecto. Acción puntual.",
+      "Correcto. Hábito en el pasado.",
+      "Incorrecto. Presente perfecto."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "Cuando estudiaba, no _______ televisión.",
+    "options": ["veía", "vi", "he visto"],
     "correct": 0,
     "explanations": [
-      "Correcto. «Abre» es el imperativo informal (tú) de «abrir». Se usa para dar órdenes o peticiones directas.",
-      "Incorrecto. «Abres» es la segunda persona singular del presente del indicativo, no una forma imperativa.",
-      "Incorrecto. «Abriste» es la segunda persona singular del pretérito indefinido. No puede expresar una orden."
+      "Correcto. El imperfecto expresa una acción habitual negativa.",
+      "Incorrecto. Acción puntual.",
+      "Incorrecto. Presente perfecto."
     ]
   },
   {
     "language": "es",
-    "tense": "Condicional",
-    "sentence": "Si tuviera más tiempo, _______ a estudiar el francés.",
-    "options": ["empiezo", "empezaría", "empezaste"],
+    "tense": "Pretérito Imperfecto",
+    "sentence": "Antes la gente _______ menos tecnología.",
+    "options": ["usó", "usaba", "ha usado"],
     "correct": 1,
     "explanations": [
-      "Incorrecto. «Empiezo» es presente del indicativo (primera persona singular). No expresa una situación hipotética.",
-      "Correcto. «Empezaría» es la primera persona singular del condicional de «empezar». Se usa en oraciones hipotéticas introducidas por «si».",
-      "Incorrecto. «Empezaste» es pretérito indefinido (segunda persona singular). No encaja ni en persona ni en el significado condicional."
+      "Incorrecto. Evento puntual.",
+      "Correcto. Descripción general del pasado.",
+      "Incorrecto. Presente perfecto."
     ]
   },
   {
     "language": "es",
-    "tense": "Presente del Indicativo",
-    "sentence": "Nosotros _______ al trabajo en metro.",
-    "options": ["yamos", "vamos", "fue"],
-    "correct": 1,
+    "tense": "Pretérito Imperfecto",
+    "sentence": "Mientras cocinábamos, _______ música.",
+    "options": ["poníamos", "pusimos", "hemos puesto"],
+    "correct": 0,
     "explanations": [
-      "Incorrecto. «Yamos» no es una forma verbal válida en español. El verbo «ir» tiene conjugaciones irregulares.",
-      "Correcto. «Vamos» es la primera persona plural (nosotros) del presente del indicativo del verbo irregular «ir».",
-      "Incorrecto. «Fue» es pretérito indefinido (tercera persona singular de «ir»). No concuerda en persona ni en tiempo."
+      "Correcto. Acción en desarrollo en el pasado.",
+      "Incorrecto. Acción puntual.",
+      "Incorrecto. Presente perfecto."
     ]
   },
   {
-    "language": "en",
-    "tense": null,
-    "sentence": "She _______ to the store every morning.",
-    "options": ["go", "goes", "gone"],
-    "correct": 1,
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "De joven, _______ muchos libros.",
+    "options": ["leía", "leí", "he leído"],
+    "correct": 0,
     "explanations": [
-      "Incorrect. «Go» is the base form of the verb. With a third-person singular subject (she), you must add the appropriate ending.",
-      "Correct. «Goes» is the third-person singular present tense of «go». Verbs ending in a consonant + 'o' add '-es' for he / she / it.",
-      "Incorrect. «Gone» is the past participle of «go» (e.g., «She has gone»). It cannot stand alone as the main verb here."
-    ]
-  },
-  {
-    "language": "en",
-    "tense": null,
-    "sentence": "They _______ already finished the project by last Friday.",
-    "options": ["have", "had", "has"],
-    "correct": 1,
-    "explanations": [
-      "Incorrect. «Have» is the present perfect auxiliary (e.g., «They have finished»). «By last Friday» signals a past reference point, so the past perfect is needed.",
-      "Correct. «Had» is the past perfect auxiliary. «Had + past participle» indicates an action completed before another point in the past.",
-      "Incorrect. «Has» is the third-person singular present perfect auxiliary. It does not agree with the plural subject «They», and the tense is wrong."
-    ]
-  },
-  {
-    "language": "en",
-    "tense": null,
-    "sentence": "If I _______ rich, I would travel the world.",
-    "options": ["am", "were", "be"],
-    "correct": 1,
-    "explanations": [
-      "Incorrect. «Am» is the simple present tense. This sentence expresses a hypothetical, not a real current state.",
-      "Correct. «Were» is the subjunctive form used in hypothetical conditionals. Even with a singular subject like «I», English uses «were» (not «was») in this structure.",
-      "Incorrect. «Be» is the infinitive / base form of the verb. It cannot function as the finite verb in this conditional clause."
+      "Correcto. Hábito pasado.",
+      "Incorrecto. Acción puntual.",
+      "Incorrecto. Presente perfecto."
     ]
   }
 ]
