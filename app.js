@@ -251,7 +251,7 @@ function renderQuestion() {
 
   // Options
   els.optionsWrap.innerHTML = "";
-  const letters = ["A", "B", "C"];
+  const letters = ["A", "B", "C", "D"];
   q.options.forEach((opt, i) => {
     const btn       = document.createElement("button");
     btn.className   = "option-btn";
