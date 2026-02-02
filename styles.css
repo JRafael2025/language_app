@@ -405,22 +405,78 @@ html, body {
 .feedback .fb-head {
   font-weight: 600;
   font-size: 0.88rem;
-  margin-bottom: 4px;
+  margin-bottom: 8px;
   display: flex;
   align-items: center;
   gap: 6px;
 }
 .feedback .fb-text {
-  font-size: 0.8rem;
+  font-size: 0.82rem;
   font-weight: 300;
-  line-height: 1.5;
+  line-height: 1.6;
 }
+
+/* Chosen explanation (primary feedback) */
+.chosen-explanation {
+  font-size: 0.88rem;
+  font-weight: 400;
+  line-height: 1.6;
+  margin-bottom: 12px;
+  padding-bottom: 12px;
+  border-bottom: 1px solid rgba(255,255,255,0.1);
+}
+
+/* Divider for "other options" section */
+.all-explanations-divider {
+  height: 1px;
+  background: rgba(255,255,255,0.08);
+  margin: 12px 0;
+}
+
+/* All explanations section */
+.all-explanations {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-top: 8px;
+}
+
+.explanation-item {
+  font-size: 0.78rem;
+  line-height: 1.5;
+  padding: 8px 10px;
+  border-radius: 6px;
+  background: rgba(255,255,255,0.03);
+  border-left: 2px solid transparent;
+}
+
+.explanation-item.correct-option {
+  border-left-color: var(--accent);
+  background: rgba(0,212,170,0.08);
+}
+
+.explanation-item.wrong-option {
+  border-left-color: var(--text-muted);
+  opacity: 0.7;
+}
+
+.exp-marker {
+  font-weight: 600;
+  font-size: 0.75rem;
+  margin-right: 6px;
+  opacity: 0.8;
+}
+
 .feedback.correct-fb {
   background: var(--accent-dim);
   border: 1px solid rgba(0,212,170,0.25);
 }
 .feedback.correct-fb .fb-head { color: var(--accent); }
 .feedback.correct-fb .fb-text { color: var(--text-secondary); }
+.feedback.correct-fb .chosen-explanation { 
+  color: var(--text-primary);
+  font-weight: 400;
+}
 
 .feedback.wrong-fb {
   background: var(--coral-dim);
@@ -428,6 +484,10 @@ html, body {
 }
 .feedback.wrong-fb .fb-head { color: var(--coral); }
 .feedback.wrong-fb .fb-text { color: var(--text-secondary); }
+.feedback.wrong-fb .chosen-explanation { 
+  color: var(--text-primary);
+  font-weight: 400;
+}
 
 /* Next / Restart buttons */
 .next-btn {
