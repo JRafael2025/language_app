@@ -278,17 +278,38 @@ function handleAnswer(chosen, q) {
 
   const isCorrect = chosen === q.correct;
 
-  // Style the tapped option
+  // Style the chosen option
   btns[chosen].classList.add(isCorrect ? "correct" : "wrong");
 
-  // If wrong, also reveal the correct answer
+  // Always highlight the correct answer
   if (!isCorrect) {
     btns[q.correct].classList.add("correct");
   }
 
-  // Feedback – always show the explanation for the CHOSEN option
+  // Build comprehensive feedback showing all explanations
   els.fbHead.textContent = isCorrect ? d.correct : d.wrong;
-  els.fbText.textContent = q.explanations[chosen];
+  
+  // Show explanation for the chosen answer prominently
+  let feedbackHTML = `<div class="chosen-explanation">${q.explanations[chosen]}</div>`;
+  
+  // Add a divider and show all options with their explanations
+  feedbackHTML += '<div class="all-explanations-divider"></div>';
+  feedbackHTML += '<div class="all-explanations">';
+  
+  const letters = ["A", "B", "C", "D"];
+  q.explanations.forEach((exp, i) => {
+    if (i !== chosen) { // Don't repeat the chosen answer
+      const marker = i === q.correct ? '✓' : '✗';
+      const className = i === q.correct ? 'correct-option' : 'wrong-option';
+      feedbackHTML += `<div class="explanation-item ${className}">
+        <span class="exp-marker">${letters[i]} ${marker}</span> ${exp}
+      </div>`;
+    }
+  });
+  
+  feedbackHTML += '</div>';
+  
+  els.fbText.innerHTML = feedbackHTML;
   els.feedback.className = "feedback " + (isCorrect ? "correct-fb" : "wrong-fb") + " show";
 
   // Reveal Next button
