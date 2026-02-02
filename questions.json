@@ -895,7 +895,7 @@
     "explanations": [
       "Correcto. Correcto. Forma presente de 'trabajar'.",
       "Incorrecto. El pretérito indefinido no expresa la acción correctamente aquí.",
-      "Incorrecto. El pretérito imperfecto no se aplica en este caso.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -911,7 +911,7 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. El pretérito imperfecto no se aplica en este caso.",
+      "Incorrecto. Esta forma verbal no es apropiada en este contexto.",
       "Correcto. Correcto. Presente de 'ir'.",
       "Incorrecto. El pretérito indefinido no expresa la acción correctamente aquí.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
@@ -930,8 +930,8 @@
     "correct": 0,
     "explanations": [
       "Correcto. Correcto. Habilidad actual.",
-      "Incorrecto. Pasado puntual no es la forma verbal correcta.",
-      "Incorrecto. Hábito pasado no es la forma verbal correcta.",
+      "Incorrecto. El pretérito se usa para acciones terminadas en el pasado, no para situaciones actuales o habituales.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -947,7 +947,7 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. El pretérito imperfecto no se aplica en este caso.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
       "Correcto. Correcto. Hábito con 'siempre'.",
       "Incorrecto. El pretérito indefinido no expresa la acción correctamente aquí.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
@@ -965,8 +965,8 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. Descripción pasada no es la forma verbal correcta.",
-      "Incorrecto. Acción pasada no es la forma verbal correcta.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
+      "Incorrecto. El pretérito se usa para acciones terminadas en el pasado, no para situaciones actuales o habituales.",
       "Correcto. Correcto. Horario fijo.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -984,8 +984,8 @@
     "correct": 0,
     "explanations": [
       "Correcto. Correcto. Situación actual.",
-      "Incorrecto. Situación pasada prolongada no es la forma verbal correcta.",
-      "Incorrecto. Acción terminada no es la forma verbal correcta.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
+      "Incorrecto. El pretérito se usa para acciones terminadas en el pasado, no para situaciones actuales o habituales.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -1001,9 +1001,9 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. Hábito pasado no es la forma verbal correcta.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
       "Correcto. Correcto. Preferencia / hábito actual.",
-      "Incorrecto. Pasado puntual no es la forma verbal correcta.",
+      "Incorrecto. Esta forma verbal no es apropiada en este contexto.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -1019,9 +1019,9 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. Hábito pasado no es la forma verbal correcta.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
       "Correcto. Correcto. Capacidad actual.",
-      "Incorrecto. Acción pasada no es la forma verbal correcta.",
+      "Incorrecto. Esta forma verbal no es apropiada en este contexto.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -1038,8 +1038,8 @@
     "correct": 0,
     "explanations": [
       "Correcto. Pregunta sobre preferencia actual.",
-      "Incorrecto. Preferencia pasada no es la forma verbal correcta.",
-      "Incorrecto. Pasado no es la forma verbal correcta.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
+      "Incorrecto. Esta forma verbal no es apropiada en este contexto.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -1056,8 +1056,8 @@
     "correct": 0,
     "explanations": [
       "Correcto. Correcto. Acción habitual.",
-      "Incorrecto. Acción habitual pasada no es la forma verbal correcta.",
-      "Incorrecto. Acción terminada no es la forma verbal correcta.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
+      "Incorrecto. El pretérito se usa para acciones terminadas en el pasado, no para situaciones actuales o habituales.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -1073,9 +1073,9 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. Rutina pasada no es la forma verbal correcta.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
       "Correcto. Correcto. Rutina diaria.",
-      "Incorrecto. Pasado puntual no es la forma verbal correcta.",
+      "Incorrecto. El pretérito se usa para acciones terminadas en el pasado, no para situaciones actuales o habituales.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -1091,9 +1091,9 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. Acción pasada no es la forma verbal correcta.",
+      "Incorrecto. El pretérito se usa para acciones terminadas en el pasado, no para situaciones actuales o habituales.",
       "Correcto. Correcto. Expresión habitual.",
-      "Incorrecto. Hábito pasado no es la forma verbal correcta.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -1109,8 +1109,8 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. Rutina pasada no es la forma verbal correcta.",
-      "Incorrecto. Pasado puntual no es la forma verbal correcta.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
+      "Incorrecto. Esta forma verbal no es apropiada en este contexto.",
       "Correcto. Correcto. Rutina actual.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -1128,8 +1128,8 @@
     "correct": 0,
     "explanations": [
       "Correcto. Correcto. Acción habitual.",
-      "Incorrecto. Pasado no es la forma verbal correcta.",
-      "Incorrecto. Acción repetida pasada no es la forma verbal correcta.",
+      "Incorrecto. El pretérito se usa para acciones terminadas en el pasado, no para situaciones actuales o habituales.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -1145,8 +1145,8 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. Explicación pasada prolongada no es la forma verbal correcta.",
-      "Incorrecto. Acción pasada puntual no es la forma verbal correcta.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
+      "Incorrecto. El pretérito se usa para acciones terminadas en el pasado, no para situaciones actuales o habituales.",
       "Correcto. Correcto. Característica habitual.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -1163,8 +1163,8 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. Acción pasada no es la forma verbal correcta.",
-      "Incorrecto. Hábito pasado no es la forma verbal correcta.",
+      "Incorrecto. El pretérito se usa para acciones terminadas en el pasado, no para situaciones actuales o habituales.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
       "Correcto. Correcto. Hábito condicionado.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -1181,9 +1181,9 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. Proceso pasado no es la forma verbal correcta.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
       "Correcto. Correcto. Capacidad actual.",
-      "Incorrecto. Acción terminada no es la forma verbal correcta.",
+      "Incorrecto. El pretérito se usa para acciones terminadas en el pasado, no para situaciones actuales o habituales.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -1200,8 +1200,8 @@
     "correct": 0,
     "explanations": [
       "Correcto. Pregunta sobre situación actual.",
-      "Incorrecto. Pasado puntual no es la forma verbal correcta.",
-      "Incorrecto. Situación pasada no es la forma verbal correcta.",
+      "Incorrecto. Esta forma verbal no es apropiada en este contexto.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -1217,9 +1217,9 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. Acción pasada no es la forma verbal correcta.",
+      "Incorrecto. El pretérito se usa para acciones terminadas en el pasado, no para situaciones actuales o habituales.",
       "Correcto. Correcto. Horario comercial.",
-      "Incorrecto. Horario pasado no es la forma verbal correcta.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -1235,8 +1235,8 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. Rutina pasada no es la forma verbal correcta.",
-      "Incorrecto. Acción pasada no es la forma verbal correcta.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
+      "Incorrecto. El pretérito se usa para acciones terminadas en el pasado, no para situaciones actuales o habituales.",
       "Correcto. Correcto. Rutina actual.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -1253,8 +1253,8 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. Tercera persona del pretérito (no concuerda con \"nosotros\") no es la forma verbal correcta.",
-      "Incorrecto. Acción pasada prolongada no es la forma verbal correcta.",
+      "Incorrecto. El pretérito se usa para acciones terminadas en el pasado, no para situaciones actuales o habituales.",
+      "Incorrecto. Esta forma verbal no es apropiada en este contexto.",
       "Correcto. Correcto. Acción actual.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -1271,9 +1271,9 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. Descripción pasada no es la forma verbal correcta.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
       "Correcto. Correcto. Verdad científica.",
-      "Incorrecto. Acción pasada puntual no es la forma verbal correcta.",
+      "Incorrecto. El pretérito se usa para acciones terminadas en el pasado, no para situaciones actuales o habituales.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -1289,8 +1289,8 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. Incapacidad pasada no es la forma verbal correcta.",
-      "Incorrecto. Pasado puntual no es la forma verbal correcta.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
+      "Incorrecto. Esta forma verbal no es apropiada en este contexto.",
       "Correcto. Correcto. Incapacidad actual.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -1307,9 +1307,9 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. Estado pasado puntual no es la forma verbal correcta.",
+      "Incorrecto. El pretérito se usa para acciones terminadas en el pasado, no para situaciones actuales o habituales.",
       "Correcto. Correcto. Estado actual (ser/estar).",
-      "Incorrecto. Estado pasado prolongado no es la forma verbal correcta.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -1325,9 +1325,9 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. Inicio pasado no es la forma verbal correcta.",
+      "Incorrecto. El pretérito se usa para acciones terminadas en el pasado, no para situaciones actuales o habituales.",
       "Correcto. Correcto. Horario fijo.",
-      "Incorrecto. Horario pasado no es la forma verbal correcta.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -1344,8 +1344,8 @@
     "correct": 0,
     "explanations": [
       "Correcto. Correcto. Característica actual.",
-      "Incorrecto. Acción pasada habitual no es la forma verbal correcta.",
-      "Incorrecto. Acción pasada puntual no es la forma verbal correcta.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
+      "Incorrecto. Esta forma verbal no es apropiada en este contexto.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -1362,8 +1362,8 @@
     "correct": 0,
     "explanations": [
       "Correcto. Correcto. Preferencia actual.",
-      "Incorrecto. Acción pasada no es la forma verbal correcta.",
-      "Incorrecto. Hábito pasado no es la forma verbal correcta.",
+      "Incorrecto. El pretérito se usa para acciones terminadas en el pasado, no para situaciones actuales o habituales.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -1380,8 +1380,8 @@
     "correct": 0,
     "explanations": [
       "Correcto. Correcto. Rutina semanal.",
-      "Incorrecto. Pasado puntual no es la forma verbal correcta.",
-      "Incorrecto. Rutina pasada no es la forma verbal correcta.",
+      "Incorrecto. Esta forma verbal no es apropiada en este contexto.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -1397,8 +1397,8 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. Acción pasada puntual no es la forma verbal correcta.",
-      "Incorrecto. Reacción pasada no es la forma verbal correcta.",
+      "Incorrecto. El pretérito se usa para acciones terminadas en el pasado, no para situaciones actuales o habituales.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
       "Correcto. Correcto. Reacción habitual.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -1415,9 +1415,9 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. Rutina pasada no es la forma verbal correcta.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
       "Correcto. Correcto. Rutina diaria.",
-      "Incorrecto. Acción terminada no es la forma verbal correcta.",
+      "Incorrecto. El pretérito se usa para acciones terminadas en el pasado, no para situaciones actuales o habituales.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -1433,9 +1433,9 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. Conocimiento pasado no es la forma verbal correcta.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
       "Correcto. Correcto. Conocimiento actual.",
-      "Incorrecto. Descubrimiento puntual no es la forma verbal correcta.",
+      "Incorrecto. Esta forma verbal no es apropiada en este contexto.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -1452,8 +1452,8 @@
     "correct": 0,
     "explanations": [
       "Correcto. Correcto. Proceso actual.",
-      "Incorrecto. Proceso pasado no es la forma verbal correcta.",
-      "Incorrecto. Resultado pasado no es la forma verbal correcta.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
+      "Incorrecto. El pretérito se usa para acciones terminadas en el pasado, no para situaciones actuales o habituales.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -1470,8 +1470,8 @@
     "correct": 0,
     "explanations": [
       "Correcto. Pregunta sobre situación actual.",
-      "Incorrecto. Pasado terminado no es la forma verbal correcta.",
-      "Incorrecto. Situación pasada no es la forma verbal correcta.",
+      "Incorrecto. El pretérito se usa para acciones terminadas en el pasado, no para situaciones actuales o habituales.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -1487,8 +1487,8 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. Evento pasado puntual no es la forma verbal correcta.",
-      "Incorrecto. Descripción pasada no es la forma verbal correcta.",
+      "Incorrecto. El pretérito se usa para acciones terminadas en el pasado, no para situaciones actuales o habituales.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
       "Correcto. Correcto. Verdad general.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -1505,8 +1505,8 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. Viaje pasado puntual no es la forma verbal correcta.",
-      "Incorrecto. Hábito pasado no es la forma verbal correcta.",
+      "Incorrecto. Esta forma verbal no es apropiada en este contexto.",
+      "Incorrecto. Esta forma verbal no es apropiada en este contexto.",
       "Correcto. Correcto. Hábito estacional.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -1523,9 +1523,9 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. Logro pasado puntual no es la forma verbal correcta.",
+      "Incorrecto. Esta forma verbal no es apropiada en este contexto.",
       "Correcto. Correcto. Característica actual.",
-      "Incorrecto. Característica pasada no es la forma verbal correcta.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -1541,8 +1541,8 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. Reunión pasada puntual no es la forma verbal correcta.",
-      "Incorrecto. Rutina pasada no es la forma verbal correcta.",
+      "Incorrecto. Esta forma verbal no es apropiada en este contexto.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
       "Correcto. Correcto. Rutina semanal.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -1560,8 +1560,8 @@
     "correct": 0,
     "explanations": [
       "Correcto. Correcto. Medio de transporte habitual.",
-      "Incorrecto. Acción pasada no es la forma verbal correcta.",
-      "Incorrecto. Hábito pasado no es la forma verbal correcta.",
+      "Incorrecto. Esta forma verbal no es apropiada en este contexto.",
+      "Incorrecto. Esta forma verbal no es apropiada en este contexto.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -1578,8 +1578,8 @@
     "correct": 0,
     "explanations": [
       "Correcto. Hábito actual (con matiz de exceso).",
-      "Incorrecto. Uso puntual pasado no es la forma verbal correcta.",
-      "Incorrecto. Uso habitual pasado no es la forma verbal correcta.",
+      "Incorrecto. El pretérito se usa para acciones terminadas en el pasado, no para situaciones actuales o habituales.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -1595,8 +1595,8 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. Cierre pasado puntual no es la forma verbal correcta.",
-      "Incorrecto. Horario pasado no es la forma verbal correcta.",
+      "Incorrecto. El pretérito se usa para acciones terminadas en el pasado, no para situaciones actuales o habituales.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
       "Correcto. Correcto. Horario actual.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -1613,9 +1613,9 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. Pasatiempo pasado no es la forma verbal correcta.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
       "Correcto. Correcto. Pasatiempo actual.",
-      "Incorrecto. Jugada pasada puntual no es la forma verbal correcta.",
+      "Incorrecto. El pretérito se usa para acciones terminadas en el pasado, no para situaciones actuales o habituales.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -1632,8 +1632,8 @@
     "correct": 0,
     "explanations": [
       "Correcto. Correcto. Actividad habitual.",
-      "Incorrecto. Actividad pasada prolongada no es la forma verbal correcta.",
-      "Incorrecto. Acción pasada terminada no es la forma verbal correcta.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
+      "Incorrecto. El pretérito se usa para acciones terminadas en el pasado, no para situaciones actuales o habituales.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -1650,8 +1650,8 @@
     "correct": 0,
     "explanations": [
       "Correcto. Correcto. Tradición familiar actual.",
-      "Incorrecto. Cena pasada puntual no es la forma verbal correcta.",
-      "Incorrecto. Tradición pasada no es la forma verbal correcta.",
+      "Incorrecto. El pretérito se usa para acciones terminadas en el pasado, no para situaciones actuales o habituales.",
+      "Incorrecto. Esta forma verbal no es apropiada en este contexto.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -1686,8 +1686,8 @@
     "correct": 0,
     "explanations": [
       "Correcto. Correcto. Rasgo de personalidad actual.",
-      "Incorrecto. Declaración pasada puntual no es la forma verbal correcta.",
-      "Incorrecto. Hábito pasado no es la forma verbal correcta.",
+      "Incorrecto. Esta forma verbal no es apropiada en este contexto.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -1703,8 +1703,8 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. Decisión pasada puntual no es la forma verbal correcta.",
-      "Incorrecto. Preferencia pasada no es la forma verbal correcta.",
+      "Incorrecto. Esta forma verbal no es apropiada en este contexto.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
       "Correcto. Correcto. Preferencia actual.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -1722,8 +1722,8 @@
     "correct": 0,
     "explanations": [
       "Correcto. Correcto. Situación actual.",
-      "Incorrecto. Vivienda pasada prolongada no es la forma verbal correcta.",
-      "Incorrecto. Vivienda pasada puntual no es la forma verbal correcta.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
+      "Incorrecto. El pretérito se usa para acciones terminadas en el pasado, no para situaciones actuales o habituales.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -1740,8 +1740,8 @@
     "correct": 0,
     "explanations": [
       "Correcto. Actividad actual de la empresa.",
-      "Incorrecto. Producción pasada puntual no es la forma verbal correcta.",
-      "Incorrecto. Producción pasada no es la forma verbal correcta.",
+      "Incorrecto. El pretérito se usa para acciones terminadas en el pasado, no para situaciones actuales o habituales.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -1758,8 +1758,8 @@
     "correct": 0,
     "explanations": [
       "Correcto. Correcto. Hábito ruidoso actual.",
-      "Incorrecto. Fiesta pasada puntual no es la forma verbal correcta.",
-      "Incorrecto. Hábito pasado no es la forma verbal correcta.",
+      "Incorrecto. El pretérito se usa para acciones terminadas en el pasado, no para situaciones actuales o habituales.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -1775,8 +1775,8 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
+      "Incorrecto. Esta forma no expresa correctamente una acción terminada en un momento específico del pasado.",
+      "Incorrecto. El imperfecto describe situaciones continuas o repetidas. Aquí la acción fue puntual y terminada.",
       "Correcto. Acción terminada ayer.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -1793,8 +1793,8 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
+      "Incorrecto. Esta forma no expresa correctamente una acción terminada en un momento específico del pasado.",
+      "Incorrecto. El imperfecto describe situaciones continuas o repetidas. Aquí la acción fue puntual y terminada.",
       "Correcto. Resultado puntual.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -1811,9 +1811,9 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. Infinitivo no es la forma verbal correcta.",
+      "Incorrecto. Esta forma no expresa correctamente una acción terminada en un momento específico del pasado.",
       "Correcto. Llegada concreta anoche.",
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
+      "Incorrecto. Esta forma no expresa correctamente una acción terminada en un momento específico del pasado.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -1829,9 +1829,9 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma no expresa correctamente una acción terminada en un momento específico del pasado.",
       "Correcto. Hecho puntual con fecha.",
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
+      "Incorrecto. El imperfecto describe situaciones continuas o repetidas. Aquí la acción fue puntual y terminada.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -1847,8 +1847,8 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
+      "Incorrecto. Esta forma no expresa correctamente una acción terminada en un momento específico del pasado.",
+      "Incorrecto. El imperfecto describe situaciones continuas o repetidas. Aquí la acción fue puntual y terminada.",
       "Correcto. Compra terminada.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -1866,8 +1866,8 @@
     "correct": 0,
     "explanations": [
       "Correcto. Evento completado.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
+      "Incorrecto. Esta forma no expresa correctamente una acción terminada en un momento específico del pasado.",
+      "Incorrecto. El imperfecto describe situaciones continuas o repetidas. Aquí la acción fue puntual y terminada.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -1883,9 +1883,9 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
+      "Incorrecto. El imperfecto describe situaciones continuas o repetidas. Aquí la acción fue puntual y terminada.",
       "Correcto. Acción puntual.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma no expresa correctamente una acción terminada en un momento específico del pasado.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -1901,8 +1901,8 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
-      "Incorrecto. Infinitivo no es la forma verbal correcta.",
+      "Incorrecto. Esta forma no expresa correctamente una acción terminada en un momento específico del pasado.",
+      "Incorrecto. Esta forma no expresa correctamente una acción terminada en un momento específico del pasado.",
       "Correcto. Viaje terminado.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -1919,8 +1919,8 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
+      "Incorrecto. Esta forma no expresa correctamente una acción terminada en un momento específico del pasado.",
+      "Incorrecto. El imperfecto describe situaciones continuas o repetidas. Aquí la acción fue puntual y terminada.",
       "Correcto. Momento concreto.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -1938,8 +1938,8 @@
     "correct": 0,
     "explanations": [
       "Correcto. Evento puntual.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
+      "Incorrecto. Esta forma no expresa correctamente una acción terminada en un momento específico del pasado.",
+      "Incorrecto. El imperfecto describe situaciones continuas o repetidas. Aquí la acción fue puntual y terminada.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -1955,9 +1955,9 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
+      "Incorrecto. El imperfecto describe situaciones continuas o repetidas. Aquí la acción fue puntual y terminada.",
       "Correcto. Entrega terminada.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma no expresa correctamente una acción terminada en un momento específico del pasado.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -1973,9 +1973,9 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
+      "Incorrecto. El imperfecto describe situaciones continuas o repetidas. Aquí la acción fue puntual y terminada.",
       "Correcto. Acción cerrada.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma no expresa correctamente una acción terminada en un momento específico del pasado.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -1991,8 +1991,8 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. El imperfecto describe situaciones continuas o repetidas. Aquí la acción fue puntual y terminada.",
+      "Incorrecto. Esta forma no expresa correctamente una acción terminada en un momento específico del pasado.",
       "Correcto. Momento específico.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -2009,9 +2009,9 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma no expresa correctamente una acción terminada en un momento específico del pasado.",
       "Correcto. Solución terminada.",
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
+      "Incorrecto. El imperfecto describe situaciones continuas o repetidas. Aquí la acción fue puntual y terminada.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -2028,8 +2028,8 @@
     "correct": 0,
     "explanations": [
       "Correcto. Acción concreta.",
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. El imperfecto describe situaciones continuas o repetidas. Aquí la acción fue puntual y terminada.",
+      "Incorrecto. Esta forma no expresa correctamente una acción terminada en un momento específico del pasado.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -2045,9 +2045,9 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma no expresa correctamente una acción terminada en un momento específico del pasado.",
       "Correcto. Llegada puntual.",
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
+      "Incorrecto. El imperfecto describe situaciones continuas o repetidas. Aquí la acción fue puntual y terminada.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -2063,9 +2063,9 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
+      "Incorrecto. El imperfecto describe situaciones continuas o repetidas. Aquí la acción fue puntual y terminada.",
       "Correcto. Estado en momento concreto.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. El presente no puede usarse con marcadores temporales del pasado como 'ayer', 'la semana pasada', etc.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -2082,8 +2082,8 @@
     "correct": 0,
     "explanations": [
       "Correcto. Período terminado.",
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. El imperfecto describe situaciones continuas o repetidas. Aquí la acción fue puntual y terminada.",
+      "Incorrecto. Esta forma no expresa correctamente una acción terminada en un momento específico del pasado.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -2099,9 +2099,9 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma no expresa correctamente una acción terminada en un momento específico del pasado.",
       "Correcto. Victoria puntual.",
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
+      "Incorrecto. El imperfecto describe situaciones continuas o repetidas. Aquí la acción fue puntual y terminada.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -2117,9 +2117,9 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. Infinitivo no es la forma verbal correcta.",
+      "Incorrecto. Esta forma no expresa correctamente una acción terminada en un momento específico del pasado.",
       "Correcto. Decisión tomada.",
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
+      "Incorrecto. Esta forma no expresa correctamente una acción terminada en un momento específico del pasado.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -2135,9 +2135,9 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma no expresa correctamente una acción terminada en un momento específico del pasado.",
       "Correcto. Acción concreta.",
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
+      "Incorrecto. El imperfecto describe situaciones continuas o repetidas. Aquí la acción fue puntual y terminada.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -2153,9 +2153,9 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
+      "Incorrecto. El imperfecto describe situaciones continuas o repetidas. Aquí la acción fue puntual y terminada.",
       "Correcto. Evento puntual.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma no expresa correctamente una acción terminada en un momento específico del pasado.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -2171,9 +2171,9 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
-      "Correcto – secuencia de acciones terminadas.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. El imperfecto describe situaciones continuas o repetidas. Aquí la acción fue puntual y terminada.",
+      "Correcto. Secuencia de acciones terminadas.",
+      "Incorrecto. Esta forma no expresa correctamente una acción terminada en un momento específico del pasado.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -2190,8 +2190,8 @@
     "correct": 0,
     "explanations": [
       "Correcto. Llamada concreta.",
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. El imperfecto describe situaciones continuas o repetidas. Aquí la acción fue puntual y terminada.",
+      "Incorrecto. Esta forma no expresa correctamente una acción terminada en un momento específico del pasado.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -2208,8 +2208,8 @@
     "correct": 0,
     "explanations": [
       "Correcto. Compra terminada.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
+      "Incorrecto. Esta forma no expresa correctamente una acción terminada en un momento específico del pasado.",
+      "Incorrecto. El imperfecto describe situaciones continuas o repetidas. Aquí la acción fue puntual y terminada.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -2226,8 +2226,8 @@
     "correct": 0,
     "explanations": [
       "Correcto. Acción puntual.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
+      "Incorrecto. Esta forma no expresa correctamente una acción terminada en un momento específico del pasado.",
+      "Incorrecto. El imperfecto describe situaciones continuas o repetidas. Aquí la acción fue puntual y terminada.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -2243,8 +2243,8 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
+      "Incorrecto. Esta forma no expresa correctamente una acción terminada en un momento específico del pasado.",
+      "Incorrecto. El imperfecto describe situaciones continuas o repetidas. Aquí la acción fue puntual y terminada.",
       "Correcto. Momento específico.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -2262,8 +2262,8 @@
     "correct": 0,
     "explanations": [
       "Correcto. Evento único.",
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. El imperfecto describe situaciones continuas o repetidas. Aquí la acción fue puntual y terminada.",
+      "Incorrecto. Esta forma no expresa correctamente una acción terminada en un momento específico del pasado.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -2280,8 +2280,8 @@
     "correct": 0,
     "explanations": [
       "Correcto. Duración terminada.",
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. El imperfecto describe situaciones continuas o repetidas. Aquí la acción fue puntual y terminada.",
+      "Incorrecto. Esta forma no expresa correctamente una acción terminada en un momento específico del pasado.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -2298,8 +2298,8 @@
     "correct": 0,
     "explanations": [
       "Correcto. Actuación concreta.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
+      "Incorrecto. Esta forma no expresa correctamente una acción terminada en un momento específico del pasado.",
+      "Incorrecto. El imperfecto describe situaciones continuas o repetidas. Aquí la acción fue puntual y terminada.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -2315,9 +2315,9 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma no expresa correctamente una acción terminada en un momento específico del pasado.",
       "Correcto. Pérdida puntual.",
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
+      "Incorrecto. El imperfecto describe situaciones continuas o repetidas. Aquí la acción fue puntual y terminada.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -2333,8 +2333,8 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. El imperfecto describe situaciones continuas o repetidas. Aquí la acción fue puntual y terminada.",
+      "Incorrecto. Esta forma no expresa correctamente una acción terminada en un momento específico del pasado.",
       "Correcto. Acción terminada.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -2351,8 +2351,8 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
+      "Incorrecto. Esta forma no expresa correctamente una acción terminada en un momento específico del pasado.",
+      "Incorrecto. El imperfecto describe situaciones continuas o repetidas. Aquí la acción fue puntual y terminada.",
       "Correcto. Recepción concreta.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -2369,9 +2369,9 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
-      "Correcto – acción puntual + consecuencia.",
+      "Incorrecto. Esta forma no expresa correctamente una acción terminada en un momento específico del pasado.",
+      "Incorrecto. El imperfecto describe situaciones continuas o repetidas. Aquí la acción fue puntual y terminada.",
+      "Correcto. Acción puntual + consecuencia.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -2387,8 +2387,8 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. El imperfecto describe situaciones continuas o repetidas. Aquí la acción fue puntual y terminada.",
+      "Incorrecto. Esta forma no expresa correctamente una acción terminada en un momento específico del pasado.",
       "Correcto. Operación terminada.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -2405,8 +2405,8 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. Infinitivo no es la forma verbal correcta.",
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
+      "Incorrecto. Esta forma no expresa correctamente una acción terminada en un momento específico del pasado.",
+      "Incorrecto. Esta forma no expresa correctamente una acción terminada en un momento específico del pasado.",
       "Correcto. Logro puntual.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -2423,8 +2423,8 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
+      "Incorrecto. Esta forma no expresa correctamente una acción terminada en un momento específico del pasado.",
+      "Incorrecto. El imperfecto describe situaciones continuas o repetidas. Aquí la acción fue puntual y terminada.",
       "Correcto. Respuesta concreta.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -2441,8 +2441,8 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. El imperfecto describe situaciones continuas o repetidas. Aquí la acción fue puntual y terminada.",
+      "Incorrecto. Esta forma no expresa correctamente una acción terminada en un momento específico del pasado.",
       "Correcto. Final puntual.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -2460,8 +2460,8 @@
     "correct": 0,
     "explanations": [
       "Correcto. Experiencia puntual.",
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. El imperfecto describe situaciones continuas o repetidas. Aquí la acción fue puntual y terminada.",
+      "Incorrecto. Esta forma no expresa correctamente una acción terminada en un momento específico del pasado.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -2478,8 +2478,8 @@
     "correct": 0,
     "explanations": [
       "Correcto. Momento específico.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
+      "Incorrecto. Esta forma no expresa correctamente una acción terminada en un momento específico del pasado.",
+      "Incorrecto. El imperfecto describe situaciones continuas o repetidas. Aquí la acción fue puntual y terminada.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -2496,8 +2496,8 @@
     "correct": 0,
     "explanations": [
       "Correcto. Explicación terminada.",
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. El imperfecto describe situaciones continuas o repetidas. Aquí la acción fue puntual y terminada.",
+      "Incorrecto. Esta forma no expresa correctamente una acción terminada en un momento específico del pasado.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -2513,9 +2513,9 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma no expresa correctamente una acción terminada en un momento específico del pasado.",
       "Correcto. Error puntual.",
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
+      "Incorrecto. El imperfecto describe situaciones continuas o repetidas. Aquí la acción fue puntual y terminada.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -2531,8 +2531,8 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. El imperfecto describe situaciones continuas o repetidas. Aquí la acción fue puntual y terminada.",
+      "Incorrecto. Esta forma no expresa correctamente una acción terminada en un momento específico del pasado.",
       "Correcto. Cumpleaños puntual.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -2549,9 +2549,9 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. Infinitivo no es la forma verbal correcta.",
+      "Incorrecto. Esta forma no expresa correctamente una acción terminada en un momento específico del pasado.",
       "Correcto. Ascenso terminado.",
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
+      "Incorrecto. El imperfecto describe situaciones continuas o repetidas. Aquí la acción fue puntual y terminada.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -2567,9 +2567,9 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma no expresa correctamente una acción terminada en un momento específico del pasado.",
       "Correcto. Mejora concreta.",
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
+      "Incorrecto. El imperfecto describe situaciones continuas o repetidas. Aquí la acción fue puntual y terminada.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -2585,8 +2585,8 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. El imperfecto describe situaciones continuas o repetidas. Aquí la acción fue puntual y terminada.",
+      "Incorrecto. Esta forma no expresa correctamente una acción terminada en un momento específico del pasado.",
       "Correcto. Rodaje terminado.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -2603,9 +2603,9 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
+      "Incorrecto. El imperfecto describe situaciones continuas o repetidas. Aquí la acción fue puntual y terminada.",
       "Correcto. Lectura puntual.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma no expresa correctamente una acción terminada en un momento específico del pasado.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -2622,8 +2622,8 @@
     "correct": 0,
     "explanations": [
       "Correcto. Hábito repetido en el pasado.",
-      "Incorrecto. Acción puntual..",
-      "Incorrecto. No corresponde..",
+      "Incorrecto. Esta forma no expresa la naturaleza habitual o continua de la acción en el pasado.",
+      "Incorrecto. El presente perfecto conecta con el presente. Aquí la acción está completamente en el pasado.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -2639,9 +2639,9 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. Acción puntual no es la forma verbal correcta.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
-      "Correcto – estado prolongado en el pasado.",
+      "Incorrecto. Esta forma no expresa la naturaleza habitual o continua de la acción en el pasado.",
+      "Incorrecto. El presente perfecto conecta con el presente. Aquí la acción está completamente en el pasado.",
+      "Correcto. Estado prolongado en el pasado.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -2657,9 +2657,9 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
-      "Correcto – acción en progreso / simultánea.",
-      "Incorrecto. Acción puntual que interrumpe no es la forma verbal correcta.",
+      "Incorrecto. El presente perfecto conecta con el presente. Aquí la acción está completamente en el pasado.",
+      "Correcto. Acción en progreso / simultánea.",
+      "Incorrecto. El pretérito indefinido marca acciones puntuales. Aquí necesitamos describir una acción habitual o en desarrollo.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -2675,9 +2675,9 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. Acción puntual no es la forma verbal correcta.",
+      "Incorrecto. Esta forma no expresa la naturaleza habitual o continua de la acción en el pasado.",
       "Correcto. Característica prolongada.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. El presente perfecto conecta con el presente. Aquí la acción está completamente en el pasado.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -2693,9 +2693,9 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. Acción puntual no es la forma verbal correcta.",
+      "Incorrecto. Esta forma no expresa la naturaleza habitual o continua de la acción en el pasado.",
       "Correcto. Hábito pasado.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. El presente perfecto conecta con el presente. Aquí la acción está completamente en el pasado.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -2711,9 +2711,9 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. Acción puntual no es la forma verbal correcta.",
-      "Correcto – descripción general del pasado.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. El pretérito indefinido marca acciones puntuales. Aquí necesitamos describir una acción habitual o en desarrollo.",
+      "Correcto. Descripción general del pasado.",
+      "Incorrecto. El presente perfecto conecta con el presente. Aquí la acción está completamente en el pasado.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -2729,9 +2729,9 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. El presente perfecto conecta con el presente. Aquí la acción está completamente en el pasado.",
       "Correcto. Situación prolongada.",
-      "Incorrecto. Acción terminada no es la forma verbal correcta.",
+      "Incorrecto. El pretérito indefinido marca acciones puntuales. Aquí necesitamos describir una acción habitual o en desarrollo.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -2747,9 +2747,9 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
-      "Incorrecto. Acción puntual no es la forma verbal correcta.",
-      "Correcto – acción simultánea / en progreso.",
+      "Incorrecto. Esta forma no expresa la naturaleza habitual o continua de la acción en el pasado.",
+      "Incorrecto. Esta forma no expresa la naturaleza habitual o continua de la acción en el pasado.",
+      "Correcto. Acción simultánea / en progreso.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -2765,8 +2765,8 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. Momento puntual no es la forma verbal correcta.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma no expresa la naturaleza habitual o continua de la acción en el pasado.",
+      "Incorrecto. El presente perfecto conecta con el presente. Aquí la acción está completamente en el pasado.",
       "Correcto. Estado continuo.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -2783,9 +2783,9 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. El presente perfecto conecta con el presente. Aquí la acción está completamente en el pasado.",
       "Correcto. Hábito repetido.",
-      "Incorrecto. Acción puntual no es la forma verbal correcta.",
+      "Incorrecto. Esta forma no expresa la naturaleza habitual o continua de la acción en el pasado.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -2801,9 +2801,9 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. El presente perfecto conecta con el presente. Aquí la acción está completamente en el pasado.",
       "Correcto. Estado habitual en el pasado.",
-      "Incorrecto. Estado puntual no es la forma verbal correcta.",
+      "Incorrecto. Esta forma no expresa la naturaleza habitual o continua de la acción en el pasado.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -2819,8 +2819,8 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
-      "Incorrecto. Llegada puntual no es la forma verbal correcta.",
+      "Incorrecto. Esta forma no expresa la naturaleza habitual o continua de la acción en el pasado.",
+      "Incorrecto. Esta forma no expresa la naturaleza habitual o continua de la acción en el pasado.",
       "Correcto. Hábito escolar pasado.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -2837,8 +2837,8 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
-      "Incorrecto. Acción puntual no es la forma verbal correcta.",
+      "Incorrecto. El presente perfecto conecta con el presente. Aquí la acción está completamente en el pasado.",
+      "Incorrecto. Esta forma no expresa la naturaleza habitual o continua de la acción en el pasado.",
       "Correcto. Manera habitual de hablar.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -2855,8 +2855,8 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. Evento puntual no es la forma verbal correcta.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma no expresa la naturaleza habitual o continua de la acción en el pasado.",
+      "Incorrecto. El presente perfecto conecta con el presente. Aquí la acción está completamente en el pasado.",
       "Correcto. Descripción general.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -2874,8 +2874,8 @@
     "correct": 0,
     "explanations": [
       "Correcto. Acción simultánea.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
-      "Incorrecto. Acción terminada no es la forma verbal correcta.",
+      "Incorrecto. El presente perfecto conecta con el presente. Aquí la acción está completamente en el pasado.",
+      "Incorrecto. El pretérito indefinido marca acciones puntuales. Aquí necesitamos describir una acción habitual o en desarrollo.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -2891,9 +2891,9 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
-      "Correcto – descripción física en el pasado.",
-      "Incorrecto. Momento puntual no es la forma verbal correcta.",
+      "Incorrecto. El presente perfecto conecta con el presente. Aquí la acción está completamente en el pasado.",
+      "Correcto. Descripción física en el pasado.",
+      "Incorrecto. Esta forma no expresa la naturaleza habitual o continua de la acción en el pasado.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -2909,9 +2909,9 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. Paseo puntual no es la forma verbal correcta.",
+      "Incorrecto. Esta forma no expresa la naturaleza habitual o continua de la acción en el pasado.",
       "Correcto. Hábito dominical pasado.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma no expresa la naturaleza habitual o continua de la acción en el pasado.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -2928,8 +2928,8 @@
     "correct": 0,
     "explanations": [
       "Correcto. Hábito de viaje pasado.",
-      "Incorrecto. Viaje puntual no es la forma verbal correcta.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. El pretérito indefinido marca acciones puntuales. Aquí necesitamos describir una acción habitual o en desarrollo.",
+      "Incorrecto. El presente perfecto conecta con el presente. Aquí la acción está completamente en el pasado.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -2945,9 +2945,9 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
-      "Incorrecto. Momento puntual no es la forma verbal correcta.",
-      "Correcto – descripción del tiempo + acción simultánea.",
+      "Incorrecto. El presente perfecto conecta con el presente. Aquí la acción está completamente en el pasado.",
+      "Incorrecto. Esta forma no expresa la naturaleza habitual o continua de la acción en el pasado.",
+      "Correcto. Descripción del tiempo + acción simultánea.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -2964,8 +2964,8 @@
     "correct": 0,
     "explanations": [
       "Correcto. Actividad repetida.",
-      "Incorrecto. Partido puntual no es la forma verbal correcta.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma no expresa la naturaleza habitual o continua de la acción en el pasado.",
+      "Incorrecto. Esta forma no expresa la naturaleza habitual o continua de la acción en el pasado.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -2981,9 +2981,9 @@
     ],
     "correct": 0,
     "explanations": [
-      "Correcto – rasgo de personalidad prolongado.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
-      "Incorrecto. Momento puntual no es la forma verbal correcta.",
+      "Correcto. Rasgo de personalidad prolongado.",
+      "Incorrecto. El presente perfecto conecta con el presente. Aquí la acción está completamente en el pasado.",
+      "Incorrecto. Esta forma no expresa la naturaleza habitual o continua de la acción en el pasado.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -2999,9 +2999,9 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. Evento puntual no es la forma verbal correcta.",
-      "Correcto – existencia repetida / descripción.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma no expresa la naturaleza habitual o continua de la acción en el pasado.",
+      "Correcto. Existencia repetida / descripción.",
+      "Incorrecto. El presente perfecto conecta con el presente. Aquí la acción está completamente en el pasado.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -3017,8 +3017,8 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
-      "Incorrecto. Acción terminada no es la forma verbal correcta.",
+      "Incorrecto. Esta forma no expresa la naturaleza habitual o continua de la acción en el pasado.",
+      "Incorrecto. Esta forma no expresa la naturaleza habitual o continua de la acción en el pasado.",
       "Correcto. Acción simultánea.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -3035,8 +3035,8 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
-      "Incorrecto. Acción puntual no es la forma verbal correcta.",
+      "Incorrecto. El presente perfecto conecta con el presente. Aquí la acción está completamente en el pasado.",
+      "Incorrecto. Esta forma no expresa la naturaleza habitual o continua de la acción en el pasado.",
       "Correcto. Hábito adolescente.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -3054,8 +3054,8 @@
     "correct": 0,
     "explanations": [
       "Correcto. Característica prolongada.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
-      "Incorrecto. Momento puntual no es la forma verbal correcta.",
+      "Incorrecto. El presente perfecto conecta con el presente. Aquí la acción está completamente en el pasado.",
+      "Incorrecto. Esta forma no expresa la naturaleza habitual o continua de la acción en el pasado.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -3071,9 +3071,9 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. Mudanza puntual no es la forma verbal correcta.",
+      "Incorrecto. Esta forma no expresa la naturaleza habitual o continua de la acción en el pasado.",
       "Correcto. Situación prolongada.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma no expresa la naturaleza habitual o continua de la acción en el pasado.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -3090,8 +3090,8 @@
     "correct": 0,
     "explanations": [
       "Correcto. Pensamiento repetido.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
-      "Incorrecto. Pensamiento puntual no es la forma verbal correcta.",
+      "Incorrecto. El presente perfecto conecta con el presente. Aquí la acción está completamente en el pasado.",
+      "Incorrecto. El pretérito indefinido marca acciones puntuales. Aquí necesitamos describir una acción habitual o en desarrollo.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -3107,9 +3107,9 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. Evento puntual no es la forma verbal correcta.",
-      "Correcto – descripción del lugar en el pasado.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma no expresa la naturaleza habitual o continua de la acción en el pasado.",
+      "Correcto. Descripción del lugar en el pasado.",
+      "Incorrecto. El presente perfecto conecta con el presente. Aquí la acción está completamente en el pasado.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -3125,8 +3125,8 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. Acción terminada no es la forma verbal correcta.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. El pretérito indefinido marca acciones puntuales. Aquí necesitamos describir una acción habitual o en desarrollo.",
+      "Incorrecto. El presente perfecto conecta con el presente. Aquí la acción está completamente en el pasado.",
       "Correcto. Acción simultánea.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -3143,9 +3143,9 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. Momento puntual no es la forma verbal correcta.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
-      "Correcto – situación en una etapa de la vida.",
+      "Incorrecto. Esta forma no expresa la naturaleza habitual o continua de la acción en el pasado.",
+      "Incorrecto. El presente perfecto conecta con el presente. Aquí la acción está completamente en el pasado.",
+      "Correcto. Situación en una etapa de la vida.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -3161,9 +3161,9 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
-      "Incorrecto. Viaje puntual no es la forma verbal correcta.",
-      "Correcto – hábito de fin de semana pasado.",
+      "Incorrecto. Esta forma no expresa la naturaleza habitual o continua de la acción en el pasado.",
+      "Incorrecto. Esta forma no expresa la naturaleza habitual o continua de la acción en el pasado.",
+      "Correcto. Hábito de fin de semana pasado.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -3180,8 +3180,8 @@
     "correct": 0,
     "explanations": [
       "Correcto. Descripción general.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
-      "Incorrecto. Evento puntual no es la forma verbal correcta.",
+      "Incorrecto. El presente perfecto conecta con el presente. Aquí la acción está completamente en el pasado.",
+      "Incorrecto. Esta forma no expresa la naturaleza habitual o continua de la acción en el pasado.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -3197,8 +3197,8 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. Partido puntual no es la forma verbal correcta.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma no expresa la naturaleza habitual o continua de la acción en el pasado.",
+      "Incorrecto. Esta forma no expresa la naturaleza habitual o continua de la acción en el pasado.",
       "Correcto. Acción simultánea con lluvia.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -3215,9 +3215,9 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. El presente perfecto conecta con el presente. Aquí la acción está completamente en el pasado.",
       "Correcto. Rasgo prolongado.",
-      "Incorrecto. Momento puntual no es la forma verbal correcta.",
+      "Incorrecto. Esta forma no expresa la naturaleza habitual o continua de la acción en el pasado.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -3234,8 +3234,8 @@
     "correct": 0,
     "explanations": [
       "Correcto. Hábito vacacional pasado.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
-      "Incorrecto. Momento puntual no es la forma verbal correcta.",
+      "Incorrecto. Esta forma no expresa la naturaleza habitual o continua de la acción en el pasado.",
+      "Incorrecto. Esta forma no expresa la naturaleza habitual o continua de la acción en el pasado.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -3252,8 +3252,8 @@
     "correct": 0,
     "explanations": [
       "Correcto. Hábito negativo repetido.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
-      "Incorrecto. Deber puntual no es la forma verbal correcta.",
+      "Incorrecto. El presente perfecto conecta con el presente. Aquí la acción está completamente en el pasado.",
+      "Incorrecto. Esta forma no expresa la naturaleza habitual o continua de la acción en el pasado.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -3269,9 +3269,9 @@
     ],
     "correct": 0,
     "explanations": [
-      "Correcto – descripción comparativa del pasado.",
-      "Incorrecto. Cambio puntual no es la forma verbal correcta.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Correcto. Descripción comparativa del pasado.",
+      "Incorrecto. Esta forma no expresa la naturaleza habitual o continua de la acción en el pasado.",
+      "Incorrecto. El presente perfecto conecta con el presente. Aquí la acción está completamente en el pasado.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -3287,8 +3287,8 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. Acción terminada no es la forma verbal correcta.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma no expresa la naturaleza habitual o continua de la acción en el pasado.",
+      "Incorrecto. Esta forma no expresa la naturaleza habitual o continua de la acción en el pasado.",
       "Correcto. Acción simultánea.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -3305,8 +3305,8 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
-      "Incorrecto. Concierto puntual no es la forma verbal correcta.",
+      "Incorrecto. El presente perfecto conecta con el presente. Aquí la acción está completamente en el pasado.",
+      "Incorrecto. El pretérito indefinido marca acciones puntuales. Aquí necesitamos describir una acción habitual o en desarrollo.",
       "Correcto. Gusto musical prolongado.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -3323,9 +3323,9 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. Evento puntual no es la forma verbal correcta.",
+      "Incorrecto. Esta forma no expresa la naturaleza habitual o continua de la acción en el pasado.",
       "Correcto. Ausencia prolongada.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. El presente perfecto conecta con el presente. Aquí la acción está completamente en el pasado.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -3342,8 +3342,8 @@
     "correct": 0,
     "explanations": [
       "Correcto. Estilo educativo prolongado.",
-      "Incorrecto. Momento puntual no es la forma verbal correcta.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma no expresa la naturaleza habitual o continua de la acción en el pasado.",
+      "Incorrecto. El presente perfecto conecta con el presente. Aquí la acción está completamente en el pasado.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -3359,9 +3359,9 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. Momento puntual no es la forma verbal correcta.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
-      "Correcto – estado habitual en el trabajo.",
+      "Incorrecto. Esta forma no expresa la naturaleza habitual o continua de la acción en el pasado.",
+      "Incorrecto. El presente perfecto conecta con el presente. Aquí la acción está completamente en el pasado.",
+      "Correcto. Estado habitual en el trabajo.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -3377,9 +3377,9 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. El presente perfecto conecta con el presente. Aquí la acción está completamente en el pasado.",
       "Correcto. Percepción prolongada.",
-      "Incorrecto. Momento puntual no es la forma verbal correcta.",
+      "Incorrecto. El pretérito indefinido marca acciones puntuales. Aquí necesitamos describir una acción habitual o en desarrollo.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -3395,9 +3395,9 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. Sonido puntual no es la forma verbal correcta.",
+      "Incorrecto. Esta forma no expresa la naturaleza habitual o continua de la acción en el pasado.",
       "Correcto. Acción simultánea.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma no expresa la naturaleza habitual o continua de la acción en el pasado.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -3414,8 +3414,8 @@
     "correct": 0,
     "explanations": [
       "Correcto. Hábito social pasado.",
-      "Incorrecto. Carta puntual no es la forma verbal correcta.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. El pretérito indefinido marca acciones puntuales. Aquí necesitamos describir una acción habitual o en desarrollo.",
+      "Incorrecto. El presente perfecto conecta con el presente. Aquí la acción está completamente en el pasado.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -3431,9 +3431,9 @@
     ],
     "correct": 0,
     "explanations": [
-      "Correcto – situación económica prolongada.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
-      "Incorrecto. Momento puntual no es la forma verbal correcta.",
+      "Correcto. Situación económica prolongada.",
+      "Incorrecto. El presente perfecto conecta con el presente. Aquí la acción está completamente en el pasado.",
+      "Incorrecto. Esta forma no expresa la naturaleza habitual o continua de la acción en el pasado.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -3451,7 +3451,7 @@
     "explanations": [
       "Correcto. Experiencia hasta ahora.",
       "Incorrecto. El pretérito indefinido no expresa la acción correctamente aquí.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -3467,7 +3467,7 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
       "Correcto. Con 'todavía no'.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
@@ -3486,8 +3486,8 @@
     "correct": 1,
     "explanations": [
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
-      "Correcto – pregunta de experiencia vital.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Correcto. Pregunta de experiencia vital.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -3505,7 +3505,7 @@
     "explanations": [
       "Correcto. Acción muy reciente.",
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
-      "Incorrecto. Infinitivo no es la forma verbal correcta.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -3521,8 +3521,8 @@
     ],
     "correct": 0,
     "explanations": [
-      "Correcto – experiencia negativa en la vida.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Correcto. Experiencia negativa en la vida.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -3540,7 +3540,7 @@
     "correct": 2,
     "explanations": [
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Correcto. Acciones en el día de hoy.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -3559,7 +3559,7 @@
     "explanations": [
       "Correcto. Estado reciente y continuo.",
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -3575,8 +3575,8 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
-      "Correcto – acción terminada con resultado actual.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
+      "Correcto. Acción terminada con resultado actual.",
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -3595,7 +3595,7 @@
     "explanations": [
       "Correcto. Período no terminado.",
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -3613,7 +3613,7 @@
     "explanations": [
       "Correcto. Repetición en semana actual.",
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -3629,7 +3629,7 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Correcto. Tarea completada con 'ya'.",
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
@@ -3649,7 +3649,7 @@
     "explanations": [
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
       "Correcto. Experiencia negativa.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -3667,7 +3667,7 @@
     "explanations": [
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
       "Correcto. Acción reciente en el día.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -3683,7 +3683,7 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Correcto. Resultado presente visible.",
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
@@ -3703,7 +3703,7 @@
     "explanations": [
       "Correcto. Experiencia extrema.",
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -3720,7 +3720,7 @@
     "correct": 0,
     "explanations": [
       "Correcto. Total acumulado en la vida.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -3737,7 +3737,7 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Correcto. Acción pendiente.",
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
@@ -3755,7 +3755,7 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Correcto. Período actual no terminado.",
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
@@ -3774,8 +3774,8 @@
     "correct": 2,
     "explanations": [
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
-      "Correcto – repetición en la mañana actual.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
+      "Correcto. Repetición en la mañana actual.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -3792,8 +3792,8 @@
     "correct": 2,
     "explanations": [
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
-      "Correcto – comparación de experiencia vital.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
+      "Correcto. Comparación de experiencia vital.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -3810,7 +3810,7 @@
     "correct": 0,
     "explanations": [
       "Correcto. Acción con resultado actual.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -3828,8 +3828,8 @@
     "correct": 2,
     "explanations": [
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
-      "Correcto – pregunta sobre acción reciente.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
+      "Correcto. Pregunta sobre acción reciente.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -3847,7 +3847,7 @@
     "explanations": [
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
       "Correcto. Valoración de período actual.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. El presente simple no expresa la conexión entre una acción pasada y el momento actual.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -3865,7 +3865,7 @@
     "explanations": [
       "Correcto. Repetición en mes actual.",
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -3883,7 +3883,7 @@
     "explanations": [
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
       "Correcto. Experiencia única.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -3900,7 +3900,7 @@
     "correct": 0,
     "explanations": [
       "Correcto. Tiempo atmosférico reciente.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. El presente simple no expresa la conexión entre una acción pasada y el momento actual.",
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -3919,7 +3919,7 @@
     "explanations": [
       "Correcto. Preparación terminada.",
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -3935,7 +3935,7 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
       "Correcto. Experiencia inusual.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
@@ -3955,7 +3955,7 @@
     "explanations": [
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
       "Correcto. Balance de período.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -3971,7 +3971,7 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Correcto. Logro reciente.",
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
@@ -3989,7 +3989,7 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
       "Correcto. Incapacidad acumulada.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
@@ -4008,7 +4008,7 @@
     "correct": 2,
     "explanations": [
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Correcto. Acción en tarde actual.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -4025,8 +4025,8 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
-      "Correcto – entrega con relevancia actual.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
+      "Correcto. Entrega con relevancia actual.",
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -4043,9 +4043,9 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
-      "Correcto – pregunta sobre acción reciente.",
+      "Correcto. Pregunta sobre acción reciente.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -4061,7 +4061,7 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
       "Correcto. Acumulación vital.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
@@ -4081,7 +4081,7 @@
     "explanations": [
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
       "Correcto. Conversación terminada.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -4097,9 +4097,9 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
-      "Correcto – balance de verano (si aún no terminó).",
+      "Correcto. Balance de verano (si aún no terminó).",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -4116,7 +4116,7 @@
     "correct": 2,
     "explanations": [
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Correcto. Experiencia no vivida.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -4135,7 +4135,7 @@
     "explanations": [
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
       "Correcto. Logro del día.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -4153,7 +4153,7 @@
     "explanations": [
       "Correcto. Habilidad adquirida.",
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -4170,7 +4170,7 @@
     "correct": 2,
     "explanations": [
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Correcto. Acción preparatoria.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -4189,7 +4189,7 @@
     "explanations": [
       "Correcto. Balance vital.",
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -4206,7 +4206,7 @@
     "correct": 0,
     "explanations": [
       "Correcto. Período académico cerrado.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -4223,7 +4223,7 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
       "Correcto. Reflexión sobre vida.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
@@ -4242,8 +4242,8 @@
     "correct": 2,
     "explanations": [
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
-      "Correcto – valoración de fin de semana reciente.",
+      "Incorrecto. El presente simple no expresa la conexión entre una acción pasada y el momento actual.",
+      "Correcto. Valoración de fin de semana reciente.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -4260,7 +4260,7 @@
     "correct": 0,
     "explanations": [
       "Correcto. Repetición acumulada.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -4277,7 +4277,7 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Correcto. Cambio con relevancia actual.",
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
@@ -4296,7 +4296,7 @@
     "correct": 0,
     "explanations": [
       "Correcto. Acción reciente pendiente.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -4315,7 +4315,7 @@
     "explanations": [
       "Incorrecto. El pretérito indefinido no expresa la acción correctamente aquí.",
       "Correcto. Experiencia hasta ahora.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -4331,7 +4331,7 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Correcto. Con 'todavía no'.",
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
@@ -4349,8 +4349,8 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
-      "Correcto – pregunta de experiencia vital.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
+      "Correcto. Pregunta de experiencia vital.",
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -4369,7 +4369,7 @@
     "explanations": [
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
       "Correcto. Acción muy reciente.",
-      "Incorrecto. Infinitivo no es la forma verbal correcta.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -4385,9 +4385,9 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
-      "Correcto – experiencia negativa en la vida.",
+      "Correcto. Experiencia negativa en la vida.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -4404,7 +4404,7 @@
     "correct": 2,
     "explanations": [
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Correcto. Acciones en el día de hoy.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -4421,7 +4421,7 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Correcto. Estado reciente y continuo.",
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
@@ -4440,8 +4440,8 @@
     "correct": 2,
     "explanations": [
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
-      "Correcto – acción terminada con resultado actual.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
+      "Correcto. Acción terminada con resultado actual.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -4458,7 +4458,7 @@
     "correct": 2,
     "explanations": [
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Correcto. Período no terminado.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -4476,7 +4476,7 @@
     "correct": 2,
     "explanations": [
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Correcto. Repetición en semana actual.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -4493,7 +4493,7 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
       "Correcto. Tarea completada con 'ya'.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
@@ -4511,7 +4511,7 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Correcto. Experiencia negativa.",
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
@@ -4530,7 +4530,7 @@
     "correct": 2,
     "explanations": [
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Correcto. Acción reciente en el día.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -4547,7 +4547,7 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
       "Correcto. Resultado presente visible.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
@@ -4567,7 +4567,7 @@
     "explanations": [
       "Correcto. Experiencia extrema.",
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -4584,7 +4584,7 @@
     "correct": 0,
     "explanations": [
       "Correcto. Total acumulado en la vida.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -4603,7 +4603,7 @@
     "explanations": [
       "Correcto. Acción pendiente.",
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -4619,7 +4619,7 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
       "Correcto. Período actual no terminado.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
@@ -4638,8 +4638,8 @@
     "correct": 1,
     "explanations": [
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
-      "Correcto – repetición en la mañana actual.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Correcto. Repetición en la mañana actual.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -4656,8 +4656,8 @@
     "correct": 1,
     "explanations": [
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
-      "Correcto – comparación de experiencia vital.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Correcto. Comparación de experiencia vital.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -4673,7 +4673,7 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
       "Correcto. Acción con resultado actual.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
@@ -4691,9 +4691,9 @@
     ],
     "correct": 0,
     "explanations": [
-      "Correcto – pregunta sobre acción reciente.",
+      "Correcto. Pregunta sobre acción reciente.",
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -4710,7 +4710,7 @@
     "correct": 0,
     "explanations": [
       "Correcto. Valoración de período actual.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. El presente simple no expresa la conexión entre una acción pasada y el momento actual.",
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -4727,7 +4727,7 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Correcto. Repetición en mes actual.",
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
@@ -4745,7 +4745,7 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Correcto. Experiencia única.",
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
@@ -4764,7 +4764,7 @@
     "correct": 2,
     "explanations": [
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. El presente simple no expresa la conexión entre una acción pasada y el momento actual.",
       "Correcto. Tiempo atmosférico reciente.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -4783,7 +4783,7 @@
     "explanations": [
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
       "Correcto. Preparación terminada.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -4801,7 +4801,7 @@
     "explanations": [
       "Correcto. Experiencia inusual.",
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -4819,7 +4819,7 @@
     "explanations": [
       "Correcto. Balance de período.",
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -4837,7 +4837,7 @@
     "explanations": [
       "Correcto. Logro reciente.",
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -4855,7 +4855,7 @@
     "explanations": [
       "Correcto. Incapacidad acumulada.",
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -4872,7 +4872,7 @@
     "correct": 2,
     "explanations": [
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Correcto. Acción en tarde actual.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -4889,9 +4889,9 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
-      "Correcto – entrega con relevancia actual.",
+      "Correcto. Entrega con relevancia actual.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -4908,8 +4908,8 @@
     "correct": 2,
     "explanations": [
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
-      "Correcto – pregunta sobre acción reciente.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
+      "Correcto. Pregunta sobre acción reciente.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -4925,7 +4925,7 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
       "Correcto. Acumulación vital.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
@@ -4945,7 +4945,7 @@
     "explanations": [
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
       "Correcto. Conversación terminada.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -4961,9 +4961,9 @@
     ],
     "correct": 0,
     "explanations": [
-      "Correcto – balance de verano (si aún no terminó).",
+      "Correcto. Balance de verano (si aún no terminó).",
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -4979,7 +4979,7 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Correcto. Experiencia no vivida.",
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
@@ -4998,7 +4998,7 @@
     "correct": 2,
     "explanations": [
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Correcto. Logro del día.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -5016,7 +5016,7 @@
     "correct": 2,
     "explanations": [
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Correcto. Habilidad adquirida.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -5035,7 +5035,7 @@
     "explanations": [
       "Correcto. Acción preparatoria.",
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -5052,7 +5052,7 @@
     "correct": 0,
     "explanations": [
       "Correcto. Balance vital.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -5069,7 +5069,7 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
       "Correcto. Período académico cerrado.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
@@ -5089,7 +5089,7 @@
     "explanations": [
       "Correcto. Reflexión sobre vida.",
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -5105,8 +5105,8 @@
     ],
     "correct": 0,
     "explanations": [
-      "Correcto – valoración de fin de semana reciente.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Correcto. Valoración de fin de semana reciente.",
+      "Incorrecto. El presente simple no expresa la conexión entre una acción pasada y el momento actual.",
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -5124,7 +5124,7 @@
     "correct": 0,
     "explanations": [
       "Correcto. Repetición acumulada.",
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -5141,7 +5141,7 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Correcto. Cambio con relevancia actual.",
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
@@ -5159,7 +5159,7 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. El presente simple no es el tiempo verbal adecuado en este contexto.",
+      "Incorrecto. Esta forma verbal no expresa correctamente la relación temporal de la acción.",
       "Correcto. Acción reciente pendiente.",
       "Incorrecto. El pretérito indefinido no es apropiado para esta situación.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
@@ -5178,7 +5178,7 @@
     "correct": 2,
     "explanations": [
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
-      "Incorrecto. El pretérito imperfecto no se aplica en este caso.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
       "Correcto. Imperativo afirmativo tú.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -5195,8 +5195,8 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. Afirmativo tú no es la forma verbal correcta.",
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
+      "Incorrecto. Esta forma verbal no es apropiada en este contexto.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
       "Correcto. Imperativo negativo tú.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -5214,8 +5214,8 @@
     "correct": 2,
     "explanations": [
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
-      "Correcto – imperativo afirmativo vosotros.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
+      "Correcto. Imperativo afirmativo vosotros.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -5233,7 +5233,7 @@
     "explanations": [
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
       "Correcto. Irregular tú (decir).",
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -5250,8 +5250,8 @@
     "correct": 0,
     "explanations": [
       "Correcto. Negativo tú (tocar).",
-      "Incorrecto. Afirmativo tú no es la forma verbal correcta.",
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
+      "Incorrecto. Esta forma verbal no es apropiada en este contexto.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -5267,9 +5267,9 @@
     ],
     "correct": 0,
     "explanations": [
-      "Correcto – imperativo formal usted (venir).",
+      "Correcto. Imperativo formal usted (venir).",
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -5286,8 +5286,8 @@
     "correct": 0,
     "explanations": [
       "Correcto. Negativo tú (apagar).",
-      "Incorrecto. Afirmativo tú no es la forma verbal correcta.",
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
+      "Incorrecto. Esta forma verbal no es apropiada en este contexto.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -5304,7 +5304,7 @@
     "correct": 0,
     "explanations": [
       "Correcto. Irregular vosotros (poner).",
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -5321,7 +5321,7 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
       "Correcto. Irregular tú (venir).",
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
@@ -5339,7 +5339,7 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
       "Correcto. Negativo ustedes.",
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
@@ -5357,7 +5357,7 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
       "Correcto. Afirmativo tú (subir).",
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
@@ -5376,7 +5376,7 @@
     "correct": 2,
     "explanations": [
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
       "Correcto. Reflexivo vosotros.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -5393,9 +5393,9 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
       "Correcto. Negativo tú (decir).",
-      "Incorrecto. Formal usted no es la forma verbal correcta.",
+      "Incorrecto. Esta forma verbal no es apropiada en este contexto.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -5411,7 +5411,7 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
       "Correcto. Irregular ustedes (hacer).",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
@@ -5431,7 +5431,7 @@
     "explanations": [
       "Correcto. Afirmativo tú (abrir).",
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -5448,8 +5448,8 @@
     "correct": 0,
     "explanations": [
       "Correcto. Negativo tú (usar).",
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
-      "Incorrecto. Afirmativo tú no es la forma verbal correcta.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
+      "Incorrecto. Esta forma verbal no es apropiada en este contexto.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -5467,7 +5467,7 @@
     "explanations": [
       "Correcto. Irregular tú (beber).",
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -5484,8 +5484,8 @@
     "correct": 0,
     "explanations": [
       "Correcto. Formal usted.",
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
-      "Incorrecto. Tú afirmativo no es la forma verbal correcta.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
+      "Incorrecto. Esta forma verbal no es apropiada en este contexto.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -5503,7 +5503,7 @@
     "explanations": [
       "Correcto. Negativo vosotros (ir).",
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
+      "Incorrecto. Esta forma verbal no es apropiada en este contexto.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -5520,7 +5520,7 @@
     "correct": 2,
     "explanations": [
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
       "Correcto. Afirmativo tú.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -5539,7 +5539,7 @@
     "explanations": [
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
       "Correcto. Afirmativo tú (sacar).",
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -5556,8 +5556,8 @@
     "correct": 0,
     "explanations": [
       "Correcto. Negativo tú (comer).",
-      "Incorrecto. Afirmativo tú no es la forma verbal correcta.",
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
+      "Incorrecto. Esta forma verbal no es apropiada en este contexto.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -5575,7 +5575,7 @@
     "explanations": [
       "Correcto. Afirmativo vosotros (meter).",
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -5593,7 +5593,7 @@
     "explanations": [
       "Correcto. Formal cortés (hacer).",
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -5609,7 +5609,7 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
       "Correcto. Expresión idiomática tú.",
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
@@ -5627,8 +5627,8 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. Afirmativo tú no es la forma verbal correcta.",
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
+      "Incorrecto. Esta forma verbal no es apropiada en este contexto.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
       "Correcto. Negativo tú (contar).",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -5645,7 +5645,7 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
       "Correcto. Irregular tú (salir).",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
@@ -5665,7 +5665,7 @@
     "explanations": [
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
       "Correcto. Afirmativo vosotros.",
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -5683,7 +5683,7 @@
     "explanations": [
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
       "Correcto. Formal ustedes.",
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -5699,9 +5699,9 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
       "Correcto. Negativo tú (tener).",
-      "Incorrecto. Afirmativo tú no es la forma verbal correcta.",
+      "Incorrecto. Esta forma verbal no es apropiada en este contexto.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -5717,7 +5717,7 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
       "Correcto. Irregular tú (decir).",
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
@@ -5735,7 +5735,7 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
       "Correcto. Reflexivo vosotros.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
@@ -5754,8 +5754,8 @@
     "correct": 0,
     "explanations": [
       "Correcto. Negativo tú.",
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
-      "Incorrecto. Afirmativo tú no es la forma verbal correcta.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
+      "Incorrecto. Esta forma verbal no es apropiada en este contexto.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -5773,7 +5773,7 @@
     "explanations": [
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
       "Correcto. Afirmativo tú.",
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -5789,7 +5789,7 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
       "Correcto. Formal ustedes.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
@@ -5807,9 +5807,9 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. Afirmativo tú no es la forma verbal correcta.",
+      "Incorrecto. Esta forma verbal no es apropiada en este contexto.",
       "Correcto. Negativo tú (poner).",
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -5826,7 +5826,7 @@
     "correct": 0,
     "explanations": [
       "Correcto. Afirmativo tú (seguir).",
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -5845,7 +5845,7 @@
     "explanations": [
       "Correcto. Irregular tú (tener).",
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -5861,9 +5861,9 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
       "Correcto. Negativo tú (decir).",
-      "Incorrecto. Formal usted no es la forma verbal correcta.",
+      "Incorrecto. Esta forma verbal no es apropiada en este contexto.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -5880,7 +5880,7 @@
     "correct": 0,
     "explanations": [
       "Correcto. Afirmativo vosotros (hacer).",
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -5898,7 +5898,7 @@
     "correct": 2,
     "explanations": [
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
       "Correcto. Reflexivo tú (ponerse).",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -5915,7 +5915,7 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
       "Correcto. Negativo ustedes.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
@@ -5933,7 +5933,7 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
       "Correcto. Irregular tú.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
@@ -5951,7 +5951,7 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
       "Correcto. Afirmativo vosotros.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
@@ -5969,8 +5969,8 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. Afirmativo tú no es la forma verbal correcta.",
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
+      "Incorrecto. Esta forma verbal no es apropiada en este contexto.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
       "Correcto. Negativo tú (conducir).",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -5987,9 +5987,9 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
       "Correcto. Irregular formal usted (dar).",
-      "Incorrecto. Tú afirmativo no es la forma verbal correcta.",
+      "Incorrecto. Esta forma verbal no es apropiada en este contexto.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -6006,7 +6006,7 @@
     "correct": 0,
     "explanations": [
       "Correcto. Irregular tú (poner).",
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -6023,8 +6023,8 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. Formal usted no es la forma verbal correcta.",
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
+      "Incorrecto. Esta forma verbal no es apropiada en este contexto.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
       "Correcto. Negativo tú (hacer).",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -6043,7 +6043,7 @@
     "explanations": [
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
       "Correcto. Afirmativo tú.",
-      "Incorrecto. El imperfecto no corresponde a este tipo de acción.",
+      "Incorrecto. El imperfecto se usa para describir acciones pasadas habituales, no presentes.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -6060,8 +6060,8 @@
     "correct": 1,
     "explanations": [
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
-      "Correcto – condicional simple en oración hipotética.",
-      "Incorrecto. El pretérito imperfecto no se aplica en este caso.",
+      "Correcto. Condicional simple en oración hipotética.",
+      "Incorrecto. Esta forma no expresa la naturaleza hipotética o cortés de la situación.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -6077,7 +6077,7 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. El pretérito imperfecto no se aplica en este caso.",
+      "Incorrecto. Esta forma no expresa la naturaleza hipotética o cortés de la situación.",
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
       "Correcto. Consejo con condicional.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
@@ -6096,7 +6096,7 @@
     "correct": 0,
     "explanations": [
       "Correcto. Condicional en la principal.",
-      "Incorrecto. El pretérito imperfecto no se aplica en este caso.",
+      "Incorrecto. Esta forma no expresa la naturaleza hipotética o cortés de la situación.",
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -6113,9 +6113,9 @@
     ],
     "correct": 0,
     "explanations": [
-      "Correcto – petición educada con condicional.",
+      "Correcto. Petición educada con condicional.",
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
-      "Incorrecto. El pretérito imperfecto no se aplica en este caso.",
+      "Incorrecto. Esta forma no expresa la naturaleza hipotética o cortés de la situación.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -6132,7 +6132,7 @@
     "correct": 2,
     "explanations": [
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
-      "Incorrecto. El pretérito imperfecto no se aplica en este caso.",
+      "Incorrecto. Esta forma no expresa la naturaleza hipotética o cortés de la situación.",
       "Correcto. Hipótesis irreal.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -6149,9 +6149,9 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. El pretérito imperfecto no se aplica en este caso.",
+      "Incorrecto. Esta forma no expresa la naturaleza hipotética o cortés de la situación.",
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
-      "Correcto – futuro en el pasado (estilo indirecto).",
+      "Correcto. Futuro en el pasado (estilo indirecto).",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -6167,9 +6167,9 @@
     ],
     "correct": 0,
     "explanations": [
-      "Correcto – condicional simple (decir irregular).",
+      "Correcto. Condicional simple (decir irregular).",
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
-      "Incorrecto. El pretérito imperfecto no se aplica en este caso.",
+      "Incorrecto. Esta forma no expresa la naturaleza hipotética o cortés de la situación.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -6185,7 +6185,7 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. El pretérito imperfecto no se aplica en este caso.",
+      "Incorrecto. Esta forma no expresa la naturaleza hipotética o cortés de la situación.",
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
       "Correcto. Condicional en la principal.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
@@ -6204,8 +6204,8 @@
     "correct": 2,
     "explanations": [
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
-      "Incorrecto. El pretérito imperfecto no se aplica en este caso.",
-      "Correcto – gustar en condicional (cortesía/hipótesis).",
+      "Incorrecto. Esta forma no expresa la naturaleza hipotética o cortés de la situación.",
+      "Correcto. Gustar en condicional (cortesía/hipótesis).",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -6221,8 +6221,8 @@
     ],
     "correct": 0,
     "explanations": [
-      "Correcto – reproche suave con condicional.",
-      "Incorrecto. El pretérito imperfecto no se aplica en este caso.",
+      "Correcto. Reproche suave con condicional.",
+      "Incorrecto. Esta forma no expresa la naturaleza hipotética o cortés de la situación.",
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -6239,7 +6239,7 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. El pretérito imperfecto no se aplica en este caso.",
+      "Incorrecto. Esta forma no expresa la naturaleza hipotética o cortés de la situación.",
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
       "Correcto. Petición educada.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
@@ -6259,7 +6259,7 @@
     "explanations": [
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
       "Correcto. Hipótesis imposible.",
-      "Incorrecto. El pretérito imperfecto no se aplica en este caso.",
+      "Incorrecto. Esta forma no expresa la naturaleza hipotética o cortés de la situación.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -6276,7 +6276,7 @@
     "correct": 0,
     "explanations": [
       "Correcto. Futuro en el pasado.",
-      "Incorrecto. El pretérito imperfecto no se aplica en este caso.",
+      "Incorrecto. Esta forma no expresa la naturaleza hipotética o cortés de la situación.",
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -6295,7 +6295,7 @@
     "explanations": [
       "Correcto. Aceptación hipotética.",
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
-      "Incorrecto. El pretérito imperfecto no se aplica en este caso.",
+      "Incorrecto. Esta forma no expresa la naturaleza hipotética o cortés de la situación.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -6313,7 +6313,7 @@
     "explanations": [
       "Correcto. Estado hipotético.",
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
-      "Incorrecto. El pretérito imperfecto no se aplica en este caso.",
+      "Incorrecto. Esta forma no expresa la naturaleza hipotética o cortés de la situación.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -6329,8 +6329,8 @@
     ],
     "correct": 0,
     "explanations": [
-      "Correcto – consecuencia lógica hipotética.",
-      "Incorrecto. El pretérito imperfecto no se aplica en este caso.",
+      "Correcto. Consecuencia lógica hipotética.",
+      "Incorrecto. Esta forma no expresa la naturaleza hipotética o cortés de la situación.",
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -6349,7 +6349,7 @@
     "explanations": [
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
       "Correcto. Petición educada.",
-      "Incorrecto. El pretérito imperfecto no se aplica en este caso.",
+      "Incorrecto. Esta forma no expresa la naturaleza hipotética o cortés de la situación.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -6367,7 +6367,7 @@
     "explanations": [
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
       "Correcto. Hipótesis irreal.",
-      "Incorrecto. El pretérito imperfecto no se aplica en este caso.",
+      "Incorrecto. Esta forma no expresa la naturaleza hipotética o cortés de la situación.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -6383,8 +6383,8 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. El pretérito imperfecto no se aplica en este caso.",
-      "Correcto – futuro condicionado en estilo indirecto.",
+      "Incorrecto. Esta forma no expresa la naturaleza hipotética o cortés de la situación.",
+      "Correcto. Futuro condicionado en estilo indirecto.",
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -6401,7 +6401,7 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. El pretérito imperfecto no se aplica en este caso.",
+      "Incorrecto. Esta forma no expresa la naturaleza hipotética o cortés de la situación.",
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
       "Correcto. Deseo hipotético.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
@@ -6420,7 +6420,7 @@
     "correct": 2,
     "explanations": [
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
-      "Incorrecto. El pretérito imperfecto no se aplica en este caso.",
+      "Incorrecto. Esta forma no expresa la naturaleza hipotética o cortés de la situación.",
       "Correcto. Condición irreal.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -6439,7 +6439,7 @@
     "explanations": [
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
       "Correcto. Petición educada.",
-      "Incorrecto. El pretérito imperfecto no se aplica en este caso.",
+      "Incorrecto. Esta forma no expresa la naturaleza hipotética o cortés de la situación.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -6456,7 +6456,7 @@
     "correct": 0,
     "explanations": [
       "Correcto. Posibilidad hipotética.",
-      "Incorrecto. El pretérito imperfecto no se aplica en este caso.",
+      "Incorrecto. Esta forma no expresa la naturaleza hipotética o cortés de la situación.",
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -6473,7 +6473,7 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. El pretérito imperfecto no se aplica en este caso.",
+      "Incorrecto. Esta forma no expresa la naturaleza hipotética o cortés de la situación.",
       "Correcto. Preferencia hipotética.",
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
@@ -6492,7 +6492,7 @@
     "correct": 2,
     "explanations": [
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
-      "Incorrecto. El pretérito imperfecto no se aplica en este caso.",
+      "Incorrecto. Esta forma no expresa la naturaleza hipotética o cortés de la situación.",
       "Correcto. Consecuencia hipotética.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -6510,7 +6510,7 @@
     "correct": 0,
     "explanations": [
       "Correcto. Condición de cortesía.",
-      "Incorrecto. El pretérito imperfecto no se aplica en este caso.",
+      "Incorrecto. Esta forma no expresa la naturaleza hipotética o cortés de la situación.",
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -6527,7 +6527,7 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. El pretérito imperfecto no se aplica en este caso.",
+      "Incorrecto. Esta forma no expresa la naturaleza hipotética o cortés de la situación.",
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
       "Correcto. Hipótesis irreal.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
@@ -6546,7 +6546,7 @@
     "correct": 0,
     "explanations": [
       "Correcto. Futuro en el pasado.",
-      "Incorrecto. El pretérito imperfecto no se aplica en este caso.",
+      "Incorrecto. Esta forma no expresa la naturaleza hipotética o cortés de la situación.",
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -6565,7 +6565,7 @@
     "explanations": [
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
       "Correcto. Sugerencia suave.",
-      "Incorrecto. El pretérito imperfecto no se aplica en este caso.",
+      "Incorrecto. Esta forma no expresa la naturaleza hipotética o cortés de la situación.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -6582,7 +6582,7 @@
     "correct": 2,
     "explanations": [
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
-      "Incorrecto. El pretérito imperfecto no se aplica en este caso.",
+      "Incorrecto. Esta forma no expresa la naturaleza hipotética o cortés de la situación.",
       "Correcto. Promesa hipotética.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -6599,7 +6599,7 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. El pretérito imperfecto no se aplica en este caso.",
+      "Incorrecto. Esta forma no expresa la naturaleza hipotética o cortés de la situación.",
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
       "Correcto. Petición educada.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
@@ -6617,8 +6617,8 @@
     ],
     "correct": 0,
     "explanations": [
-      "Correcto – condicional irregular (decir).",
-      "Incorrecto. El pretérito imperfecto no se aplica en este caso.",
+      "Correcto. Condicional irregular (decir).",
+      "Incorrecto. Esta forma no expresa la naturaleza hipotética o cortés de la situación.",
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -6637,7 +6637,7 @@
     "explanations": [
       "Correcto. Hipótesis de compra.",
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
-      "Incorrecto. El pretérito imperfecto no se aplica en este caso.",
+      "Incorrecto. Esta forma no expresa la naturaleza hipotética o cortés de la situación.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -6653,7 +6653,7 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. El pretérito imperfecto no se aplica en este caso.",
+      "Incorrecto. Esta forma no expresa la naturaleza hipotética o cortés de la situación.",
       "Correcto. Deseo hipotético.",
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
@@ -6673,7 +6673,7 @@
     "explanations": [
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
       "Correcto. Consecuencia hipotética.",
-      "Incorrecto. El pretérito imperfecto no se aplica en este caso.",
+      "Incorrecto. Esta forma no expresa la naturaleza hipotética o cortés de la situación.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -6691,7 +6691,7 @@
     "explanations": [
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
       "Correcto. Preferencia hipotética.",
-      "Incorrecto. El pretérito imperfecto no se aplica en este caso.",
+      "Incorrecto. Esta forma no expresa la naturaleza hipotética o cortés de la situación.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -6709,7 +6709,7 @@
     "explanations": [
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
       "Correcto. Reflexión hipotética.",
-      "Incorrecto. El pretérito imperfecto no se aplica en este caso.",
+      "Incorrecto. Esta forma no expresa la naturaleza hipotética o cortés de la situación.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -6727,7 +6727,7 @@
     "explanations": [
       "Correcto. Petición muy educada.",
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
-      "Incorrecto. El pretérito imperfecto no se aplica en este caso.",
+      "Incorrecto. Esta forma no expresa la naturaleza hipotética o cortés de la situación.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -6743,7 +6743,7 @@
     ],
     "correct": 2,
     "explanations": [
-      "Incorrecto. El pretérito imperfecto no se aplica en este caso.",
+      "Incorrecto. Esta forma no expresa la naturaleza hipotética o cortés de la situación.",
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
       "Correcto. Condición de tiempo.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
@@ -6761,7 +6761,7 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. El pretérito imperfecto no se aplica en este caso.",
+      "Incorrecto. Esta forma no expresa la naturaleza hipotética o cortés de la situación.",
       "Correcto. Sugerencia suave.",
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
@@ -6781,7 +6781,7 @@
     "explanations": [
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
       "Correcto. Reproche con condicional.",
-      "Incorrecto. El pretérito imperfecto no se aplica en este caso.",
+      "Incorrecto. Esta forma no expresa la naturaleza hipotética o cortés de la situación.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -6798,7 +6798,7 @@
     "correct": 2,
     "explanations": [
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
-      "Incorrecto. El pretérito imperfecto no se aplica en este caso.",
+      "Incorrecto. Esta forma no expresa la naturaleza hipotética o cortés de la situación.",
       "Correcto. Condición emocional.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
@@ -6817,7 +6817,7 @@
     "explanations": [
       "Correcto. Deseo imposible.",
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
-      "Incorrecto. El pretérito imperfecto no se aplica en este caso.",
+      "Incorrecto. Esta forma no expresa la naturaleza hipotética o cortés de la situación.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -6833,7 +6833,7 @@
     ],
     "correct": 1,
     "explanations": [
-      "Incorrecto. El pretérito imperfecto no se aplica en este caso.",
+      "Incorrecto. Esta forma no expresa la naturaleza hipotética o cortés de la situación.",
       "Correcto. Deseo de información.",
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
@@ -6853,7 +6853,7 @@
     "explanations": [
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
       "Correcto. Potencial bloqueado.",
-      "Incorrecto. El pretérito imperfecto no se aplica en este caso.",
+      "Incorrecto. Esta forma no expresa la naturaleza hipotética o cortés de la situación.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
   },
@@ -6870,7 +6870,7 @@
     "correct": 0,
     "explanations": [
       "Correcto. Petición muy formal.",
-      "Incorrecto. El pretérito imperfecto no se aplica en este caso.",
+      "Incorrecto. Esta forma no expresa la naturaleza hipotética o cortés de la situación.",
       "Incorrecto. El presente indicativo no se utiliza para expresar este tipo de acción.",
       "Incorrecto. Esta forma verbal no es apropiada para el contexto de la oración."
     ]
