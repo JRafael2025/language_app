@@ -1,0 +1,362 @@
+[
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "_______ la puerta, por favor. (tú)",
+    "options": [
+      "Cierras",
+      "Cierra",
+      "Cierres",
+      "Cierre"
+    ],
+    "correct": 1,
+    "explanations": [
+      "'Cierras' es presente indicativo, no imperativo.",
+      "Correcto! 'Cierra' es imperativo afirmativo para tú.",
+      "'Cierres' es presente subjuntivo, no imperativo tú.",
+      "'Cierre' es imperativo usted, pero el sujeto es tú."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "No _______ tarde. (tú)",
+    "options": [
+      "llega",
+      "llegas",
+      "llegues",
+      "llegue"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Llega' es imperativo afirmativo, pero aquí necesitamos negativo.",
+      "'Llegas' es presente indicativo, no imperativo.",
+      "Correcto! 'Llegues' es imperativo negativo para tú (usa subjuntivo).",
+      "'Llegue' es subjuntivo usted, pero el sujeto es tú."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "_______ aquí, señor. (usted)",
+    "options": [
+      "Sienta",
+      "Siéntate",
+      "Siéntese",
+      "Sentarse"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Sienta' es subjuntivo simple, falta el pronombre reflexivo.",
+      "'Siéntate' es imperativo tú, pero el sujeto es usted.",
+      "Correcto! 'Siéntese' es imperativo formal (usted) con pronombre.",
+      "'Sentarse' es infinitivo reflexivo, no imperativo."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "_______ más agua. (tú)",
+    "options": [
+      "Bebe",
+      "Bebes",
+      "Bebas",
+      "Beba"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto! 'Bebe' es imperativo afirmativo para tú.",
+      "'Bebes' es presente indicativo, no imperativo.",
+      "'Bebas' es presente subjuntivo, no imperativo afirmativo tú.",
+      "'Beba' es imperativo usted, pero el sujeto es tú."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "No _______ eso. (tú)",
+    "options": [
+      "hace",
+      "haces",
+      "hagas",
+      "haga"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Hace' es tercera persona o imperativo afirmativo irregular (haz).",
+      "'Haces' es presente indicativo segunda persona, no imperativo.",
+      "Correcto! 'Hagas' es imperativo negativo para tú (usa subjuntivo).",
+      "'Haga' es subjuntivo usted, pero el sujeto es tú."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "_______ la verdad siempre. (vosotros)",
+    "options": [
+      "Decid",
+      "Decís",
+      "Digáis",
+      "Digan"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto! 'Decid' es imperativo afirmativo para vosotros.",
+      "'Decís' es presente indicativo, no imperativo.",
+      "'Digáis' es presente subjuntivo para imperativo negativo, no afirmativo.",
+      "'Digan' es imperativo ustedes, pero el sujeto es vosotros."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "_______ temprano mañana. (usted)",
+    "options": [
+      "Levanta",
+      "Levántate",
+      "Levántese",
+      "Levantarse"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Levanta' es imperativo tú no reflexivo, incompleto.",
+      "'Levántate' es imperativo tú reflexivo, pero el sujeto es usted.",
+      "Correcto! 'Levántese' es imperativo formal (usted) reflexivo.",
+      "'Levantarse' es infinitivo reflexivo, no imperativo."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "No _______ miedo. (tú)",
+    "options": [
+      "tiene",
+      "tienes",
+      "tengas",
+      "tenga"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Tiene' es tercera persona indicativo, no imperativo.",
+      "'Tienes' es presente indicativo segunda persona, no imperativo.",
+      "Correcto! 'Tengas' es imperativo negativo para tú (usa subjuntivo).",
+      "'Tenga' es subjuntivo usted, pero el sujeto es tú."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "_______ al gimnasio con nosotros. (tú)",
+    "options": [
+      "Ven",
+      "Vienes",
+      "Vengas",
+      "Venga"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto! 'Ven' es imperativo afirmativo irregular para tú.",
+      "'Vienes' es presente indicativo, no imperativo.",
+      "'Vengas' es subjuntivo para imperativo negativo, no afirmativo.",
+      "'Venga' es imperativo usted, pero el sujeto es tú."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "No _______ en clase. (vosotros)",
+    "options": [
+      "hablad",
+      "habláis",
+      "habléis",
+      "hablen"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Hablad' es imperativo afirmativo, pero necesitamos negativo.",
+      "'Habláis' es presente indicativo, no imperativo.",
+      "Correcto! 'Habléis' es imperativo negativo para vosotros (subjuntivo).",
+      "'Hablen' es imperativo ustedes, pero el sujeto es vosotros."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "_______ paciencia con los niños. (usted)",
+    "options": [
+      "Ten",
+      "Tiene",
+      "Tenga",
+      "Tener"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Ten' es imperativo tú, pero el sujeto es usted.",
+      "'Tiene' es presente indicativo tercera persona, no imperativo.",
+      "Correcto! 'Tenga' es imperativo formal (usted).",
+      "'Tener' es infinitivo, no imperativo."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "_______ tranquilo. (tú)",
+    "options": [
+      "Está",
+      "Estate",
+      "Estés",
+      "Esté"
+    ],
+    "correct": 1,
+    "explanations": [
+      "'Está' es imperativo no reflexivo, pero necesitamos forma reflexiva.",
+      "Correcto! 'Estate' es imperativo afirmativo irregular para tú (estar).",
+      "'Estés' es subjuntivo para imperativo negativo, no afirmativo.",
+      "'Esté' es imperativo usted, pero el sujeto es tú."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "No _______ tan rápido. (usted)",
+    "options": [
+      "conduce",
+      "conduzca",
+      "conduzcas",
+      "conducir"
+    ],
+    "correct": 1,
+    "explanations": [
+      "'Conduce' es imperativo tú o presente indicativo, no usted negativo.",
+      "Correcto! 'Conduzca' es imperativo negativo formal (usa subjuntivo).",
+      "'Conduzcas' es subjuntivo tú, pero el sujeto es usted.",
+      "'Conducir' es infinitivo, no imperativo."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "_______ buenos con vuestros compañeros. (vosotros)",
+    "options": [
+      "Sed",
+      "Sois",
+      "Seáis",
+      "Sean"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto! 'Sed' es imperativo afirmativo irregular para vosotros.",
+      "'Sois' es presente indicativo, no imperativo.",
+      "'Seáis' es subjuntivo para imperativo negativo, no afirmativo.",
+      "'Sean' es imperativo ustedes, pero el sujeto es vosotros."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "_______ a tu hermano. (tú)",
+    "options": [
+      "Ayuda",
+      "Ayudas",
+      "Ayudes",
+      "Ayude"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto! 'Ayuda' es imperativo afirmativo regular para tú.",
+      "'Ayudas' es presente indicativo, no imperativo.",
+      "'Ayudes' es subjuntivo para imperativo negativo, no afirmativo.",
+      "'Ayude' es imperativo usted, pero el sujeto es tú."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "No _______ en la biblioteca. (vosotros)",
+    "options": [
+      "corred",
+      "corréis",
+      "corráis",
+      "corran"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Corred' es imperativo afirmativo, pero necesitamos negativo.",
+      "'Corréis' es presente indicativo, no imperativo.",
+      "Correcto! 'Corráis' es imperativo negativo para vosotros (subjuntivo).",
+      "'Corran' es imperativo ustedes, pero el sujeto es vosotros."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "_______ las manos antes de comer. (usted)",
+    "options": [
+      "Lava",
+      "Lávese",
+      "Lávate",
+      "Lavar"
+    ],
+    "correct": 1,
+    "explanations": [
+      "'Lava' es imperativo tú no reflexivo, incompleto para esta forma.",
+      "Correcto! 'Lávese' es imperativo formal reflexivo (usted).",
+      "'Lávate' es imperativo tú reflexivo, pero el sujeto es usted.",
+      "'Lavar' es infinitivo, no imperativo."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "_______ responsable con tus tareas. (tú)",
+    "options": [
+      "Sé",
+      "Eres",
+      "Seas",
+      "Sea"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto! 'Sé' es imperativo afirmativo irregular para tú (ser).",
+      "'Eres' es presente indicativo, no imperativo.",
+      "'Seas' es subjuntivo para imperativo negativo, no afirmativo.",
+      "'Sea' es imperativo usted, pero el sujeto es tú."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "No _______ tanto ruido. (ustedes)",
+    "options": [
+      "hacen",
+      "hagan",
+      "hagáis",
+      "hacer"
+    ],
+    "correct": 1,
+    "explanations": [
+      "'Hacen' es presente indicativo tercera persona plural, no imperativo.",
+      "Correcto! 'Hagan' es imperativo negativo para ustedes (subjuntivo).",
+      "'Hagáis' es subjuntivo vosotros, pero el sujeto es ustedes.",
+      "'Hacer' es infinitivo, no imperativo."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "_______ atención en clase. (vosotros)",
+    "options": [
+      "Poned",
+      "Ponéis",
+      "Pongáis",
+      "Pongan"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto! 'Poned' es imperativo afirmativo para vosotros.",
+      "'Ponéis' es presente indicativo, no imperativo.",
+      "'Pongáis' es subjuntivo para imperativo negativo, no afirmativo.",
+      "'Pongan' es imperativo ustedes, pero el sujeto es vosotros."
+    ]
+  }
+]

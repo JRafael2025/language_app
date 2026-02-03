@@ -1,0 +1,362 @@
+[
+  {
+    "language": "en",
+    "tense": "Present Simple",
+    "sentence": "She _______ to work every day.",
+    "options": [
+      "walk",
+      "walks",
+      "walking",
+      "walked"
+    ],
+    "correct": 1,
+    "explanations": [
+      "'Walk' is the base form - needs third-person 's' with 'she'.",
+      "Correct! 'Walks' is the third-person singular present simple form.",
+      "'Walking' is the gerund/continuous form, not present simple.",
+      "'Walked' is past tense, but we need present for a daily habit."
+    ]
+  },
+  {
+    "language": "en",
+    "tense": "Present Simple",
+    "sentence": "They _______ coffee in the morning.",
+    "options": [
+      "drinks",
+      "drinking",
+      "drink",
+      "drank"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Drinks' needs a singular subject (he/she/it), but 'they' is plural.",
+      "'Drinking' is the gerund/continuous form, not present simple.",
+      "Correct! 'Drink' is the present simple form for plural subjects.",
+      "'Drank' is past tense, but we need present for a regular habit."
+    ]
+  },
+  {
+    "language": "en",
+    "tense": "Present Simple",
+    "sentence": "My brother _______ video games on weekends.",
+    "options": [
+      "play",
+      "playing",
+      "plays",
+      "played"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Play' is the base form - needs third-person 's' with 'brother'.",
+      "'Playing' is the gerund/continuous form, not present simple.",
+      "Correct! 'Plays' is third-person singular present simple.",
+      "'Played' is past tense, but we're talking about a regular activity."
+    ]
+  },
+  {
+    "language": "en",
+    "tense": "Present Continuous",
+    "sentence": "I _______ for my keys right now.",
+    "options": [
+      "look",
+      "looking",
+      "am looking",
+      "looked"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Look' is present simple, but 'right now' indicates ongoing action.",
+      "'Looking' needs a helping verb (am/is/are) to form continuous tense.",
+      "Correct! 'Am looking' shows an action happening at this moment.",
+      "'Looked' is past tense, but the action is happening now."
+    ]
+  },
+  {
+    "language": "en",
+    "tense": "Present Continuous",
+    "sentence": "The children _______ in the garden at the moment.",
+    "options": [
+      "play",
+      "plays",
+      "are playing",
+      "played"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Play' is present simple, but we need continuous for 'at the moment'.",
+      "'Plays' is wrong - both tense and subject-verb agreement are off.",
+      "Correct! 'Are playing' describes an action in progress right now.",
+      "'Played' is past tense, but the action is currently happening."
+    ]
+  },
+  {
+    "language": "en",
+    "tense": "Present Continuous",
+    "sentence": "She _______ a book this week.",
+    "options": [
+      "reads",
+      "is reading",
+      "read",
+      "reading"
+    ],
+    "correct": 1,
+    "explanations": [
+      "'Reads' is present simple for habits, not temporary activities.",
+      "Correct! 'Is reading' shows a temporary activity in progress.",
+      "'Read' (present) is simple tense, not continuous for 'this week'.",
+      "'Reading' needs 'is' to complete the present continuous structure."
+    ]
+  },
+  {
+    "language": "en",
+    "tense": "Past Simple",
+    "sentence": "We _______ to Paris last summer.",
+    "options": [
+      "go",
+      "goes",
+      "went",
+      "going"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Go' is present tense, but 'last summer' requires past.",
+      "'Goes' is present tense third-person, wrong on both counts here.",
+      "Correct! 'Went' is the irregular past form of 'go'.",
+      "'Going' is the gerund/continuous form, needs helping verb."
+    ]
+  },
+  {
+    "language": "en",
+    "tense": "Past Simple",
+    "sentence": "She _______ her homework yesterday.",
+    "options": [
+      "finish",
+      "finished",
+      "finishes",
+      "finishing"
+    ],
+    "correct": 1,
+    "explanations": [
+      "'Finish' is present tense, but 'yesterday' requires past.",
+      "Correct! 'Finished' is the past simple form for completed actions.",
+      "'Finishes' is present tense, wrong for a past time marker.",
+      "'Finishing' is gerund/continuous, doesn't fit this context."
+    ]
+  },
+  {
+    "language": "en",
+    "tense": "Past Simple",
+    "sentence": "They _______ the movie last night.",
+    "options": [
+      "watch",
+      "watches",
+      "watched",
+      "watching"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Watch' is present tense, but 'last night' requires past.",
+      "'Watches' is present third-person singular, doubly wrong here.",
+      "Correct! 'Watched' is past simple for a completed past action.",
+      "'Watching' needs a helping verb and doesn't fit simple past."
+    ]
+  },
+  {
+    "language": "en",
+    "tense": "Present Perfect",
+    "sentence": "I _______ never _______ sushi before.",
+    "options": [
+      "did... eat",
+      "have... eaten",
+      "am... eating",
+      "was... eating"
+    ],
+    "correct": 1,
+    "explanations": [
+      "'Did eat' is past simple, but 'never...before' suggests present perfect.",
+      "Correct! 'Have eaten' connects past experience to the present.",
+      "'Am eating' is present continuous, wrong for life experience.",
+      "'Was eating' is past continuous, doesn't fit this context."
+    ]
+  },
+  {
+    "language": "en",
+    "tense": "Present Perfect",
+    "sentence": "She _______ in London for five years.",
+    "options": [
+      "lives",
+      "lived",
+      "has lived",
+      "is living"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Lives' is present simple, doesn't show the duration from past to now.",
+      "'Lived' is past simple, suggests she no longer lives there.",
+      "Correct! 'Has lived' shows an action that started in past, continues now.",
+      "'Is living' is present continuous, doesn't emphasize the five-year period."
+    ]
+  },
+  {
+    "language": "en",
+    "tense": "Present Perfect",
+    "sentence": "They _______ their work yet.",
+    "options": [
+      "didn't finish",
+      "don't finish",
+      "haven't finished",
+      "aren't finishing"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Didn't finish' is past simple, but 'yet' typically pairs with present perfect.",
+      "'Don't finish' is present simple, doesn't work with 'yet' in this context.",
+      "Correct! 'Haven't finished' is present perfect, perfect with 'yet'.",
+      "'Aren't finishing' is present continuous, doesn't fit with 'yet' here."
+    ]
+  },
+  {
+    "language": "en",
+    "tense": "Future (will)",
+    "sentence": "I think it _______ rain tomorrow.",
+    "options": [
+      "will",
+      "is going to",
+      "rains",
+      "rained"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correct! 'Will' is used for predictions and spontaneous decisions.",
+      "'Is going to' works for predictions, but 'will' is more natural with 'think'.",
+      "'Rains' is present simple, wrong for future prediction.",
+      "'Rained' is past tense, completely wrong context."
+    ]
+  },
+  {
+    "language": "en",
+    "tense": "Future (will)",
+    "sentence": "Don't worry, I _______ help you with that.",
+    "options": [
+      "am going to",
+      "will",
+      "help",
+      "helped"
+    ],
+    "correct": 1,
+    "explanations": [
+      "'Am going to' suggests planning, but this is a spontaneous offer.",
+      "Correct! 'Will' is perfect for promises and instant decisions.",
+      "'Help' is present simple, doesn't express future intention.",
+      "'Helped' is past tense, makes no sense here."
+    ]
+  },
+  {
+    "language": "en",
+    "tense": "Future (going to)",
+    "sentence": "Look at those clouds! It _______ rain soon.",
+    "options": [
+      "will",
+      "is going to",
+      "rains",
+      "rained"
+    ],
+    "correct": 1,
+    "explanations": [
+      "'Will' works for predictions, but 'going to' is better with visible evidence.",
+      "Correct! 'Is going to' is used for predictions based on present evidence.",
+      "'Rains' is present simple, doesn't indicate future.",
+      "'Rained' is past tense, wrong time frame."
+    ]
+  },
+  {
+    "language": "en",
+    "tense": "Future (going to)",
+    "sentence": "We _______ visit our grandparents this weekend.",
+    "options": [
+      "will",
+      "are going to",
+      "visit",
+      "visited"
+    ],
+    "correct": 1,
+    "explanations": [
+      "'Will' can work, but 'going to' better shows prior planning.",
+      "Correct! 'Are going to' indicates a planned future action.",
+      "'Visit' is present simple, doesn't express future plan.",
+      "'Visited' is past tense, wrong time reference."
+    ]
+  },
+  {
+    "language": "en",
+    "tense": "First Conditional",
+    "sentence": "If it _______ tomorrow, we will stay home.",
+    "options": [
+      "rains",
+      "will rain",
+      "rained",
+      "raining"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correct! First conditional uses present simple in the 'if' clause.",
+      "'Will rain' is wrong - we don't use 'will' in the 'if' clause.",
+      "'Rained' is past tense, first conditional needs present.",
+      "'Raining' needs a helping verb and doesn't fit the structure."
+    ]
+  },
+  {
+    "language": "en",
+    "tense": "First Conditional",
+    "sentence": "If you study hard, you _______ the exam.",
+    "options": [
+      "pass",
+      "will pass",
+      "passed",
+      "passing"
+    ],
+    "correct": 1,
+    "explanations": [
+      "'Pass' is present simple, but main clause needs 'will' for future result.",
+      "Correct! First conditional uses 'will' + base verb in the main clause.",
+      "'Passed' is past tense, doesn't fit conditional structure.",
+      "'Passing' is gerund form, doesn't complete the conditional."
+    ]
+  },
+  {
+    "language": "en",
+    "tense": "Second Conditional",
+    "sentence": "If I _______ a million dollars, I would travel the world.",
+    "options": [
+      "have",
+      "has",
+      "had",
+      "having"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Have' is present tense, second conditional needs past simple.",
+      "'Has' is present third-person, wrong tense for this conditional.",
+      "Correct! Second conditional uses past simple in the 'if' clause.",
+      "'Having' is gerund form, doesn't fit conditional structure."
+    ]
+  },
+  {
+    "language": "en",
+    "tense": "Second Conditional",
+    "sentence": "If she _______ harder, she would get better grades.",
+    "options": [
+      "study",
+      "studies",
+      "studied",
+      "studying"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Study' is base form, second conditional needs past simple.",
+      "'Studies' is present tense, wrong for hypothetical situation.",
+      "Correct! Second conditional uses past simple to show it's hypothetical.",
+      "'Studying' is gerund, doesn't complete the conditional structure."
+    ]
+  }
+]

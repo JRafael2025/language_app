@@ -6,7 +6,7 @@
 // For local dev (python -m http.server) set BASE_PATH = "".
 
 const BASE_PATH  = "/language_app";
-const CACHE_NAME = "language_app-v2";
+const CACHE_NAME = "language_app-v3";
 
 // All paths are relative to BASE_PATH
 const STATIC_ASSETS = [
@@ -14,8 +14,15 @@ const STATIC_ASSETS = [
   BASE_PATH + "/index.html",
   BASE_PATH + "/styles.css",
   BASE_PATH + "/app.js",
-  BASE_PATH + "/questions.json",
-  BASE_PATH + "/manifest.json"
+  BASE_PATH + "/manifest.json",
+  // New separate JSON files
+  BASE_PATH + "/questions_en.json",
+  BASE_PATH + "/questions_es_presente.json",
+  BASE_PATH + "/questions_es_perfecto.json",
+  BASE_PATH + "/questions_es_indefinido.json",
+  BASE_PATH + "/questions_es_imperfecto.json",
+  BASE_PATH + "/questions_es_imperativo.json",
+  BASE_PATH + "/questions_es_condicional.json"
 ];
 
 // --- INSTALL: pre-cache the app shell ---

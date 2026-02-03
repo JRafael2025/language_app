@@ -1,0 +1,362 @@
+[
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Yo nunca _______ a España.",
+    "options": [
+      "fui",
+      "he ido",
+      "voy",
+      "iré"
+    ],
+    "correct": 1,
+    "explanations": [
+      "'Fui' es pretérito indefinido, pero 'nunca' con experiencia pide perfecto.",
+      "Correcto! 'He ido' es presente perfecto para experiencias de vida.",
+      "'Voy' es presente simple, no expresa experiencia pasada.",
+      "'Iré' es futuro, no adecuado para experiencias pasadas."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Ellos _______ tres veces este mes.",
+    "options": [
+      "viajaron",
+      "viajan",
+      "han viajado",
+      "viajarán"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Viajaron' es pretérito, pero 'este mes' conecta pasado con presente.",
+      "'Viajan' es presente simple, no muestra acciones completadas.",
+      "Correcto! 'Han viajado' conecta acciones del mes actual con ahora.",
+      "'Viajarán' es futuro, no apropiado aquí."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "¿Tú ya _______ la tarea?",
+    "options": [
+      "terminaste",
+      "terminas",
+      "has terminado",
+      "terminarás"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Terminaste' es pretérito, pero 'ya' sugiere presente perfecto.",
+      "'Terminas' es presente simple, no para acciones recién completadas.",
+      "Correcto! 'Has terminado' con 'ya' pregunta sobre acción reciente.",
+      "'Terminarás' es futuro, no tiene sentido con 'ya'."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Nosotros _______ mucho hoy.",
+    "options": [
+      "trabajamos",
+      "trabajábamos",
+      "hemos trabajado",
+      "trabajaremos"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Trabajamos' es ambiguo (presente o pretérito), no ideal con 'hoy'.",
+      "'Trabajábamos' es imperfecto, no adecuado para 'hoy'.",
+      "Correcto! 'Hemos trabajado' conecta la acción de hoy con el presente.",
+      "'Trabajaremos' es futuro, pero 'hoy' indica ya realizado."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "María todavía no _______ la noticia.",
+    "options": [
+      "supo",
+      "sabe",
+      "ha sabido",
+      "sabrá"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Supo' es pretérito, pero 'todavía no' pide presente perfecto.",
+      "'Sabe' es presente simple, no para acciones no realizadas aún.",
+      "Correcto! 'Ha sabido' con 'todavía no' indica no completado hasta ahora.",
+      "'Sabrá' es futuro, no adecuado con 'todavía no'."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "¿Alguna vez _______ comida japonesa?",
+    "options": [
+      "probaste",
+      "pruebas",
+      "has probado",
+      "probarás"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Probaste' es pretérito, pero 'alguna vez' sugiere presente perfecto.",
+      "'Pruebas' es presente habitual, no para experiencias de vida.",
+      "Correcto! 'Has probado' con 'alguna vez' pregunta sobre experiencia.",
+      "'Probarás' es futuro, no cabe con 'alguna vez' pasado."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Yo _______ en esta ciudad desde 2020.",
+    "options": [
+      "viví",
+      "vivo",
+      "he vivido",
+      "viviré"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Viví' es pretérito, sugiere que ya no vives allí.",
+      "'Vivo' es presente, pero no enfatiza la duración desde 2020.",
+      "Correcto! 'He vivido' muestra acción que empezó en 2020 y continúa.",
+      "'Viviré' es futuro, no adecuado con 'desde 2020'."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Los estudiantes _______ el examen perfecto.",
+    "options": [
+      "hicieron",
+      "hacen",
+      "han hecho",
+      "harán"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Hicieron' es pretérito simple, menos relevante para el presente.",
+      "'Hacen' es presente habitual, no para acción reciente completada.",
+      "Correcto! 'Han hecho' conecta logro reciente con el momento actual.",
+      "'Harán' es futuro, no tiene sentido aquí."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Tú siempre _______ una persona generosa.",
+    "options": [
+      "fuiste",
+      "eres",
+      "has sido",
+      "serás"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Fuiste' es pretérito, sugiere que ya no lo eres.",
+      "'Eres' es presente simple, no enfatiza la continuidad temporal.",
+      "Correcto! 'Has sido' muestra cualidad constante desde pasado hasta ahora.",
+      "'Serás' es futuro, no adecuado con 'siempre' sobre pasado-presente."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Esta semana _______ muchos problemas.",
+    "options": [
+      "tuvimos",
+      "tenemos",
+      "hemos tenido",
+      "tendremos"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Tuvimos' es pretérito, pero 'esta semana' conecta con el presente.",
+      "'Tenemos' es presente actual, no para toda la semana hasta ahora.",
+      "Correcto! 'Hemos tenido' abarca desde inicio de semana hasta ahora.",
+      "'Tendremos' es futuro, no cabe con lo ya ocurrido esta semana."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Ella no _______ esa película todavía.",
+    "options": [
+      "vio",
+      "ve",
+      "ha visto",
+      "verá"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Vio' es pretérito, pero 'todavía' pide presente perfecto.",
+      "'Ve' es presente, no adecuado para 'todavía no'.",
+      "Correcto! 'Ha visto' con 'todavía' indica acción no realizada hasta ahora.",
+      "'Verá' es futuro, no es la forma correcta con 'no...todavía'."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "¿Ustedes ya _______ en este restaurante?",
+    "options": [
+      "comieron",
+      "comen",
+      "han comido",
+      "comerán"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Comieron' es pretérito, pero 'ya' sugiere presente perfecto.",
+      "'Comen' es presente habitual, no para preguntar sobre experiencia.",
+      "Correcto! 'Han comido' pregunta sobre experiencia hasta el momento.",
+      "'Comerán' es futuro, no tiene sentido con 'ya'."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Nosotros no _______ ese error antes.",
+    "options": [
+      "cometimos",
+      "cometemos",
+      "hemos cometido",
+      "cometeremos"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Cometimos' es pretérito específico, no para 'nunca antes'.",
+      "'Cometemos' es presente habitual, no para experiencia pasada.",
+      "Correcto! 'Hemos cometido' indica experiencia desde pasado hasta ahora.",
+      "'Cometeremos' es futuro, no adecuado con 'antes'."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Yo _______ varias veces con ella.",
+    "options": [
+      "hablé",
+      "hablo",
+      "he hablado",
+      "hablaré"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Hablé' es pretérito puntual, no enfatiza la repetición temporal.",
+      "'Hablo' es presente, no indica acciones repetidas pasadas.",
+      "Correcto! 'He hablado' muestra acciones repetidas hasta el presente.",
+      "'Hablaré' es futuro, no cabe con acciones ya realizadas."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "¿Tú _______ las llaves en algún lugar?",
+    "options": [
+      "dejaste",
+      "dejas",
+      "has dejado",
+      "dejarás"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Dejaste' es pretérito, menos natural para buscar algo ahora perdido.",
+      "'Dejas' es presente habitual, no para objeto actualmente perdido.",
+      "Correcto! 'Has dejado' conecta acción reciente con situación presente.",
+      "'Dejarás' es futuro, no tiene sentido aquí."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "En los últimos años, _______ muchos cambios.",
+    "options": [
+      "hubo",
+      "hay",
+      "ha habido",
+      "habrá"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Hubo' es pretérito, pero 'últimos años' conecta con presente.",
+      "'Hay' es presente estático, no muestra proceso temporal.",
+      "Correcto! 'Ha habido' abarca desde años pasados hasta ahora.",
+      "'Habrá' es futuro, no adecuado con 'últimos años'."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Ellos _______ mucho desde que se conocieron.",
+    "options": [
+      "cambiaron",
+      "cambian",
+      "han cambiado",
+      "cambiarán"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Cambiaron' es pretérito, no enfatiza continuidad hasta ahora.",
+      "'Cambian' es presente, no muestra proceso desde el pasado.",
+      "Correcto! 'Han cambiado' muestra cambio desde entonces hasta ahora.",
+      "'Cambiarán' es futuro, no adecuado con 'desde que'."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "¿Alguna vez _______ un fantasma?",
+    "options": [
+      "viste",
+      "ves",
+      "has visto",
+      "verás"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Viste' es pretérito, pero 'alguna vez' pide presente perfecto.",
+      "'Ves' es presente habitual, no para experiencias de vida.",
+      "Correcto! 'Has visto' pregunta sobre experiencia en toda la vida.",
+      "'Verás' es futuro, no cabe con 'alguna vez' pasado."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "Nosotros _______ aquí durante dos horas.",
+    "options": [
+      "esperamos",
+      "esperábamos",
+      "hemos esperado",
+      "esperaremos"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Esperamos' puede ser presente o pretérito, ambiguo para duración.",
+      "'Esperábamos' es imperfecto, no enfatiza desde inicio hasta ahora.",
+      "Correcto! 'Hemos esperado' muestra duración desde inicio hasta presente.",
+      "'Esperaremos' es futuro, no tiene sentido con tiempo ya transcurrido."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente Perfecto",
+    "sentence": "La profesora _______ las notas aún.",
+    "options": [
+      "no publicó",
+      "no publica",
+      "no ha publicado",
+      "no publicará"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'No publicó' es pretérito, pero 'aún' pide presente perfecto.",
+      "'No publica' es presente habitual, no para acción esperada no realizada.",
+      "Correcto! 'No ha publicado' con 'aún' indica no completado hasta ahora.",
+      "'No publicará' es futuro, no adecuado con 'aún' sobre el presente."
+    ]
+  }
+]

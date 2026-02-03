@@ -1,9 +1,9 @@
 /* ============================================================
-   Language App – app.js  (v4)
-   Changes from v1:
-     • i18n: all user-facing strings switch on selectedLang
-     • Feedback shows the explanation for the TAPPED option, not just correct
-     • Session no-repeat: pool is walked linearly; reshuffle only on exhaust
+   Language App – app.js  (v5 - Dynamic JSON Loading)
+   Changes from v4:
+     • Dynamic loading of separate JSON files per topic
+     • Better organization and maintainability
+     • Improved quality control with smaller, focused datasets
    ============================================================ */
 
 // ============================================================
@@ -22,7 +22,7 @@ const i18n = {
     next:          "Siguiente →",
     badgeAll:      "Español – Todos los tiempos",
     badgeTense:    (t) => `Español – ${t}`,
-    badgeEn:       "Inglés (EE.UU.)",   // fallback, shouldn't show
+    badgeEn:       "Inglés (EE.UU.)",
     installTitle:  "Añade Language App a tu pantalla de inicio\npara una experiencia offline.",
     installBtn:    "⬇ Instalar app"
   },
@@ -46,6 +46,19 @@ const i18n = {
 
 // Helper: grab current dictionary (defaults to English before selection)
 function t() { return i18n[selectedLang] || i18n.en; }
+
+// ============================================================
+// JSON file mapping
+// ============================================================
+const JSON_FILES = {
+  en: "questions_en.json",
+  "Presente del Indicativo": "questions_es_presente.json",
+  "Presente Perfecto": "questions_es_perfecto.json",
+  "Pretérito Indefinido": "questions_es_indefinido.json",
+  "Pretérito Imperfecto": "questions_es_imperfecto.json",
+  "Imperativo": "questions_es_imperativo.json",
+  "Condicional": "questions_es_condicional.json"
+};
 
 // ============================================================
 // DOM references
@@ -83,7 +96,6 @@ const els = {
 // ============================================================
 // App State
 // ============================================================
-let allQuestions   = [];   // full dataset
 let pool           = [];   // filtered & shuffled for this session
 let poolIndex      = 0;    // linear cursor – never skip, never repeat in session
 let selectedLang   = null; // "es" | "en"
@@ -126,18 +138,51 @@ function applyI18n() {
 }
 
 // ============================================================
+// Load questions from appropriate JSON file(s)
+// ============================================================
+async function loadQuestions() {
+  let questions = [];
+  
+  try {
+    if (selectedLang === "en") {
+      // Load English questions
+      const res = await fetch(`./${JSON_FILES.en}`);
+      questions = await res.json();
+    } else if (selectedLang === "es") {
+      if (selectedTense === "Todos") {
+        // Load all Spanish tenses
+        const tenses = [
+          "Presente del Indicativo",
+          "Presente Perfecto",
+          "Pretérito Indefinido",
+          "Pretérito Imperfecto",
+          "Imperativo",
+          "Condicional"
+        ];
+        
+        for (const tense of tenses) {
+          const res = await fetch(`./${JSON_FILES[tense]}`);
+          const data = await res.json();
+          questions = questions.concat(data);
+        }
+      } else {
+        // Load specific tense
+        const res = await fetch(`./${JSON_FILES[selectedTense]}`);
+        questions = await res.json();
+      }
+    }
+  } catch (e) {
+    console.error("[Language App] Failed to load questions", e);
+  }
+  
+  return questions;
+}
+
+// ============================================================
 // INIT
 // ============================================================
 async function init() {
-  // 1. Load questions
-  try {
-    const res = await fetch("./questions.json");
-    allQuestions = await res.json();
-  } catch (e) {
-    console.error("[Language App] Failed to load questions.json", e);
-  }
-
-  // 2. Language cards
+  // 1. Language cards
   document.querySelectorAll(".lang-card").forEach(card => {
     card.addEventListener("click", () => {
       selectedLang = card.dataset.lang;
@@ -153,10 +198,10 @@ async function init() {
     });
   });
 
-  // 3. Back button (tense screen)
+  // 2. Back button (tense screen)
   els.backBtnTense.addEventListener("click", () => showScreen("lang"));
 
-  // 4. Tense items
+  // 3. Tense items
   document.querySelectorAll(".tense-item").forEach(item => {
     item.addEventListener("click", () => {
       selectedTense = item.dataset.tense;
@@ -165,7 +210,7 @@ async function init() {
     });
   });
 
-  // 5. Next button – advance cursor; reshuffle only when pool is exhausted
+  // 4. Next button – advance cursor; reshuffle only when pool is exhausted
   els.nextBtn.addEventListener("click", () => {
     poolIndex++;
     if (poolIndex >= pool.length) {
@@ -176,10 +221,10 @@ async function init() {
     renderQuestion();
   });
 
-  // 6. Restart → back to language screen
+  // 5. Restart → back to language screen
   els.restartBtn.addEventListener("click", () => showScreen("lang"));
 
-  // 7. PWA install prompt
+  // 6. PWA install prompt
   window.addEventListener("beforeinstallprompt", (e) => {
     e.preventDefault();
     deferredPrompt = e;
@@ -195,7 +240,7 @@ async function init() {
     }
   });
 
-  // 8. Service Worker
+  // 7. Service Worker
   if ("serviceWorker" in navigator) {
     navigator.serviceWorker.register("service-worker.js")
       .then(() => console.log("[SW] Registered"))
@@ -206,18 +251,14 @@ async function init() {
 }
 
 // ============================================================
-// BUILD POOL – filter, shuffle, reset cursor
+// BUILD POOL – load questions, shuffle, reset cursor
 // ============================================================
-function buildPool() {
-  let filtered = allQuestions.filter(q => q.language === selectedLang);
-
-  if (selectedLang === "es" && selectedTense && selectedTense !== "Todos") {
-    filtered = filtered.filter(q => q.tense === selectedTense);
-  }
-
+async function buildPool() {
+  const questions = await loadQuestions();
+  
   // Fresh shuffle – every question in the filtered set appears exactly once
   // before any question can repeat (linear walk)
-  pool      = shuffle([...filtered]);
+  pool      = shuffle([...questions]);
   poolIndex = 0;
   renderQuestion();
 }

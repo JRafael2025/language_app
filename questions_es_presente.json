@@ -1,0 +1,362 @@
+[
+  {
+    "language": "es",
+    "tense": "Presente del Indicativo",
+    "sentence": "Yo _______ español todos los días.",
+    "options": [
+      "hablo",
+      "hablas",
+      "habla",
+      "hablan"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto! 'Hablo' es la conjugación de primera persona singular (yo).",
+      "'Hablas' es segunda persona singular (tú), no primera.",
+      "'Habla' es tercera persona singular (él/ella), no primera.",
+      "'Hablan' es tercera persona plural (ellos/ellas), no primera."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente del Indicativo",
+    "sentence": "Mis amigos _______ al fútbol los domingos.",
+    "options": [
+      "juego",
+      "juegas",
+      "juega",
+      "juegan"
+    ],
+    "correct": 3,
+    "explanations": [
+      "'Juego' es primera persona singular, pero el sujeto es plural.",
+      "'Juegas' es segunda persona singular, no plural.",
+      "'Juega' es tercera persona singular, pero 'amigos' es plural.",
+      "Correcto! 'Juegan' es tercera persona plural para 'mis amigos'."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente del Indicativo",
+    "sentence": "Ella _______ en un hospital.",
+    "options": [
+      "trabajo",
+      "trabajas",
+      "trabaja",
+      "trabajan"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Trabajo' es primera persona (yo), pero el sujeto es 'ella'.",
+      "'Trabajas' es segunda persona (tú), no tercera.",
+      "Correcto! 'Trabaja' es tercera persona singular para 'ella'.",
+      "'Trabajan' es plural, pero 'ella' es singular."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente del Indicativo",
+    "sentence": "Nosotros _______ en la misma oficina.",
+    "options": [
+      "vivo",
+      "vives",
+      "vive",
+      "vivimos"
+    ],
+    "correct": 3,
+    "explanations": [
+      "'Vivo' es primera persona singular, no plural.",
+      "'Vives' es segunda persona singular, no primera plural.",
+      "'Vive' es tercera persona singular, no primera plural.",
+      "Correcto! 'Vivimos' es primera persona plural para 'nosotros'."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente del Indicativo",
+    "sentence": "¿Tú _______ café o té?",
+    "options": [
+      "prefiero",
+      "prefieres",
+      "prefiere",
+      "preferimos"
+    ],
+    "correct": 1,
+    "explanations": [
+      "'Prefiero' es primera persona (yo), pero el sujeto es 'tú'.",
+      "Correcto! 'Prefieres' es segunda persona singular para 'tú'.",
+      "'Prefiere' es tercera persona, no segunda.",
+      "'Preferimos' es primera persona plural, no segunda singular."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente del Indicativo",
+    "sentence": "Los niños _______ en el parque.",
+    "options": [
+      "corro",
+      "corres",
+      "corre",
+      "corren"
+    ],
+    "correct": 3,
+    "explanations": [
+      "'Corro' es primera persona singular, no tercera plural.",
+      "'Corres' es segunda persona singular, no tercera plural.",
+      "'Corre' es tercera persona singular, pero 'niños' es plural.",
+      "Correcto! 'Corren' es tercera persona plural para 'los niños'."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente del Indicativo",
+    "sentence": "Mi hermana _______ muy bien.",
+    "options": [
+      "canto",
+      "cantas",
+      "canta",
+      "cantan"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Canto' es primera persona, pero el sujeto es 'mi hermana'.",
+      "'Cantas' es segunda persona, no tercera.",
+      "Correcto! 'Canta' es tercera persona singular para 'mi hermana'.",
+      "'Cantan' es plural, pero 'hermana' es singular."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente del Indicativo",
+    "sentence": "Yo _______ la verdad siempre.",
+    "options": [
+      "digo",
+      "dices",
+      "dice",
+      "dicen"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto! 'Digo' es la forma irregular de primera persona de 'decir'.",
+      "'Dices' es segunda persona, no primera.",
+      "'Dice' es tercera persona singular, no primera.",
+      "'Dicen' es tercera persona plural, no primera singular."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente del Indicativo",
+    "sentence": "Vosotros _______ muy rápido.",
+    "options": [
+      "come",
+      "comes",
+      "comemos",
+      "coméis"
+    ],
+    "correct": 3,
+    "explanations": [
+      "'Come' es tercera persona singular, no segunda plural.",
+      "'Comes' es segunda persona singular, no plural.",
+      "'Comemos' es primera persona plural, no segunda.",
+      "Correcto! 'Coméis' es segunda persona plural para 'vosotros'."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente del Indicativo",
+    "sentence": "Él _______ en casa los fines de semana.",
+    "options": [
+      "quedo",
+      "quedas",
+      "queda",
+      "quedan"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Quedo' es primera persona, pero el sujeto es 'él'.",
+      "'Quedas' es segunda persona, no tercera.",
+      "Correcto! 'Queda' es tercera persona singular para 'él'.",
+      "'Quedan' es plural, pero 'él' es singular."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente del Indicativo",
+    "sentence": "Nosotras _______ música clásica.",
+    "options": [
+      "escucho",
+      "escuchas",
+      "escucha",
+      "escuchamos"
+    ],
+    "correct": 3,
+    "explanations": [
+      "'Escucho' es primera persona singular, no plural.",
+      "'Escuchas' es segunda persona singular, no primera plural.",
+      "'Escucha' es tercera persona singular, no primera plural.",
+      "Correcto! 'Escuchamos' es primera persona plural para 'nosotras'."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente del Indicativo",
+    "sentence": "¿Ustedes _______ en este edificio?",
+    "options": [
+      "trabajo",
+      "trabajas",
+      "trabaja",
+      "trabajan"
+    ],
+    "correct": 3,
+    "explanations": [
+      "'Trabajo' es primera persona singular, no tercera plural.",
+      "'Trabajas' es segunda persona singular, no tercera plural.",
+      "'Trabaja' es tercera persona singular, pero 'ustedes' es plural.",
+      "Correcto! 'Trabajan' es tercera persona plural para 'ustedes'."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente del Indicativo",
+    "sentence": "Yo _______ a las siete de la mañana.",
+    "options": [
+      "me despierto",
+      "te despiertas",
+      "se despierta",
+      "nos despertamos"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto! 'Me despierto' es primera persona con verbo reflexivo.",
+      "'Te despiertas' es segunda persona, no primera.",
+      "'Se despierta' es tercera persona, no primera.",
+      "'Nos despertamos' es primera plural, pero el sujeto es 'yo' (singular)."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente del Indicativo",
+    "sentence": "Las profesoras _______ muy bien las lecciones.",
+    "options": [
+      "explico",
+      "explicas",
+      "explica",
+      "explican"
+    ],
+    "correct": 3,
+    "explanations": [
+      "'Explico' es primera persona, no tercera plural.",
+      "'Explicas' es segunda persona singular, no tercera plural.",
+      "'Explica' es tercera singular, pero 'profesoras' es plural.",
+      "Correcto! 'Explican' es tercera persona plural para 'las profesoras'."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente del Indicativo",
+    "sentence": "Tú _______ muchos libros al mes.",
+    "options": [
+      "leo",
+      "lees",
+      "lee",
+      "leen"
+    ],
+    "correct": 1,
+    "explanations": [
+      "'Leo' es primera persona, pero el sujeto es 'tú'.",
+      "Correcto! 'Lees' es segunda persona singular para 'tú'.",
+      "'Lee' es tercera persona, no segunda.",
+      "'Leen' es tercera persona plural, no segunda singular."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente del Indicativo",
+    "sentence": "Yo _______ de la universidad a las cinco.",
+    "options": [
+      "salgo",
+      "sales",
+      "sale",
+      "salen"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto! 'Salgo' es la forma irregular de primera persona de 'salir'.",
+      "'Sales' es segunda persona, no primera.",
+      "'Sale' es tercera persona singular, no primera.",
+      "'Salen' es tercera persona plural, no primera singular."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente del Indicativo",
+    "sentence": "Ellos _______ ejercicio todos los días.",
+    "options": [
+      "hago",
+      "haces",
+      "hace",
+      "hacen"
+    ],
+    "correct": 3,
+    "explanations": [
+      "'Hago' es primera persona singular, no tercera plural.",
+      "'Haces' es segunda persona singular, no tercera plural.",
+      "'Hace' es tercera persona singular, pero 'ellos' es plural.",
+      "Correcto! 'Hacen' es tercera persona plural para 'ellos'."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente del Indicativo",
+    "sentence": "Mi padre _______ el periódico cada mañana.",
+    "options": [
+      "traigo",
+      "traes",
+      "trae",
+      "traen"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Traigo' es primera persona, pero el sujeto es 'mi padre'.",
+      "'Traes' es segunda persona, no tercera.",
+      "Correcto! 'Trae' es tercera persona singular para 'mi padre'.",
+      "'Traen' es plural, pero 'padre' es singular."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente del Indicativo",
+    "sentence": "Nosotros _______ en la biblioteca.",
+    "options": [
+      "estudio",
+      "estudias",
+      "estudia",
+      "estudiamos"
+    ],
+    "correct": 3,
+    "explanations": [
+      "'Estudio' es primera persona singular, no plural.",
+      "'Estudias' es segunda persona singular, no primera plural.",
+      "'Estudia' es tercera persona singular, no primera plural.",
+      "Correcto! 'Estudiamos' es primera persona plural para 'nosotros'."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Presente del Indicativo",
+    "sentence": "¿Tú _______ la puerta por las noches?",
+    "options": [
+      "cierro",
+      "cierras",
+      "cierra",
+      "cierran"
+    ],
+    "correct": 1,
+    "explanations": [
+      "'Cierro' es primera persona, pero el sujeto es 'tú'.",
+      "Correcto! 'Cierras' es segunda persona singular para 'tú'.",
+      "'Cierra' es tercera persona, no segunda.",
+      "'Cierran' es tercera persona plural, no segunda singular."
+    ]
+  }
+]

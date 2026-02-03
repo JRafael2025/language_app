@@ -1,0 +1,362 @@
+[
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "Ayer yo _______ con mis amigos.",
+    "options": [
+      "salgo",
+      "salí",
+      "salía",
+      "he salido"
+    ],
+    "correct": 1,
+    "explanations": [
+      "'Salgo' es presente, pero 'ayer' requiere pasado.",
+      "Correcto! 'Salí' es pretérito indefinido para acción completa de ayer.",
+      "'Salía' es imperfecto, pero 'ayer' pide acción puntual terminada.",
+      "'He salido' es presente perfecto, no se usa con 'ayer' (tiempo cerrado)."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "El año pasado ellos _______ a Italia.",
+    "options": [
+      "viajan",
+      "viajaban",
+      "viajaron",
+      "han viajado"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Viajan' es presente, pero 'año pasado' requiere pasado.",
+      "'Viajaban' es imperfecto, no ideal para tiempo específico cerrado.",
+      "Correcto! 'Viajaron' es indefinido para acción completa en tiempo cerrado.",
+      "'Han viajado' es perfecto, no se usa con 'año pasado' (tiempo cerrado)."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "Anoche nosotros _______ una película.",
+    "options": [
+      "vemos",
+      "veíamos",
+      "vimos",
+      "hemos visto"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Vemos' es presente, pero 'anoche' requiere pasado.",
+      "'Veíamos' es imperfecto, pero 'anoche' pide acción específica terminada.",
+      "Correcto! 'Vimos' es indefinido para acción puntual completada anoche.",
+      "'Hemos visto' es perfecto, no se usa con 'anoche' (tiempo cerrado)."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "Tú _______ muy bien en el examen la semana pasada.",
+    "options": [
+      "escribes",
+      "escribías",
+      "escribiste",
+      "has escrito"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Escribes' es presente, pero 'semana pasada' requiere pasado.",
+      "'Escribías' es imperfecto, no adecuado para tiempo específico cerrado.",
+      "Correcto! 'Escribiste' es indefinido para acción en tiempo cerrado.",
+      "'Has escrito' es perfecto, no se usa con 'semana pasada' (cerrado)."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "Mi hermana _______ en 1995.",
+    "options": [
+      "nace",
+      "nacía",
+      "nació",
+      "ha nacido"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Nace' es presente, pero 1995 es fecha pasada específica.",
+      "'Nacía' es imperfecto, no se usa para momento exacto de nacimiento.",
+      "Correcto! 'Nació' es indefinido para evento puntual en fecha específica.",
+      "'Ha nacido' es perfecto, no se usa con fecha específica pasada."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "El mes pasado ellos _______ de casa.",
+    "options": [
+      "se mudan",
+      "se mudaban",
+      "se mudaron",
+      "se han mudado"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Se mudan' es presente, pero 'mes pasado' requiere pasado.",
+      "'Se mudaban' es imperfecto, pero necesitamos acción completa.",
+      "Correcto! 'Se mudaron' es indefinido para acción en tiempo cerrado.",
+      "'Se han mudado' es perfecto, no con 'mes pasado' (cerrado)."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "Ayer por la tarde yo _______ en el parque.",
+    "options": [
+      "corro",
+      "corría",
+      "corrí",
+      "he corrido"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Corro' es presente, pero 'ayer' requiere pasado.",
+      "'Corría' es imperfecto - podría funcionar para descripción, pero 'corrí' es más natural para acción completa.",
+      "Correcto! 'Corrí' es indefinido para acción específica completada ayer.",
+      "'He corrido' es perfecto, no se usa con 'ayer' (tiempo cerrado)."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "El sábado pasado nosotros _______ temprano.",
+    "options": [
+      "nos levantamos",
+      "nos levantábamos",
+      "nos levantamos",
+      "nos hemos levantado"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Nos levantamos' puede ser presente habitual, ambiguo aquí.",
+      "'Nos levantábamos' es imperfecto, no ideal para día específico.",
+      "Correcto! 'Nos levantamos' como indefinido para sábado específico.",
+      "'Nos hemos levantado' es perfecto, no con 'sábado pasado' (cerrado)."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "En 2010, tú _______ a trabajar aquí.",
+    "options": [
+      "empiezas",
+      "empezabas",
+      "empezaste",
+      "has empezado"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Empiezas' es presente, pero 2010 es fecha pasada.",
+      "'Empezabas' es imperfecto, no para inicio en fecha específica.",
+      "Correcto! 'Empezaste' es indefinido para inicio en año específico.",
+      "'Has empezado' es perfecto, no se usa con fecha específica pasada."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "La reunión _______ a las tres ayer.",
+    "options": [
+      "termina",
+      "terminaba",
+      "terminó",
+      "ha terminado"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Termina' es presente, pero hablamos de ayer.",
+      "'Terminaba' es imperfecto, no ideal para momento específico de ayer.",
+      "Correcto! 'Terminó' es indefinido para evento puntual completado ayer.",
+      "'Ha terminado' es perfecto, no se usa con 'ayer' (tiempo cerrado)."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "Ellos _______ el proyecto en diciembre.",
+    "options": [
+      "finalizan",
+      "finalizaban",
+      "finalizaron",
+      "han finalizado"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Finalizan' es presente, pero hablamos de diciembre pasado.",
+      "'Finalizaban' es imperfecto, no para finalización en mes específico.",
+      "Correcto! 'Finalizaron' es indefinido para acción en mes específico.",
+      "'Han finalizado' es perfecto, no con mes específico pasado (cerrado)."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "El domingo pasado yo _______ todo el día.",
+    "options": [
+      "descanso",
+      "descansaba",
+      "descansé",
+      "he descansado"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Descanso' es presente, pero 'domingo pasado' requiere pasado.",
+      "'Descansaba' es imperfecto - funcionaría para descripción, pero 'descansé' es más directo.",
+      "Correcto! 'Descansé' es indefinido para acción en día específico pasado.",
+      "'He descansado' es perfecto, no con 'domingo pasado' (cerrado)."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "Hace dos años, nosotros _______ a vivir aquí.",
+    "options": [
+      "venimos",
+      "veníamos",
+      "vinimos",
+      "hemos venido"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Venimos' es presente, pero 'hace dos años' requiere pasado.",
+      "'Veníamos' es imperfecto, no para acción de llegar en momento específico.",
+      "Correcto! 'Vinimos' es indefinido irregular para acción hace dos años.",
+      "'Hemos venido' es perfecto, 'hace dos años' es tiempo cerrado."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "Tú _______ la verdad el martes.",
+    "options": [
+      "dices",
+      "decías",
+      "dijiste",
+      "has dicho"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Dices' es presente, pero 'el martes' (pasado) requiere pretérito.",
+      "'Decías' es imperfecto, no para acción específica del martes.",
+      "Correcto! 'Dijiste' es indefinido irregular para acción en día específico.",
+      "'Has dicho' es perfecto, no con 'el martes' pasado (cerrado)."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "El concierto _______ a las nueve anoche.",
+    "options": [
+      "empieza",
+      "empezaba",
+      "empezó",
+      "ha empezado"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Empieza' es presente, pero 'anoche' requiere pasado.",
+      "'Empezaba' es imperfecto, no para inicio puntual anoche.",
+      "Correcto! 'Empezó' es indefinido para evento que comenzó anoche.",
+      "'Ha empezado' es perfecto, no se usa con 'anoche' (cerrado)."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "Yo _______ un error en el informe ayer.",
+    "options": [
+      "hago",
+      "hacía",
+      "hice",
+      "he hecho"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Hago' es presente, pero 'ayer' requiere pasado.",
+      "'Hacía' es imperfecto, no para acción específica de ayer.",
+      "Correcto! 'Hice' es indefinido irregular para acción de ayer.",
+      "'He hecho' es perfecto, no se usa con 'ayer' (tiempo cerrado)."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "Ellos _______ durante cinco horas ayer.",
+    "options": [
+      "estudian",
+      "estudiaban",
+      "estudiaron",
+      "han estudiado"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Estudian' es presente, pero 'ayer' requiere pasado.",
+      "'Estudiaban' es imperfecto - posible, pero 'estudiaron' más natural para duración completa.",
+      "Correcto! 'Estudiaron' es indefinido para acción con duración en ayer.",
+      "'Han estudiado' es perfecto, no con 'ayer' (tiempo cerrado)."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "El profesor _______ las notas el viernes.",
+    "options": [
+      "publica",
+      "publicaba",
+      "publicó",
+      "ha publicado"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Publica' es presente, pero 'el viernes' (pasado) requiere pretérito.",
+      "'Publicaba' es imperfecto, no para acción específica del viernes.",
+      "Correcto! 'Publicó' es indefinido para acción en día específico pasado.",
+      "'Ha publicado' es perfecto, no con 'el viernes' pasado (cerrado)."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "Nosotros _______ la noticia el lunes.",
+    "options": [
+      "recibimos",
+      "recibíamos",
+      "recibimos",
+      "hemos recibido"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Recibimos' puede ser presente habitual, ambiguo sin contexto.",
+      "'Recibíamos' es imperfecto, no para recepción puntual del lunes.",
+      "Correcto! 'Recibimos' como indefinido para acción en día específico.",
+      "'Hemos recibido' es perfecto, no con 'el lunes' pasado (cerrado)."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "Tú _______ mucho talento en la presentación ayer.",
+    "options": [
+      "muestras",
+      "mostrabas",
+      "mostraste",
+      "has mostrado"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Muestras' es presente, pero 'ayer' requiere pasado.",
+      "'Mostrabas' es imperfecto, no para evento específico de ayer.",
+      "Correcto! 'Mostraste' es indefinido para lo que hiciste ayer.",
+      "'Has mostrado' es perfecto, no se usa con 'ayer' (tiempo cerrado)."
+    ]
+  }
+]

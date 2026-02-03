@@ -1,0 +1,362 @@
+[
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "Cuando era niño, yo _______ en el parque todos los días.",
+    "options": [
+      "juego",
+      "jugué",
+      "jugaba",
+      "he jugado"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Juego' es presente, pero hablamos de hábito pasado de la niñez.",
+      "'Jugué' es indefinido para acción puntual, no hábito repetido.",
+      "Correcto! 'Jugaba' es imperfecto para acciones habituales del pasado.",
+      "'He jugado' es perfecto, no adecuado para hábitos de la niñez."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "Antes nosotros _______ en esa casa.",
+    "options": [
+      "vivimos",
+      "vivíamos",
+      "viviremos",
+      "hemos vivido"
+    ],
+    "correct": 1,
+    "explanations": [
+      "'Vivimos' es indefinido o presente, no para situación continua pasada.",
+      "Correcto! 'Vivíamos' es imperfecto para estado o situación pasada.",
+      "'Viviremos' es futuro, no tiene sentido con 'antes'.",
+      "'Hemos vivido' es perfecto, no adecuado para 'antes' (cerrado)."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "Ellos siempre _______ café por las mañanas.",
+    "options": [
+      "toman",
+      "tomaron",
+      "tomaban",
+      "han tomado"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Toman' es presente, pero hablamos de hábito pasado.",
+      "'Tomaron' es indefinido, no para costumbre repetida.",
+      "Correcto! 'Tomaban' es imperfecto para hábito habitual pasado.",
+      "'Han tomado' es perfecto, no para describir costumbres pasadas."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "Mientras yo _______, sonó el teléfono.",
+    "options": [
+      "estudio",
+      "estudié",
+      "estudiaba",
+      "he estudiado"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Estudio' es presente, pero la acción es pasada.",
+      "'Estudié' es indefinido para acción completa, no para acción en progreso.",
+      "Correcto! 'Estudiaba' es imperfecto para acción en progreso interrumpida.",
+      "'He estudiado' es perfecto, no para describir acción interrumpida."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "Cuando llegamos, ella ya _______ dormida.",
+    "options": [
+      "está",
+      "estuvo",
+      "estaba",
+      "ha estado"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Está' es presente, pero describimos estado pasado.",
+      "'Estuvo' es indefinido, menos natural para describir estado en ese momento.",
+      "Correcto! 'Estaba' es imperfecto para describir estado en momento pasado.",
+      "'Ha estado' es perfecto, no para describir estado en momento específico."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "De pequeña, tú _______ mucho.",
+    "options": [
+      "lloras",
+      "lloraste",
+      "llorabas",
+      "has llorado"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Lloras' es presente, pero 'de pequeña' indica pasado.",
+      "'Lloraste' es indefinido puntual, no para característica de la niñez.",
+      "Correcto! 'Llorabas' es imperfecto para característica o hábito pasado.",
+      "'Has llorado' es perfecto, no para describir época de la niñez."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "En aquella época, nosotros no _______ teléfonos móviles.",
+    "options": [
+      "tenemos",
+      "tuvimos",
+      "teníamos",
+      "hemos tenido"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Tenemos' es presente, pero hablamos de época pasada.",
+      "'Tuvimos' es indefinido puntual, no para situación de una época.",
+      "Correcto! 'Teníamos' es imperfecto para describir situación de una época.",
+      "'Hemos tenido' es perfecto, no para describir época específica pasada."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "Cada verano ellos _______ a la playa.",
+    "options": [
+      "van",
+      "fueron",
+      "iban",
+      "han ido"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Van' es presente, pero 'cada verano' indica hábito pasado.",
+      "'Fueron' es indefinido para acción puntual, no repetida.",
+      "Correcto! 'Iban' es imperfecto para acción habitual repetida (cada verano).",
+      "'Han ido' es perfecto, no para describir costumbre pasada."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "El cielo _______ muy nublado esa tarde.",
+    "options": [
+      "está",
+      "estuvo",
+      "estaba",
+      "ha estado"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Está' es presente, pero describimos tarde pasada.",
+      "'Estuvo' es indefinido - posible, pero 'estaba' más natural para descripción.",
+      "Correcto! 'Estaba' es imperfecto para describir condición o escenario.",
+      "'Ha estado' es perfecto, no para describir escena específica pasada."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "Yo _______ en el jardín cuando empezó a llover.",
+    "options": [
+      "trabajo",
+      "trabajé",
+      "trabajaba",
+      "he trabajado"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Trabajo' es presente, pero la situación es pasada.",
+      "'Trabajé' es indefinido para acción completa, no en progreso.",
+      "Correcto! 'Trabajaba' es imperfecto para acción en progreso interrumpida.",
+      "'He trabajado' es perfecto, no para acción en progreso del pasado."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "Antiguamente la gente _______ más tiempo libre.",
+    "options": [
+      "tiene",
+      "tuvo",
+      "tenía",
+      "ha tenido"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Tiene' es presente, pero 'antiguamente' indica pasado.",
+      "'Tuvo' es indefinido puntual, no para característica de una época.",
+      "Correcto! 'Tenía' es imperfecto para describir característica de época pasada.",
+      "'Ha tenido' es perfecto, no para época lejana cerrada."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "Tú siempre _______ las mismas historias.",
+    "options": [
+      "cuentas",
+      "contaste",
+      "contabas",
+      "has contado"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Cuentas' es presente, contexto sugiere hábito pasado.",
+      "'Contaste' es indefinido puntual, no para acción repetida habitual.",
+      "Correcto! 'Contabas' es imperfecto para hábito o costumbre pasada.",
+      "'Has contado' es perfecto, no para describir costumbre pasada."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "Cuando éramos jóvenes, nosotros _______ todas las noches.",
+    "options": [
+      "bailamos",
+      "bailábamos",
+      "bailaremos",
+      "hemos bailado"
+    ],
+    "correct": 1,
+    "explanations": [
+      "'Bailamos' es indefinido o presente, no para costumbre de juventud.",
+      "Correcto! 'Bailábamos' es imperfecto para hábito pasado repetido.",
+      "'Bailaremos' es futuro, no tiene sentido con 'cuando éramos'.",
+      "'Hemos bailado' es perfecto, no para época específica pasada."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "La casa _______ muy grande y antigua.",
+    "options": [
+      "es",
+      "fue",
+      "era",
+      "ha sido"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Es' es presente, pero describimos casa del pasado.",
+      "'Fue' es indefinido - posible, pero 'era' mejor para descripción.",
+      "Correcto! 'Era' es imperfecto para describir características en pasado.",
+      "'Ha sido' es perfecto, no para descripción de estado pasado."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "Mientras ellos _______, nosotros preparábamos la cena.",
+    "options": [
+      "estudian",
+      "estudiaron",
+      "estudiaban",
+      "han estudiado"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Estudian' es presente, pero la acción es pasada.",
+      "'Estudiaron' es indefinido para acción completa, no simultánea.",
+      "Correcto! 'Estudiaban' es imperfecto para acción simultánea en pasado.",
+      "'Han estudiado' es perfecto, no para acciones simultáneas pasadas."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "En esos días, yo _______ música todo el tiempo.",
+    "options": [
+      "escucho",
+      "escuché",
+      "escuchaba",
+      "he escuchado"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Escucho' es presente, pero 'en esos días' indica pasado.",
+      "'Escuché' es indefinido puntual, no para hábito de una época.",
+      "Correcto! 'Escuchaba' es imperfecto para hábito continuo de esa época.",
+      "'He escuchado' es perfecto, no para describir época específica."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "Tú no _______ lo que pasaba a tu alrededor.",
+    "options": [
+      "ves",
+      "viste",
+      "veías",
+      "has visto"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Ves' es presente, pero el contexto es pasado.",
+      "'Viste' es indefinido puntual, no para estado continuo.",
+      "Correcto! 'Veías' es imperfecto para estado o percepción continua pasada.",
+      "'Has visto' es perfecto, no para describir estado pasado."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "Los domingos nosotros _______ a visitar a los abuelos.",
+    "options": [
+      "vamos",
+      "fuimos",
+      "íbamos",
+      "hemos ido"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Vamos' es presente, pero hablamos de costumbre pasada.",
+      "'Fuimos' es indefinido para ocasión única, no costumbre repetida.",
+      "Correcto! 'Íbamos' es imperfecto para acción habitual (cada domingo).",
+      "'Hemos ido' es perfecto, no para costumbre pasada específica."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "Ella _______ muy feliz en esa ciudad.",
+    "options": [
+      "está",
+      "estuvo",
+      "estaba",
+      "ha estado"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Está' es presente, pero describimos estado pasado.",
+      "'Estuvo' es indefinido - posible, pero 'estaba' mejor para estado prolongado.",
+      "Correcto! 'Estaba' es imperfecto para describir estado o emoción pasada.",
+      "'Ha estado' es perfecto, no para describir estado en época pasada."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "Cuando llegué, ellos ya _______ la mesa.",
+    "options": [
+      "preparan",
+      "prepararon",
+      "preparaban",
+      "han preparado"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Preparan' es presente, pero la situación es pasada.",
+      "'Prepararon' es indefinido completo, pero 'preparaban' muestra proceso.",
+      "Correcto! 'Preparaban' es imperfecto para acción en progreso al llegar.",
+      "'Han preparado' es perfecto, no para acción en progreso pasada."
+    ]
+  }
+]

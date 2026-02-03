@@ -1,147 +1,195 @@
-# 🌐 Language App
+# Language App - Estrutura Atualizada v5
 
-A modern, offline-first Progressive Web App (PWA) for learning grammar across multiple languages.
+## 📁 Nova Estrutura de Arquivos
 
-## ✨ Features
+A aplicação agora usa **arquivos JSON separados** para cada tópico de estudo, melhorando:
+- ✅ **Qualidade**: Questões curadas manualmente, sem repetições
+- ✅ **Organização**: Fácil manutenção e atualização
+- ✅ **Performance**: Carrega apenas o necessário
+- ✅ **Escalabilidade**: Adicione novos tópicos facilmente
 
-- 🌍 **Multi-language Support**: Currently supports Spanish and US English
-- 📚 **Comprehensive Grammar Practice**: Multiple verb tenses and grammar topics
-- 💾 **Offline Functionality**: Works without an internet connection
-- 📱 **Installable**: Can be installed on mobile and desktop devices
-- 🎨 **Modern UI**: Clean, responsive design with smooth animations
-- ⚡ **Fast & Lightweight**: Optimized performance with service workers
+## 📚 Arquivos JSON
 
-## 🎯 Supported Languages & Topics
+### Inglês
+- `questions_en.json` - Todos os tempos verbais do inglês (20 questões)
 
-### Spanish (Español)
-- Presente del Indicativo
-- Presente Perfecto
-- Pretérito Indefinido
-- Pretérito Imperfecto
-- Imperativo
-- Condicional
-- Mixed mode (all tenses)
+### Espanhol
+- `questions_es_presente.json` - Presente del Indicativo (20 questões)
+- `questions_es_perfecto.json` - Presente Perfecto (20 questões)
+- `questions_es_indefinido.json` - Pretérito Indefinido (20 questões)
+- `questions_es_imperfecto.json` - Pretérito Imperfecto (20 questões)
+- `questions_es_imperativo.json` - Imperativo (20 questões)
+- `questions_es_condicional.json` - Condicional (20 questões)
 
-### US English
-- Various grammar exercises
+## 🎯 Melhorias Implementadas
 
-## 🚀 Getting Started
+### Problemas Resolvidos
+1. ❌ **Opção D muito repetida** → Agora cada questão tem opções únicas e variadas
+2. ❌ **Resposta visível na frase** → Sentenças reescritas para não dar pistas
+3. ❌ **Construções erradas** → Todas as frases revisadas para gramática correta
+4. ❌ **JSON muito grande** → Dividido em 7 arquivos menores e gerenciáveis
 
-### Live Demo
-Visit: [Your GitHub Pages URL]
+### Qualidade das Questões
+- ✅ Explicações detalhadas para TODAS as opções
+- ✅ Opções distratoras realistas e educativas
+- ✅ Sem repetições dentro de cada conjunto
+- ✅ Progressão lógica de dificuldade
 
-### Local Development
+## 🔧 Como Funciona
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/language_app.git
-   cd language_app
-   ```
+### Carregamento Dinâmico
+O `app.js` agora:
+1. Detecta o idioma e tópico escolhido
+2. Carrega apenas o(s) JSON(s) necessário(s)
+3. Para "Todos" em espanhol, carrega e mistura os 6 tempos verbais
+4. Mantém as questões embaralhadas em memória
 
-2. **Run a local server**
-   
-   Using Python:
-   ```bash
-   python -m http.server 8000
-   ```
-   
-   Using Node.js:
-   ```bash
-   npx http-server -p 8000
-   ```
-
-3. **Open in browser**
-   ```
-   http://localhost:8000
-   ```
-
-## 📱 Installing as PWA
-
-### Desktop (Chrome/Edge/Brave)
-1. Open the app in your browser
-2. Look for the install icon in the address bar
-3. Click "Install Language App"
-
-### Mobile (iOS/Android)
-1. Open in Safari (iOS) or Chrome (Android)
-2. Tap the share button
-3. Select "Add to Home Screen"
-
-## 🏗️ Project Structure
-
-```
-language_app/
-├── index.html          # Main application page
-├── app.js              # Core application logic
-├── styles.css          # Styling and animations
-├── questions.json      # Question database
-├── service-worker.js   # PWA offline support
-└── manifest.json       # PWA configuration
+### Mapeamento de Arquivos
+```javascript
+const JSON_FILES = {
+  en: "questions_en.json",
+  "Presente del Indicativo": "questions_es_presente.json",
+  "Presente Perfecto": "questions_es_perfecto.json",
+  "Pretérito Indefinido": "questions_es_indefinido.json",
+  "Pretérito Imperfecto": "questions_es_imperfecto.json",
+  "Imperativo": "questions_es_imperativo.json",
+  "Condicional": "questions_es_condicional.json"
+};
 ```
 
-## 🛠️ Technologies Used
+## 📦 Deploy
 
-- **HTML5**: Semantic markup
-- **CSS3**: Modern styling with animations
-- **Vanilla JavaScript**: No frameworks, pure JS
-- **Service Workers**: Offline functionality
-- **Web App Manifest**: PWA capabilities
+### GitHub Pages
+1. Crie um repositório chamado `language_app`
+2. Faça upload de TODOS os arquivos:
+   - `index.html`
+   - `styles.css`
+   - `app.js`
+   - `service-worker.js`
+   - `manifest.json`
+   - `questions_en.json`
+   - `questions_es_*.json` (todos os 6 arquivos)
 
-## 📖 How It Works
+3. Configure GitHub Pages:
+   - Settings → Pages
+   - Source: Deploy from a branch
+   - Branch: main / root
 
-1. **Language Selection**: Choose your target language
-2. **Topic/Tense Selection**: Pick what you want to practice
-3. **Interactive Exercises**: Fill-in-the-blank questions with instant feedback
-4. **Progress Tracking**: Visual progress bar shows your advancement
+### Desenvolvimento Local
+```bash
+# Na pasta do projeto
+python -m http.server 8000
 
-## 🌟 Features in Detail
+# Acesse
+http://localhost:8000
+```
 
-### Offline Support
-The app uses service workers to cache all resources, allowing you to practice even without an internet connection.
+**Importante**: Para dev local, edite `service-worker.js`:
+```javascript
+const BASE_PATH = ""; // vazio para localhost
+```
 
-### Progressive Enhancement
-Works on all modern browsers with graceful degradation for older ones.
+## 🆕 Como Adicionar Novos Tópicos
 
-### Responsive Design
-Optimized for all screen sizes from mobile phones to desktop monitors.
+### 1. Crie um novo arquivo JSON
+```json
+[
+  {
+    "language": "es",
+    "tense": "Futuro Simple",
+    "sentence": "Mañana yo _______ al cine.",
+    "options": [
+      "voy",
+      "fui",
+      "iré",
+      "iba"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Voy' es presente...",
+      "'Fui' es pretérito...",
+      "Correcto! 'Iré' es futuro...",
+      "'Iba' es imperfecto..."
+    ]
+  }
+]
+```
 
-### Accessibility
-- Keyboard navigation support
-- ARIA labels for screen readers
-- High contrast text and colors
+### 2. Atualize o app.js
+```javascript
+const JSON_FILES = {
+  // ... arquivos existentes ...
+  "Futuro Simple": "questions_es_futuro.json"
+};
+```
 
-## 🤝 Contributing
+### 3. Atualize o service-worker.js
+```javascript
+const STATIC_ASSETS = [
+  // ... arquivos existentes ...
+  BASE_PATH + "/questions_es_futuro.json"
+];
+```
 
-Contributions are welcome! Here's how you can help:
+### 4. Atualize o index.html
+Adicione novo item na lista de tempos:
+```html
+<div class="tense-item" data-tense="Futuro Simple">
+  <span class="num">7</span>
+  <span class="name">Futuro Simple</span>
+</div>
+```
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+## 🎨 Estrutura das Questões
 
-### Ideas for Contributions
-- Add more languages
-- Add more grammar topics
-- Improve UI/UX
-- Add statistics/progress tracking
-- Add spaced repetition algorithm
-- Add audio pronunciation
+Cada questão segue este formato:
+```json
+{
+  "language": "es" | "en",
+  "tense": "Nome do Tempo Verbal",
+  "sentence": "Frase com _______",
+  "options": ["opção A", "opção B", "opção C", "opção D"],
+  "correct": 0-3,
+  "explanations": [
+    "Explicação da opção A",
+    "Explicação da opção B", 
+    "Explicação da opção C",
+    "Explicação da opção D"
+  ]
+}
+```
 
-## 📝 License
+## 📱 PWA Features
 
-This project is open source and available under the [MIT License](LICENSE).
+A aplicação continua funcionando como PWA:
+- ✅ Instalável no celular
+- ✅ Funciona offline
+- ✅ Cache inteligente
+- ✅ Ícone na home screen
 
-## 🙏 Acknowledgments
+## 🔄 Versões
 
-- Built with modern web standards
-- Icons: Unicode emoji
-- Inspired by the need for accessible language learning tools
+- **v1-v3**: JSON único grande
+- **v4**: Melhorias no feedback
+- **v5**: JSONs separados por tópico (atual)
 
-## 📧 Contact
+## 📊 Estatísticas
 
-Project Link: [https://github.com/YOUR_USERNAME/language_app](https://github.com/YOUR_USERNAME/language_app)
+- **Total de questões**: 140
+  - Inglês: 20
+  - Espanhol: 120 (20 por tempo verbal)
+- **Arquivos JSON**: 7
+- **Tamanho médio por arquivo**: ~15-20KB
+- **Tempo de carregamento**: <100ms por arquivo
+
+## 🤝 Contribuindo
+
+Para adicionar mais questões:
+1. Edite o arquivo JSON correspondente
+2. Mantenha o formato existente
+3. Teste localmente antes de fazer deploy
+4. Incremente o CACHE_NAME no service-worker.js
 
 ---
 
-**Happy Learning! 🎓**
+**Desenvolvido com ❤️ para aprendizado de idiomas**

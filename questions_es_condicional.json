@@ -1,0 +1,362 @@
+[
+  {
+    "language": "es",
+    "tense": "Condicional",
+    "sentence": "Yo _______ a París si tuviera dinero.",
+    "options": [
+      "voy",
+      "fui",
+      "iría",
+      "iré"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Voy' es presente, pero la oración expresa condición hipotética.",
+      "'Fui' es pretérito, no expresa situación hipotética futura.",
+      "Correcto! 'Iría' es condicional para expresar acción hipotética.",
+      "'Iré' es futuro, pero necesitamos condicional con 'si tuviera'."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Condicional",
+    "sentence": "Ellos _______ el proyecto, pero no tienen tiempo.",
+    "options": [
+      "terminan",
+      "terminaron",
+      "terminarían",
+      "terminarán"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Terminan' es presente, no expresa deseo o posibilidad hipotética.",
+      "'Terminaron' es pretérito, no para situación hipotética.",
+      "Correcto! 'Terminarían' es condicional para expresar acción posible.",
+      "'Terminarán' es futuro, pero el 'pero' indica condicional."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Condicional",
+    "sentence": "¿Tú _______ conmigo a la fiesta?",
+    "options": [
+      "vienes",
+      "vendrías",
+      "viniste",
+      "vendrás"
+    ],
+    "correct": 1,
+    "explanations": [
+      "'Vienes' es presente, no expresa invitación cortés hipotética.",
+      "Correcto! 'Vendrías' es condicional para invitación cortés o posibilidad.",
+      "'Viniste' es pretérito, no adecuado para pregunta sobre futuro.",
+      "'Vendrás' es futuro, pero condicional es más cortés para invitación."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Condicional",
+    "sentence": "Nosotros _______ más si pudiéramos.",
+    "options": [
+      "estudiamos",
+      "estudiaremos",
+      "estudiaríamos",
+      "estudiábamos"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Estudiamos' es presente o pretérito, no hipotético.",
+      "'Estudiaremos' es futuro, pero 'si pudiéramos' pide condicional.",
+      "Correcto! 'Estudiaríamos' es condicional con condición en imperfecto subjuntivo.",
+      "'Estudiábamos' es imperfecto, no para situación hipotética."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Condicional",
+    "sentence": "Ella _______ más feliz en otro trabajo.",
+    "options": [
+      "es",
+      "fue",
+      "será",
+      "sería"
+    ],
+    "correct": 3,
+    "explanations": [
+      "'Es' es presente, no expresa hipótesis o especulación.",
+      "'Fue' es pretérito, no para situación hipotética futura.",
+      "'Será' es futuro, pero contexto sugiere especulación (condicional).",
+      "Correcto! 'Sería' es condicional para expresar especulación o hipótesis."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Condicional",
+    "sentence": "¿Ustedes _______ dispuestos a ayudar?",
+    "options": [
+      "están",
+      "estuvieron",
+      "estarían",
+      "estarán"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Están' es presente directo, no pregunta cortés hipotética.",
+      "'Estuvieron' es pretérito, no adecuado para pregunta sobre disposición.",
+      "Correcto! 'Estarían' es condicional para pregunta cortés sobre disposición.",
+      "'Estarán' es futuro, pero condicional es más cortés."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Condicional",
+    "sentence": "En tu lugar, yo no _______ eso.",
+    "options": [
+      "hago",
+      "hice",
+      "haría",
+      "haré"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Hago' es presente, no expresa consejo hipotético.",
+      "'Hice' es pretérito, no para dar consejo sobre situación hipotética.",
+      "Correcto! 'Haría' es condicional para dar consejo ('en tu lugar').",
+      "'Haré' es futuro, pero necesitamos condicional para consejo."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Condicional",
+    "sentence": "Tú _______ mejor con más práctica.",
+    "options": [
+      "juegas",
+      "jugaste",
+      "jugarías",
+      "jugarás"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Juegas' es presente, no expresa mejora hipotética futura.",
+      "'Jugaste' es pretérito, no para situación hipotética futura.",
+      "Correcto! 'Jugarías' es condicional para resultado hipotético.",
+      "'Jugarás' es futuro simple, pero contexto sugiere condicionalidad."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Condicional",
+    "sentence": "Nosotros _______ encantados de recibirlos.",
+    "options": [
+      "estamos",
+      "estaríamos",
+      "estuvimos",
+      "estaremos"
+    ],
+    "correct": 1,
+    "explanations": [
+      "'Estamos' es presente directo, menos cortés que condicional.",
+      "Correcto! 'Estaríamos' es condicional para expresión cortés de bienvenida.",
+      "'Estuvimos' es pretérito, no para ofrecimiento futuro.",
+      "'Estaremos' es futuro, pero condicional es más cortés."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Condicional",
+    "sentence": "Con más recursos, ellos _______ la investigación.",
+    "options": [
+      "completan",
+      "completaron",
+      "completarían",
+      "completarán"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Completan' es presente, no expresa hipótesis con condición.",
+      "'Completaron' es pretérito, no para situación hipotética.",
+      "Correcto! 'Completarían' es condicional con condición ('con más recursos').",
+      "'Completarán' es futuro, pero 'con más recursos' pide condicional."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Condicional",
+    "sentence": "¿_______ usted cerrar la ventana, por favor?",
+    "options": [
+      "Puede",
+      "Pudo",
+      "Podría",
+      "Podrá"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Puede' es presente, menos cortés que condicional para petición.",
+      "'Pudo' es pretérito, no adecuado para petición.",
+      "Correcto! 'Podría' es condicional para petición muy cortés.",
+      "'Podrá' es futuro, pero condicional es más cortés para pedir."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Condicional",
+    "sentence": "Yo _______ más cuidadoso en tu situación.",
+    "options": [
+      "soy",
+      "fui",
+      "sería",
+      "seré"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Soy' es presente, no expresa consejo hipotético.",
+      "'Fui' es pretérito, no para dar consejo hipotético.",
+      "Correcto! 'Sería' es condicional para consejo ('en tu situación').",
+      "'Seré' es futuro, pero contexto pide condicional de consejo."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Condicional",
+    "sentence": "Ellos _______ la verdad si la supieran.",
+    "options": [
+      "dicen",
+      "dijeron",
+      "dirían",
+      "dirán"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Dicen' es presente, no expresa acción condicional hipotética.",
+      "'Dijeron' es pretérito, no para condición hipotética.",
+      "Correcto! 'Dirían' es condicional con 'si la supieran' (subjuntivo).",
+      "'Dirán' es futuro, pero 'si supieran' requiere condicional."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Condicional",
+    "sentence": "¿Tú _______ vivir en otro país?",
+    "options": [
+      "quieres",
+      "quisiste",
+      "querrías",
+      "querrás"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Quieres' es presente directo, no pregunta hipotética.",
+      "'Quisiste' es pretérito, no para pregunta sobre posibilidad futura.",
+      "Correcto! 'Querrías' es condicional para pregunta hipotética cortés.",
+      "'Querrás' es futuro, pero condicional es más apropiado para hipótesis."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Condicional",
+    "sentence": "Nosotros _______ felices de colaborar en el proyecto.",
+    "options": [
+      "somos",
+      "fuimos",
+      "seríamos",
+      "seremos"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Somos' es presente directo, menos cortés que condicional.",
+      "'Fuimos' es pretérito, no para ofrecimiento futuro.",
+      "Correcto! 'Seríamos' es condicional para ofrecimiento cortés.",
+      "'Seremos' es futuro, pero condicional es más cortés."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Condicional",
+    "sentence": "Ella _______ más temprano, pero hay mucho tráfico.",
+    "options": [
+      "llega",
+      "llegó",
+      "llegaría",
+      "llegará"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Llega' es presente, no expresa intención impedida.",
+      "'Llegó' es pretérito, no para situación actual impedida.",
+      "Correcto! 'Llegaría' es condicional para intención impedida por obstáculo.",
+      "'Llegará' es futuro simple, pero el 'pero' indica condicional."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Condicional",
+    "sentence": "¿_______ ustedes un momento, por favor?",
+    "options": [
+      "Esperan",
+      "Esperaron",
+      "Esperarían",
+      "Esperarán"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Esperan' es presente, menos cortés para petición.",
+      "'Esperaron' es pretérito, no adecuado para petición.",
+      "Correcto! 'Esperarían' es condicional para petición muy cortés.",
+      "'Esperarán' es futuro, pero condicional es más cortés."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Condicional",
+    "sentence": "En esas circunstancias, yo _______ lo mismo.",
+    "options": [
+      "hago",
+      "hice",
+      "haría",
+      "haré"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Hago' es presente, no expresa acción hipotética.",
+      "'Hice' es pretérito, no para hipótesis sobre circunstancias.",
+      "Correcto! 'Haría' es condicional para acción hipotética en circunstancias dadas.",
+      "'Haré' es futuro, pero contexto pide condicional hipotético."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Condicional",
+    "sentence": "Tú _______ más saludable con mejor alimentación.",
+    "options": [
+      "estás",
+      "estuviste",
+      "estarías",
+      "estarás"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Estás' es presente, no expresa resultado hipotético.",
+      "'Estuviste' es pretérito, no para hipótesis futura.",
+      "Correcto! 'Estarías' es condicional para resultado hipotético con condición.",
+      "'Estarás' es futuro, pero contexto sugiere condicionalidad."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Condicional",
+    "sentence": "Ellos _______ más rápido con ayuda.",
+    "options": [
+      "trabajan",
+      "trabajaron",
+      "trabajarían",
+      "trabajarán"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Trabajan' es presente, no expresa resultado condicional.",
+      "'Trabajaron' es pretérito, no para hipótesis futura.",
+      "Correcto! 'Trabajarían' es condicional para resultado con condición ('con ayuda').",
+      "'Trabajarán' es futuro, pero 'con ayuda' pide condicional."
+    ]
+  }
+]
