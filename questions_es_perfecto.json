@@ -2,361 +2,361 @@
   {
     "language": "es",
     "tense": "Presente Perfecto",
-    "sentence": "Yo nunca _______ a España.",
+    "sentence": "A lo largo de toda su carrera profesional, la directora _______ una serie de estrategias innovadoras que han transformado profundamente la imagen de la empresa ante sus principales clientes internacionales.",
     "options": [
-      "fui",
-      "he ido",
-      "voy",
-      "iré"
+      "ha desarrollado",
+      "desarrolló",
+      "desarrollaba",
+      "desarrollará"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanations": [
-      "'Fui' es pretérito indefinido, pero 'nunca' con experiencia pide perfecto.",
-      "Correcto! 'He ido' es presente perfecto para experiencias de vida.",
-      "'Voy' es presente simple, no expresa experiencia pasada.",
-      "'Iré' es futuro, no adecuado para experiencias pasadas."
+      "Correcto! 'Ha desarrollado' es presente perfecto, que conecta la trayectoria profesional pasada con el resultado presente: las estrategias siguen siendo relevantes hoy.",
+      "'Desarrolló' es pretérito indefinido, que situaría las estrategias en un momento pasado cerrado sin relación con el presente, lo cual contradice el efecto actual descrito en la oración.",
+      "'Desarrollaba' es imperfecto, que describe situaciones o hábitos pasados en los que la imagen no estaría siendo transformada actualmente.",
+      "'Desarrollará' es futuro, que no tiene sentido cuando la oración describe algo que ya ha producido efectos visibles en el presente."
     ]
   },
   {
     "language": "es",
     "tense": "Presente Perfecto",
-    "sentence": "Ellos _______ tres veces este mes.",
+    "sentence": "Es curioso que, a pesar de que los investigadores _______ muchos años estudiando este fenómeno atmosférico, todavía no _______ una explicación concluyente que satisfaga a toda la comunidad científica.",
     "options": [
-      "viajaron",
-      "viajan",
-      "han viajado",
-      "viajarán"
+      "han dedicado... han encontrado",
+      "dedicaron... han encontrado",
+      "han dedicado... encontraron",
+      "dedicaban... encontraron"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanations": [
-      "'Viajaron' es pretérito, pero 'este mes' conecta pasado con presente.",
-      "'Viajan' es presente simple, no muestra acciones completadas.",
-      "Correcto! 'Han viajado' conecta acciones del mes actual con ahora.",
-      "'Viajarán' es futuro, no apropiado aquí."
+      "Correcto! 'Han dedicado' enfatiza la duración sostenida del trabajo científico hasta el presente. 'Han encontrado' (negado: no han encontrado) indica que la tarea sigue sin completarse hasta ahora.",
+      "'Dedicaron... han encontrado' mezcla pretérito (tiempo cerrado) con presente perfecto. Si aún no han encontrado la explicación, la investigación sigue siendo relevante y debe estar en perfecto.",
+      "'Han dedicado' es correcto, pero 'encontraron' sitúa la búsqueda en un momento pasado cerrado, lo cual contradice 'todavía no', que indica una situación que persiste hasta el presente.",
+      "'Dedicaban' es imperfecto, que describe un hábito pasado sin conexión clara con el presente. El contexto exige presente perfecto para ambos verbos."
     ]
   },
   {
     "language": "es",
     "tense": "Presente Perfecto",
-    "sentence": "¿Tú ya _______ la tarea?",
+    "sentence": "Durante los últimos cinco años, la empresa _______ una política de contratación mucho más inclusiva, y gracias a esa decisión, los niveles de productividad en todos los departamentos _______ de manera significativa.",
     "options": [
-      "terminaste",
-      "terminas",
-      "has terminado",
-      "terminarás"
+      "ha implementado... han aumentado",
+      "implementó... han aumentado",
+      "ha implementado... aumentaron",
+      "implementó... aumentaron"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanations": [
-      "'Terminaste' es pretérito, pero 'ya' sugiere presente perfecto.",
-      "'Terminas' es presente simple, no para acciones recién completadas.",
-      "Correcto! 'Has terminado' con 'ya' pregunta sobre acción reciente.",
-      "'Terminarás' es futuro, no tiene sentido con 'ya'."
+      "Correcto! 'Ha implementado' conecta la decisión pasada con sus efectos actuales. 'Han aumentado' muestra que la mejora en productividad es un resultado que se extiende hasta el presente.",
+      "'Implementó' sitúa la decisión en un momento pasado cerrado, rompiendo la conexión entre la política y sus consecuencias vigentes que describe el resto de la oración.",
+      "'Ha implementado' es correcto, pero 'aumentaron' cierra el aumento en el pasado, lo cual contradice la realidad de que los niveles de productividad siguen siendo altos actualmente.",
+      "Ambos en pretérito ('implementó... aumentaron') situarían la política y sus resultados exclusivamente en el pasado, eliminando la relevancia presente que el contexto exige claramente."
     ]
   },
   {
     "language": "es",
     "tense": "Presente Perfecto",
-    "sentence": "Nosotros _______ mucho hoy.",
+    "sentence": "¿Alguna vez _______ la sensación de que los eventos que _______ a tu alrededor parecen estar siguiendo un patrón que no logras entender del todo?",
     "options": [
-      "trabajamos",
-      "trabajábamos",
-      "hemos trabajado",
-      "trabajaremos"
+      "has tenido... han sucedido",
+      "tuviste... han sucedido",
+      "has tenido... sucedieron",
+      "tenías... sucedían"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanations": [
-      "'Trabajamos' es ambiguo (presente o pretérito), no ideal con 'hoy'.",
-      "'Trabajábamos' es imperfecto, no adecuado para 'hoy'.",
-      "Correcto! 'Hemos trabajado' conecta la acción de hoy con el presente.",
-      "'Trabajaremos' es futuro, pero 'hoy' indica ya realizado."
+      "Correcto! 'Has tenido' pregunta sobre una experiencia a lo largo de toda la vida del interlocutor. 'Han sucedido' se refiere a los eventos que, hasta este momento, siguen formando parte de esa experiencia.",
+      "'Tuviste' es pretérito, que preguntaría sobre un momento específico del pasado, no sobre una experiencia acumulada como la que 'alguna vez' implica.",
+      "'Has tenido' es correcto, pero 'sucedieron' cierra los eventos en el pasado, cuando la oración sugiere que el patrón sigue siendo observable en el presente.",
+      "'Tenías... sucedían' son imperfecto, que describe situaciones pasadas sin conexión con el presente. La pregunta con 'alguna vez' exige presente perfecto."
     ]
   },
   {
     "language": "es",
     "tense": "Presente Perfecto",
-    "sentence": "María todavía no _______ la noticia.",
+    "sentence": "Desde que se fundó la asociación hace más de una década, sus miembros _______ activamente en la defensa de los derechos de las comunidades vulnerables, y esa dedicación _______ un impacto real y medible en la sociedad actual.",
     "options": [
-      "supo",
-      "sabe",
-      "ha sabido",
-      "sabrá"
+      "han participado... ha tenido",
+      "participaron... ha tenido",
+      "han participado... tuvo",
+      "participaban... tuvo"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanations": [
-      "'Supo' es pretérito, pero 'todavía no' pide presente perfecto.",
-      "'Sabe' es presente simple, no para acciones no realizadas aún.",
-      "Correcto! 'Ha sabido' con 'todavía no' indica no completado hasta ahora.",
-      "'Sabrá' es futuro, no adecuado con 'todavía no'."
+      "Correcto! 'Han participado' abarca desde la fundación hasta el presente. 'Ha tenido' indica que el impacto es un resultado que sigue siendo vigente y medible hoy.",
+      "'Participaron' situaría la participación en un periodo pasado cerrado, lo cual contradice 'desde que se fundó', que implica continuidad hasta el presente.",
+      "'Han participado' es correcto, pero 'tuvo' cierra el impacto en el pasado, cuando la oración describe claramente un efecto que persiste en la 'sociedad actual'.",
+      "'Participaban... tuvo' mezcla imperfecto con pretérito, eliminando la conexión entre la actividad sostenida y su impacto presente que la oración exige."
     ]
   },
   {
     "language": "es",
     "tense": "Presente Perfecto",
-    "sentence": "¿Alguna vez _______ comida japonesa?",
+    "sentence": "El equipo de desarrollo _______ trabajando durante meses en la nueva aplicación, y esta semana finalmente _______ una versión que supera todas las expectativas que _______ los usuarios desde el principio.",
     "options": [
-      "probaste",
-      "pruebas",
-      "has probado",
-      "probarás"
+      "ha estado... ha lanzado... han tenido",
+      "estuvo... lanzó... tuvieron",
+      "ha estado... ha lanzado... tuvieron",
+      "estaba... lanzó... han tenido"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanations": [
-      "'Probaste' es pretérito, pero 'alguna vez' sugiere presente perfecto.",
-      "'Pruebas' es presente habitual, no para experiencias de vida.",
-      "Correcto! 'Has probado' con 'alguna vez' pregunta sobre experiencia.",
-      "'Probarás' es futuro, no cabe con 'alguna vez' pasado."
+      "Correcto! 'Ha estado trabajando' es perfecto compuesto, que enfatiza la duración. 'Ha lanzado' conecta el lanzamiento reciente con el presente. 'Han tenido' muestra que las expectativas han existido desde el principio hasta ahora.",
+      "Todo en pretérito ('estuvo... lanzó... tuvieron') sitúaría los eventos en el pasado cerrado, eliminando la conexión con el presente que 'esta semana' y el contexto general exigen.",
+      "'Ha estado' es correcto, pero 'tuvieron' cierra las expectativas en el pasado, cuando la oración implica que estas expectativas han existido de forma continua.",
+      "'Estaba' es imperfecto, que no enfatiza la duración sostenida desde hace meses hasta el presente como lo hace 'ha estado'. El resto de la oración exige coherencia temporal."
     ]
   },
   {
     "language": "es",
     "tense": "Presente Perfecto",
-    "sentence": "Yo _______ en esta ciudad desde 2020.",
+    "sentence": "Es un hecho indiscutible que la temperatura media del planeta _______ de forma alarmante en las últimas décadas, y los científicos _______ repetidamente sobre las consecuencias graves que esto puede tener en el futuro.",
     "options": [
-      "viví",
-      "vivo",
-      "he vivido",
-      "viviré"
+      "ha aumentado... han advertido",
+      "aumentó... han advertido",
+      "ha aumentado... advirtieron",
+      "aumentaba... advertían"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanations": [
-      "'Viví' es pretérito, sugiere que ya no vives allí.",
-      "'Vivo' es presente, pero no enfatiza la duración desde 2020.",
-      "Correcto! 'He vivido' muestra acción que empezó en 2020 y continúa.",
-      "'Viviré' es futuro, no adecuado con 'desde 2020'."
+      "Correcto! 'Ha aumentado' conecta el proceso de calentamiento pasado con la realidad presente. 'Han advertido' indica que las advertencias científicas han sido repetidas y siguen siendo relevantes hasta hoy.",
+      "'Aumentó' situaría el aumento en un momento pasado cerrado, lo cual contradice 'en las últimas décadas', que implica un proceso ongoing con consecuencias actuales.",
+      "'Ha aumentado' es correcto, pero 'advirtieron' cierra las advertencias en el pasado, cuando la oración sugiere que estas siguen siendo emitidas y relevantes en el presente.",
+      "Ambos en imperfecto ('aumentaba... advertían') describen situaciones pasadas sin conexión con el presente, eliminando la gravedad actual que la oración enfatiza claramente."
     ]
   },
   {
     "language": "es",
     "tense": "Presente Perfecto",
-    "sentence": "Los estudiantes _______ el examen perfecto.",
+    "sentence": "La nueva legislación que _______ el gobierno el año pasado _______ un cambio profundo en la forma en que las empresas _______ sus relaciones con los trabajadores, y los resultados positivos ya _______ a ser visibles en todas las industrias.",
     "options": [
-      "hicieron",
-      "hacen",
-      "han hecho",
-      "harán"
+      "aprobó... ha supuesto... manejan... han empezado",
+      "ha aprobado... supuso... manejaban... han empezado",
+      "aprobó... ha supuesto... manejaban... empezaron",
+      "aprobó... supuso... manejan... han empezado"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanations": [
-      "'Hicieron' es pretérito simple, menos relevante para el presente.",
-      "'Hacen' es presente habitual, no para acción reciente completada.",
-      "Correcto! 'Han hecho' conecta logro reciente con el momento actual.",
-      "'Harán' es futuro, no tiene sentido aquí."
+      "Correcto! 'Aprobó' es pretérito para la acción pasada concreta (el año pasado). 'Ha supuesto' conecta esa acción con el cambio presente. 'Manejan' es presente para describir la realidad actual. 'Han empezado' indica resultados visibles desde hace poco hasta ahora.",
+      "'Ha aprobado' estaría mal si lo combinamos con 'el año pasado', que es un marcador de tiempo cerrado que requiere pretérito. 'Supuso' cerraría el cambio en el pasado.",
+      "'Manejaban' es imperfecto, que no describe la situación actual sino una pasada. La oración habla de cómo manejan las relaciones ahora, así que debe ser presente.",
+      "'Supuso' cierra el cambio en el pasado, pero la oración explica claramente que ese cambio tiene efectos que persisten y son visibles en el presente."
     ]
   },
   {
     "language": "es",
     "tense": "Presente Perfecto",
-    "sentence": "Tú siempre _______ una persona generosa.",
+    "sentence": "Nadie en el departamento _______ alguna queja formal sobre el funcionamiento del nuevo sistema, aunque varios trabajadores _______ en reuniones internas que hay ciertos aspectos que podrían mejorarse.",
     "options": [
-      "fuiste",
-      "eres",
-      "has sido",
-      "serás"
+      "ha presentado... han comentado",
+      "presentó... han comentado",
+      "ha presentado... comentaron",
+      "presentaba... comentaban"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanations": [
-      "'Fuiste' es pretérito, sugiere que ya no lo eres.",
-      "'Eres' es presente simple, no enfatiza la continuidad temporal.",
-      "Correcto! 'Has sido' muestra cualidad constante desde pasado hasta ahora.",
-      "'Serás' es futuro, no adecuado con 'siempre' sobre pasado-presente."
+      "Correcto! 'Ha presentado' (negado: no ha presentado) indica que hasta este momento no ha habido queja formal. 'Han comentado' muestra que las observaciones han sido hechas de forma repetida y siguen siendo relevantes.",
+      "'Presentó' situaría la posible queja en un momento pasado cerrado, pero 'nadie' implica que hasta el presente no ha ocurrido, lo cual requiere presente perfecto.",
+      "'Ha presentado' es correcto, pero 'comentaron' cierra los comentarios en el pasado, cuando la oración implica que estas observaciones siguen siendo un tema de discusión.",
+      "Ambos en imperfecto ('presentaba... comentaban') describen hábitos pasados, eliminando la conexión con el presente que el contexto exige claramente."
     ]
   },
   {
     "language": "es",
     "tense": "Presente Perfecto",
-    "sentence": "Esta semana _______ muchos problemas.",
+    "sentence": "En los últimos años _______ un aumento notable en el número de personas que deciden cambiar de carrera profesional a mitad de vida, y este fenómeno _______ profundamente la estructura del mercado laboral en muchos países.",
     "options": [
-      "tuvimos",
-      "tenemos",
-      "hemos tenido",
-      "tendremos"
+      "ha habido... ha modificado",
+      "hubo... ha modificado",
+      "ha habido... modificó",
+      "había... modificó"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanations": [
-      "'Tuvimos' es pretérito, pero 'esta semana' conecta con el presente.",
-      "'Tenemos' es presente actual, no para toda la semana hasta ahora.",
-      "Correcto! 'Hemos tenido' abarca desde inicio de semana hasta ahora.",
-      "'Tendremos' es futuro, no cabe con lo ya ocurrido esta semana."
+      "Correcto! 'Ha habido' conecta el aumento pasado con la realidad actual. 'Ha modificado' muestra que la modificación del mercado laboral es un proceso que sigue siendo relevante y observable hoy.",
+      "'Hubo' es pretérito, que situaría el aumento en un momento pasado cerrado, contradiciéndose con 'en los últimos años', que implica un proceso que se extiende hasta el presente.",
+      "'Ha habido' es correcto, pero 'modificó' cierra la modificación en el pasado. La oración sugiere que el mercado laboral sigue siendo afectado por este fenómeno en el presente.",
+      "'Había' es pluscuamperfecto, que situaría el aumento antes de otro momento pasado de referencia, lo cual no encaja con la estructura temporal de la oración."
     ]
   },
   {
     "language": "es",
     "tense": "Presente Perfecto",
-    "sentence": "Ella no _______ esa película todavía.",
+    "sentence": "Siempre _______ una persona muy curiosa, y a lo largo de todos estos años _______ innumerables temas que al principio parecían no tener ninguna relación entre sí.",
     "options": [
-      "vio",
-      "ve",
-      "ha visto",
-      "verá"
+      "has sido... has explorado",
+      "fuiste... has explorado",
+      "has sido... exploraste",
+      "eras... exploraste"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanations": [
-      "'Vio' es pretérito, pero 'todavía' pide presente perfecto.",
-      "'Ve' es presente, no adecuado para 'todavía no'.",
-      "Correcto! 'Ha visto' con 'todavía' indica acción no realizada hasta ahora.",
-      "'Verá' es futuro, no es la forma correcta con 'no...todavía'."
+      "Correcto! 'Has sido' muestra que la curiosidad es una característica constante que se extiende desde el pasado hasta el presente. 'Has explorado' indica una actividad acumulada a lo largo de la vida.",
+      "'Fuiste' es pretérito, que sugeriría que la persona dejó de ser curiosa en algún momento, contradiciéndose con 'siempre', que implica continuidad.",
+      "'Has sido' es correcto, pero 'exploraste' cierra la exploración en un momento pasado, cuando 'a lo largo de todos estos años' implica una actividad que sigue siendo parte de la vida actual.",
+      "Ambos en pretérito o imperfecto ('eras... exploraste') situarían la personalidad y las actividades exclusivamente en el pasado, eliminando la continuidad que 'siempre' y el contexto exigen."
     ]
   },
   {
     "language": "es",
     "tense": "Presente Perfecto",
-    "sentence": "¿Ustedes ya _______ en este restaurante?",
+    "sentence": "Esta mañana _______ por la noticias que el consejo municipal _______ aprobar un presupuesto adicional para la rehabilitación de los edificios históricos del centro, una decisión que muchos vecinos _______ desde hace varios años.",
     "options": [
-      "comieron",
-      "comen",
-      "han comido",
-      "comerán"
+      "he visto... ha decidido... han pedido",
+      "vi... ha decidido... han pedido",
+      "he visto... decidió... han pedido",
+      "he visto... ha decidido... pidieron"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanations": [
-      "'Comieron' es pretérito, pero 'ya' sugiere presente perfecto.",
-      "'Comen' es presente habitual, no para preguntar sobre experiencia.",
-      "Correcto! 'Han comido' pregunta sobre experiencia hasta el momento.",
-      "'Comerán' es futuro, no tiene sentido con 'ya'."
+      "Correcto! 'He visto' conecta la acción de ver las noticias esta mañana con el presente. 'Ha decidido' muestra la decisión reciente del consejo. 'Han pedido' indica que la petición de los vecinos ha sido sostenida desde hace años hasta el momento actual.",
+      "'Vi' es pretérito, que situaría la acción de ver en un momento pasado cerrado. 'Esta mañana' en este contexto conecta con el presente, lo cual favorece el perfecto.",
+      "'Ha decidido' es correcto, pero 'decidió' cerraría la decisión en el pasado sin conexión con el presente, cuando la oración la presenta como una noticia reciente y relevante.",
+      "'He visto' y 'ha decidido' son correctos, pero 'pidieron' cierra la petición en el pasado, cuando 'desde hace varios años' indica que esa petición ha sido continua hasta ahora."
     ]
   },
   {
     "language": "es",
     "tense": "Presente Perfecto",
-    "sentence": "Nosotros no _______ ese error antes.",
+    "sentence": "Desde que _______ a trabajar en esta empresa hace tres años, _______ muchas experiencias valiosas que me han ayudado a crecer tanto profesional como personalmente.",
     "options": [
-      "cometimos",
-      "cometemos",
-      "hemos cometido",
-      "cometeremos"
+      "empecé... he tenido",
+      "empezaba... he tenido",
+      "empecé... tuve",
+      "he empezado... he tenido"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanations": [
-      "'Cometimos' es pretérito específico, no para 'nunca antes'.",
-      "'Cometemos' es presente habitual, no para experiencia pasada.",
-      "Correcto! 'Hemos cometido' indica experiencia desde pasado hasta ahora.",
-      "'Cometeremos' es futuro, no adecuado con 'antes'."
+      "Correcto! 'Empecé' es pretérito, adecuado para el inicio puntual hace tres años. 'He tenido' es presente perfecto, que conecta las experiencias acumuladas desde ese momento con el presente.",
+      "'Empezaba' es imperfecto, que no es adecuado para un inicio puntual. El inicio de un trabajo es un evento concreto que requiere pretérito indefinido.",
+      "'Empecé' es correcto, pero 'tuve' cierra las experiencias en el pasado, cuando la oración indica que estas siguen siendo relevantes y han tenido efectos hasta el presente.",
+      "'He empezado' sugiere un proceso reciente o no completado, pero 'hace tres años' es un marcador de tiempo cerrado que requiere pretérito indefinido para el inicio."
     ]
   },
   {
     "language": "es",
     "tense": "Presente Perfecto",
-    "sentence": "Yo _______ varias veces con ella.",
+    "sentence": "Los datos que _______ el equipo de investigación a lo largo del último año revelan que la mayoría de los participantes del programa _______ mejoras significativas en su nivel de bienestar general.",
     "options": [
-      "hablé",
-      "hablo",
-      "he hablado",
-      "hablaré"
+      "ha recopilado... han experimentado",
+      "recopiló... han experimentado",
+      "ha recopilado... experimentaron",
+      "recopilaba... experimentaban"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanations": [
-      "'Hablé' es pretérito puntual, no enfatiza la repetición temporal.",
-      "'Hablo' es presente, no indica acciones repetidas pasadas.",
-      "Correcto! 'He hablado' muestra acciones repetidas hasta el presente.",
-      "'Hablaré' es futuro, no cabe con acciones ya realizadas."
+      "Correcto! 'Ha recopilado' conecta la labor de recopilación del último año con los resultados actuales. 'Han experimentado' indica que las mejoras son un resultado que persiste y es observable hasta el presente.",
+      "'Recopiló' situaría la recopilación en un momento pasado cerrado, lo cual contradice 'a lo largo del último año', que implica un proceso que se extiende hasta el presente.",
+      "'Ha recopilado' es correcto, pero 'experimentaron' cierra las mejoras en el pasado, cuando la oración sugiere que estas son resultados que siguen siendo relevantes.",
+      "Ambos en imperfecto ('recopilaba... experimentaban') describen situaciones pasadas sin conexión con el presente, eliminando la relevancia actual que los datos y las mejoras tienen."
     ]
   },
   {
     "language": "es",
     "tense": "Presente Perfecto",
-    "sentence": "¿Tú _______ las llaves en algún lugar?",
+    "sentence": "¿Alguna vez _______ a pensar en la posibilidad de que los eventos aparentemente cotidianos que _______ a tu alrededor podrían estar siguiendo un patrón mucho más profundo de lo que imaginas?",
     "options": [
-      "dejaste",
-      "dejas",
-      "has dejado",
-      "dejarás"
+      "has parado... suceden",
+      "te停aste... suceden",
+      "has parado... sucedían",
+      "paraste... suceden"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanations": [
-      "'Dejaste' es pretérito, menos natural para buscar algo ahora perdido.",
-      "'Dejas' es presente habitual, no para objeto actualmente perdido.",
-      "Correcto! 'Has dejado' conecta acción reciente con situación presente.",
-      "'Dejarás' es futuro, no tiene sentido aquí."
+      "Correcto! 'Has parado' es presente perfecto, adecuado para preguntar sobre una experiencia a lo largo de la vida. 'Suceden' es presente indicativo, que describe los eventos que ocurren actualmente a tu alrededor.",
+      "La segunda opción contiene un error de escritura y no es una forma verbal válida en español.",
+      "'Has parado' es correcto, pero 'sucedían' es imperfecto, que situaría los eventos en el pasado. La oración habla de eventos que ocurren actualmente.",
+      "'Paraste' es pretérito, que preguntaría sobre un momento específico del pasado. 'Alguna vez' exige presente perfecto para referirse a la experiencia acumulada."
     ]
   },
   {
     "language": "es",
     "tense": "Presente Perfecto",
-    "sentence": "En los últimos años, _______ muchos cambios.",
+    "sentence": "Hasta el momento, ningún estudio científico publicado _______ resultados concluyentes sobre esta cuestión, aunque varios equipos de investigación alrededor del mundo _______ pasos importantes en la dirección correcta.",
     "options": [
-      "hubo",
-      "hay",
-      "ha habido",
-      "habrá"
+      "ha arrojado... han dado",
+      "arrojó... han dado",
+      "ha arrojado... dieron",
+      "arrojaba... daban"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanations": [
-      "'Hubo' es pretérito, pero 'últimos años' conecta con presente.",
-      "'Hay' es presente estático, no muestra proceso temporal.",
-      "Correcto! 'Ha habido' abarca desde años pasados hasta ahora.",
-      "'Habrá' es futuro, no adecuado con 'últimos años'."
+      "Correcto! 'Ha arrojado' (negado: no ha arrojado) indica que hasta el presente no hay resultados concluyentes. 'Han dado' muestra que los avances han sido acumulados y siguen siendo relevantes.",
+      "'Arrojó' situaría la posible conclusión en un momento pasado cerrado, pero 'hasta el momento' indica que la situación persiste hasta el presente.",
+      "'Ha arrojado' es correcto, pero 'dieron' cierra los avances en el pasado, cuando la oración implica que estos siguen siendo parte del proceso actual de investigación.",
+      "Ambos en imperfecto ('arrojaba... daban') describen hábitos o situaciones pasadas, eliminando la conexión con la realidad presente que 'hasta el momento' establece claramente."
     ]
   },
   {
     "language": "es",
     "tense": "Presente Perfecto",
-    "sentence": "Ellos _______ mucho desde que se conocieron.",
+    "sentence": "Desde la implementación de las nuevas medidas de seguridad hace medio año, los incidentes graves en la fábrica _______ en un porcentaje considerable, y los trabajadores _______ repetidamente que se sienen mucho más seguros en sus puestos.",
     "options": [
-      "cambiaron",
-      "cambian",
-      "han cambiado",
-      "cambiarán"
+      "han disminuido... han comentado",
+      "disminuyeron... han comentado",
+      "han disminuido... comentaron",
+      "disminuían... comentaban"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanations": [
-      "'Cambiaron' es pretérito, no enfatiza continuidad hasta ahora.",
-      "'Cambian' es presente, no muestra proceso desde el pasado.",
-      "Correcto! 'Han cambiado' muestra cambio desde entonces hasta ahora.",
-      "'Cambiarán' es futuro, no adecuado con 'desde que'."
+      "Correcto! 'Han disminuido' conecta la reducción de incidentes desde hace medio año con la situación actual. 'Han comentado' indica que los comentarios de los trabajadores han sido repetidos y siguen siendo relevantes.",
+      "'Disminuyeron' situaría la disminución en un momento pasado cerrado, contradiciendo el hecho de que la mejora ha sido sostenida desde la implementación hasta el presente.",
+      "'Han disminuido' es correcto, pero 'comentaron' cierra los comentarios en el pasado. La oración sugiere que esta es una opinión que los trabajadores siguen expresando.",
+      "Ambos en imperfecto ('disminuían... comentaban') describen situaciones pasadas sin conexión con el presente, eliminando la relevancia actual de la mejora en seguridad."
     ]
   },
   {
     "language": "es",
     "tense": "Presente Perfecto",
-    "sentence": "¿Alguna vez _______ un fantasma?",
+    "sentence": "Mi abuelo, que _______ toda su vida en esta misma ciudad, me _______ muchas historias sobre cómo la zona ha cambiado de manera radical a lo largo de las décadas.",
     "options": [
-      "viste",
-      "ves",
-      "has visto",
-      "verás"
+      "ha vivido... ha contado",
+      "vivió... ha contado",
+      "ha vivido... contó",
+      "vivía... contó"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanations": [
-      "'Viste' es pretérito, pero 'alguna vez' pide presente perfecto.",
-      "'Ves' es presente habitual, no para experiencias de vida.",
-      "Correcto! 'Has visto' pregunta sobre experiencia en toda la vida.",
-      "'Verás' es futuro, no cabe con 'alguna vez' pasado."
+      "Correcto! 'Ha vivido' muestra que mi abuelo sigue viviendo en la misma ciudad. 'Ha contado' indica que estas historias han sido compartidas de forma repetida a lo largo del tiempo.",
+      "'Vivió' sugeriría que mi abuelo ya no vive en esa ciudad, lo cual contradice el sentido de 'toda su vida' combinado con el presente perfecto que la oración exige.",
+      "'Ha vivido' es correcto, pero 'contó' sitúa los cuentos en un momento pasado cerrado, cuando la oración sugiere que es una actividad que ha ocurrido repetidamente.",
+      "Ambos en pretérito o imperfecto ('vivía... contó') eliminan la conexión con el presente, que es fundamental para entender que el abuelo sigue vivo y que sus historias siguen siendo relevantes."
     ]
   },
   {
     "language": "es",
     "tense": "Presente Perfecto",
-    "sentence": "Nosotros _______ aquí durante dos horas.",
+    "sentence": "En los últimos meses _______ un debate importante sobre la necesidad de reformar el sistema educativo, y muchos profesores _______ públicamente sus opiniones sobre los cambios que consideran indispensables.",
     "options": [
-      "esperamos",
-      "esperábamos",
-      "hemos esperado",
-      "esperaremos"
+      "ha surgido... han expresado",
+      "surgió... han expresado",
+      "ha surgido... expresaron",
+      "surgía... expresaban"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanations": [
-      "'Esperamos' puede ser presente o pretérito, ambiguo para duración.",
-      "'Esperábamos' es imperfecto, no enfatiza desde inicio hasta ahora.",
-      "Correcto! 'Hemos esperado' muestra duración desde inicio hasta presente.",
-      "'Esperaremos' es futuro, no tiene sentido con tiempo ya transcurrido."
+      "Correcto! 'Ha surgido' conecta el surgimiento del debate con su relevancia actual. 'Han expresado' indica que los profesores han vertido sus opiniones de forma repetida y estas siguen siendo parte del debate presente.",
+      "'Surgió' situaría el surgimiento del debate en un momento pasado cerrado, contradiciendo 'en los últimos meses', que implica un proceso que se extiende hasta el presente.",
+      "'Ha surgido' es correcto, pero 'expresaron' cierra las opiniones en el pasado, cuando la oración sugiere que estas siguen siendo parte del debate actualmente.",
+      "Ambos en imperfecto ('surgía... expresaban') describen situaciones pasadas sin conexión con el presente, eliminando la relevancia actual del debate educativo."
     ]
   },
   {
     "language": "es",
     "tense": "Presente Perfecto",
-    "sentence": "La profesora _______ las notas aún.",
+    "sentence": "Todavía no _______ la oportunidad de visitar la nueva exposición del museo, aunque varios amigos que ya _______ allí me _______ que es absolutamente imprescindible no perderla.",
     "options": [
-      "no publicó",
-      "no publica",
-      "no ha publicado",
-      "no publicará"
+      "he tenido... han ido... han dicho",
+      "tuve... han ido... han dicho",
+      "he tenido... fueron... han dicho",
+      "he tenido... han ido... dijeron"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanations": [
-      "'No publicó' es pretérito, pero 'aún' pide presente perfecto.",
-      "'No publica' es presente habitual, no para acción esperada no realizada.",
-      "Correcto! 'No ha publicado' con 'aún' indica no completado hasta ahora.",
-      "'No publicará' es futuro, no adecuado con 'aún' sobre el presente."
+      "Correcto! 'He tenido' (negado: no he tenido) indica que hasta el presente no ha visitado la exposición. 'Han ido' muestra que la visita de los amigos ha ocurrido y es relevante. 'Han dicho' indica que los comentarios siguen siendo vigentes.",
+      "'Tuve' situaría la posibilidad en un momento pasado cerrado, pero 'todavía no' indica que la situación persiste hasta el presente, lo cual requiere presente perfecto.",
+      "'Han ido' es correcto, pero 'fueron' cierra la visita en un momento pasado, cuando la oración la presenta como información relevante para el presente.",
+      "'Han ido' es correcto, pero 'dijeron' cierra los comentarios en el pasado, cuando la oración los presenta como recomendaciones que siguen siendo válidas."
     ]
   }
 ]

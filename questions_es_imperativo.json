@@ -2,361 +2,361 @@
   {
     "language": "es",
     "tense": "Imperativo",
-    "sentence": "_______ la puerta, por favor. (tú)",
+    "sentence": "Antes de que comience la reunión con los directivos, _______ todos los documentos que necesitas y _______ que la sala de conferencias esté completamente preparada. (tú)",
     "options": [
-      "Cierras",
-      "Cierra",
-      "Cierres",
-      "Cierre"
+      "prepara... asegúrate",
+      "prepares... asegúrate",
+      "prepara... asegures",
+      "preparas... aseguras"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto! 'Prepara' es imperativo afirmativo para tú (tercera persona singular del presente indicativo). 'Asegúrate' es imperativo afirmativo reflexivo para tú, con el pronombre 'te' pospuesto.",
+      "'Prepares' es presente subjuntivo, que se usa en el imperativo negativo, no en el afirmativo. El imperativo afirmativo de tú es la forma del indicativo presente de tercera persona.",
+      "'Prepara' es correcto, pero 'asegures' es subjuntivo sin el pronombre reflexivo. Debe ser 'asegúrate' con el pronoun pospuesto y con acento en la sílaba tónica.",
+      "'Preparas' y 'aseguras' son presente indicativo de segunda persona, no imperativo. Estas formas describen acciones habituales, no órdenes."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "No _______ tanto tiempo en esa tarea sin pedir ayuda, y sobre todo, no _______ que los errores se acumulen sin intentar corregirlos. (tú)",
+    "options": [
+      "pases... dejes",
+      "pasar... dejar",
+      "pasa... deja",
+      "pasas... dejas"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto! 'Pases' y 'dejes' son presente subjuntivo, que es la forma requerida para el imperativo negativo de tú.",
+      "'Pasar' y 'dejar' son infinitivos, que no pueden formar el imperativo. El imperativo negativo exige la forma del subjuntivo presente.",
+      "'Pasa' y 'deja' son imperativo afirmativo de tú, que no se puede usar en oraciones negativas. El imperativo negativo necesita el subjuntivo.",
+      "'Pasas' y 'dejas' son presente indicativo de segunda persona, que no es ninguna forma de imperativo."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "Por favor, _______ con la situación actual del proyecto y _______ que todos los miembros del equipo estén al tanto de los últimos cambios antes de la fecha límite. (usted)",
+    "options": [
+      "familiarícese... asegúrese",
+      "familiarízcese... asegúrese",
+      "familiarízate... asegúrese",
+      "familiarícese... asegúrate"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto! 'Familiarícese' es imperativo formal (usted) reflexivo con el pronoun pospuesto y acento en la sílaba correspondiente. 'Asegúrese' es también imperativo formal reflexivo.",
+      "'Familiarízcese' contiene un error ortográfico en la forma del verbo. La raíz correcta es 'familiariz-' y la forma imperativo usted es 'familiarícese'.",
+      "'Familiarízate' es imperativo tú reflexivo, pero el contexto pide la forma formal (usted). Debe ser 'familiarícese'.",
+      "'Familiarícese' es correcto, pero 'asegúrate' es imperativo tú reflexivo. Como el imperativo anterior está en usted, debe haber consistencia: 'asegúrese'."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "_______ buenas noticias a vuestra madre cuando la veáis, y _______ que sepa que estamos muy orgullosos de los logros que ha conseguido durante estos últimos meses. (vosotros)",
+    "options": [
+      "dad... comunicad",
+      "dais... comunicad",
+      "dad... comuniqué is",
+      "dad... comunicáis"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto! 'Dad' es imperativo afirmativo irregular de 'dar' para vosotros. 'Comunicad' es imperativo afirmativo regular para vosotros (forma obtenida al sustituir '-éis' del presente indicativo por '-d').",
+      "'Dais' es presente indicativo de segunda persona plural (vosotros), no imperativo. El imperativo afirmativo de vosotros tiene una forma específica diferente.",
+      "'Dad' es correcto, pero 'comuniqué is' contiene un error en la forma verbal. La forma imperativo afirmativo vosotros es 'comunicad'.",
+      "'Dad' es correcto, pero 'comunicáis' es presente indicativo de segunda persona plural. No es la forma imperativo, que sería 'comunicad'."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "No _______ en la misma trampa que cometieron los anteriores equipos de trabajo, y por favor, no _______ de consultar con los expertos antes de tomar cualquier decisión importante. (vosotros)",
+    "options": [
+      "caigáis... olvidéis",
+      "caed... olvidáis",
+      "caigáis... olvidáis",
+      "caéis... olvidéis"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto! 'Caigáis' y 'olvidéis' son presente subjuntivo de segunda persona plural (vosotros), que es la forma requerida para el imperativo negativo de vosotros.",
+      "'Caed' es imperativo afirmativo de vosotros, que no se puede usar en oraciones negativas. 'Olvidáis' es presente indicativo, no subjuntivo.",
+      "'Caigáis' es correcto, pero 'olvidáis' es presente indicativo de vosotros. El imperativo negativo necesita el subjuntivo: 'olvidéis'.",
+      "'Caéis' no es una forma correcta del subjuntivo de 'caer'. La forma subjuntivo vosotros correcta es 'caigáis'."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "_______ un momento de reflexión antes de responder, y _______ que sus comentarios sean constructivos y respetuosos hacia todos los participantes del debate que va a tener lugar a continuación. (ustedes)",
+    "options": [
+      "tomen... aseguren",
+      "tomen... aseguren se",
+      "tomen... asegúrense",
+      "tome... aseguren"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Tomen' es correcto como imperativo ustedes, pero 'aseguren' sin el pronoun reflexivo no es la forma completa necesaria. Se necesita el pronoun 'se' pospuesto.",
+      "'Tomen' es correcto, pero 'aseguren se' tiene el pronoun mal ubicado. En el imperativo afirmativo, el pronoun reflexivo se pone pospuesto y unido al verbo, sin espacio.",
+      "Correcto! 'Tomen' es imperativo afirmativo para ustedes. 'Asegúrense' es imperativo afirmativo reflexivo para ustedes, con el pronoun 'se' pospuesto y acento en la sílaba tónica.",
+      "'Tome' es imperativo singular (usted), pero el contexto pide la forma plural (ustedes). Debe ser 'tomen'."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "_______ la oportunidad que os brinda esta becaria y _______ la mayor parte del tiempo posible preparando vuestra tesis doctoral con la máxima dedicación y rigor académico. (vosotros)",
+    "options": [
+      "aprovechad... invertid",
+      "aprovechar... invertir",
+      "aprovechad... invertir",
+      "aprovechais... invertid"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto! 'Aprovechad' e 'invertid' son imperativo afirmativo regular para vosotros, formado sustituyendo '-éis' del presente indicativo por '-d'.",
+      "'Aprovechar' e 'invertir' son infinitivos, que no pueden formar el imperativo. El imperativo afirmativo de vosotros tiene una forma específica.",
+      "'Aprovechad' es correcto, pero 'invertir' es infinitivo. El imperativo afirmativo de vosotros debe ser 'invertid'.",
+      "'Aprovechais' es presente indicativo de segunda persona plural, no imperativo. La forma imperativo afirmativo de vosotros sería 'aprovechad'."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "No _______ de todos los recursos que tiene disponibles la empresa para su desarrollo profesional, y en especial, no _______ la formación continua que puede ser absolutamente clave para su carrera. (usted)",
+    "options": [
+      "olvide... desconsidere",
+      "olvides... desconsidere",
+      "olvide... desconsideres",
+      "olvida... desconsidere"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto! 'Olvide' y 'desconsidere' son presente subjuntivo de tercera persona singular, que es la forma requerida para el imperativo negativo de usted (ya que el imperativo de usted siempre coincide con el subjuntivo).",
+      "'Olvides' es subjuntivo de segunda persona (tú), no de tercera (usted). Para usted negativo debe ser 'olvide'.",
+      "'Olvide' es correcto, pero 'desconsideres' es subjuntivo de segunda persona (tú). Para usted debe ser 'desconsidere'.",
+      "'Olvida' es imperativo afirmativo de tú, que no se puede usar en oraciones negativas ni con usted. Debe ser 'olvide' (subjuntivo usted)."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "_______ muy cuidadosos con la información confidencial que os he proporcionado, y _______ que ningún dato sensible llegue a personas no autorizadas dentro de la organización. (vosotros)",
+    "options": [
+      "sed... aseguráis que",
+      "sed... aseguráis",
+      "sed... aseguraos",
+      "sois... aseguráis"
+    ],
+    "correct": 2,
+    "explanations": [
+      "'Sed' es correcto como imperativo afirmativo irregular de 'ser' para vosotros, pero 'aseguráis que' es presente indicativo, no imperativo.",
+      "'Sed' es correcto, pero 'aseguráis' es presente indicativo de segunda persona plural (vosotros), no imperativo.",
+      "Correcto! 'Sed' es imperativo afirmativo irregular de 'ser' para vosotros. 'Aseguraos' es imperativo afirmativo reflexivo para vosotros, con el pronoun 'os' pospuesto.",
+      "'Sois' es presente indicativo de vosotros, no imperativo. La forma imperativo afirmativo irregular de 'ser' para vosotros es 'sed'."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "No _______ que la presión de los exámenes afecte de manera negativa vuestra salud mental, y _______ pedir ayuda a los profesores o al servicio de orientación del centro cuando _______ necesario. (vosotros)",
+    "options": [
+      "dejéis... recordad... sea",
+      "dejéis... recordáis... sea",
+      "dejad... recordad... sea",
+      "dejéis... recordad... es"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto! 'Dejéis' es subjuntivo vosotros, adecuado para imperativo negativo. 'Recordad' es imperativo afirmativo vosotros. 'Sea' es subjuntivo, requerido tras la expresión 'cuando sea necesario' en un contexto imperativo.",
+      "'Dejéis' y 'sea' son correctos, pero 'recordáis' es presente indicativo de vosotros, no imperativo afirmativo. Debe ser 'recordad'.",
+      "'Recordad' y 'sea' son correctos, pero 'dejad' es imperativo afirmativo. Como la oración es negativa ('no'), debe estar en subjuntivo: 'dejéis'.",
+      "'Dejéis' y 'recordad' son correctos, pero 'es' es indicativo presente. El contexto requiere subjuntivo ('sea') para expresar la condición dentro de un enunciado imperativo."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "_______ los informes que han preparado los otros departamentos y _______ un resumen ejecutivo que contenga las conclusiones principales antes de que llegue el equipo de directivos mañana por la mañana. (usted)",
+    "options": [
+      "revise... prepare",
+      "revisar... preparar",
+      "revise... preparar",
+      "revise... prepara"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto! 'Revise' y 'prepare' son imperativo afirmativo de usted, que coincide con la forma del subjuntivo presente de tercera persona singular.",
+      "'Revisar' y 'preparar' son infinitivos, que no pueden formar el imperativo. El imperativo de usted tiene una forma específica.",
+      "'Revise' es correcto, pero 'preparar' es infinitivo. El imperativo de usted debe ser 'prepare'.",
+      "'Revise' es correcto, pero 'prepara' es imperativo de tú. Como el contexto pide usted, debe ser 'prepare'."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "_______ en cuenta que cada decisión que tomemos en este momento puede tener consecuencias muy graves a largo plazo, y por eso _______ con mucha cautela en cada paso que damos colectivamente. (nosotros)",
+    "options": [
+      "tengamos... actuemos",
+      "tenemos... actuamos",
+      "tengamos... actuamos",
+      "tenemos... actuemos"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto! 'Tengamos' y 'actuemos' son imperativo de nosotros, que coincide con la forma del presente subjuntivo de primera persona plural.",
+      "'Tenemos' y 'actuamos' son presente indicativo de primera persona plural, que no es imperativo. El imperativo de nosotros coincide con el subjuntivo.",
+      "'Tengamos' es correcto, pero 'actuamos' es indicativo. El imperativo de nosotros debe ser 'actuemos' (subjuntivo).",
+      "'Tenemos' es indicativo, no imperativo. La forma imperativo de nosotros coincide con el subjuntivo: 'tengamos'."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "_______ un poco de paciencia con el proceso de adaptación al nuevo sistema, y sobre todo, no _______ de pedir asistencia técnica cuando encuentres algún problema que no sepas resolver por ti misma. (tú)",
+    "options": [
+      "ten... olvides",
+      "ten... olvida",
+      "tienes... olvides",
+      "ten... olvides te"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto! 'Ten' es imperativo afirmativo irregular de 'tener' para tú. 'Olvides' es presente subjuntivo de tú, que es la forma requerida para el imperativo negativo ('no olvides').",
+      "'Ten' es correcto, pero 'olvida' es imperativo afirmativo de tú, que no se puede usar en oraciones negativas. El imperativo negativo necesita el subjuntivo: 'olvides'.",
+      "'Tienes' es presente indicativo de segunda persona, no imperativo. La forma imperativo afirmativo irregular de 'tener' para tú es 'ten'.",
+      "'Ten' y 'olvides' son correctos, pero 'olvides te' tiene el pronoun mal ubicado. En el imperativo negativo, el pronoun se coloca antes del verbo: 'no te olvides'."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "_______ mucho respeto por las opiniones de los demás miembros del grupo, y si en algún momento sentís que la comunicación entre todos no está funcionando correctamente, _______ al coordinador del proyecto. (vosotros)",
+    "options": [
+      "tened... comunicaos con",
+      "tened... comunicad",
+      "tenéis... comunicaos con",
+      "tened... comunicáis con"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto! 'Tened' es imperativo afirmativo irregular de 'tener' para vosotros. 'Comunicaos con' es imperativo afirmativo reflexivo para vosotros, con el pronoun 'os' pospuesto, seguido de la preposición 'con' que complementa el verbo.",
+      "'Tened' es correcto, pero 'comunicad' sin el pronoun reflexivo 'os' no expresa la idea de comunicarse con alguien. Debe ser 'comunicaos con'.",
+      "'Comunicaos con' es correcto, pero 'tenéis' es presente indicativo de segunda persona plural. La forma imperativo afirmativo irregular de 'tener' para vosotros es 'tened'.",
+      "'Tened' es correcto, pero 'comunicáis con' es presente indicativo de segunda persona plural. No es la forma imperativo afirmativo de vosotros."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "No _______ tanto empeño en intentar hacer todo por sí mismo, y sobre todo, no _______ de delegar parte de las tareas a los miembros más experimentados del equipo de trabajo. (usted)",
+    "options": [
+      "ponga... olvide",
+      "ponga... olvida",
+      "ponga... olvides",
+      "ponga... olvida de"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto! 'Ponga' y 'olvide' son presente subjuntivo de tercera persona singular, que es la forma requerida para el imperativo negativo de usted.",
+      "'Ponga' es correcto, pero 'olvida' es imperativo afirmativo de tú, no de usted. Para usted negativo debe ser 'olvide' (subjuntivo).",
+      "'Ponga' es correcto, pero 'olvides' es subjuntivo de segunda persona (tú). Para usted debe ser 'olvide'.",
+      "'Ponga' es correcto, pero 'olvida de' mezcla imperativo tú con la preposición. La forma correcta para usted negativo es 'no olvide de'."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "_______ una lista detallada de todos los materiales que vamos a necesitar para el proyecto, y _______ que la ordenemos por orden de prioridad antes de enviarla al departamento de compras esta misma semana. (nosotros)",
+    "options": [
+      "hagamos... recordemos",
+      "hagamos... recordemos que",
+      "hacemos... recordemos",
+      "hagamos... recordamos"
     ],
     "correct": 1,
     "explanations": [
-      "'Cierras' es presente indicativo, no imperativo.",
-      "Correcto! 'Cierra' es imperativo afirmativo para tú.",
-      "'Cierres' es presente subjuntivo, no imperativo tú.",
-      "'Cierre' es imperativo usted, pero el sujeto es tú."
+      "'Hagamos' y 'recordemos' son correctos como imperativo de nosotros, pero la oración necesita 'que' después de 'recordemos' para conectar con la cláusula subordinada que sigue.",
+      "Correcto! 'Hagamos' es imperativo de nosotros (subjuntivo de 'hacer'). 'Recordemos que' es imperativo de nosotros seguido de 'que' para introducir la cláusula subordinada sobre la ordenación.",
+      "'Recordemos' es correcto, pero 'hacemos' es indicativo presente. El imperativo de nosotros debe coincidir con el subjuntivo: 'hagamos'.",
+      "'Hagamos' es correcto, pero 'recordamos' es indicativo presente. El imperativo de nosotros debe ser 'recordemos' (subjuntivo)."
     ]
   },
   {
     "language": "es",
     "tense": "Imperativo",
-    "sentence": "No _______ tarde. (tú)",
+    "sentence": "_______ todo lo necesario para que la presentación de mañana sea un éxito absoluto, y _______ que el equipo técnico haya revisado todos los sistemas de audiovisual antes de que lleguen los clientes principales. (usted)",
     "options": [
-      "llega",
-      "llegas",
-      "llegues",
-      "llegue"
-    ],
-    "correct": 2,
-    "explanations": [
-      "'Llega' es imperativo afirmativo, pero aquí necesitamos negativo.",
-      "'Llegas' es presente indicativo, no imperativo.",
-      "Correcto! 'Llegues' es imperativo negativo para tú (usa subjuntivo).",
-      "'Llegue' es subjuntivo usted, pero el sujeto es tú."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Imperativo",
-    "sentence": "_______ aquí, señor. (usted)",
-    "options": [
-      "Sienta",
-      "Siéntate",
-      "Siéntese",
-      "Sentarse"
-    ],
-    "correct": 2,
-    "explanations": [
-      "'Sienta' es subjuntivo simple, falta el pronombre reflexivo.",
-      "'Siéntate' es imperativo tú, pero el sujeto es usted.",
-      "Correcto! 'Siéntese' es imperativo formal (usted) con pronombre.",
-      "'Sentarse' es infinitivo reflexivo, no imperativo."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Imperativo",
-    "sentence": "_______ más agua. (tú)",
-    "options": [
-      "Bebe",
-      "Bebes",
-      "Bebas",
-      "Beba"
+      "prepare... asegúrese de",
+      "prepare... asegure de",
+      "prepárese... asegúrese de",
+      "prepare... asegúrese"
     ],
     "correct": 0,
     "explanations": [
-      "Correcto! 'Bebe' es imperativo afirmativo para tú.",
-      "'Bebes' es presente indicativo, no imperativo.",
-      "'Bebas' es presente subjuntivo, no imperativo afirmativo tú.",
-      "'Beba' es imperativo usted, pero el sujeto es tú."
+      "Correcto! 'Prepare' es imperativo afirmativo de usted (no reflexivo, por lo que no lleva pronoun). 'Asegúrese de' es imperativo afirmativo reflexivo de usted, con el pronoun 'se' pospuesto y la preposición 'de' que complementa el verbo.",
+      "'Prepare' es correcto, pero 'asegure de' falta el pronoun reflexivo 'se'. Debe ser 'asegúrese de' con el pronoun pospuesto.",
+      "'Asegúrese de' es correcto, pero 'prepárese' añade el pronoun reflexivo innecesariamente. 'Preparar' en este contexto no es reflexivo.",
+      "'Prepare' es correcto, pero 'asegúrese' sin la preposición 'de' no forma la expresión completa 'asegurarse de que'."
     ]
   },
   {
     "language": "es",
     "tense": "Imperativo",
-    "sentence": "No _______ eso. (tú)",
+    "sentence": "No _______ que este proyecto sea sólo responsabilidad de los directivos superiores, y no _______ de aportar vuestra experiencia y conocimientos, ya que todos los puntos de vista son igualmente valiosos. (vosotros)",
     "options": [
-      "hace",
-      "haces",
-      "hagas",
-      "haga"
-    ],
-    "correct": 2,
-    "explanations": [
-      "'Hace' es tercera persona o imperativo afirmativo irregular (haz).",
-      "'Haces' es presente indicativo segunda persona, no imperativo.",
-      "Correcto! 'Hagas' es imperativo negativo para tú (usa subjuntivo).",
-      "'Haga' es subjuntivo usted, pero el sujeto es tú."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Imperativo",
-    "sentence": "_______ la verdad siempre. (vosotros)",
-    "options": [
-      "Decid",
-      "Decís",
-      "Digáis",
-      "Digan"
+      "penséis... olvidéis",
+      "pensad... olvidéis",
+      "penséis... olvidad",
+      "pensais... olvidéis"
     ],
     "correct": 0,
     "explanations": [
-      "Correcto! 'Decid' es imperativo afirmativo para vosotros.",
-      "'Decís' es presente indicativo, no imperativo.",
-      "'Digáis' es presente subjuntivo para imperativo negativo, no afirmativo.",
-      "'Digan' es imperativo ustedes, pero el sujeto es vosotros."
+      "Correcto! 'Penséis' y 'olvidéis' son presente subjuntivo de segunda persona plural (vosotros), que es la forma requerida para el imperativo negativo de vosotros.",
+      "'Penséis' es correcto, pero 'olvidéis' debe estar en subjuntivo como forma de imperativo negativo. 'Olvidad' es imperativo afirmativo, que no se puede usar en oraciones negativas.",
+      "'Olvidéis' es correcto, pero 'pensar' en imperativo negativo vosotros debe ser 'penséis'. 'Pensad' es imperativo afirmativo.",
+      "'Pensais' no es una forma correcta. La forma subjuntivo de vosotros de 'pensar' es 'penséis', con acento."
     ]
   },
   {
     "language": "es",
     "tense": "Imperativo",
-    "sentence": "_______ temprano mañana. (usted)",
+    "sentence": "_______ mucha atención durante la formación práctica que va a impartir el instructor, porque la información que _______ a continuación va a ser absolutamente imprescindible para desempeñar correctamente vuestra función. (vosotros)",
     "options": [
-      "Levanta",
-      "Levántate",
-      "Levántese",
-      "Levantarse"
-    ],
-    "correct": 2,
-    "explanations": [
-      "'Levanta' es imperativo tú no reflexivo, incompleto.",
-      "'Levántate' es imperativo tú reflexivo, pero el sujeto es usted.",
-      "Correcto! 'Levántese' es imperativo formal (usted) reflexivo.",
-      "'Levantarse' es infinitivo reflexivo, no imperativo."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Imperativo",
-    "sentence": "No _______ miedo. (tú)",
-    "options": [
-      "tiene",
-      "tienes",
-      "tengas",
-      "tenga"
-    ],
-    "correct": 2,
-    "explanations": [
-      "'Tiene' es tercera persona indicativo, no imperativo.",
-      "'Tienes' es presente indicativo segunda persona, no imperativo.",
-      "Correcto! 'Tengas' es imperativo negativo para tú (usa subjuntivo).",
-      "'Tenga' es subjuntivo usted, pero el sujeto es tú."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Imperativo",
-    "sentence": "_______ al gimnasio con nosotros. (tú)",
-    "options": [
-      "Ven",
-      "Vienes",
-      "Vengas",
-      "Venga"
+      "poned... os dará",
+      "poned... dará",
+      "ponéis... os dará",
+      "poned... os daremos"
     ],
     "correct": 0,
     "explanations": [
-      "Correcto! 'Ven' es imperativo afirmativo irregular para tú.",
-      "'Vienes' es presente indicativo, no imperativo.",
-      "'Vengas' es subjuntivo para imperativo negativo, no afirmativo.",
-      "'Venga' es imperativo usted, pero el sujeto es tú."
+      "Correcto! 'Poned' es imperativo afirmativo de vosotros. 'Os dará' es futuro de tercera persona singular ('el instructor'), con el pronoun dativo 'os' que se coloca antes del verbo en tiempo futuro.",
+      "'Poned' es correcto, pero 'dará' sin el pronoun 'os' no expresa a quién se le da la información. Debe ser 'os dará'.",
+      "'Os dará' es correcto, pero 'ponéis' es presente indicativo de segunda persona plural, no imperativo. La forma imperativo afirmativo de vosotros es 'poned'.",
+      "'Poned' es correcto, pero 'os daremos' es futuro de primera persona plural (nosotros). El sujeto es 'el instructor' (tercera persona singular), por lo que debe ser 'os dará'."
     ]
   },
   {
     "language": "es",
     "tense": "Imperativo",
-    "sentence": "No _______ en clase. (vosotros)",
+    "sentence": "_______ mucho cuidado con los archivos originales del proyecto y no _______ de hacer una copia de seguridad antes de realizar cualquier modificación importante en el sistema de gestión de documentos. (tú)",
     "options": [
-      "hablad",
-      "habláis",
-      "habléis",
-      "hablen"
-    ],
-    "correct": 2,
-    "explanations": [
-      "'Hablad' es imperativo afirmativo, pero necesitamos negativo.",
-      "'Habláis' es presente indicativo, no imperativo.",
-      "Correcto! 'Habléis' es imperativo negativo para vosotros (subjuntivo).",
-      "'Hablen' es imperativo ustedes, pero el sujeto es vosotros."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Imperativo",
-    "sentence": "_______ paciencia con los niños. (usted)",
-    "options": [
-      "Ten",
-      "Tiene",
-      "Tenga",
-      "Tener"
-    ],
-    "correct": 2,
-    "explanations": [
-      "'Ten' es imperativo tú, pero el sujeto es usted.",
-      "'Tiene' es presente indicativo tercera persona, no imperativo.",
-      "Correcto! 'Tenga' es imperativo formal (usted).",
-      "'Tener' es infinitivo, no imperativo."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Imperativo",
-    "sentence": "_______ tranquilo. (tú)",
-    "options": [
-      "Está",
-      "Estate",
-      "Estés",
-      "Esté"
-    ],
-    "correct": 1,
-    "explanations": [
-      "'Está' es imperativo no reflexivo, pero necesitamos forma reflexiva.",
-      "Correcto! 'Estate' es imperativo afirmativo irregular para tú (estar).",
-      "'Estés' es subjuntivo para imperativo negativo, no afirmativo.",
-      "'Esté' es imperativo usted, pero el sujeto es tú."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Imperativo",
-    "sentence": "No _______ tan rápido. (usted)",
-    "options": [
-      "conduce",
-      "conduzca",
-      "conduzcas",
-      "conducir"
-    ],
-    "correct": 1,
-    "explanations": [
-      "'Conduce' es imperativo tú o presente indicativo, no usted negativo.",
-      "Correcto! 'Conduzca' es imperativo negativo formal (usa subjuntivo).",
-      "'Conduzcas' es subjuntivo tú, pero el sujeto es usted.",
-      "'Conducir' es infinitivo, no imperativo."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Imperativo",
-    "sentence": "_______ buenos con vuestros compañeros. (vosotros)",
-    "options": [
-      "Sed",
-      "Sois",
-      "Seáis",
-      "Sean"
+      "ten... olvides",
+      "ten... olvida",
+      "tienes... olvides",
+      "tengas... olvides"
     ],
     "correct": 0,
     "explanations": [
-      "Correcto! 'Sed' es imperativo afirmativo irregular para vosotros.",
-      "'Sois' es presente indicativo, no imperativo.",
-      "'Seáis' es subjuntivo para imperativo negativo, no afirmativo.",
-      "'Sean' es imperativo ustedes, pero el sujeto es vosotros."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Imperativo",
-    "sentence": "_______ a tu hermano. (tú)",
-    "options": [
-      "Ayuda",
-      "Ayudas",
-      "Ayudes",
-      "Ayude"
-    ],
-    "correct": 0,
-    "explanations": [
-      "Correcto! 'Ayuda' es imperativo afirmativo regular para tú.",
-      "'Ayudas' es presente indicativo, no imperativo.",
-      "'Ayudes' es subjuntivo para imperativo negativo, no afirmativo.",
-      "'Ayude' es imperativo usted, pero el sujeto es tú."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Imperativo",
-    "sentence": "No _______ en la biblioteca. (vosotros)",
-    "options": [
-      "corred",
-      "corréis",
-      "corráis",
-      "corran"
-    ],
-    "correct": 2,
-    "explanations": [
-      "'Corred' es imperativo afirmativo, pero necesitamos negativo.",
-      "'Corréis' es presente indicativo, no imperativo.",
-      "Correcto! 'Corráis' es imperativo negativo para vosotros (subjuntivo).",
-      "'Corran' es imperativo ustedes, pero el sujeto es vosotros."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Imperativo",
-    "sentence": "_______ las manos antes de comer. (usted)",
-    "options": [
-      "Lava",
-      "Lávese",
-      "Lávate",
-      "Lavar"
-    ],
-    "correct": 1,
-    "explanations": [
-      "'Lava' es imperativo tú no reflexivo, incompleto para esta forma.",
-      "Correcto! 'Lávese' es imperativo formal reflexivo (usted).",
-      "'Lávate' es imperativo tú reflexivo, pero el sujeto es usted.",
-      "'Lavar' es infinitivo, no imperativo."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Imperativo",
-    "sentence": "_______ responsable con tus tareas. (tú)",
-    "options": [
-      "Sé",
-      "Eres",
-      "Seas",
-      "Sea"
-    ],
-    "correct": 0,
-    "explanations": [
-      "Correcto! 'Sé' es imperativo afirmativo irregular para tú (ser).",
-      "'Eres' es presente indicativo, no imperativo.",
-      "'Seas' es subjuntivo para imperativo negativo, no afirmativo.",
-      "'Sea' es imperativo usted, pero el sujeto es tú."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Imperativo",
-    "sentence": "No _______ tanto ruido. (ustedes)",
-    "options": [
-      "hacen",
-      "hagan",
-      "hagáis",
-      "hacer"
-    ],
-    "correct": 1,
-    "explanations": [
-      "'Hacen' es presente indicativo tercera persona plural, no imperativo.",
-      "Correcto! 'Hagan' es imperativo negativo para ustedes (subjuntivo).",
-      "'Hagáis' es subjuntivo vosotros, pero el sujeto es ustedes.",
-      "'Hacer' es infinitivo, no imperativo."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Imperativo",
-    "sentence": "_______ atención en clase. (vosotros)",
-    "options": [
-      "Poned",
-      "Ponéis",
-      "Pongáis",
-      "Pongan"
-    ],
-    "correct": 0,
-    "explanations": [
-      "Correcto! 'Poned' es imperativo afirmativo para vosotros.",
-      "'Ponéis' es presente indicativo, no imperativo.",
-      "'Pongáis' es subjuntivo para imperativo negativo, no afirmativo.",
-      "'Pongan' es imperativo ustedes, pero el sujeto es vosotros."
+      "Correcto! 'Ten' es imperativo afirmativo irregular de 'tener' para tú. 'Olvides' es presente subjuntivo de tú, que es la forma requerida para el imperativo negativo ('no olvides').",
+      "'Ten' es correcto, pero 'olvida' es imperativo afirmativo de tú, que no se puede usar en oraciones negativas. El imperativo negativo de tú necesita el subjuntivo: 'olvides'.",
+      "'Olvides' es correcto como subjuntivo para imperativo negativo, pero 'tienes' es presente indicativo de segunda persona. La forma imperativo afirmativo irregular de 'tener' para tú es 'ten'.",
+      "'Olvides' es correcto, pero 'tengas' es subjuntivo, que se usa en el imperativo negativo. Como la primera oración es afirmativa, debe ser el imperativo afirmativo irregular: 'ten'."
     ]
   }
 ]

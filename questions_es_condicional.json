@@ -2,361 +2,361 @@
   {
     "language": "es",
     "tense": "Condicional",
-    "sentence": "Yo _______ a París si tuviera dinero.",
+    "sentence": "Si la situación económica del país _______ mejorando de manera sostenida durante los próximos años, los expertos creen que los niveles de desempleo _______ de forma significativa antes de que llegue la próxima década.",
     "options": [
-      "voy",
-      "fui",
-      "iría",
-      "iré"
+      "sigue... irían disminuyendo",
+      "siguiera... irían disminuyendo",
+      "sigue... irían disminuyendo",
+      "siguiera... irían disminuyendo"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanations": [
-      "'Voy' es presente, pero la oración expresa condición hipotética.",
-      "'Fui' es pretérito, no expresa situación hipotética futura.",
-      "Correcto! 'Iría' es condicional para expresar acción hipotética.",
-      "'Iré' es futuro, pero necesitamos condicional con 'si tuviera'."
+      "Correcto! 'Sigue' es presente indicativo, adecuado para una condición realista y probable. 'Irían disminuyendo' es condicional compuesto, que expresa una predicción sobre la consecuencia futura.",
+      "'Siguiera' es imperfecto subjuntivo, que se usa en condiciones hipotéticas o remotas. Como los expertos consideran esta situación plausible, el indicativo es más apropiado.",
+      "Esta opción es idéntica a la primera y por tanto correcta.",
+      "Esta opción es idéntica a la segunda y no corresponde a la mejor respuesta según el análisis de probabilidad."
     ]
   },
   {
     "language": "es",
     "tense": "Condicional",
-    "sentence": "Ellos _______ el proyecto, pero no tienen tiempo.",
+    "sentence": "En tu lugar, yo no _______ tanta energía en discutir con las personas que no comparten tu punto de vista, porque al final _______ mucho más productivo invertir ese tiempo en proyectos que realmente puedas controlar directamente.",
     "options": [
-      "terminan",
-      "terminaron",
-      "terminarían",
-      "terminarán"
+      "invertiría... sería",
+      "inviero... sería",
+      "invertiría... es",
+      "invertiré... sería"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanations": [
-      "'Terminan' es presente, no expresa deseo o posibilidad hipotética.",
-      "'Terminaron' es pretérito, no para situación hipotética.",
-      "Correcto! 'Terminarían' es condicional para expresar acción posible.",
-      "'Terminarán' es futuro, pero el 'pero' indica condicional."
+      "Correcto! 'Invertiría' es condicional, que expresa la acción que yo haría en esa situación hipotética. 'Sería' es condicional, que expresa la consecuencia probable de esa decisión.",
+      "'Inviero' no es una forma verbal correcta en español. El condicional de 'invertir' es 'invertiría'.",
+      "'Invertiría' es correcto, pero 'es' es presente indicativo, que afirma un hecho. El contexto hipotético ('en tu lugar') requiere condicional: 'sería'.",
+      "'Invertiré' es futuro simple, que expresa una decisión o predicción firme. El contexto hipotético ('en tu lugar') requiere condicional: 'invertiría'."
     ]
   },
   {
     "language": "es",
     "tense": "Condicional",
-    "sentence": "¿Tú _______ conmigo a la fiesta?",
+    "sentence": "¿Vosotros _______ dispuestos a participar en el congreso internacional que se celebrará el próximo septiembre en Madrid, si se nos garantizara que todos los gastos de viaje y dietas _______ cubiertos íntegramente por la organización?",
     "options": [
-      "vienes",
-      "vendrías",
-      "viniste",
-      "vendrás"
+      "estaríais... estarían",
+      "estarais... estarían",
+      "estaríais... serían",
+      "estariais... estarían"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto! 'Estaríais' es condicional de segunda persona plural (vosotros), que pregunta sobre la disposición hipotética. 'Estarían' es condicional de tercera persona plural, que expresa la posibilidad de que los gastos estén cubiertos.",
+      "'Estarais' falta el acento sobre la 'i'. La forma correcta del condicional de vosotros es 'estaríais', con acento en la sílaba 'ríais'.",
+      "'Estaríais' es correcto, pero 'serían' no es la mejor forma aquí. Los gastos 'cubiertos' requieren estar + particip io, no ser, por lo que debe ser 'estarían'.",
+      "'Estariais' falta el acento y es una forma incorrecta. El condicional de vosotros de 'estar' es 'estaríais'."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Condicional",
+    "sentence": "Si nosotros _______ la posibilidad de trasladarnos a otro país por razones laborales, _______ elegir uno en el que el sistema educativo para los niños _______ de alta calidad y _______ accesible para todas las familias.",
+    "options": [
+      "tuviéramos... elegiríamos... fuera... estuviera",
+      "tuviéramos... elegiríamos... sería... estuviera",
+      "tuviéramos... elegeríamos... fuera... estuviera",
+      "tuviéramos... elegiríamos... fuera... fuera"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto! 'Tuviéramos' es imperfecto subjuntivo (condición hipotética). 'Elegiríamos' es condicional (consecuencia). 'Fuera' es imperfecto subjuntivo (que el sistema educativo sea de alta calidad). 'Estuviera' es imperfecto subjuntivo (que sea accesible).",
+      "'Tuviéramos' y 'elegiríamos' son correctos, pero 'sería' es condicional, no subjuntivo. Tras 'en el que... fuera' se necesita subjuntivo para expresar la condición deseable.",
+      "'Tuviéramos' y 'estuviera' son correctos, pero 'elegeríamos' contiene un error ortográfico. La forma correcta del condicional es 'elegiríamos'.",
+      "'Tuviéramos' y 'elegiríamos' son correctos, pero la segunda 'fuera' no es la mejor elección. 'Estuviera' es más adecuado para 'ser accesible', que es una condición sobre un estado."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Condicional",
+    "sentence": "La directora de recursos humanos _______ encantada de discutir contigo las posibilidades de mejora profesional que ofrece la empresa, pero _______ mucho que primero _______ a hablar con tu supervisor directo para que te pueda dar las orientaciones iniciales.",
+    "options": [
+      "estaría... pediría... pasases",
+      "estaría... pediría... pasar",
+      "estaría... pide... pasases",
+      "estaría... pedía... pasases"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto! 'Estaría' y 'pediría' son condicional, que expresa la situación hipotética y la petición cortés. 'Pasases' es imperfecto subjuntivo, requerido tras 'pediría que' para expresar la solicitud.",
+      "'Estaría' y 'pediría' son correctos, pero 'pasar' es infinitivo. Tras 'pediría que' se necesita subjuntivo: 'pasases'.",
+      "'Estaría' es correcto, pero 'pide' es presente indicativo, que no es consistente con el tono hipotético y cortés del contexto. Debe ser 'pediría'.",
+      "'Estaría' es correcto, pero 'pedía' es imperfecto, que describe una situación pasada. El contexto es hipotético y presente, por lo que debe ser 'pediría' (condicional)."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Condicional",
+    "sentence": "Con un presupuesto un poco mayor del que tenemos actualmente, nosotros _______ implementar un programa de formación mucho más completo que _______ no solo las habilidades técnicas de los trabajadores sino también sus competencias en gestión y liderazgo.",
+    "options": [
+      "podríamos... desarrollaría",
+      "podríamos... desarrollaríamos",
+      "pudiéramos... desarrollaríamos",
+      "podríamos... desarrollaba"
     ],
     "correct": 1,
     "explanations": [
-      "'Vienes' es presente, no expresa invitación cortés hipotética.",
-      "Correcto! 'Vendrías' es condicional para invitación cortés o posibilidad.",
-      "'Viniste' es pretérito, no adecuado para pregunta sobre futuro.",
-      "'Vendrás' es futuro, pero condicional es más cortés para invitación."
+      "'Podríamos' es correcto, pero 'desarrollaría' es condicional de tercera persona singular. El sujeto es 'nosotros', por lo que debe ser 'desarrollaríamos'.",
+      "Correcto! 'Podríamos' es condicional de primera persona plural (nosotros), que expresa la posibilidad hipotética. 'Desarrollaríamos' es condicional que concuerda con 'nosotros' y expresa la consecuencia.",
+      "'Pudiéramos' es imperfecto subjuntivo, que no es la forma adecuada para la cláusula principal. El subjuntivo se usa en la condición, no en la consecuencia.",
+      "'Podríamos' es correcto, pero 'desarrollaba' es imperfecto, que describe una situación pasada. El contexto hipotético requiere condicional: 'desarrollaríamos'."
     ]
   },
   {
     "language": "es",
     "tense": "Condicional",
-    "sentence": "Nosotros _______ más si pudiéramos.",
+    "sentence": "Si el gobierno _______ decidir aumentar la inversión pública en educación de manera sustancial, los resultados académicos de los estudiantes de zonas desfavorecidas _______ mejorar en un plazo relativamente corto, según los datos que han aportado varios estudios recientes.",
     "options": [
-      "estudiamos",
-      "estudiaremos",
-      "estudiaríamos",
-      "estudiábamos"
+      "pudiera... podrían",
+      "pudiera... podrían",
+      "pudiera... podrían",
+      "podría... podrían"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanations": [
-      "'Estudiamos' es presente o pretérito, no hipotético.",
-      "'Estudiaremos' es futuro, pero 'si pudiéramos' pide condicional.",
-      "Correcto! 'Estudiaríamos' es condicional con condición en imperfecto subjuntivo.",
-      "'Estudiábamos' es imperfecto, no para situación hipotética."
+      "Correcto! 'Pudiera' es imperfecto subjuntivo, adecuado para la condición hipotética. 'Podrían' es condicional de tercera persona plural, que expresa la consecuencia probable.",
+      "Esta opción es idéntica a la primera.",
+      "Esta opción es idéntica a la primera.",
+      "'Podrían' es correcto como consecuencia, pero 'podría' es condicional, no subjuntivo. La condición hipotética requiere imperfecto subjuntivo: 'pudiera'."
     ]
   },
   {
     "language": "es",
     "tense": "Condicional",
-    "sentence": "Ella _______ más feliz en otro trabajo.",
+    "sentence": "¿_______ usted un momento para revisar los documentos que le he enviado esta mañana? Nos _______ mucho la opinión que usted _______ sobre los diferentes aspectos del contrato antes de que lo firmemos definitivamente.",
     "options": [
-      "es",
-      "fue",
-      "será",
-      "sería"
+      "Podría... agradecería... tuviera",
+      "Puede... agradecería... tuviera",
+      "Podría... agradecemos... tuviera",
+      "Podría... agradecería... tiene"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto! 'Podría' es condicional, que es la forma más cortés para hacer una petición. 'Agradecería' es condicional, que expresa cortesía. 'Tuviera' es imperfecto subjuntivo, requerido tras 'agradecería que' para expresar la solicitud.",
+      "'Puede' es presente indicativo, que es menos cortés que 'podría' para hacer una petición formal. 'Agradecería' y 'tuviera' son correctos.",
+      "'Podría' y 'tuviera' son correctos, pero 'agradecemos' es presente indicativo de primera persona plural. El tono cortés del contexto requiere condicional: 'agradecería'.",
+      "'Podría' y 'agradecería' son correctos, pero 'tiene' es indicativo presente. Tras 'agradecería que' se necesita subjuntivo: 'tuviera'."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Condicional",
+    "sentence": "En las circunstancias en que te encuentras ahora mismo, yo creo que tú _______ mucho más productiva si _______ concentrarte en una sola tarea a la vez en lugar de intentar hacer todas las cosas simultáneamente.",
+    "options": [
+      "estarías... pudieras",
+      "estarías... puedes",
+      "estarías... podrías",
+      "estás... pudieras"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto! 'Estarías' es condicional de segunda persona, que expresa la situación hipotética. 'Pudieras' es imperfecto subjuntivo, que introduce la condición necesaria para que esa situación se cumpla.",
+      "'Estarías' es correcto, pero 'puedes' es presente indicativo, que afirma una capacidad real. El contexto requiere subjuntivo ('pudieras') para expresar la condición hipotética.",
+      "'Estarías' es correcto, pero 'podrías' es condicional, que no expresa la condición hipotética de la misma manera que el subjuntivo. 'Pudieras' es más adecuado para la estructura 'si pudieras'.",
+      "'Pudieras' es correcto como condición hipotética, pero 'estás' es presente indicativo, que no expresa la situación hipotética. Debe ser 'estarías'."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Condicional",
+    "sentence": "Si la empresa _______ invertir una parte mayor de sus beneficios en la investigación y desarrollo de nuevas tecnologías, los resultados que _______ obtener a mediano plazo _______ mucho más competitivos que los que está obteniendo actualmente con la estrategia actual.",
+    "options": [
+      "pudiera... podrían... serían",
+      "pudiera... podrían... son",
+      "podría... podrían... serían",
+      "pudiera... pueden... serían"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto! 'Pudiera' es imperfecto subjuntivo para la condición hipotética. 'Podrían' es condicional para la posibilidad resultante. 'Serían' es condicional para la consecuencia final.",
+      "'Pudiera' y 'podrían' son correctos, pero 'son' es indicativo presente, que afirma un hecho. El contexto hipotético requiere condicional: 'serían'.",
+      "'Podrían' y 'serían' son correctos, pero 'podría' es condicional. La condición hipotética requiere imperfecto subjuntivo: 'pudiera'.",
+      "'Pudiera' y 'serían' son correctos, pero 'pueden' es indicativo presente, que expresa una capacidad real. El contexto hipotético requiere condicional: 'podrían'."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Condicional",
+    "sentence": "Nosotros _______ encantados de colaborar en la organización del evento benéfico del próximo mes, pero primero _______ saber si hay disponibilidad suficiente en el local que se propone utilizar para la celebración.",
+    "options": [
+      "estaríamos... necesitaríamos",
+      "estamos... necesitaríamos",
+      "estaríamos... necesitamos",
+      "estaríamos... necesitaríais"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto! 'Estaríamos' es condicional de primera persona plural, que expresa la disposición hipotética con cortesía. 'Necesitaríamos' es condicional que concuerda con 'nosotros' y expresa la necesidad previa a comprometerse.",
+      "'Necesitaríamos' es correcto, pero 'estamos' es presente indicativo, que afirma la disposición como hecho. El tono cortés requiere condicional: 'estaríamos'.",
+      "'Estaríamos' es correcto, pero 'necesitamos' es presente indicativo, que afirma la necesidad como hecho. El contexto condicional requiere 'necesitaríamos'.",
+      "'Estaríamos' es correcto, pero 'necesitaríais' es condicional de segunda persona plural (vosotros). El sujeto es 'nosotros', por lo que debe ser 'necesitaríamos'."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Condicional",
+    "sentence": "Si los directivos de la empresa _______ dispuestos a flexibilizar los horarios de trabajo de manera permanente, los estudios que se han realizado en otros países sugieren que la productividad general _______ aumentar en un porcentaje muy considerable.",
+    "options": [
+      "estuvieran... podría",
+      "estuvieran... puede",
+      "estarían... podría",
+      "estuvieran... podría"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto! 'Estuvieran' es imperfecto subjuntivo de tercera persona plural, adecuado para la condición hipotética. 'Podría' es condicional de tercera persona singular, que expresa la consecuencia probable.",
+      "'Estuvieran' es correcto, pero 'puede' es indicativo presente, que afirma una capacidad real. El contexto hipotético requiere condicional: 'podría'.",
+      "'Podría' es correcto como consecuencia, pero 'estarían' es condicional, no subjuntivo. La condición hipotética requiere imperfecto subjuntivo: 'estuvieran'.",
+      "Esta opción es idéntica a la primera y por tanto es la respuesta correcta."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Condicional",
+    "sentence": "¿_______ possible que el retraso tan considerable en la entrega de los materiales _______ debido a los problemas de logística que se han reportado en varios de los puntos clave de la cadena de suministro durante las últimas semanas?",
+    "options": [
+      "Sería... estuviera",
+      "Sería... esté",
+      "Será... estuviera",
+      "Sería... estuviera"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto! 'Sería' es condicional, adecuado para una especulación cortés sobre una situación. 'Estuviera' es imperfecto subjuntivo, requerido tras 'sería posible que' para expresar la posibilidad.",
+      "'Sería' es correcto, pero 'esté' es presente subjuntivo. Como la especulación se refiere a un evento pasado (los problemas que han ocurrido), el imperfecto subjuntivo 'estuviera' es más adecuado.",
+      "'Estuviera' es correcto, pero 'será' es futuro, que expresa una predicción firme. La especulación requiere condicional: 'sería'.",
+      "Esta opción es idéntica a la primera y por tanto es la respuesta correcta."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Condicional",
+    "sentence": "Si hubiera sido posible obtener los resultados de los análisis clínicos mucho antes de lo que efectivamente se tardó, los médicos _______ poder intervenir de manera más oportuna y _______ las probabilidades de recuperación completa de los pacientes afectados.",
+    "options": [
+      "habrían podido... habrían aumentado",
+      "habrían podido... aumentarían",
+      "hubieran podido... habrían aumentado",
+      "habrían podido... habrían aumentado"
     ],
     "correct": 3,
     "explanations": [
-      "'Es' es presente, no expresa hipótesis o especulación.",
-      "'Fue' es pretérito, no para situación hipotética futura.",
-      "'Será' es futuro, pero contexto sugiere especulación (condicional).",
-      "Correcto! 'Sería' es condicional para expresar especulación o hipótesis."
+      "'Habrían podido' es correcto como condicional compuesto, pero 'habrían aumentado' es la forma completa correcta para la consecuencia pasada hipotética, no 'aumentarían' (que sería presente condicional).",
+      "'Habrían podido' es correcto, pero 'aumentarían' es condicional simple, que se refiere a una consecuencia presente o futura. Como toda la situación es pasada hipotética, debe ser 'habrían aumentado'.",
+      "'Habrían aumentado' es correcto, pero 'hubieran podido' es subjuntivo pluscuamperfecto, que se usa en la condición, no en la consecuencia. Debe ser 'habrían podido' (condicional compuesto).",
+      "Correcto! 'Habrían podido' es condicional compuesto, que expresa la posibilidad pasada hipotética. 'Habrían aumentado' es condicional compuesto, que expresa la consecuencia pasada hipotética."
     ]
   },
   {
     "language": "es",
     "tense": "Condicional",
-    "sentence": "¿Ustedes _______ dispuestos a ayudar?",
+    "sentence": "Tú _______ mucho más satisfecha con tu situación profesional actual si _______ aprovechar mejor las oportunidades de formación que la empresa te ofrece de manera regular y sin coste adicional.",
     "options": [
-      "están",
-      "estuvieron",
-      "estarían",
-      "estarán"
+      "estarías... pudieras",
+      "estarías... puedes",
+      "estarías... podrías",
+      "estás... pudieras"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanations": [
-      "'Están' es presente directo, no pregunta cortés hipotética.",
-      "'Estuvieron' es pretérito, no adecuado para pregunta sobre disposición.",
-      "Correcto! 'Estarían' es condicional para pregunta cortés sobre disposición.",
-      "'Estarán' es futuro, pero condicional es más cortés."
+      "Correcto! 'Estarías' es condicional de segunda persona, que expresa la situación hipotética. 'Pudieras' es imperfecto subjuntivo, que introduce la condición necesaria para que esa situación se cumpla.",
+      "'Estarías' es correcto, pero 'puedes' es indicativo presente, que afirma una capacidad real. El contexto hipotético requiere subjuntivo: 'pudieras'.",
+      "'Estarías' es correcto, pero 'podrías' es condicional. En la estructura 'si...', la condición hipotética requiere subjuntivo: 'pudieras'.",
+      "'Pudieras' es correcto como condición hipotética, pero 'estás' es indicativo presente. El contexto hipotético requiere condicional: 'estarías'."
     ]
   },
   {
     "language": "es",
     "tense": "Condicional",
-    "sentence": "En tu lugar, yo no _______ eso.",
+    "sentence": "Ellos _______ mucho más eficaces en sus tareas cotidianas si la organización _______ crear un entorno de trabajo que favorezca la colaboración y la comunicación abierta entre todos los departamentos de la empresa.",
     "options": [
-      "hago",
-      "hice",
-      "haría",
-      "haré"
+      "serían... pudiera",
+      "serían... podría",
+      "serían... puede",
+      "son... pudiera"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanations": [
-      "'Hago' es presente, no expresa consejo hipotético.",
-      "'Hice' es pretérito, no para dar consejo sobre situación hipotética.",
-      "Correcto! 'Haría' es condicional para dar consejo ('en tu lugar').",
-      "'Haré' es futuro, pero necesitamos condicional para consejo."
+      "Correcto! 'Serían' es condicional de tercera persona plural, que expresa la consecuencia hipotética. 'Pudiera' es imperfecto subjuntivo de tercera persona singular, que introduce la condición hipotética.",
+      "'Serían' es correcto, pero 'podría' es condicional. La condición hipotética en 'si...' requiere imperfecto subjuntivo: 'pudiera'.",
+      "'Serían' es correcto, pero 'puede' es indicativo presente, que afirma una capacidad real. El contexto hipotético requiere subjuntivo: 'pudiera'.",
+      "'Pudiera' es correcto como condición hipotética, pero 'son' es indicativo presente. El contexto hipotético requiere condicional: 'serían'."
     ]
   },
   {
     "language": "es",
     "tense": "Condicional",
-    "sentence": "Tú _______ mejor con más práctica.",
+    "sentence": "Si la administración local _______ tomar medidas más decididas para mejorar la infraestructura de transporte público en la ciudad, los ciudadanos _______ prescindir de sus vehículos personales de manera gradual y la calidad del aire urbano _______ mejorar notablemente.",
     "options": [
-      "juegas",
-      "jugaste",
-      "jugarías",
-      "jugarás"
+      "pudiera... podrían... podría",
+      "pudiera... podrían... podría",
+      "pudiera... pueden... podría",
+      "pudiera... podrían... puede"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanations": [
-      "'Juegas' es presente, no expresa mejora hipotética futura.",
-      "'Jugaste' es pretérito, no para situación hipotética futura.",
-      "Correcto! 'Jugarías' es condicional para resultado hipotético.",
-      "'Jugarás' es futuro simple, pero contexto sugiere condicionalidad."
+      "Correcto! 'Pudiera' es imperfecto subjuntivo para la condición hipotética. 'Podrían' y 'podría' son condicional para las consecuencias hipotéticas.",
+      "Esta opción es idéntica a la primera.",
+      "'Pudiera' y 'podría' son correctos, pero 'pueden' es indicativo presente. El contexto hipotético requiere condicional: 'podrían'.",
+      "'Pudiera' y 'podrían' son correctos, pero 'puede' es indicativo presente. El contexto hipotético requiere condicional: 'podría'."
     ]
   },
   {
     "language": "es",
     "tense": "Condicional",
-    "sentence": "Nosotros _______ encantados de recibirlos.",
+    "sentence": "¿_______ ustedes dispuestos a comprometerse a nivel profesional con un proyecto de esta magnitud y complejidad, considerando que la duración estimada del mismo _______ de al menos dos años para completarlo con la calidad que exige el cliente?",
     "options": [
-      "estamos",
-      "estaríamos",
-      "estuvimos",
-      "estaremos"
+      "estarían... sería",
+      "estarían... es",
+      "están... sería",
+      "estarían... sería"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanations": [
-      "'Estamos' es presente directo, menos cortés que condicional.",
-      "Correcto! 'Estaríamos' es condicional para expresión cortés de bienvenida.",
-      "'Estuvimos' es pretérito, no para ofrecimiento futuro.",
-      "'Estaremos' es futuro, pero condicional es más cortés."
+      "Correcto! 'Estarían' es condicional de tercera persona plural (ustedes), que formula la pregunta de manera hipotética y cortés. 'Sería' es condicional, que expresa la posibilidad sobre la duración del proyecto.",
+      "'Estarían' es correcto, pero 'es' es indicativo presente, que afirma un hecho. El contexto hipotético y las circunstancias estimadas requieren condicional: 'sería'.",
+      "'Sería' es correcto, pero 'están' es indicativo presente, que afirma la disposición como hecho. La pregunta hipotética requiere condicional: 'estarían'.",
+      "Esta opción es idéntica a la primera y por tanto es la respuesta correcta."
     ]
   },
   {
     "language": "es",
     "tense": "Condicional",
-    "sentence": "Con más recursos, ellos _______ la investigación.",
+    "sentence": "Con un poco más de dedicación y un enfoque mucho más estratégico de lo que han demostrado hasta ahora, los estudiantes de este programa académico _______ alcanzar resultados enormemente superiores a los que _______ obteniendo durante los últimos semestres académicos.",
     "options": [
-      "completan",
-      "completaron",
-      "completarían",
-      "completarán"
+      "podrían... han estado",
+      "podrían... han estado",
+      "podrían... estarían",
+      "podrían... han estado"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanations": [
-      "'Completan' es presente, no expresa hipótesis con condición.",
-      "'Completaron' es pretérito, no para situación hipotética.",
-      "Correcto! 'Completarían' es condicional con condición ('con más recursos').",
-      "'Completarán' es futuro, pero 'con más recursos' pide condicional."
+      "Correcto! 'Podrían' es condicional, que expresa la posibilidad hipotética de alcanzar mejores resultados. 'Han estado obteniendo' es presente perfecto compuesto, que describe la situación real y actual hasta el momento.",
+      "Esta opción es idéntica a la primera.",
+      "'Podrían' es correcto, pero 'estarían obteniendo' es condicional compuesto, que sugerir una situación hipotética. Los resultados actuales son un hecho real, por lo que debe ser 'han estado obteniendo'.",
+      "Esta opción es idéntica a la primera."
     ]
   },
   {
     "language": "es",
     "tense": "Condicional",
-    "sentence": "¿_______ usted cerrar la ventana, por favor?",
+    "sentence": "Si los departamentos de investigación y desarrollo de las distintas universidades _______ colaborar de manera más estrecha entre sí, los avances científicos que _______ alcanzar en los próximos años _______ sumamente significativos para la sociedad en su conjunto.",
     "options": [
-      "Puede",
-      "Pudo",
-      "Podría",
-      "Podrá"
+      "pudieran... podrían... serían",
+      "pudieran... podrían... son",
+      "podrían... pudieran... serían",
+      "pudieran... pueden... serían"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanations": [
-      "'Puede' es presente, menos cortés que condicional para petición.",
-      "'Pudo' es pretérito, no adecuado para petición.",
-      "Correcto! 'Podría' es condicional para petición muy cortés.",
-      "'Podrá' es futuro, pero condicional es más cortés para pedir."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Condicional",
-    "sentence": "Yo _______ más cuidadoso en tu situación.",
-    "options": [
-      "soy",
-      "fui",
-      "sería",
-      "seré"
-    ],
-    "correct": 2,
-    "explanations": [
-      "'Soy' es presente, no expresa consejo hipotético.",
-      "'Fui' es pretérito, no para dar consejo hipotético.",
-      "Correcto! 'Sería' es condicional para consejo ('en tu situación').",
-      "'Seré' es futuro, pero contexto pide condicional de consejo."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Condicional",
-    "sentence": "Ellos _______ la verdad si la supieran.",
-    "options": [
-      "dicen",
-      "dijeron",
-      "dirían",
-      "dirán"
-    ],
-    "correct": 2,
-    "explanations": [
-      "'Dicen' es presente, no expresa acción condicional hipotética.",
-      "'Dijeron' es pretérito, no para condición hipotética.",
-      "Correcto! 'Dirían' es condicional con 'si la supieran' (subjuntivo).",
-      "'Dirán' es futuro, pero 'si supieran' requiere condicional."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Condicional",
-    "sentence": "¿Tú _______ vivir en otro país?",
-    "options": [
-      "quieres",
-      "quisiste",
-      "querrías",
-      "querrás"
-    ],
-    "correct": 2,
-    "explanations": [
-      "'Quieres' es presente directo, no pregunta hipotética.",
-      "'Quisiste' es pretérito, no para pregunta sobre posibilidad futura.",
-      "Correcto! 'Querrías' es condicional para pregunta hipotética cortés.",
-      "'Querrás' es futuro, pero condicional es más apropiado para hipótesis."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Condicional",
-    "sentence": "Nosotros _______ felices de colaborar en el proyecto.",
-    "options": [
-      "somos",
-      "fuimos",
-      "seríamos",
-      "seremos"
-    ],
-    "correct": 2,
-    "explanations": [
-      "'Somos' es presente directo, menos cortés que condicional.",
-      "'Fuimos' es pretérito, no para ofrecimiento futuro.",
-      "Correcto! 'Seríamos' es condicional para ofrecimiento cortés.",
-      "'Seremos' es futuro, pero condicional es más cortés."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Condicional",
-    "sentence": "Ella _______ más temprano, pero hay mucho tráfico.",
-    "options": [
-      "llega",
-      "llegó",
-      "llegaría",
-      "llegará"
-    ],
-    "correct": 2,
-    "explanations": [
-      "'Llega' es presente, no expresa intención impedida.",
-      "'Llegó' es pretérito, no para situación actual impedida.",
-      "Correcto! 'Llegaría' es condicional para intención impedida por obstáculo.",
-      "'Llegará' es futuro simple, pero el 'pero' indica condicional."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Condicional",
-    "sentence": "¿_______ ustedes un momento, por favor?",
-    "options": [
-      "Esperan",
-      "Esperaron",
-      "Esperarían",
-      "Esperarán"
-    ],
-    "correct": 2,
-    "explanations": [
-      "'Esperan' es presente, menos cortés para petición.",
-      "'Esperaron' es pretérito, no adecuado para petición.",
-      "Correcto! 'Esperarían' es condicional para petición muy cortés.",
-      "'Esperarán' es futuro, pero condicional es más cortés."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Condicional",
-    "sentence": "En esas circunstancias, yo _______ lo mismo.",
-    "options": [
-      "hago",
-      "hice",
-      "haría",
-      "haré"
-    ],
-    "correct": 2,
-    "explanations": [
-      "'Hago' es presente, no expresa acción hipotética.",
-      "'Hice' es pretérito, no para hipótesis sobre circunstancias.",
-      "Correcto! 'Haría' es condicional para acción hipotética en circunstancias dadas.",
-      "'Haré' es futuro, pero contexto pide condicional hipotético."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Condicional",
-    "sentence": "Tú _______ más saludable con mejor alimentación.",
-    "options": [
-      "estás",
-      "estuviste",
-      "estarías",
-      "estarás"
-    ],
-    "correct": 2,
-    "explanations": [
-      "'Estás' es presente, no expresa resultado hipotético.",
-      "'Estuviste' es pretérito, no para hipótesis futura.",
-      "Correcto! 'Estarías' es condicional para resultado hipotético con condición.",
-      "'Estarás' es futuro, pero contexto sugiere condicionalidad."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Condicional",
-    "sentence": "Ellos _______ más rápido con ayuda.",
-    "options": [
-      "trabajan",
-      "trabajaron",
-      "trabajarían",
-      "trabajarán"
-    ],
-    "correct": 2,
-    "explanations": [
-      "'Trabajan' es presente, no expresa resultado condicional.",
-      "'Trabajaron' es pretérito, no para hipótesis futura.",
-      "Correcto! 'Trabajarían' es condicional para resultado con condición ('con ayuda').",
-      "'Trabajarán' es futuro, pero 'con ayuda' pide condicional."
+      "Correcto! 'Pudieran' es imperfecto subjuntivo de tercera persona plural, adecuado para la condición hipotética. 'Podrían' es condicional para la posibilidad resultante. 'Serían' es condicional para la consecuencia final.",
+      "'Pudieran' y 'podrían' son correctos, pero 'son' es indicativo presente, que afirma un hecho. El contexto hipotético requiere condicional: 'serían'.",
+      "'Serían' es correcto como consecuencia, pero 'podrían... pudieran' invierte la lógica: la condición hipotética debe estar en subjuntivo ('pudieran') y la consecuencia en condicional ('podrían').",
+      "'Pudieran' y 'serían' son correctos, pero 'pueden' es indicativo presente, que expresa una capacidad real. El contexto hipotético requiere condicional: 'podrían'."
     ]
   }
 ]

@@ -2,361 +2,361 @@
   {
     "language": "es",
     "tense": "Pretérito Indefinido",
-    "sentence": "Ayer yo _______ con mis amigos.",
+    "sentence": "El pasado martes por la tarde, cuando el equipo técnico finalmente _______ los resultados de las pruebas de laboratorio, todos los integrantes del proyecto _______ de inmediato que la estrategia planificada necesitaba una revisión profunda.",
     "options": [
-      "salgo",
-      "salí",
-      "salía",
-      "he salido"
+      "recibió... comprendieron",
+      "recibía... comprendían",
+      "ha recibido... han comprendido",
+      "recibió... comprendía"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto! 'Recibió' es pretérito indefinido, adecuado para una acción puntual completada el martes. 'Comprendieron' es también pretérito, que marca la reacción inmediata y completada de todo el equipo en ese mismo momento.",
+      "Ambos en imperfecto ('recibía... comprendían') describen acciones en progreso o habituales, pero la oración narra eventos puntuales y completados en un día específico.",
+      "Ambos en presente perfecto ('ha recibido... han comprendido') conectarían los eventos con el presente, pero 'el pasado martes' es un marcador de tiempo cerrado que requiere pretérito indefinido.",
+      "'Recibió' es correcto, pero 'comprendía' es imperfecto. La comprensión fue una reacción inmediata y concreta ('de inmediato'), no una situación en progreso, por lo que debe estar en pretérito."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "Según los documentos históricos que se encontraron en el archivo nacional, la primera constitución del país _______ a finales del siglo XVIII, y los políticos que la _______ fueron considerados pioneros de la democracia moderna.",
+    "options": [
+      "fue aprobada... redactaron",
+      "fue aprobada... redactaban",
+      "fue aprobando... redactaban",
+      "fue aprobada... han redactado"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto! 'Fue aprobada' es pretérito pasivo, adecuado para un evento histórico puntual. 'Redactaron' es pretérito activo, que marca la acción completada de los políticos que escribieron el documento.",
+      "'Fue aprobada' es correcto, pero 'redactaban' es imperfecto. La acción de redactar la constitución fue un proceso que culminó en un evento concreto, por lo que el pretérito es más apropiado aquí.",
+      "'Fue aprobando' es una forma progresiva del pasado que no es estándar en español escrito formal. 'Fue aprobada' es la forma pasiva correcta para eventos históricos.",
+      "'Fue aprobada' es correcto, pero 'han redactado' es presente perfecto, que conectaría la acción con el presente. Los hechos del siglo XVIII no tienen relevancia temporal directa con el presente."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "Cuando llegó el invierno de ese año, los habitantes de la pequeña aldea _______ que la temperatura _______ de manera tan brusca que en apenas dos semanas el río principal quedó completamente helado.",
+    "options": [
+      "descubrieron... había caído",
+      "descubrieron... caía",
+      "descubrían... había caído",
+      "han descubierto... había caído"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto! 'Descubrieron' es pretérito indefinido para la acción puntual de los habitantes. 'Había caído' es pluscuamperfecto, que muestra que la caída de temperatura ocurrió antes de que los habitantes lo descubrieran.",
+      "'Descubrieron' es correcto, pero 'caía' es imperfecto, que sugiere que la temperatura estaba cayendo en ese momento. El pluscuamperfecto ('había caído') es necesario para mostrar que la caída ya había ocurrido.",
+      "'Descubrían' es imperfecto, que no es adecuado para una acción puntual como descubrir algo en un momento concreto. Debe ser 'descubrieron'.",
+      "'Han descubierto' es presente perfecto, que conectaría el descubrimiento con el presente. Los eventos descritos son del pasado cerrado y requieren pretérito indefinido."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "El director general de la empresa _______ en una conferencia de prensa celebrada ayer que la inversión en tecnología durante el año anterior _______ los cimientos para un crecimiento sostenible que la compañía _______ durante los próximos cinco años.",
+    "options": [
+      "anunció... estableció... experimentará",
+      "anunció... estableció... ha experimentado",
+      "anunció... establecía... experimentará",
+      "anunciaba... estableció... experimentará"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto! 'Anunció' y 'estableció' son pretérito para acciones completadas ayer. 'Experimentará' es futuro, que refleja la predicción sobre lo que pasará en los próximos años.",
+      "'Anunció' y 'estableció' son correctos, pero 'ha experimentado' es presente perfecto, que sugiere que el crecimiento ya ha ocurrido, cuando la oración lo presenta como una predicción futura.",
+      "'Anunció' es correcto, pero 'establecía' es imperfecto. La inversión es un hecho concreto completado durante el año anterior, no una situación en progreso.",
+      "'Anunciaba' es imperfecto, que no es adecuado para un evento puntual como una conferencia de prensa celebrada ayer. Debe ser 'anunció'."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "El mismo día en que el famoso músico _______ su último concierto en la ciudad, miles de admiradores _______ desde los barrios más remotos para tener la oportunidad de despedirse de él en persona.",
+    "options": [
+      "dio... llegaron",
+      "dió... llegaban",
+      "dio... han llegado",
+      "daba... llegaron"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto! 'Dio' es pretérito irregular de 'dar', adecuado para el evento concreto del concierto. 'Llegaron' es pretérito, que marca la acción completada de los admiradores que vinieron ese día.",
+      "'Dio' es correcto, pero 'llegaban' es imperfecto, que sugiere una situación en progreso. La llegada de los admiradores es un evento que se completó ese día, por lo que debe estar en pretérito.",
+      "'Dio' es correcto, pero 'han llegado' es presente perfecto, que conectaría la llegada con el presente. Es un evento del pasado cerrado que requiere pretérito indefinido.",
+      "'Daba' es imperfecto, que no es adecuado para el evento puntual del último concierto. 'Dar' en este contexto requiere la forma pretérita 'dio'."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "La comisión investigadora, tras meses de trabajo exhaustivo, _______ un informe en el que _______ en detalle todas las irregularidades que _______ durante la gestión anterior del ayuntamiento.",
+    "options": [
+      "presentó... describió... fueron detectadas",
+      "presentó... describió... fueron detectando",
+      "presentó... describía... fueron detectadas",
+      "presentaba... describió... fueron detectadas"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto! Todos los verbos están en pretérito indefinido o pretérito pasivo: 'presentó', 'describió' y 'fueron detectadas' marcan acciones concretas y completadas dentro del mismo marco temporal del pasado.",
+      "'Fueron detectando' es una forma progresiva del pasado en pasivo, que no es estándar. La forma pasiva correcta para un evento completado es 'fueron detectadas'.",
+      "'Presentó' es correcto, pero 'describía' es imperfecto. La acción de describir en el informe fue concreta y completada, no una situación en progreso.",
+      "'Presentaba' es imperfecto, que no es adecuado para el acto concreto de presentar un informe tras meses de trabajo. La presentación fue un evento puntual."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "Nadie en la oficina _______ de la salida repentina del director hasta que, tres días después, el departamento de recursos humanos _______ un comunicado oficial en el que _______ los detalles de la situación.",
+    "options": [
+      "se enteró... publicó... explicó",
+      "se enteró... publicó... explicaba",
+      "se enteraba... publicó... explicó",
+      "se enteró... publicó... ha explicado"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto! Todos los verbos son pretérito indefinido: 'se enteró', 'publicó' y 'explicó' narra una secuencia de eventos puntuales y completados en un orden cronológico claro.",
+      "'Se enteró' y 'publicó' son correctos, pero 'explicaba' es imperfecto. La explicación fue parte del comunicado, un acto concreto completado, no una situación en progreso.",
+      "'Se enteraba' es imperfecto, que no es adecuado para el momento concreto en que la gente se enteró. La notificación fue un evento puntual.",
+      "'Se enteró' y 'publicó' son correctos, pero 'ha explicado' es presente perfecto, que conectaría la explicación con el presente. Es un evento del pasado cerrado."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "En la reunión celebrada la semana pasada, los accionistas principales _______ unánimemente a favor de la propuesta que el equipo directivo _______ para reestructurar por completo los canales de distribución de la empresa.",
+    "options": [
+      "votaron... había presentado",
+      "votaron... presentó",
+      "votaban... había presentado",
+      "votaron... presentaba"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto! 'Votaron' es pretérito para la acción de votar en la reunión. 'Había presentado' es pluscuamperfecto, que muestra que la propuesta fue presentada antes de la votación.",
+      "'Votaron' es correcto, pero 'presentó' es pretérito simple, que no establece claramente que la presentación ocurrió antes de la votación. El pluscuamperfecto es necesario para esa secuencia.",
+      "'Votaban' es imperfecto, que no es adecuado para el acto concreto de votar en una reunión específica. La votación fue un evento puntual.",
+      "'Votaron' es correcto, pero 'presentaba' es imperfecto, que sugiere una situación en progreso. La propuesta fue presentada como un hecho concreto previo a la votación."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "El geólogo, que llevaba años estudiando la formación geológica de esa región, _______ un hallazgo extraordinario cuando, durante una excavación rutinaria, sus herramientas _______ contra una capa de mineral nunca antes documentada.",
+    "options": [
+      "realizó... tocaron",
+      "realizó... tocaban",
+      "realizaba... tocaron",
+      "ha realizado... tocaron"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto! 'Realizó' es pretérito para el hallazgo concreto. 'Tocaron' es pretérito, que marca el momento exacto en que las herramientas entraron en contacto con la nueva capa mineral.",
+      "'Realizó' es correcto, pero 'tocaban' es imperfecto, que sugiere una situación en progreso. El contacto con la nueva capa fue un evento puntual y definitivo.",
+      "'Realizaba' es imperfecto, que no es adecuado para el hallazgo concreto. El descubrimiento fue un momento específico, no una situación en progreso.",
+      "'Ha realizado' es presente perfecto, que conectaría el hallazgo con el presente. Es un evento del pasado cerrado que requiere pretérito indefinido."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "Cuando el periodista finalmente _______ acceso a los documentos confidenciales que _______ durante meses tratando de obtener, _______ inmediatamente que contenían información que podía cambiar completamente la narrativa oficial sobre el caso.",
+    "options": [
+      "obtuvo... había estado intentando... comprendió",
+      "obtuvo... estaba intentando... comprendió",
+      "obtuvo... había estado intentando... comprendía",
+      "obtenía... había estado intentando... comprendió"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto! 'Obtuvo' es pretérito para el momento de obtención. 'Había estado intentando' es pluscuamperfecto compuesto, que muestra la duración sostenida previa. 'Comprendió' es pretérito para la reacción inmediata.",
+      "'Estaba intentando' es imperfecto compuesto, que sugiere simultaneidad con otro evento, pero la oración claramente indica que los intentos precedieron al acceso.",
+      "'Obtuvo' y 'había estado intentando' son correctos, pero 'comprendía' es imperfecto. La comprensión fue una reacción inmediata y concreta, no una situación en progreso.",
+      "'Obtenía' es imperfecto, que no es adecuado para el momento concreto en que el periodista finalmente pudo acceder a los documentos."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "Según el testimonio que _______ la víctima durante la declaración oficial, el incidente _______ mucho más grave de lo que inicialmente _______ reportar los servicios de emergencia en su parte del atestado.",
+    "options": [
+      "prestó... fue... pudieron",
+      "prestó... fue... podían",
+      "prestó... fue... han podido",
+      "prestaba... fue... pudieron"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto! 'Prestó' es pretérito para la acción de dar testimonio. 'Fue' es pretérito copulativo. 'Pudieron' es pretérito, que marca la limitación concreta de los servicios de emergencia al momento de redactar el atestado.",
+      "'Prestó' y 'fue' son correctos, pero 'podían' es imperfecto, que sugiere una capacidad en progreso. La limitación fue un hecho concreto en ese momento específico.",
+      "'Prestó' y 'fue' son correctos, pero 'han podido' es presente perfecto, que conectaría la acción con el presente. Es un evento del pasado cerrado.",
+      "'Prestaba' es imperfecto, que no es adecuado para la acción concreta de dar testimonio en un momento determinado."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "En el momento en que los bomberos _______ a las instalaciones del almacén, _______ que la mayor parte del edificio ya _______ completamente por las llamas, lo cual _______ la operación de rescate prácticamente imposible.",
+    "options": [
+      "llegaron... descubrieron... había sido consumida... hizo",
+      "llegaron... descubrieron... fue consumida... hizo",
+      "llegaron... descubrían... había sido consumida... hizo",
+      "llegaban... descubrieron... había sido consumida... hizo"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto! 'Llegaron' y 'descubrieron' son pretérito para eventos puntuales. 'Había sido consumida' es pluscuamperfecto pasivo, que muestra que el edificio ya estaba destruido antes de la llegada. 'Hizo' es pretérito para la consecuencia.",
+      "'Llegaron' y 'descubrieron' son correctos, pero 'fue consumida' es pretérito pasivo, que no establece que la destrucción ocurrió antes de la llegada de los bomberos.",
+      "'Llegaron' y 'había sido consumida' son correctos, pero 'descubrían' es imperfecto. El descubrimiento fue un momento concreto, no una situación en progreso.",
+      "'Llegaban' es imperfecto, que no es adecuado para el momento puntual de la llegada de los bomberos a las instalaciones."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "La decisión que finalmente _______ el comité directivo tras semanas de intensas negociaciones _______ rechazada inicialmente por varios de los departamentos más importantes, hasta que los datos económicos _______ a convencer a todos de su necesidad.",
+    "options": [
+      "tomó... fue... acabaron",
+      "tomó... fue... acababan",
+      "tomó... fue... han acabado",
+      "tomaba... fue... acabaron"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto! 'Tomó', 'fue' y 'acabaron' son todos pretérito indefinido, que narra la secuencia de eventos completados: la decisión, el rechazo inicial, y finalmente la convicción general.",
+      "'Tomó' y 'fue' son correctos, pero 'acababan' es imperfecto, que sugiere una situación en progreso. La convicción general fue un resultado concreto alcanzado.",
+      "'Tomó' y 'fue' son correctos, pero 'han acabado' es presente perfecto, que conectaría la convicción con el presente. Es un evento del pasado cerrado.",
+      "'Tomaba' es imperfecto, que no es adecuado para la decisión concreta del comité tras semanas de negociaciones."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "El arquitecto que _______ el proyecto original del puente en los años noventa _______ en una entrevista reciente que los materiales que se utilizaron en la obra no cumplían con las normas de seguridad que _______ en vigor en aquel momento.",
+    "options": [
+      "diseñó... reconoció... estaban",
+      "diseñó... reconoció... estaban vigentes",
+      "diseñó... reconocía... estaban",
+      "diseñaba... reconoció... estaban"
     ],
     "correct": 1,
     "explanations": [
-      "'Salgo' es presente, pero 'ayer' requiere pasado.",
-      "Correcto! 'Salí' es pretérito indefinido para acción completa de ayer.",
-      "'Salía' es imperfecto, pero 'ayer' pide acción puntual terminada.",
-      "'He salido' es presente perfecto, no se usa con 'ayer' (tiempo cerrado)."
+      "'Diseñó' y 'reconoció' son correctos como pretérito, pero 'estaban' solo, sin 'vigentes', no forma la expresión completa necesaria para describir las normas en vigor.",
+      "Correcto! 'Diseñó' y 'reconoció' son pretérito para acciones puntuales completadas. 'Estaban vigentes' es imperfecto, que describe la situación normativa en ese momento, la cual es información de fondo.",
+      "'Diseñó' es correcto, pero 'reconocía' es imperfecto. La declaración en la entrevista fue un acto concreto, no una situación en progreso.",
+      "'Diseñaba' es imperfecto, que no es adecuado para el hecho concreto de haber diseñado el proyecto."
     ]
   },
   {
     "language": "es",
     "tense": "Pretérito Indefinido",
-    "sentence": "El año pasado ellos _______ a Italia.",
+    "sentence": "Cuando los investigadores forenses finalmente _______ analizar las muestras de ADN que _______ en la escena del crimen semanas atrás, los resultados _______ un giro completo en la dirección de toda la investigación.",
     "options": [
-      "viajan",
-      "viajaban",
-      "viajaron",
-      "han viajado"
+      "pudieron... habían recopilado... produjo",
+      "pudieron... recopilaron... produjo",
+      "podían... habían recopilado... produjo",
+      "pudieron... habían recopilado... producía"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanations": [
-      "'Viajan' es presente, pero 'año pasado' requiere pasado.",
-      "'Viajaban' es imperfecto, no ideal para tiempo específico cerrado.",
-      "Correcto! 'Viajaron' es indefinido para acción completa en tiempo cerrado.",
-      "'Han viajado' es perfecto, no se usa con 'año pasado' (tiempo cerrado)."
+      "Correcto! 'Pudieron' es pretérito para el momento concreto del análisis. 'Habían recopilado' es pluscuamperfecto, que muestra que las muestras fueron recopilas antes. 'Produjo' es pretérito para el giro en la investigación.",
+      "'Pudieron' y 'produjo' son correctos, pero 'recopilaron' es pretérito simple, que no establece claramente que la recopilación ocurrió antes del análisis.",
+      "'Podían' es imperfecto, que sugiere una capacidad en progreso. El momento en que pudieron realizar el análisis fue un evento concreto.",
+      "'Pudieron' y 'habían recopilado' son correctos, pero 'producía' es imperfecto. El giro en la investigación fue un resultado concreto y definitivo."
     ]
   },
   {
     "language": "es",
     "tense": "Pretérito Indefinido",
-    "sentence": "Anoche nosotros _______ una película.",
+    "sentence": "La conferencia internacional que _______ lugar en Barcelona el mes pasado _______ a más de dos mil profesionales del sector tecnológico, quienes _______ la oportunidad de conocer de primera mano las últimas innovaciones presentadas por las empresas líderes del mundo.",
     "options": [
-      "vemos",
-      "veíamos",
-      "vimos",
-      "hemos visto"
+      "tuvo... atrajo... tuvieron",
+      "tuvo... atrajo... tenían",
+      "tuvo... atrajo... han tenido",
+      "tuvo... atraía... tuvieron"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanations": [
-      "'Vemos' es presente, pero 'anoche' requiere pasado.",
-      "'Veíamos' es imperfecto, pero 'anoche' pide acción específica terminada.",
-      "Correcto! 'Vimos' es indefinido para acción puntual completada anoche.",
-      "'Hemos visto' es perfecto, no se usa con 'anoche' (tiempo cerrado)."
+      "Correcto! 'Tuvo', 'atrajo' y 'tuvieron' son todos pretérito indefinido, que narra los eventos de la conferencia como acciones completadas en un marco temporal cerrado (el mes pasado).",
+      "'Tuvo' y 'atrajo' son correctos, pero 'tenían' es imperfecto, que sugiere una situación previa en progreso. La oportunidad fue algo que los profesionales efectivamente tuvieron durante el evento.",
+      "'Tuvo' y 'atrajo' son correctos, pero 'han tenido' es presente perfecto, que conectaría la experiencia con el presente. Es un evento del pasado cerrado.",
+      "'Tuvo' y 'tuvieron' son correctos, pero 'atraía' es imperfecto. La conferencia atrajo a los profesionales en un momento concreto, no de manera gradual o en progreso."
     ]
   },
   {
     "language": "es",
     "tense": "Pretérito Indefinido",
-    "sentence": "Tú _______ muy bien en el examen la semana pasada.",
+    "sentence": "El mismo día en que se _______ la nueva sucursal en el centro comercial, los primeros cientos de clientes _______ en cola desde las primeras horas de la mañana, lo que _______ claramente que la campaña de marketing previa _______ cumplido su objetivo a la perfección.",
     "options": [
-      "escribes",
-      "escribías",
-      "escribiste",
-      "has escrito"
+      "inauguró... se agruparon... demostró... había",
+      "inauguró... se agrupaban... demostró... había",
+      "inauguró... se agruparon... demostraba... había",
+      "inauguraba... se agruparon... demostró... había"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanations": [
-      "'Escribes' es presente, pero 'semana pasada' requiere pasado.",
-      "'Escribías' es imperfecto, no adecuado para tiempo específico cerrado.",
-      "Correcto! 'Escribiste' es indefinido para acción en tiempo cerrado.",
-      "'Has escrito' es perfecto, no se usa con 'semana pasada' (cerrado)."
+      "Correcto! 'Inauguró', 'se agruparon' y 'demostró' son pretérito indefinido para los eventos del día. 'Había' es pluscuamperfecto, que indica que la campaña de marketing se llevó a cabo antes de la inauguración.",
+      "'Inauguró' es correcto, pero 'se agrupaban' es imperfecto. La llegada masiva de clientes fue un evento concreto del día de la inauguración, no una situación en progreso.",
+      "'Se agruparon' es correcto, pero 'demostraba' es imperfecto. La demostración fue una conclusión directa del hecho de que los clientes se agruparon, un evento concreto.",
+      "'Inauguraba' es imperfecto, que no es adecuado para el acto concreto de la inauguración en un día determinado."
     ]
   },
   {
     "language": "es",
     "tense": "Pretérito Indefinido",
-    "sentence": "Mi hermana _______ en 1995.",
+    "sentence": "Después de años de investigación conjunta entre varias universidades europeas, el equipo de científicos finalmente _______ publicar sus conclusiones en una revista científica de máximo prestigio, y los resultados que en ella _______ _______ por sorpresa a toda la comunidad académica.",
     "options": [
-      "nace",
-      "nacía",
-      "nació",
-      "ha nacido"
+      "pudo... presentaron... dejaron",
+      "pudo... presentaban... dejaron",
+      "podía... presentaron... dejaron",
+      "pudo... presentaron... han dejado"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanations": [
-      "'Nace' es presente, pero 1995 es fecha pasada específica.",
-      "'Nacía' es imperfecto, no se usa para momento exacto de nacimiento.",
-      "Correcto! 'Nació' es indefinido para evento puntual en fecha específica.",
-      "'Ha nacido' es perfecto, no se usa con fecha específica pasada."
+      "Correcto! 'Pudo', 'presentaron' y 'dejaron' son todos pretérito indefinido, que narra la secuencia de eventos completados: la publicación, la presentación de resultados y el efecto de sorpresa.",
+      "'Pudo' es correcto, pero 'presentaban' es imperfecto. La presentación de los resultados en la revista fue un acto concreto, no una situación en progreso.",
+      "'Podía' es imperfecto, que no es adecuado para el momento concreto en que el equipo finalmente tuvo la posibilidad de publicar.",
+      "'Pudo' y 'presentaron' son correctos, pero 'han dejado' es presente perfecto, que conectaría la sorpresa con el presente. Es un evento del pasado cerrado."
     ]
   },
   {
     "language": "es",
     "tense": "Pretérito Indefinido",
-    "sentence": "El mes pasado ellos _______ de casa.",
+    "sentence": "Cuando el tribunal _______ su sentencia en el caso que había generado tanto interés público durante meses, la decisión _______ un precedente legal que _______ de manera definitiva la forma en que los tribunales inferiores _______ casos similares en los años siguientes.",
     "options": [
-      "se mudan",
-      "se mudaban",
-      "se mudaron",
-      "se han mudado"
+      "dictó... estableció... cambió... tratarían",
+      "dictó... estableció... cambiaba... tratarían",
+      "dictó... establecía... cambió... tratarían",
+      "dictaba... estableció... cambió... tratarían"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanations": [
-      "'Se mudan' es presente, pero 'mes pasado' requiere pasado.",
-      "'Se mudaban' es imperfecto, pero necesitamos acción completa.",
-      "Correcto! 'Se mudaron' es indefinido para acción en tiempo cerrado.",
-      "'Se han mudado' es perfecto, no con 'mes pasado' (cerrado)."
+      "Correcto! 'Dictó', 'estableció' y 'cambió' son todos pretérito indefinido para los eventos concretos. 'Tratarían' es condicional, que expresa la consecuencia futura desde el punto de vista del momento en que se dictó la sentencia.",
+      "'Dictó' y 'estableció' son correctos, pero 'cambiaba' es imperfecto. El cambio fue un resultado concreto y definitivo de la sentencia, no una situación en progreso.",
+      "'Dictó' y 'cambió' son correctos, pero 'establecía' es imperfecto. El establecimiento del precedente fue un acto concreto de la sentencia.",
+      "'Dictaba' es imperfecto, que no es adecuado para el acto puntual del tribunal de dictar la sentencia."
     ]
   },
   {
     "language": "es",
     "tense": "Pretérito Indefinido",
-    "sentence": "Ayer por la tarde yo _______ en el parque.",
+    "sentence": "La excavación arqueológica que se _______ en el yacimiento durante los meses del verano reveló una cantidad extraordinaria de artefactos que los historiadores _______ inmediatamente como pertenecientes a una civilización que hasta ese momento no _______ sido identificada por ningún equipo de investigación anterior.",
     "options": [
-      "corro",
-      "corría",
-      "corrí",
-      "he corrido"
+      "llevó a cabo... identificaron... había",
+      "llevó a cabo... identificaban... había",
+      "llevaba a cabo... identificaron... había",
+      "llevó a cabo... identificaron... ha"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanations": [
-      "'Corro' es presente, pero 'ayer' requiere pasado.",
-      "'Corría' es imperfecto - podría funcionar para descripción, pero 'corrí' es más natural para acción completa.",
-      "Correcto! 'Corrí' es indefinido para acción específica completada ayer.",
-      "'He corrido' es perfecto, no se usa con 'ayer' (tiempo cerrado)."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Pretérito Indefinido",
-    "sentence": "El sábado pasado nosotros _______ temprano.",
-    "options": [
-      "nos levantamos",
-      "nos levantábamos",
-      "nos levantamos",
-      "nos hemos levantado"
-    ],
-    "correct": 2,
-    "explanations": [
-      "'Nos levantamos' puede ser presente habitual, ambiguo aquí.",
-      "'Nos levantábamos' es imperfecto, no ideal para día específico.",
-      "Correcto! 'Nos levantamos' como indefinido para sábado específico.",
-      "'Nos hemos levantado' es perfecto, no con 'sábado pasado' (cerrado)."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Pretérito Indefinido",
-    "sentence": "En 2010, tú _______ a trabajar aquí.",
-    "options": [
-      "empiezas",
-      "empezabas",
-      "empezaste",
-      "has empezado"
-    ],
-    "correct": 2,
-    "explanations": [
-      "'Empiezas' es presente, pero 2010 es fecha pasada.",
-      "'Empezabas' es imperfecto, no para inicio en fecha específica.",
-      "Correcto! 'Empezaste' es indefinido para inicio en año específico.",
-      "'Has empezado' es perfecto, no se usa con fecha específica pasada."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Pretérito Indefinido",
-    "sentence": "La reunión _______ a las tres ayer.",
-    "options": [
-      "termina",
-      "terminaba",
-      "terminó",
-      "ha terminado"
-    ],
-    "correct": 2,
-    "explanations": [
-      "'Termina' es presente, pero hablamos de ayer.",
-      "'Terminaba' es imperfecto, no ideal para momento específico de ayer.",
-      "Correcto! 'Terminó' es indefinido para evento puntual completado ayer.",
-      "'Ha terminado' es perfecto, no se usa con 'ayer' (tiempo cerrado)."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Pretérito Indefinido",
-    "sentence": "Ellos _______ el proyecto en diciembre.",
-    "options": [
-      "finalizan",
-      "finalizaban",
-      "finalizaron",
-      "han finalizado"
-    ],
-    "correct": 2,
-    "explanations": [
-      "'Finalizan' es presente, pero hablamos de diciembre pasado.",
-      "'Finalizaban' es imperfecto, no para finalización en mes específico.",
-      "Correcto! 'Finalizaron' es indefinido para acción en mes específico.",
-      "'Han finalizado' es perfecto, no con mes específico pasado (cerrado)."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Pretérito Indefinido",
-    "sentence": "El domingo pasado yo _______ todo el día.",
-    "options": [
-      "descanso",
-      "descansaba",
-      "descansé",
-      "he descansado"
-    ],
-    "correct": 2,
-    "explanations": [
-      "'Descanso' es presente, pero 'domingo pasado' requiere pasado.",
-      "'Descansaba' es imperfecto - funcionaría para descripción, pero 'descansé' es más directo.",
-      "Correcto! 'Descansé' es indefinido para acción en día específico pasado.",
-      "'He descansado' es perfecto, no con 'domingo pasado' (cerrado)."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Pretérito Indefinido",
-    "sentence": "Hace dos años, nosotros _______ a vivir aquí.",
-    "options": [
-      "venimos",
-      "veníamos",
-      "vinimos",
-      "hemos venido"
-    ],
-    "correct": 2,
-    "explanations": [
-      "'Venimos' es presente, pero 'hace dos años' requiere pasado.",
-      "'Veníamos' es imperfecto, no para acción de llegar en momento específico.",
-      "Correcto! 'Vinimos' es indefinido irregular para acción hace dos años.",
-      "'Hemos venido' es perfecto, 'hace dos años' es tiempo cerrado."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Pretérito Indefinido",
-    "sentence": "Tú _______ la verdad el martes.",
-    "options": [
-      "dices",
-      "decías",
-      "dijiste",
-      "has dicho"
-    ],
-    "correct": 2,
-    "explanations": [
-      "'Dices' es presente, pero 'el martes' (pasado) requiere pretérito.",
-      "'Decías' es imperfecto, no para acción específica del martes.",
-      "Correcto! 'Dijiste' es indefinido irregular para acción en día específico.",
-      "'Has dicho' es perfecto, no con 'el martes' pasado (cerrado)."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Pretérito Indefinido",
-    "sentence": "El concierto _______ a las nueve anoche.",
-    "options": [
-      "empieza",
-      "empezaba",
-      "empezó",
-      "ha empezado"
-    ],
-    "correct": 2,
-    "explanations": [
-      "'Empieza' es presente, pero 'anoche' requiere pasado.",
-      "'Empezaba' es imperfecto, no para inicio puntual anoche.",
-      "Correcto! 'Empezó' es indefinido para evento que comenzó anoche.",
-      "'Ha empezado' es perfecto, no se usa con 'anoche' (cerrado)."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Pretérito Indefinido",
-    "sentence": "Yo _______ un error en el informe ayer.",
-    "options": [
-      "hago",
-      "hacía",
-      "hice",
-      "he hecho"
-    ],
-    "correct": 2,
-    "explanations": [
-      "'Hago' es presente, pero 'ayer' requiere pasado.",
-      "'Hacía' es imperfecto, no para acción específica de ayer.",
-      "Correcto! 'Hice' es indefinido irregular para acción de ayer.",
-      "'He hecho' es perfecto, no se usa con 'ayer' (tiempo cerrado)."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Pretérito Indefinido",
-    "sentence": "Ellos _______ durante cinco horas ayer.",
-    "options": [
-      "estudian",
-      "estudiaban",
-      "estudiaron",
-      "han estudiado"
-    ],
-    "correct": 2,
-    "explanations": [
-      "'Estudian' es presente, pero 'ayer' requiere pasado.",
-      "'Estudiaban' es imperfecto - posible, pero 'estudiaron' más natural para duración completa.",
-      "Correcto! 'Estudiaron' es indefinido para acción con duración en ayer.",
-      "'Han estudiado' es perfecto, no con 'ayer' (tiempo cerrado)."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Pretérito Indefinido",
-    "sentence": "El profesor _______ las notas el viernes.",
-    "options": [
-      "publica",
-      "publicaba",
-      "publicó",
-      "ha publicado"
-    ],
-    "correct": 2,
-    "explanations": [
-      "'Publica' es presente, pero 'el viernes' (pasado) requiere pretérito.",
-      "'Publicaba' es imperfecto, no para acción específica del viernes.",
-      "Correcto! 'Publicó' es indefinido para acción en día específico pasado.",
-      "'Ha publicado' es perfecto, no con 'el viernes' pasado (cerrado)."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Pretérito Indefinido",
-    "sentence": "Nosotros _______ la noticia el lunes.",
-    "options": [
-      "recibimos",
-      "recibíamos",
-      "recibimos",
-      "hemos recibido"
-    ],
-    "correct": 2,
-    "explanations": [
-      "'Recibimos' puede ser presente habitual, ambiguo sin contexto.",
-      "'Recibíamos' es imperfecto, no para recepción puntual del lunes.",
-      "Correcto! 'Recibimos' como indefinido para acción en día específico.",
-      "'Hemos recibido' es perfecto, no con 'el lunes' pasado (cerrado)."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Pretérito Indefinido",
-    "sentence": "Tú _______ mucho talento en la presentación ayer.",
-    "options": [
-      "muestras",
-      "mostrabas",
-      "mostraste",
-      "has mostrado"
-    ],
-    "correct": 2,
-    "explanations": [
-      "'Muestras' es presente, pero 'ayer' requiere pasado.",
-      "'Mostrabas' es imperfecto, no para evento específico de ayer.",
-      "Correcto! 'Mostraste' es indefinido para lo que hiciste ayer.",
-      "'Has mostrado' es perfecto, no se usa con 'ayer' (tiempo cerrado)."
+      "Correcto! 'Llevó a cabo' e 'identificaron' son pretérito indefinido para los eventos concretos de la excavación. 'Había sido' es pluscuamperfecto, que muestra que ningún equipo anterior había logrado esa identificación.",
+      "'Llevó a cabo' es correcto, pero 'identificaban' es imperfecto. La identificación fue una reacción concreta e inmediata de los historiadores ante los artefactos.",
+      "'Llevaba a cabo' es imperfecto, que no es adecuado para describir la excavación como un proyecto concreto realizado durante los meses de verano.",
+      "'Llevó a cabo' e 'identificaron' son correctos, pero 'ha sido' es presente perfecto, que conectaría la identificación con el presente. Es un hecho del pasado cerrado."
     ]
   }
 ]

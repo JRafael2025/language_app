@@ -2,361 +2,361 @@
   {
     "language": "es",
     "tense": "Pretérito Imperfecto",
-    "sentence": "Cuando era niño, yo _______ en el parque todos los días.",
+    "sentence": "Durante los años en que mi familia _______ en esa pequeña casa cerca del río, yo recuerdo que todos los veranos nosotros _______ al agua por las tardes y _______ hasta que el sol _______ en el horizonte.",
     "options": [
-      "juego",
-      "jugué",
-      "jugaba",
-      "he jugado"
+      "vivía... íbamos... jugábamos... ponía",
+      "vivió... íbamos... jugábamos... ponía",
+      "vivía... íbamos... jugábamos... puso",
+      "vivía... fuimos... jugábamos... ponía"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto! Todos los verbos están en imperfecto: 'vivía' describe la situación de fondo, 'íbamos', 'jugábamos' y 'ponía' describen hábitos repetidos durante esa época de la infancia.",
+      "'Vivía' es correcto como situación de fondo, pero 'vivió' es pretérito indefinido, que situaría la vida en esa casa como un evento puntual, no como una situación prolongada.",
+      "'Vivía', 'íbamos' y 'jugábamos' son correctos, pero 'puso' es pretérito indefinido. La caída del sol era un proceso diario repetido, no un evento puntual.",
+      "'Vivía', 'íbamos' y 'ponía' son correctos, pero 'fuimos' es pretérito indefinido. Las ida al agua eran un hábito repetido cada verano, no una única visita."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "La profesora que _______ en nuestra clase cuando _______ pequeños siempre _______ que cada uno de nosotros _______ un potencial enorme que, si se desarrollaba correctamente, podía llegar a cambiar la vida de muchas personas.",
+    "options": [
+      "daba... éramos... creía... tenía",
+      "dio... éramos... creyó... tenía",
+      "daba... fuimos... creía... tenía",
+      "daba... éramos... creía... tuvo"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto! Todos los verbos están en imperfecto: 'daba' (enseñaba), 'éramos' (estábamos en esa edad), 'creía' (opinión habitual) y 'tenía' (estado persistente durante esa época) describen situaciones y características de ese periodo.",
+      "'Daba' y 'éramos' son correctos, pero 'dio' y 'creyó' son pretérito, que situarían la enseñanza y la opinión como eventos puntuales, no como características constantes de esa profesora.",
+      "'Daba' y 'creía' son correctos, pero 'fuimos' es pretérito indefinido. La infancia fue un periodo prolongado, no un evento puntual, por lo que debe estar en imperfecto.",
+      "'Daba', 'éramos' y 'creía' son correctos, pero 'tuvo' es pretérito indefinido. El potencial era una característica persistente durante esa época, no un evento puntual."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "En los tiempos en que mi abuelo _______ en el campo, la vida _______ mucho más sencilla: los aldeanos _______ sus propios alimentos, _______ las noticias por la radio antigua y casi nunca _______ la necesidad de salir del pueblo.",
+    "options": [
+      "trabajaba... era... cultivaban... escuchaban... sentían",
+      "trabajó... era... cultivaban... escuchaban... sentían",
+      "trabajaba... fue... cultivaban... escuchaban... sentían",
+      "trabajaba... era... cultivaban... escuchaban... sintieron"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto! Todos los verbos están en imperfecto, que es el tense adecuado para describir una época pasada con sus costumbres, estados y características habituales.",
+      "'Era' y los demás verbos son correctos, pero 'trabajó' es pretérito indefinido. El trabajo de mi abuelo en el campo fue una situación prolongada, no un evento puntual.",
+      "'Trabajaba' es correcto como situación de fondo, pero 'fue' es pretérito indefinido. La vida sencilla era una característica de esa época, no un evento puntual.",
+      "Todos los verbos excepto 'sintieron' son correctos. 'Sintieron' es pretérito indefinido, pero la necesidad de salir del pueblo era algo que raramente experimentaban como situación habitual."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "Mientras yo _______ tranquilamente en el jardín y el sol _______ suavemente por la ventana, de repente el perro de los vecinos _______ corriendo hacia nuestra puerta y _______ sin parar durante varios minutos.",
+    "options": [
+      "leía... entraba... llegó... ladraba",
+      "leía... entraba... llegó... ladró",
+      "leía... entraba... llegaba... ladró",
+      "leyó... entraba... llegó... ladró"
+    ],
+    "correct": 0,
+    "explanations": [
+      "Correcto! 'Leía' y 'entraba' son imperfecto, que describe las situaciones en progreso. 'Llegó' es pretérito indefinido, que marca el evento que interrumpió esa situación. 'Ladraba' es imperfecto, ya que el ladrar era una acción que continuaba después del evento.",
+      "'Leía' y 'entraba' son correctos, pero 'ladró' es pretérito indefinido. El ladrar no fue un evento puntual sino una acción que duró varios minutos después de la llegada.",
+      "'Leía' y 'entraba' son correctos, pero 'llegaba' es imperfecto. La llegada del perro fue el evento puntual que interrumpió la situación, por lo que debe estar en pretérito.",
+      "'Entraba' es correcto como situación de fondo, pero 'leyó' es pretérito. La lectura era una acción en progreso que estaba ocurriendo cuando llegó el perro."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "Cuando llegamos al hotel después de un largo viaje, nos sorprendió descubrir que la habitación que nos _______ no _______ ninguna vista al mar, aunque en la confirmación original del alojamiento _______ claramente que _______ en una de las habitaciones más privilegiadas del edificio.",
+    "options": [
+      "habían asignado... tenía... ponía... estaríamos",
+      "habían asignado... tenía... ponía... estábamos",
+      "habían asignado... tenía... decía... estaríamos",
+      "habían asignado... tenía... ponía... estamos"
     ],
     "correct": 2,
     "explanations": [
-      "'Juego' es presente, pero hablamos de hábito pasado de la niñez.",
-      "'Jugué' es indefinido para acción puntual, no hábito repetido.",
-      "Correcto! 'Jugaba' es imperfecto para acciones habituales del pasado.",
-      "'He jugado' es perfecto, no adecuado para hábitos de la niñez."
+      "'Habían asignado' y 'tenía' son correctos, pero 'ponía' no es la expresión más natural aquí. 'Estaríamos' es condicional, que sugiere una expectativa, no lo que decía el documento.",
+      "'Habían asignado' y 'tenía' son correctos, pero 'estábamos' es imperfecto de estar, que no describe lo que decía la confirmación sino una situación real.",
+      "Correcto! 'Habían asignado' es pluscuamperfecto (la asignación previa al viaje). 'Tenía' es imperfecto para la situación del hotel. 'Decía' es imperfecto para describir el contenido de la confirmación. 'Estaríamos' es condicional, que refleja la expectativa creada por la confirmación.",
+      "'Habían asignado', 'tenía' y 'ponía' son aceptables, pero 'estamos' es presente, que no tiene sentido en este contexto narrativo del pasado."
     ]
   },
   {
     "language": "es",
     "tense": "Pretérito Imperfecto",
-    "sentence": "Antes nosotros _______ en esa casa.",
+    "sentence": "En la época en que todos nosotros _______ todavía en la misma escuela, los profesores siempre _______ que la educación _______ el único camino seguro hacia un futuro mejor, aunque no todos los estudiantes _______ de esa opinión.",
     "options": [
-      "vivimos",
-      "vivíamos",
-      "viviremos",
-      "hemos vivido"
+      "estábamos... repetían... era... compartían",
+      "estuvimos... repetían... era... compartían",
+      "estábamos... repitieron... era... compartían",
+      "estábamos... repetían... fue... compartían"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanations": [
-      "'Vivimos' es indefinido o presente, no para situación continua pasada.",
-      "Correcto! 'Vivíamos' es imperfecto para estado o situación pasada.",
-      "'Viviremos' es futuro, no tiene sentido con 'antes'.",
-      "'Hemos vivido' es perfecto, no adecuado para 'antes' (cerrado)."
+      "Correcto! Todos los verbos están en imperfecto, que es el tense adecuado para describir situaciones, opiniones y hábitos de esa época pasada con sus características persistentes.",
+      "'Repetían', 'era' y 'compartían' son correctos como imperfecto, pero 'estuvimos' es pretérito indefinido. La etapa escolar fue un periodo prolongado, no un evento puntual.",
+      "'Estábamos' y 'repetían' son correctos, pero 'repitieron' es pretérito indefinido. Los profesores repetían esa opinión de manera habitual, no como un evento único.",
+      "'Estábamos', 'repetían' y 'compartían' son correctos, pero 'fue' es pretérito indefinido. La educación being el camino seguro era una opinión persistente, no un evento puntual."
     ]
   },
   {
     "language": "es",
     "tense": "Pretérito Imperfecto",
-    "sentence": "Ellos siempre _______ café por las mañanas.",
+    "sentence": "Justo en el momento en que el avión _______ preparando su despegue y los pasajeros _______ acomodándose en sus asientos, los controladores aéreos _______ una alerta que obligó al piloto a abortar inmediatamente la maniobra.",
     "options": [
-      "toman",
-      "tomaron",
-      "tomaban",
-      "han tomado"
+      "estaba... estaban... emitieron",
+      "estaba... estaban... emitían",
+      "estaba... estaban... han emitido",
+      "estaba... estaban... emitía"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanations": [
-      "'Toman' es presente, pero hablamos de hábito pasado.",
-      "'Tomaron' es indefinido, no para costumbre repetida.",
-      "Correcto! 'Tomaban' es imperfecto para hábito habitual pasado.",
-      "'Han tomado' es perfecto, no para describir costumbres pasadas."
+      "Correcto! 'Estaba' y 'estaban' son imperfecto compuesto que describen las acciones en progreso. 'Emitieron' es pretérito indefinido, que marca el evento puntual que interrumpió esas acciones.",
+      "'Estaba' y 'estaban' son correctos, pero 'emitían' es imperfecto, que sugeriría que la alerta era una situación en progreso. La emisión de la alerta fue un evento puntual y urgente.",
+      "'Estaba' y 'estaban' son correctos, pero 'han emitido' es presente perfecto, que conectaría la alerta con el presente. Es un evento del pasado cerrado.",
+      "'Estaba' es correcto, pero 'emitía' es imperfecto singular, que no es adecuado para describir la emisión concreta de una alerta urgente por parte de los controladores."
     ]
   },
   {
     "language": "es",
     "tense": "Pretérito Imperfecto",
-    "sentence": "Mientras yo _______, sonó el teléfono.",
+    "sentence": "Cuando _______ más joven, mi madre siempre _______ que algún día yo _______ la oportunidad de viajar por todos los países que _______ en los libros de geografía que yo _______ en la escuela.",
     "options": [
-      "estudio",
-      "estudié",
-      "estudiaba",
-      "he estudiado"
+      "era... decía... tendría... aparecían... estudiaba",
+      "era... dijo... tendría... aparecían... estudiaba",
+      "era... decía... tendría... aparecieron... estudiaba",
+      "era... decía... tendría... aparecían... estudié"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanations": [
-      "'Estudio' es presente, pero la acción es pasada.",
-      "'Estudié' es indefinido para acción completa, no para acción en progreso.",
-      "Correcto! 'Estudiaba' es imperfecto para acción en progreso interrumpida.",
-      "'He estudiado' es perfecto, no para describir acción interrumpida."
+      "Correcto! 'Era', 'decía', 'aparecían' y 'estudiaba' son todos imperfecto, que describen situaciones y hábitos de la juventud. 'Tendría' es condicional, que refleja la expectativa de mi madre sobre el futuro desde ese punto del pasado.",
+      "'Era' es correcto, pero 'dijo' es pretérito indefinido. Mi madre decía eso de manera habitual, no como una única declaración.",
+      "'Era', 'decía' y 'estudiaba' son correctos, pero 'aparecieron' es pretérito. Los países aparecían de manera habitual en los libros, no como un evento único.",
+      "'Era', 'decía' y 'aparecían' son correctos, pero 'estudié' es pretérito indefinido. El estudio en la escuela era un hábito durante esa época, no un evento único."
     ]
   },
   {
     "language": "es",
     "tense": "Pretérito Imperfecto",
-    "sentence": "Cuando llegamos, ella ya _______ dormida.",
+    "sentence": "El antiguo parque que _______ en el centro del barrio era un lugar donde los niños del vecindario _______ todos los días después del colegio, aunque los padres siempre _______ preocupados porque la zona _______ bastante descuidada.",
     "options": [
-      "está",
-      "estuvo",
-      "estaba",
-      "ha estado"
+      "existía... jugaban... estaban... estaba",
+      "existió... jugaban... estaban... estaba",
+      "existía... jugaron... estaban... estaba",
+      "existía... jugaban... estaban... estuvo"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanations": [
-      "'Está' es presente, pero describimos estado pasado.",
-      "'Estuvo' es indefinido, menos natural para describir estado en ese momento.",
-      "Correcto! 'Estaba' es imperfecto para describir estado en momento pasado.",
-      "'Ha estado' es perfecto, no para describir estado en momento específico."
+      "Correcto! Todos los verbos están en imperfecto: 'existía' (situación de fondo), 'jugaban' (hábito diario), 'estaban preocupados' (estado emocional persistente) y 'estaba descuidada' (condición del lugar durante esa época).",
+      "'Jugaban', 'estaban' y 'estaba' son correctos, pero 'existió' es pretérito indefinido. La existencia del parque fue una situación prolongada, no un evento puntual.",
+      "'Existía' y 'estaban' son correctos, pero 'jugaron' es pretérito indefinido. Los niños jugaban todos los días como hábito repetido, no como un único evento.",
+      "'Existía', 'jugaban' y 'estaban' son correctos, pero 'estuvo' es pretérito indefinido. El estado de descuido era una condición persistente durante esa época."
     ]
   },
   {
     "language": "es",
     "tense": "Pretérito Imperfecto",
-    "sentence": "De pequeña, tú _______ mucho.",
+    "sentence": "En los años que _______ inmediatamente después de la guerra, la situación económica del país _______ tan precaria que la mayoría de las familias _______ que _______ difícil encontrar suficiente comida para todos los miembros del hogar.",
     "options": [
-      "lloras",
-      "lloraste",
-      "llorabas",
-      "has llorado"
+      "siguieron... era... reconocían... era",
+      "siguieron... era... reconocían... fue",
+      "siguieron... fue... reconocían... era",
+      "siguieron... era... reconocían... estaba"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanations": [
-      "'Lloras' es presente, pero 'de pequeña' indica pasado.",
-      "'Lloraste' es indefinido puntual, no para característica de la niñez.",
-      "Correcto! 'Llorabas' es imperfecto para característica o hábito pasado.",
-      "'Has llorado' es perfecto, no para describir época de la niñez."
+      "Correcto! 'Siguieron' es pretérito indefinido, adecuado para el periodo posterior a la guerra. 'Era', 'reconocían' y 'era' son imperfecto, que describen la situación persistente y los estados during esa época.",
+      "'Siguieron' y 'reconocían' son correctos, pero 'fue' es pretérito indefinido. La situación económica precaria era una condición persistente, no un evento puntual.",
+      "'Siguieron' y 'reconocían' son correctos, pero la segunda 'fue' es pretérito indefinido. La dificultad de encontrar comida era una realidad habitual, no un evento único.",
+      "'Reconocían' es correcto, pero 'estaba' no es la expresión más natural aquí. La dificultad de encontrar comida _______ difícil, no estaba difícil."
     ]
   },
   {
     "language": "es",
     "tense": "Pretérito Imperfecto",
-    "sentence": "En aquella época, nosotros no _______ teléfonos móviles.",
+    "sentence": "Cada noche, antes de dormirse, mi pequeña hija _______ que yo le _______ un cuento diferente, y siempre _______ los cuentos que _______ sobre princesas que _______ aventuras extraordinarias por tierras lejanas.",
     "options": [
-      "tenemos",
-      "tuvimos",
-      "teníamos",
-      "hemos tenido"
+      "pedía... leyera... prefería... hablaban... describían",
+      "pidió... leyera... prefería... hablaban... describían",
+      "pedía... leyera... prefirió... hablaban... describían",
+      "pedía... leyera... prefería... hablaban... describió"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanations": [
-      "'Tenemos' es presente, pero hablamos de época pasada.",
-      "'Tuvimos' es indefinido puntual, no para situación de una época.",
-      "Correcto! 'Teníamos' es imperfecto para describir situación de una época.",
-      "'Hemos tenido' es perfecto, no para describir época específica pasada."
+      "Correcto! Todos los verbos están en imperfecto o subjuntivo imperfecto: 'pedía' (hábito nocterno), 'leyera' (subjuntivo imperfecto tras 'pedía'), 'prefería' (preferencia habitual), 'hablaban' (contenido habitual) y 'describían' (contenido habitual de los cuentos).",
+      "'Leyera' y los demás son correctos, pero 'pidió' es pretérito indefinido. La petición de un cuento era un hábito diario, no un evento único.",
+      "'Pedía' y 'leyera' son correctos, pero 'prefirió' es pretérito indefinido. La preferencia por los cuentos de princesas era habitual, no un evento único.",
+      "'Pedía', 'prefería' y 'hablaban' son correctos, pero 'describió' es pretérito indefinido. La descripción de las aventuras era un contenido habitual de los cuentos favoritos."
     ]
   },
   {
     "language": "es",
     "tense": "Pretérito Imperfecto",
-    "sentence": "Cada verano ellos _______ a la playa.",
+    "sentence": "Cuando yo _______ en la universidad hace más de veinte años, los estudiantes _______ mucho tiempo debatiendo sobre política y filosofía, y los profesores _______ que ese tipo de conversaciones _______ fundamental para el desarrollo intelectual de los jóvenes.",
     "options": [
-      "van",
-      "fueron",
-      "iban",
-      "han ido"
+      "estudiaba... pasaban... creían... era",
+      "estudié... pasaban... creían... era",
+      "estudiaba... pasaban... creyeron... era",
+      "estudiaba... pasaban... creían... fue"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanations": [
-      "'Van' es presente, pero 'cada verano' indica hábito pasado.",
-      "'Fueron' es indefinido para acción puntual, no repetida.",
-      "Correcto! 'Iban' es imperfecto para acción habitual repetida (cada verano).",
-      "'Han ido' es perfecto, no para describir costumbre pasada."
+      "Correcto! Todos los verbos están en imperfecto: 'estudiaba' (situación durante esa época), 'pasaban' (hábito habitual), 'creían' (opinión persistente de los profesores), 'era' (estado de la realidad durante ese periodo).",
+      "'Pasaban', 'creían' y 'era' son correctos, pero 'estudié' es pretérito indefinido. El periodo universitario fue una etapa prolongada, no un evento puntual.",
+      "'Estudiaba', 'pasaban' y 'era' son correctos, pero 'creyeron' es pretérito indefinido. La opinión de los profesores era una postura habitual, no un evento único.",
+      "'Estudiaba', 'pasaban' y 'creían' son correctos, pero 'fue' es pretérito indefinido. La importancia de las conversaciones era una realidad persistente durante esa época."
     ]
   },
   {
     "language": "es",
     "tense": "Pretérito Imperfecto",
-    "sentence": "El cielo _______ muy nublado esa tarde.",
+    "sentence": "La ciudad, que antes de la transformación urbana _______ un aspecto completamente diferente, _______ llena de calles estrechas y edificios antiguos que _______ historia en cada esquina, y los vecinos más mayores _______ orgullosos de esa identidad que _______ poco a poco desapareciendo.",
     "options": [
-      "está",
-      "estuvo",
-      "estaba",
-      "ha estado"
+      "tenía... estaba... respiraban... estaban... estaba",
+      "tuvo... estaba... respiraban... estaban... estaba",
+      "tenía... estaba... respiraban... estaban... desapareció",
+      "tenía... estaba... respiraban... estaban... ha estado"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanations": [
-      "'Está' es presente, pero describimos tarde pasada.",
-      "'Estuvo' es indefinido - posible, pero 'estaba' más natural para descripción.",
-      "Correcto! 'Estaba' es imperfecto para describir condición o escenario.",
-      "'Ha estado' es perfecto, no para describir escena específica pasada."
+      "Correcto! Todos los verbos están en imperfecto, que es el tense adecuado para describir la situación persistente de la ciudad antes de la transformación: su aspecto, sus características, y los sentimientos de los vecinos.",
+      "'Estaba' y los demás son correctos, pero 'tuvo' es pretérito indefinido. El aspecto anterior de la ciudad era una situación prolongada, no un evento puntual.",
+      "Todos los verbos son correctos excepto 'desapareció', que es pretérito indefinido. La desaparición de la identidad era un proceso gradual ('poco a poco'), no un evento puntual.",
+      "Todos los verbos son correctos excepto 'ha estado', que es presente perfecto. La situación descrita es del pasado cerrado y no tiene conexión con el presente."
     ]
   },
   {
     "language": "es",
     "tense": "Pretérito Imperfecto",
-    "sentence": "Yo _______ en el jardín cuando empezó a llover.",
+    "sentence": "Todos los inviernos, cuando las temperaturas _______ caer de manera brusca, los habitantes del pueblo _______ preparar grandes cantidades de conservas y _______ la comida para los meses más fríos, una tradición que _______ de generación en generación desde hace siglos.",
     "options": [
-      "trabajo",
-      "trabajé",
-      "trabajaba",
-      "he trabajado"
+      "empezaban... comenzaban... almacenaban... pasaba",
+      "empezaban... comenzaban... almacenaban... pasó",
+      "empezaban... comenzaban... almacenaban... ha pasado",
+      "empezaron... comenzaban... almacenaban... pasaba"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanations": [
-      "'Trabajo' es presente, pero la situación es pasada.",
-      "'Trabajé' es indefinido para acción completa, no en progreso.",
-      "Correcto! 'Trabajaba' es imperfecto para acción en progreso interrumpida.",
-      "'He trabajado' es perfecto, no para acción en progreso del pasado."
+      "Correcto! Todos los verbos están en imperfecto: 'empezaban', 'comenzaban', 'almacenaban' y 'pasaba' describen hábitos y situaciones repetidas que ocurrían cada invierno durante esa época.",
+      "'Empezaban', 'comenzaban' y 'almacenaban' son correctos, pero 'pasó' es pretérito indefinido. La transmisión de la tradición era un proceso prolongado, no un evento único.",
+      "'Empezaban', 'comenzaban' y 'almacenaban' son correctos, pero 'ha pasado' es presente perfecto, que conectaría la tradición con el presente. El contexto es del pasado cerrado.",
+      "'Comenzaban' y 'almacenaban' son correctos, pero 'empezaron' es pretérito indefinido. La llegada del frío y los preparativos eran acciones habituales cada invierno, no eventos únicos."
     ]
   },
   {
     "language": "es",
     "tense": "Pretérito Imperfecto",
-    "sentence": "Antiguamente la gente _______ más tiempo libre.",
+    "sentence": "En la casa de mis abuelos, que _______ en un pueblito costero, siempre _______ un olor especial a pan reciente por las mañanas, porque mi abuela _______ levantándose antes del amanecer para _______ el pan con sus propias manos, algo que _______ desde que era muy joven.",
     "options": [
-      "tiene",
-      "tuvo",
-      "tenía",
-      "ha tenido"
+      "estaba... había... se ponía... hacer... hacía",
+      "estaba... había... se ponía... hizo... hacía",
+      "estaba... había... se ponía... hacer... hizo",
+      "estuvo... había... se ponía... hacer... hacía"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanations": [
-      "'Tiene' es presente, pero 'antiguamente' indica pasado.",
-      "'Tuvo' es indefinido puntual, no para característica de una época.",
-      "Correcto! 'Tenía' es imperfecto para describir característica de época pasada.",
-      "'Ha tenido' es perfecto, no para época lejana cerrada."
+      "Correcto! 'Estaba' (ubicación), 'había' (situación), 'se ponía' (hábito) y 'hacía' (hábito de largo tiempo) son todos imperfecto. 'Hacer' es infinitivo, necesario tras 'para' (Purpose).",
+      "Todos son correctos excepto 'hizo'. 'Hizo' es pretérito indefinido, pero 'hacer el pan' era una actividad habitual, no un evento único.",
+      "'Estaba', 'había' y 'se ponía' son correctos, pero 'hizo' es pretérito indefinido. El hacen del pan era un hábito, no un evento único.",
+      "'Estaba', 'había', 'se ponía' y 'hacer' son correctos, pero 'estuvo' es pretérito indefinido. La ubicación de la casa era una situación permanente, no un evento puntual."
     ]
   },
   {
     "language": "es",
     "tense": "Pretérito Imperfecto",
-    "sentence": "Tú siempre _______ las mismas historias.",
+    "sentence": "Cuando los científicos finalmente _______ el resultado de sus experimentos, todos los que _______ presentes en el laboratorio _______ que la fórmula que _______ desarrollando durante años _______ funcionando exactamente como _______ previsto en los cálculos iniciales.",
     "options": [
-      "cuentas",
-      "contaste",
-      "contabas",
-      "has contado"
+      "obtuvieron... estaban... comprendieron... habían estado... estaba... había sido",
+      "obtuvieron... estaban... comprendieron... desarrollaban... estaba... había sido",
+      "obtuvieron... estaban... comprendían... habían estado... estaba... había sido",
+      "obtuvieron... estaban... comprendieron... habían estado... estaba... fue"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanations": [
-      "'Cuentas' es presente, contexto sugiere hábito pasado.",
-      "'Contaste' es indefinido puntual, no para acción repetida habitual.",
-      "Correcto! 'Contabas' es imperfecto para hábito o costumbre pasada.",
-      "'Has contado' es perfecto, no para describir costumbre pasada."
+      "Correcto! 'Obtuvieron' y 'comprendieron' son pretérito para los eventos puntuales. 'Estaban' es imperfecto compuesto para la situación en progreso. 'Habían estado desarrollando' es pluscuamperfecto compuesto para la duración previa. 'Estaba funcionando' es imperfecto compuesto. 'Había sido previsto' es pluscuamperfecto pasivo.",
+      "Todos son correctos excepto 'desarrollaban'. 'Desarrollaban' es imperfecto simple, pero la oración enfatiza la duración del proceso con 'durante años', lo que requiere pluscuamperfecto compuesto.",
+      "Todos son correctos excepto 'comprendían'. 'Comprendían' es imperfecto, pero la comprensión fue un resultado concreto e inmediato del obtener el resultado.",
+      "Todos son correctos excepto 'fue'. 'Fue' es pretérito indefinido, pero 'había sido previsto' es necesario para mostrar que las predicciones fueron hechas antes de los experimentos."
     ]
   },
   {
     "language": "es",
     "tense": "Pretérito Imperfecto",
-    "sentence": "Cuando éramos jóvenes, nosotros _______ todas las noches.",
+    "sentence": "La pequeña librería que _______ en la esquina de nuestra calle _______ un lugar donde yo _______ pasar las tardes leyendo, y el anciano propietario siempre _______ que los libros _______ la mejor forma de conocer el mundo sin necesidad de salir de casa.",
     "options": [
-      "bailamos",
-      "bailábamos",
-      "bailaremos",
-      "hemos bailado"
+      "había... era... pasaba... me decía... eran",
+      "había... era... pasaba... me dijo... eran",
+      "había... era... pasaba... me decía... fueron",
+      "hubo... era... pasaba... me decía... eran"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanations": [
-      "'Bailamos' es indefinido o presente, no para costumbre de juventud.",
-      "Correcto! 'Bailábamos' es imperfecto para hábito pasado repetido.",
-      "'Bailaremos' es futuro, no tiene sentido con 'cuando éramos'.",
-      "'Hemos bailado' es perfecto, no para época específica pasada."
+      "Correcto! Todos los verbos están en imperfecto: 'había' (existencia de la librería), 'era' (su característica), 'pasaba' (mi hábito), 'me decía' (opinión habitual del propietario) y 'eran' (su creencia persistente).",
+      "Todos son correctos excepto 'dijo'. 'Dijo' es pretérito indefinido, pero el propietario decía eso de manera habitual, no como una única declaración.",
+      "Todos son correctos excepto 'fueron'. 'Fueron' es pretérito indefinido, pero la opinión sobre los libros era una creencia persistente del propietario, no un evento único.",
+      "'Había', 'era', 'pasaba' y 'me decía' son correctos, pero 'hubo' es pretérito indefinido. La existencia de la librería era una situación prolongada, no un evento puntual."
     ]
   },
   {
     "language": "es",
     "tense": "Pretérito Imperfecto",
-    "sentence": "La casa _______ muy grande y antigua.",
+    "sentence": "Mientras el resto del mundo _______ concentrado en los grandes cambios tecnológicos de los últimos años, los moradores de esa pequeña isla _______ viviendo exactamente de la misma manera en que _______ viviendo sus antepasados hace varios siglos, completamente ajenos a esa agitación.",
     "options": [
-      "es",
-      "fue",
-      "era",
-      "ha sido"
+      "estaba... seguían... habían estado",
+      "estaba... siguieron... habían estado",
+      "estaba... seguían... estaban",
+      "estuvo... seguían... habían estado"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanations": [
-      "'Es' es presente, pero describimos casa del pasado.",
-      "'Fue' es indefinido - posible, pero 'era' mejor para descripción.",
-      "Correcto! 'Era' es imperfecto para describir características en pasado.",
-      "'Ha sido' es perfecto, no para descripción de estado pasado."
+      "Correcto! 'Estaba' es imperfecto compuesto para la situación del mundo en progreso. 'Seguían' es imperfecto que muestra la continuidad. 'Habían estado' es pluscuamperfecto compuesto, que muestra que los antepasados vivían así desde antes.",
+      "'Estaba' es correcto, pero 'siguieron' es pretérito indefinido. La continuidad del estilo de vida de los isleños no fue un evento puntual sino una situación prolongada.",
+      "'Estaba' y 'seguían' son correctos, pero 'estaban' es imperfecto simple, que no establece claramente que la forma de vida de los antepasados precedía a la de los isleños.",
+      "'Seguían' y 'habían estado' son correctos, pero 'estuvo' es pretérito indefinido. La concentración del mundo en los cambios tecnológicos era una situación en progreso, no un evento puntual."
     ]
   },
   {
     "language": "es",
     "tense": "Pretérito Imperfecto",
-    "sentence": "Mientras ellos _______, nosotros preparábamos la cena.",
+    "sentence": "Cuando _______ pequeños, nosotros no _______ la televisión ni la internet, así que _______ mucho de la imaginación para entretenernos durante las largas tardes de verano en el jardín de la casa familiar.",
     "options": [
-      "estudian",
-      "estudiaron",
-      "estudiaban",
-      "han estudiado"
+      "éramos... teníamos... dependíamos",
+      "fuimos... teníamos... dependíamos",
+      "éramos... tuvimos... dependíamos",
+      "éramos... teníamos... dependimos"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanations": [
-      "'Estudian' es presente, pero la acción es pasada.",
-      "'Estudiaron' es indefinido para acción completa, no simultánea.",
-      "Correcto! 'Estudiaban' es imperfecto para acción simultánea en pasado.",
-      "'Han estudiado' es perfecto, no para acciones simultáneas pasadas."
+      "Correcto! 'Éramos', 'teníamos' y 'dependíamos' son todos imperfecto, que describe la situación habitual y las características de la infancia de manera continua y repetida.",
+      "'Fuimos' es pretérito indefinido. La infancia fue un periodo prolongado, no un evento puntual, por lo que debe estar en imperfecto: 'éramos'.",
+      "'Éramos' y 'dependíamos' son correctos, pero 'tuvimos' es pretérito indefinido. La ausencia de televisión e internet era una situación persistente durante la infancia, no un evento único.",
+      "'Éramos' y 'teníamos' son correctos, pero 'dependimos' es pretérito indefinido. La dependencia de la imaginación era un hábito repetido durante todos esos veranos, no un evento único."
     ]
   },
   {
     "language": "es",
     "tense": "Pretérito Imperfecto",
-    "sentence": "En esos días, yo _______ música todo el tiempo.",
+    "sentence": "En los días en que el clima _______ especialmente agradable y el sol _______ con una intensidad suave, los profesores _______ dar las clases al aire libre en el jardín de la escuela, y los estudiantes _______ mucho más contentos y participativos que de costumbre.",
     "options": [
-      "escucho",
-      "escuché",
-      "escuchaba",
-      "he escuchado"
+      "estaba... brillaba... decidían... estaban",
+      "estuvo... brillaba... decidían... estaban",
+      "estaba... brilló... decidían... estaban",
+      "estaba... brillaba... decidieron... estaban"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanations": [
-      "'Escucho' es presente, pero 'en esos días' indica pasado.",
-      "'Escuché' es indefinido puntual, no para hábito de una época.",
-      "Correcto! 'Escuchaba' es imperfecto para hábito continuo de esa época.",
-      "'He escuchado' es perfecto, no para describir época específica."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Pretérito Imperfecto",
-    "sentence": "Tú no _______ lo que pasaba a tu alrededor.",
-    "options": [
-      "ves",
-      "viste",
-      "veías",
-      "has visto"
-    ],
-    "correct": 2,
-    "explanations": [
-      "'Ves' es presente, pero el contexto es pasado.",
-      "'Viste' es indefinido puntual, no para estado continuo.",
-      "Correcto! 'Veías' es imperfecto para estado o percepción continua pasada.",
-      "'Has visto' es perfecto, no para describir estado pasado."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Pretérito Imperfecto",
-    "sentence": "Los domingos nosotros _______ a visitar a los abuelos.",
-    "options": [
-      "vamos",
-      "fuimos",
-      "íbamos",
-      "hemos ido"
-    ],
-    "correct": 2,
-    "explanations": [
-      "'Vamos' es presente, pero hablamos de costumbre pasada.",
-      "'Fuimos' es indefinido para ocasión única, no costumbre repetida.",
-      "Correcto! 'Íbamos' es imperfecto para acción habitual (cada domingo).",
-      "'Hemos ido' es perfecto, no para costumbre pasada específica."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Pretérito Imperfecto",
-    "sentence": "Ella _______ muy feliz en esa ciudad.",
-    "options": [
-      "está",
-      "estuvo",
-      "estaba",
-      "ha estado"
-    ],
-    "correct": 2,
-    "explanations": [
-      "'Está' es presente, pero describimos estado pasado.",
-      "'Estuvo' es indefinido - posible, pero 'estaba' mejor para estado prolongado.",
-      "Correcto! 'Estaba' es imperfecto para describir estado o emoción pasada.",
-      "'Ha estado' es perfecto, no para describir estado en época pasada."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Pretérito Imperfecto",
-    "sentence": "Cuando llegué, ellos ya _______ la mesa.",
-    "options": [
-      "preparan",
-      "prepararon",
-      "preparaban",
-      "han preparado"
-    ],
-    "correct": 2,
-    "explanations": [
-      "'Preparan' es presente, pero la situación es pasada.",
-      "'Prepararon' es indefinido completo, pero 'preparaban' muestra proceso.",
-      "Correcto! 'Preparaban' es imperfecto para acción en progreso al llegar.",
-      "'Han preparado' es perfecto, no para acción en progreso pasada."
+      "Correcto! Todos los verbos están en imperfecto: 'estaba' y 'brillaba' describen las condiciones del clima, 'decidían' es el hábito de los profesores y 'estaban' describe el estado emocional de los estudiantes en esas circunstancias.",
+      "'Brillaba', 'decidían' y 'estaban' son correctos, pero 'estuvo' es pretérito indefinido. Las condiciones climáticas eran una situación que se repetía, no un evento único.",
+      "'Estaba' y 'decidían' son correctos, pero 'brilló' es pretérito indefinido. El brillo del sol era una condición habitual en esos días, no un evento puntual.",
+      "'Estaba', 'brillaba' y 'estaban' son correctos, pero 'decidieron' es pretérito indefinido. Los profesores decidían dar clases al aire libre de manera habitual, no como un único evento."
     ]
   }
 ]
