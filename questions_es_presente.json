@@ -7,83 +7,83 @@
       "content": "La estructura del presente de indicativo es muy similar al portugués. Enfócate en las terminaciones:\n\n-AR → -o, -as, -a, -amos, -áis, -an (Ej: hablo, hablas, habla)\n-ER → -o, -es, -e, -emos, -éis, -en (Ej: como, comes, come)\n-IR → -o, -es, -e, -imos, -ís, -en (Ej: vivo, vives, vive)\n\nRecuerda: la concordancia de persona y número es fundamental.",
       "questions": [
         {
-          "sentence": "En la oficina central, los directivos _______ decisiones importantes cada lunes, aunque los empleados de las sucursales no siempre _______ las razones que hay detrás de esas medidas.",
+          "sentence": "Los estudiantes _______ español todos los días y _______ mucho con las actividades prácticas.",
           "options": [
-            "toman... entienden",
-            "toma... entienden",
-            "toman... entiende",
-            "toman... entiendo"
+            "estudian... aprenden",
+            "estudia... aprende",
+            "estudiamos... aprendemos",
+            "estudias... aprendes"
           ],
           "correct": 0,
           "explanations": [
-            "¡Correcto! 'Toman' es tercera persona plural, que concuerda con 'los directivos'. 'Entienden' es también tercera persona plural, que concuerda con 'los empleados de las sucursales'.",
-            "'Toma' es tercera persona singular. Como el sujeto es 'los directivos' (plural), el verbo debe estar en forma plural 'toman'.",
-            "'Toman' es correcto, pero 'entiende' es tercera persona singular. El sujeto 'los empleados' es plural y requiere 'entienden'.",
-            "'Toman' es correcto, pero 'entiendo' es primera persona singular (yo), que no concuerda con 'los empleados', que es tercera persona plural."
+            "¡Correcto! Ambos verbos en tercera persona plural concuerdan con 'los estudiantes'.",
+            "'Estudia' y 'aprende' son singular. El sujeto 'los estudiantes' requiere plural.",
+            "'Estudiamos' y 'aprendemos' son primera persona plural (nosotros), no tercera.",
+            "'Estudias' y 'aprendes' son segunda persona singular (tú), no tercera plural."
           ]
         },
         {
-          "sentence": "Mi padre, que _______ desde hace muchos años en la misma empresa, _______ que la situación económica del sector va a cambiar drásticamente en los próximos meses.",
+          "sentence": "Yo _______ en una oficina y mi hermana _______ en un hospital.",
           "options": [
-            "trabaja... cree",
-            "trabajas... cree",
-            "trabaja... crees",
-            "trabajamos... cree"
+            "trabajamos... trabaja",
+            "trabajo... trabaja",
+            "trabajo... trabajas",
+            "trabaja... trabajo"
           ],
-          "correct": 0,
+          "correct": 1,
           "explanations": [
-            "¡Correcto! 'Trabaja' y 'cree' son ambas conjugaciones de tercera persona singular, que concuerdan con el sujeto 'mi padre'.",
-            "'Trabajas' es segunda persona singular (tú), que no concuerda con 'mi padre'. El verbo debe estar en tercera persona singular.",
-            "'Trabaja' es correcto, pero 'crees' es segunda persona singular (tú), no tercera. El sujeto principal de la segunda oración sigue siendo 'mi padre'.",
-            "'Trabajamos' es primera persona plural (nosotros), que en ningún caso concuerda con el sujeto 'mi padre', que es tercera persona singular."
+            "'Trabajamos' es primera persona plural (nosotros), no singular (yo).",
+            "¡Correcto! 'Trabajo' es primera persona singular (yo) y 'trabaja' es tercera singular (mi hermana).",
+            "'Trabajas' es segunda persona singular (tú), no tercera. Debe ser 'trabaja' para 'mi hermana'.",
+            "El orden está invertido. 'Yo' requiere 'trabajo', no 'trabaja'."
           ]
         },
         {
-          "sentence": "Nosotras, que siempre _______ juntas los viernes por la tarde, _______ que este mes la situación es diferente porque todas tenemos demasiado trabajo pendiente.",
+          "sentence": "Tú _______ muy bien el piano y _______ en varios conciertos cada año.",
           "options": [
-            "quedamos... pensamos",
-            "quedáis... pensamos",
-            "quedamos... pensáis",
-            "quedamos... piensa"
+            "tocas... participas",
+            "toca... participa",
+            "tocamos... participamos",
+            "toco... participo"
           ],
           "correct": 0,
           "explanations": [
-            "¡Correcto! 'Quedamos' y 'pensamos' son ambas primera persona plural, que concuerdan con el sujeto 'nosotras'.",
-            "'Quedáis' es segunda persona plural (vosotros/vosotras), que no concuerda con 'nosotras', que requiere primera persona plural.",
-            "'Quedamos' es correcto, pero 'pensáis' es segunda persona plural (vosotros/vosotras), no primera. El sujeto es 'nosotras'.",
-            "'Quedamos' es correcto, pero 'piensa' es tercera persona singular, que no concuerda con 'nosotras', que requiere primera persona plural."
+            "¡Correcto! Ambos verbos en segunda persona singular concuerdan con 'tú'.",
+            "'Toca' y 'participa' son tercera persona singular, no segunda.",
+            "'Tocamos' y 'participamos' son primera persona plural (nosotros), no segunda singular.",
+            "'Toco' y 'participo' son primera persona singular (yo), no segunda."
           ]
         },
         {
-          "sentence": "Tú, que _______ en esta ciudad desde hace varios años, _______ que la zona comercial del centro _______ cambiando bastante rápido en los últimos meses.",
+          "sentence": "Nosotros _______ en el centro y _______ al trabajo en metro.",
           "options": [
-            "vives... sabes... está",
-            "vivimos... sabes... está",
-            "vives... sabemos... está",
-            "vives... sabes... están"
+            "vive... viaja",
+            "vivo... viajo",
+            "vivimos... viajamos",
+            "viven... viajan"
           ],
-          "correct": 0,
+          "correct": 2,
           "explanations": [
-            "¡Correcto! 'Vives' y 'sabes' son segunda persona singular (tú). 'Está' es tercera persona singular, que concuerda con 'la zona comercial'.",
-            "'Vivimos' es primera persona plural (nosotros), que no concuerda con 'tú', que requiere segunda persona singular.",
-            "'Vives' es correcto, pero 'sabemos' es primera persona plural (nosotros). El sujeto es 'tú' y requiere 'sabes'.",
-            "'Vives' y 'sabes' son correctos, pero 'están' es tercera persona plural. El sujeto 'la zona comercial' es singular y requiere 'está'."
+            "'Vive' y 'viaja' son tercera persona singular, no primera plural.",
+            "'Vivo' y 'viajo' son primera persona singular (yo), no plural (nosotros).",
+            "¡Correcto! Ambos verbos en primera persona plural concuerdan con 'nosotros'.",
+            "'Viven' y 'viajan' son tercera persona plural (ellos), no primera."
           ]
         },
         {
-          "sentence": "Vosotros _______ que la solución al problema es obvia, pero cuando realmente _______ a analizarlo con detalle, observáis que en realidad varias soluciones _______ sobre la mesa.",
+          "sentence": "Vosotras _______ mucho en el gimnasio y _______ una dieta equilibrada.",
           "options": [
-            "pensáis... os ponéis... están",
-            "pensáis... se ponen... están",
-            "pensamos... os ponéis... están",
-            "pensáis... os ponéis... está"
+            "entrenas... sigues",
+            "entrenan... siguen",
+            "entrenamos... seguimos",
+            "entrenáis... seguís"
           ],
-          "correct": 0,
+          "correct": 3,
           "explanations": [
-            "¡Correcto! 'Pensáis' y 'os ponéis' son segunda persona plural, que concuerdan con 'vosotros'. 'Están' es tercera persona plural, que concuerda con 'varias soluciones'.",
-            "'Pensáis' es correcto, pero 'se ponen' es tercera persona plural. El sujeto implícito sigue siendo 'vosotros', que requiere 'os ponéis'.",
-            "'Pensamos' es primera persona plural (nosotros), que no concuerda con 'vosotros', que requiere segunda persona plural.",
-            "'Pensáis' y 'os ponéis' son correctos, pero 'está' es tercera persona singular. El sujeto 'varias soluciones' es plural y requiere 'están'."
+            "'Entrenas' y 'sigues' son segunda persona singular (tú), no plural (vosotras).",
+            "'Entrenan' y 'siguen' son tercera persona plural (ellos/ellas), no segunda.",
+            "'Entrenamos' y 'seguimos' son primera persona plural (nosotros), no segunda.",
+            "¡Correcto! Ambos verbos en segunda persona plural concuerdan con 'vosotras'."
           ]
         }
       ]
@@ -94,170 +94,170 @@
       "content": "El 'Truco de la Bota': Muchos verbos cambian su raíz en el presente, pero NUNCA en 'nosotros' y 'vosotros'. Si dibujas una línea alrededor de las personas que cambian, parece una bota.\n\nEjemplos:\nPENSAR: pienso, piensas, piensa... pero pensamos, pensáis, piensan\nPODER: puedo, puedes, puede... pero podemos, podéis, pueden\nQUERER: quiero, quieres, quiere... pero queremos, queréis, quieren",
       "questions": [
         {
-          "sentence": "Aunque mi hermana generalmente _______ muy temprano los días laborables, los fines de semana _______ hasta casi mediodía sin ningún problema.",
+          "sentence": "Nosotros _______ ir al cine, pero vosotros _______ quedarse en casa.",
           "options": [
-            "se despierta... se queda dormida",
-            "se despiertas... se queda dormida",
-            "se despierta... se quedas dormida",
-            "se despierto... se queda dormida"
+            "queremos... queréis",
+            "quieren... quieren",
+            "quiero... quieres",
+            "queremos... quieren"
           ],
           "correct": 0,
           "explanations": [
-            "¡Correcto! 'Se despierta' es la conjugación correcta de tercera persona singular para 'mi hermana', y 'se queda dormida' también concuerda en persona y número con el sujeto.",
-            "'Se despiertas' es segunda persona singular (tú), que no concuerda con el sujeto 'mi hermana', que requiere tercera persona singular.",
-            "'Se quedas dormida' es segunda persona singular, que no concuerda con 'mi hermana'. Ambos verbos deben estar en tercera persona singular.",
-            "'Se despierto' es primera persona singular (yo), que en ningún caso concuerda con el sujeto 'mi hermana', que exige tercera persona singular."
+            "¡Correcto! 'Queremos' y 'queréis' NO cambian (nosotros/vosotros quedan fuera de la bota).",
+            "'Quieren' es tercera persona plural, no primera ni segunda.",
+            "'Quiero' y 'quieres' son singular, no plural.",
+            "'Queréis' es la forma correcta para vosotros, no 'quieren'."
           ]
         },
         {
-          "sentence": "Es curioso que la mayoría de los estudiantes _______ mucho tiempo en las redes sociales, pero muy pocos _______ esfuerzo por mejorar sus habilidades académicas de manera seria.",
+          "sentence": "Yo _______ a las 7 de la mañana, pero mi hermano _______ a las 6.",
           "options": [
-            "invierte... hacen",
-            "invertiéis... hacen",
-            "invierte... hace",
-            "invertiéis... hace"
+            "despierto... despierta",
+            "me despierta... se despierta",
+            "me despierto... se despierta",
+            "despertamos... despertáis"
           ],
-          "correct": 0,
+          "correct": 2,
           "explanations": [
-            "¡Correcto! 'La mayoría de los estudiantes', aunque parece plural, rige el verbo en singular: 'invierte'. 'Muy pocos' es plural y requiere 'hacen'.",
-            "'Invertiéis' es segunda persona plural (vosotros), que no concuerda con 'la mayoría de los estudiantes'. Este sujeto rige singular.",
-            "'Invierte' es correcto, pero 'hace' es tercera persona singular. El sujeto de la segunda cláusula es 'muy pocos', que es plural y requiere 'hacen'.",
-            "Ambas formas ('invertiéis... hace') no concuerdan: 'invertiéis' no concuerda con 'la mayoría' y 'hace' no concuerda con 'muy pocos'."
+            "Falta el pronombre reflexivo 'me' y 'se'. Es un verbo pronominal.",
+            "El verbo debe cambiar: 'despierto', no 'despierta' para primera persona.",
+            "¡Correcto! 'Me despierto' (e→ie) y 'se despierta' (e→ie) con pronombres reflexivos.",
+            "Son formas de plural, pero los sujetos son singulares (yo/mi hermano)."
           ]
         },
         {
-          "sentence": "Cuando tú _______ que algo no funciona correctamente en el sistema, _______ inmediatamente al equipo técnico y _______ todas las actividades hasta que se resuelva el problema.",
+          "sentence": "Ellas _______ muy bien, pero nosotras no _______ concentrarnos tanto.",
           "options": [
-            "notas... avisas... detienes",
-            "notamos... avisas... detienes",
-            "notas... avisamos... detienes",
-            "notas... avisas... detenemos"
+            "piensa... podemos",
+            "piensan... pueden",
+            "piensan... podemos",
+            "pensamos... podemos"
           ],
-          "correct": 0,
+          "correct": 2,
           "explanations": [
-            "¡Correcto! 'Notas', 'avisas' y 'detienes' son todas segunda persona singular (tú), manteniendo la concordancia con el sujeto implícito.",
-            "'Notamos' es primera persona plural (nosotros), que no concuerda con 'tú'. Todos los verbos deben estar en segunda persona singular.",
-            "'Notas' y 'detienes' son correctos, pero 'avisamos' es primera persona plural. El sujeto es 'tú' y requiere 'avisas'.",
-            "'Notas' y 'avisas' son correctos, pero 'detenemos' es primera persona plural. El sujeto es 'tú' y requiere 'detienes'."
+            "'Piensa' es singular, pero 'ellas' es plural. Debe ser 'piensan'.",
+            "'Pueden' concuerda con 'ellas', no con 'nosotras'. Debe ser 'podemos'.",
+            "¡Correcto! 'Piensan' cambia (e→ie), pero 'podemos' NO cambia (fuera de la bota).",
+            "'Pensamos' no cambia porque es nosotros, pero debería ser 'piensan' para 'ellas'."
           ]
         },
         {
-          "sentence": "Los ejecutivos de la compañía _______ que los resultados del último trimestre son alentadores, pero _______ prudentes y no _______ declaraciones optimistas hasta tener datos más consolidados.",
+          "sentence": "Tú siempre _______ la verdad y _______ hacer lo correcto.",
           "options": [
-            "piensan... prefieren... hacen",
-            "piensa... prefieren... hacen",
-            "piensan... prefiere... hacen",
-            "piensan... prefieren... hace"
+            "dices... intentas",
+            "dices... intentáis",
+            "dices... intenta",
+            "defiendes... intentas"
           ],
-          "correct": 0,
+          "correct": 3,
           "explanations": [
-            "¡Correcto! 'Piensan', 'prefieren' y 'hacen' son tercera persona plural, concordando perfectamente con el sujeto 'los ejecutivos de la compañía'.",
-            "'Piensa' es tercera persona singular, que no concuerda con 'los ejecutivos' (plural). Debe ser 'piensan'.",
-            "'Piensan' y 'hacen' son correctos, pero 'prefiere' es singular. El sujeto 'los ejecutivos' requiere 'prefieren'.",
-            "'Piensan' y 'prefieren' son correctos, pero 'hace' es singular. El sujeto 'los ejecutivos' requiere 'hacen'."
+            "'Intentas' es correcto, pero el verbo aquí es 'defender', no 'decir'.",
+            "'Intentáis' es segunda persona plural (vosotros), no singular (tú).",
+            "'Intenta' es tercera persona singular, no segunda. Debe ser 'intentas'.",
+            "¡Correcto! 'Defiendes' (e→ie) e 'intentas' (no cambia, -AR regular) para 'tú'."
           ]
         },
         {
-          "sentence": "Cada vez que nosotros _______ reunirnos para revisar el proyecto, _______ cuenta de que todavía _______ varios aspectos fundamentales que requieren más atención y desarrollo.",
+          "sentence": "El equipo _______ ganar el torneo y _______ mucho esfuerzo en los entrenamientos.",
           "options": [
-            "volvemos... nos damos... quedan",
-            "volváis... nos damos... quedan",
-            "volvemos... os dais... quedan",
-            "volvemos... nos damos... queda"
+            "quiere... ponen",
+            "quiere... pone",
+            "quieren... ponen",
+            "queremos... ponemos"
           ],
-          "correct": 0,
+          "correct": 1,
           "explanations": [
-            "¡Correcto! 'Volvemos' y 'nos damos' son primera persona plural (nosotros). 'Quedan' es tercera persona plural, concordando con 'varios aspectos fundamentales'.",
-            "'Volváis' es segunda persona plural (vosotros), que no concuerda con 'nosotros'. Debe ser 'volvemos'.",
-            "'Volvemos' es correcto, pero 'os dais' es segunda persona plural. El sujeto es 'nosotros' y requiere 'nos damos'.",
-            "'Volvemos' y 'nos damos' son correctos, pero 'queda' es singular. El sujeto 'varios aspectos' es plural y requiere 'quedan'."
+            "'Ponen' es plural, pero 'el equipo' es singular colectivo. Debe ser 'pone'.",
+            "¡Correcto! 'Quiere' (e→ie) y 'pone' (o→ue) en singular para 'el equipo'.",
+            "Ambos verbos están en plural, pero el sujeto 'el equipo' rige singular.",
+            "Son primera persona plural (nosotros), no tercera singular."
           ]
         }
       ]
     },
     {
       "id": 3,
-      "title": "Verbos irregulares en primera persona (-go)",
-      "content": "Los verbos 'yo-go': Hay verbos que solo son irregulares en la primera persona singular. Memoriza estas formas:\n\nHACER → hago (pero haces, hace, hacemos...)\nPONER → pongo (pero pones, pone, ponemos...)\nSALIR → salgo (pero sales, sale, salimos...)\nTRAER → traigo (pero traes, trae, traemos...)\nVALER → valgo (pero vales, vale, valemos...)\nVENIR → vengo (pero vienes, viene, venimos...)\nDECIR → digo (pero dices, dice, decimos...)\nTENER → tengo (pero tienes, tiene, tenemos...)\n\nSi te aprendes el 'yo', el resto suele ser regular.",
+      "title": "Verbos irregulares en la primera persona (yo)",
+      "content": "Muchos verbos son irregulares SOLO en la forma 'yo', mientras las demás personas siguen el patrón regular:\n\nHACER → hago (pero haces, hace, hacemos...)\nPONER → pongo (pero pones, pone, ponemos...)\nSALIR → salgo (pero sales, sale, salimos...)\nTENER → tengo (pero tienes, tiene, tenemos...)\nVENIR → vengo (pero vienes, viene, venimos...)\n\nRecuerda: solo cambia el 'yo', ¡no te confundas!",
       "questions": [
         {
-          "sentence": "Cada mañana, cuando yo _______ de la oficina, compruebo que mi colega _______ todavía intentando terminar los informes que tenía pendientes desde la semana anterior.",
+          "sentence": "Yo _______ la tarea por la tarde, pero mis compañeros la _______ por la mañana.",
           "options": [
-            "salgo... está",
-            "sales... está",
-            "salgo... estamos",
-            "sale... está"
+            "hago... hacen",
+            "hace... hacen",
+            "haces... hace",
+            "hacemos... hacen"
           ],
           "correct": 0,
           "explanations": [
-            "¡Correcto! 'Salgo' es primera persona singular, que concuerda con el sujeto 'yo'. 'Está' es tercera persona singular, que concuerda con 'mi colega'.",
-            "'Sales' es segunda persona singular (tú), que no concuerda con el sujeto 'yo', que requiere la primera persona singular 'salgo'.",
-            "'Salgo' es correcto, pero 'estamos' es primera persona plural (nosotros), que no concuerda con 'mi colega', un sujeto singular.",
-            "'Sale' es tercera persona singular, que no concuerda con el sujeto 'yo'. El sujeto de la primera cláusula es explícitamente 'yo'."
+            "¡Correcto! 'Hago' es irregular en primera persona (yo) y 'hacen' es regular en tercera plural.",
+            "'Hace' es tercera persona, no primera. Para 'yo' debe ser 'hago'.",
+            "'Haces' es segunda persona (tú), no primera. Y 'hace' es singular, no plural.",
+            "'Hacemos' es primera persona plural (nosotros), no singular (yo)."
           ]
         },
         {
-          "sentence": "Normalmente yo _______ todas las tareas del proyecto con sumo cuidado, pero últimamente _______ que no _______ el tiempo suficiente para dedicarme a los detalles como me gustaría.",
+          "sentence": "Cuando _______ de casa, siempre _______ las llaves en el bolso.",
           "options": [
-            "hago... veo... tengo",
-            "haces... veo... tengo",
-            "hago... ves... tengo",
-            "hago... veo... tienes"
+            "salimos... ponemos",
+            "salgo... pongo",
+            "sales... pones",
+            "sale... pone"
           ],
-          "correct": 0,
+          "correct": 1,
           "explanations": [
-            "¡Correcto! 'Hago', 'veo' y 'tengo' son todas primera persona singular (yo), manteniendo la coherencia del sujeto a lo largo de toda la oración.",
-            "'Haces' es segunda persona singular (tú), que no concuerda con 'yo'. Debe ser 'hago'.",
-            "'Hago' y 'tengo' son correctos, pero 'ves' es segunda persona singular. El sujeto es 'yo' y requiere 'veo'.",
-            "'Hago' y 'veo' son correctos, pero 'tienes' es segunda persona singular. El sujeto es 'yo' y requiere 'tengo'."
+            "Son formas de primera persona plural, pero el contexto es singular (yo).",
+            "¡Correcto! 'Salgo' y 'pongo' son irregulares en primera persona singular (yo).",
+            "Son formas de segunda persona (tú), no primera (yo).",
+            "Son formas de tercera persona (él/ella), no primera (yo)."
           ]
         },
         {
-          "sentence": "Cuando _______ a las reuniones internacionales, siempre _______ conmigo la documentación completa y _______ mucha atención a los matices culturales de cada país representado.",
+          "sentence": "Tú _______ muchos amigos, pero yo no _______ tiempo para socializar.",
           "options": [
-            "vengo... traigo... pongo",
-            "vienes... traigo... pongo",
-            "vengo... traes... pongo",
-            "vengo... traigo... pones"
+            "tienes... tengo",
+            "tiene... tengo",
+            "tienes... tiene",
+            "tenemos... tienen"
           ],
           "correct": 0,
           "explanations": [
-            "¡Correcto! 'Vengo', 'traigo' y 'pongo' son verbos irregulares en primera persona singular terminados en -go, concordando con el sujeto implícito 'yo'.",
-            "'Vienes' es segunda persona singular (tú), que no concuerda con el contexto de primera persona de la oración.",
-            "'Vengo' y 'pongo' son correctos, pero 'traes' es segunda persona singular. Debe ser 'traigo' en primera persona.",
-            "'Vengo' y 'traigo' son correctos, pero 'pones' es segunda persona singular. Debe ser 'pongo' en primera persona."
+            "¡Correcto! 'Tienes' es regular para 'tú' y 'tengo' es irregular para 'yo'.",
+            "'Tiene' es tercera persona, no segunda. Para 'tú' debe ser 'tienes'.",
+            "'Tiene' es tercera persona, no segunda ni primera.",
+            "Son formas plurales, pero los sujetos son singulares (tú/yo)."
           ]
         },
         {
-          "sentence": "Siempre que _______ la oportunidad, _______ todo lo posible por contribuir al éxito del equipo, aunque a veces _______ que mis esfuerzos no siempre _______ el reconocimiento que merecen.",
+          "sentence": "Mis padres _______ al trabajo en coche, pero yo _______ en bicicleta.",
           "options": [
-            "tengo... hago... siento... obtienen",
-            "tienes... hago... siento... obtienen",
-            "tengo... haces... siento... obtienen",
-            "tengo... hago... sientes... obtienen"
+            "van... voy",
+            "va... voy",
+            "van... va",
+            "voy... van"
           ],
           "correct": 0,
           "explanations": [
-            "¡Correcto! 'Tengo', 'hago' y 'siento' son primera persona singular (yo). 'Obtienen' es tercera persona plural, concordando con 'mis esfuerzos'.",
-            "'Tienes' es segunda persona singular (tú), que no concuerda con el contexto de primera persona.",
-            "'Tengo' y 'siento' son correctos, pero 'haces' es segunda persona singular. Debe ser 'hago'.",
-            "'Tengo' y 'hago' son correctos, pero 'sientes' es segunda persona singular. Debe ser 'siento'."
+            "¡Correcto! 'Van' es tercera persona plural y 'voy' es irregular para primera singular (yo).",
+            "'Va' es singular, pero 'mis padres' es plural. Debe ser 'van'.",
+            "'Va' es singular y tercera persona, no concuerda con ningún sujeto aquí.",
+            "El orden está invertido. 'Mis padres' requiere 'van', no 'voy'."
           ]
         },
         {
-          "sentence": "No _______ por qué mi supervisor siempre _______ tanto valor a las apariencias cuando lo que realmente _______ en nuestro sector son los resultados concretos y medibles.",
+          "sentence": "Nosotros _______ los fines de semana libres, pero yo nunca _______ nada interesante para hacer.",
           "options": [
-            "entiendo... pone... vale",
-            "entiendes... pone... vale",
-            "entiendo... pones... vale",
-            "entiendo... pone... vales"
+            "tenemos... tengo",
+            "tienen... tiene",
+            "tenéis... tengo",
+            "tenemos... traigo"
           ],
-          "correct": 0,
+          "correct": 3,
           "explanations": [
-            "¡Correcto! 'Entiendo' es primera persona singular (yo). 'Pone' es tercera persona singular concordando con 'mi supervisor'. 'Vale' es tercera persona singular impersonal.",
-            "'Entiendes' es segunda persona singular (tú), que no concuerda con el sujeto implícito 'yo'.",
-            "'Entiendo' es correcto, pero 'pones' es segunda persona singular. El sujeto es 'mi supervisor' (tercera persona), que requiere 'pone'.",
-            "'Entiendo' y 'pone' son correctos, pero 'vales' es segunda persona singular. La construcción impersonal requiere 'vale' en tercera persona."
+            "'Tengo' es correcto, pero el segundo verbo es 'traer', no 'tener'.",
+            "Son formas de tercera persona, no primera (nosotros/yo).",
+            "'Tenéis' es segunda persona plural (vosotros), no primera (nosotros).",
+            "¡Correcto! 'Tenemos' es regular para 'nosotros' y 'traigo' es irregular para 'yo'."
           ]
         }
       ]
@@ -268,83 +268,83 @@
       "content": "Tres casos que requieren atención especial:\n\n1) SUBJUNTIVO tras expresiones de deseo/duda/necesidad:\n   'Es importante que...' + SUBJUNTIVO\n   'Es necesario que...' + SUBJUNTIVO\n\n2) USTEDES (3ª persona plural en español, aunque sea 'vocês' en portugués):\n   Ustedes son → NO 'sois'\n   Ustedes tienen → NO 'tenéis'\n\n3) CONCORDANCIA con sujetos colectivos:\n   'La mayoría' + verbo SINGULAR\n   'Nadie' + verbo SINGULAR",
       "questions": [
         {
-          "sentence": "Vosotros siempre _______ las mejores ideas del equipo, aunque a veces _______ difícil que los superiores _______ en cuenta todas las propuestas que hacéis.",
+          "sentence": "Es importante que ustedes _______ puntuales, porque nadie _______ esperar.",
           "options": [
-            "aportáis... resulta... tengan",
-            "aportáis... resulta... tiene",
-            "aporta... resulta... tengan",
-            "aportáis... resultan... tengan"
+            "sean... quiere",
+            "sois... quiere",
+            "sean... quieren",
+            "son... quiere"
           ],
           "correct": 0,
           "explanations": [
-            "¡Correcto! 'Aportáis' es segunda persona plural (vosotros). 'Resulta' es impersonal en tercera persona singular. 'Tengan' es presente subjuntivo, requerido tras 'es difícil que'.",
-            "'Tiene' es indicativo tercera persona singular. Sin embargo, tras la expresión 'es difícil que', el verbo debe estar en subjuntivo ('tengan'), no en indicativo.",
-            "'Aporta' es tercera persona singular, que no concuerda con el sujeto 'vosotros'. Debe ser 'aportáis' en segunda persona plural.",
-            "'Resultan' es tercera persona plural, pero la expresión 'resulta difícil' es una construcción impersonal que siempre lleva el verbo en singular: 'resulta'."
+            "¡Correcto! 'Sean' es subjuntivo para 'ustedes' tras 'es importante que'. 'Quiere' es singular para 'nadie'.",
+            "'Sois' es indicativo para 'vosotros', no subjuntivo para 'ustedes'.",
+            "'Sean' es correcto, pero 'nadie' rige singular: 'quiere', no 'quieren'.",
+            "'Son' es indicativo, pero tras 'es importante que' se requiere subjuntivo: 'sean'."
           ]
         },
         {
-          "sentence": "Lo que sorprende a todos es que ustedes _______ casi siempre los primeros en llegar al trabajo, aunque nadie del departamento _______ obligado a hacerlo.",
+          "sentence": "Es necesario que la mayoría _______ de acuerdo antes de que nosotros _______ adelante.",
           "options": [
-            "son... está",
-            "sois... está",
-            "son... estamos",
-            "son... están"
+            "estén... sigamos",
+            "esté... seguimos",
+            "esté... sigamos",
+            "están... sigamos"
           ],
-          "correct": 0,
+          "correct": 2,
           "explanations": [
-            "¡Correcto! 'Son' es tercera persona plural, que concuerda con 'ustedes'. 'Está' es tercera persona singular, que concuerda con 'nadie'.",
-            "'Sois' es la forma de segunda persona plural (vosotros), pero en esta oración el pronombre utilizado es 'ustedes', que requiere tercera persona plural.",
-            "'Son' es correcto, pero 'estamos' es primera persona plural (nosotros), que no concuerda con 'nadie', que es singular.",
-            "'Son' es correcto, pero 'están' es tercera persona plural. El sujeto 'nadie' es singular y requiere 'está'."
+            "'Estén' es plural, pero 'la mayoría' rige singular. Debe ser 'esté'.",
+            "'Seguimos' es indicativo, pero tras 'antes de que' se requiere subjuntivo: 'sigamos'.",
+            "¡Correcto! 'Esté' es subjuntivo singular para 'la mayoría' y 'sigamos' es subjuntivo para 'nosotros'.",
+            "'Están' es indicativo, pero se requiere subjuntivo tras 'es necesario que'."
           ]
         },
         {
-          "sentence": "Es fundamental que cada uno de los participantes _______ al proyecto con total compromiso, ya que el éxito de la colaboración _______ del esfuerzo colectivo de todos los integrantes.",
+          "sentence": "Ustedes _______ muy bien organizados, aunque el grupo _______ todavía algunos problemas de coordinación.",
           "options": [
-            "contribuya... depende",
-            "contribuyan... depende",
-            "contribuya... dependen",
-            "contribuye... depende"
+            "sois... tiene",
+            "son... tiene",
+            "están... tienen",
+            "son... tienen"
           ],
-          "correct": 0,
+          "correct": 1,
           "explanations": [
-            "¡Correcto! Tras 'es fundamental que', el verbo debe estar en subjuntivo: 'contribuya' (singular, porque el sujeto es 'cada uno'). 'Depende' es indicativo singular, que concuerda con 'el éxito'.",
-            "'Contribuyan' es subjuntivo plural, pero el sujeto es 'cada uno de los participantes', que rige singular. La forma correcta es 'contribuya'.",
-            "'Contribuya' es correcto en forma, pero 'dependen' es plural. El sujeto 'el éxito de la colaboración' es singular y requiere 'depende'.",
-            "'Contribuye' es indicativo, pero tras 'es fundamental que' se requiere subjuntivo. La forma correcta es 'contribuya'."
+            "'Sois' es para 'vosotros', pero el pronombre es 'ustedes' (requiere tercera persona plural).",
+            "¡Correcto! 'Son' es tercera plural para 'ustedes' y 'tiene' es singular para 'el grupo'.",
+            "'Están' es correcto para 'ustedes', pero 'tienen' es plural y 'el grupo' rige singular.",
+            "'Son' es correcto, pero 'tienen' es plural. 'El grupo' es singular: 'tiene'."
           ]
         },
         {
-          "sentence": "Ustedes probablemente _______ que los cambios que _______ en la empresa son simplemente burocracia, pero en realidad _______ para mejorar la eficiencia del sistema.",
+          "sentence": "Es fundamental que cada estudiante _______ sus tareas y que todos _______ los plazos establecidos.",
           "options": [
-            "creen... se producen... sirven",
-            "creéis... se producen... sirven",
-            "creen... se produce... sirven",
-            "creen... se producen... sirve"
+            "complete... respeten",
+            "complete... respete",
+            "completa... respetan",
+            "completen... respetan"
           ],
           "correct": 0,
           "explanations": [
-            "¡Correcto! 'Creen' es tercera persona plural (ustedes). 'Se producen' concuerda con 'los cambios' (plural). 'Sirven' concuerda también con 'los cambios'.",
-            "'Creéis' es segunda persona plural (vosotros), que no concuerda con 'ustedes', que requiere tercera persona plural.",
-            "'Creen' es correcto, pero 'se produce' es singular. El sujeto 'los cambios' es plural y requiere 'se producen'.",
-            "'Creen' y 'se producen' son correctos, pero 'sirve' es singular. Como el sujeto implícito son 'los cambios' (plural), debe ser 'sirven'."
+            "¡Correcto! 'Complete' es subjuntivo singular para 'cada estudiante' y 'respeten' es plural para 'todos'.",
+            "'Respete' es singular, pero 'todos' es plural y requiere 'respeten'.",
+            "Son formas de indicativo, pero tras 'es fundamental que' se requiere subjuntivo.",
+            "'Completen' es plural, pero 'cada estudiante' es singular y requiere 'complete'."
           ]
         },
         {
-          "sentence": "Es importante que cada trabajador _______ consciente de sus derechos laborales, aunque en la práctica no todos _______ que los convenios colectivos _______ un papel fundamental en la protección de esos derechos.",
+          "sentence": "Nadie _______ que ustedes _______ tanto esfuerzo en este proyecto tan complejo.",
           "options": [
-            "sea... saben... juegan",
-            "sean... saben... juegan",
-            "sea... sabe... juegan",
-            "sea... saben... juega"
+            "cree... pongan",
+            "creen... pongan",
+            "cree... ponen",
+            "cree... pongáis"
           ],
-          "correct": 0,
+          "correct": 2,
           "explanations": [
-            "¡Correcto! 'Sea' es subjuntivo singular tras 'es importante que', concordando con 'cada trabajador'. 'Saben' y 'juegan' son tercera persona plural, concordando con 'no todos' y 'los convenios colectivos' respectivamente.",
-            "'Sean' es subjuntivo plural, pero el sujeto 'cada trabajador' es singular y requiere 'sea'.",
-            "'Sea' es correcto, pero 'sabe' es singular. El sujeto 'no todos' es plural y requiere 'saben'.",
-            "'Sea' y 'saben' son correctos, pero 'juega' es singular. El sujeto 'los convenios colectivos' es plural y requiere 'juegan'."
+            "'Pongan' es subjuntivo, pero no hay expresión que lo requiera aquí. Es indicativo: 'ponen'.",
+            "'Creen' es plural, pero 'nadie' rige singular: 'cree'.",
+            "¡Correcto! 'Cree' es singular para 'nadie' y 'ponen' es indicativo tercera plural para 'ustedes'.",
+            "'Pongáis' es para 'vosotros', no para 'ustedes' (que requiere tercera persona)."
           ]
         }
       ]
