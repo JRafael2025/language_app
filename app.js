@@ -129,7 +129,7 @@ async function loadQuestions(lang, tense) {
     } else if (lang === "es") {
       if (tense === "Presente del Indicativo") {
         // Load the new tip-based structure
-        const response = await fetch("questions_es_presente_new.json");
+        const response = await fetch("questions_es_presente.json");
         data = await response.json();
         currentTipData = data;
         currentTipIndex = 0;
@@ -138,7 +138,7 @@ async function loadQuestions(lang, tense) {
       } else if (tense === "Todos") {
         // Load all tenses
         const files = [
-          "questions_es_presente_new.json",
+          "questions_es_presente.json",
           "questions_es_perfecto.json",
           "questions_es_indefinido.json",
           "questions_es_imperfecto.json",
