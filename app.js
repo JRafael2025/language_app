@@ -1,361 +1,482 @@
-/* ============================================================
-   Language App – app.js  (v5 - Dynamic JSON Loading)
-   Changes from v4:
-     • Dynamic loading of separate JSON files per topic
-     • Better organization and maintainability
-     • Improved quality control with smaller, focused datasets
-   ============================================================ */
+// ============================================================
+// Language App – Main JavaScript
+// Offline-first grammar learning PWA
+// ============================================================
 
-// ============================================================
-// i18n dictionary – every user-facing string lives here
-// ============================================================
+// --- Global State ---
+let selectedLanguage = null;
+let selectedTense = null;
+let currentTipData = null; // Stores the current tip structure
+let currentTipIndex = 0;   // Which tip we're on
+let currentQuestionIndex = 0; // Which question within the current tip
+let showingTip = true;     // Whether we're showing a tip or a question
+let questionPool = [];
+let correctCount = 0;
+let totalAnswered = 0;
+
+// --- I18n (internationalization) ---
 const i18n = {
-  es: {
-    pickLang:      "Elige un idioma",
-    pickLangSub:   "Selecciona lo que quieres practicar hoy",
-    chooseTense:   "Elige un tiempo verbal",
-    chooseTenseSub:"Escoge uno o mézclalo todo",
-    back:          "← Atrás",
-    backToStart:   "← Volver al inicio",
-    correct:       "✓ ¡Correcto!",
-    wrong:         "✗ No del todo",
-    next:          "Siguiente →",
-    badgeAll:      "Español – Todos los tiempos",
-    badgeTense:    (t) => `Español – ${t}`,
-    badgeEn:       "Inglés (EE.UU.)",
-    installTitle:  "Añade Language App a tu pantalla de inicio\npara una experiencia offline.",
-    installBtn:    "⬇ Instalar app"
-  },
   en: {
-    pickLang:      "Pick a language",
-    pickLangSub:   "Choose what you want to practice today",
-    chooseTense:   "Choose a tense",
-    chooseTenseSub:"Pick one or mix them all",
-    back:          "← Back",
-    backToStart:   "← Back to start",
-    correct:       "✓ Correct!",
-    wrong:         "✗ Not quite",
-    next:          "Next question →",
-    badgeAll:      "Spanish – All Tenses",
-    badgeTense:    (t) => `Spanish – ${t}`,
-    badgeEn:       "US English",
-    installTitle:  "Add Language App to your home screen\nfor an offline experience.",
-    installBtn:    "⬇ Install App"
+    langTitle: "Pick a language",
+    langSub: "Choose what you want to practice today",
+    tenseTitle: "Choose a tense",
+    tenseSub: "Pick one or mix them all",
+    nextBtn: "Next question →",
+    restartBtn: "← Back to start",
+    correctFeedback: "✓ Correct!",
+    wrongFeedback: "✗ Incorrect",
+    installText: "Add Language App to your home screen<br/>for an offline experience.",
+    tipTitle: "TIP"
+  },
+  es: {
+    langTitle: "Elige un idioma",
+    langSub: "Selecciona lo que quieres practicar hoy",
+    tenseTitle: "Elige un tiempo verbal",
+    tenseSub: "Escoge uno o mézclalos todos",
+    nextBtn: "Siguiente pregunta →",
+    restartBtn: "← Volver al inicio",
+    correctFeedback: "✓ ¡Correcto!",
+    wrongFeedback: "✗ Incorrecto",
+    installText: "Añade Language App a tu pantalla de inicio<br/>para una experiencia sin conexión.",
+    tipTitle: "DICA"
   }
 };
 
-// Helper: grab current dictionary (defaults to English before selection)
-function t() { return i18n[selectedLang] || i18n.en; }
-
-// ============================================================
-// JSON file mapping
-// ============================================================
-const JSON_FILES = {
-  en: "questions_en.json",
-  "Presente del Indicativo": "questions_es_presente.json",
-  "Presente Perfecto": "questions_es_perfecto.json",
-  "Pretérito Indefinido": "questions_es_indefinido.json",
-  "Pretérito Imperfecto": "questions_es_imperfecto.json",
-  "Imperativo": "questions_es_imperativo.json",
-  "Condicional": "questions_es_condicional.json"
-};
-
-// ============================================================
-// DOM references
-// ============================================================
+// --- UI Elements ---
 const screens = {
-  lang:     document.getElementById("screen-lang"),
-  tense:    document.getElementById("screen-tense"),
+  lang: document.getElementById("screen-lang"),
+  tense: document.getElementById("screen-tense"),
   exercise: document.getElementById("screen-exercise")
 };
 
-const els = {
-  // Lang screen (text nodes we update)
-  langTitle:     document.getElementById("lang-title"),
-  langSub:       document.getElementById("lang-sub"),
-  // Tense screen
-  tenseTitle:    document.getElementById("tense-title"),
-  tenseSub:      document.getElementById("tense-sub"),
-  backBtnTense:  document.getElementById("back-btn-tense"),
-  // Exercise screen
-  badge:         document.getElementById("q-badge"),
-  sentence:      document.getElementById("q-sentence"),
-  optionsWrap:   document.getElementById("options"),
-  feedback:      document.getElementById("feedback"),
-  fbHead:        document.getElementById("fb-head"),
-  fbText:        document.getElementById("fb-text"),
-  nextBtn:       document.getElementById("next-btn"),
-  restartBtn:    document.getElementById("restart-btn"),
-  progressBar:   document.getElementById("progress-fill"),
-  // Install
-  installBanner: document.getElementById("install-banner"),
-  installBannerText: document.getElementById("install-banner-text"),
-  installBtn:    document.getElementById("install-btn")
+const exerciseElements = {
+  progressFill: document.getElementById("progress-fill"),
+  badge: document.getElementById("q-badge"),
+  sentence: document.getElementById("q-sentence"),
+  options: document.getElementById("options"),
+  feedback: document.getElementById("feedback"),
+  fbHead: document.getElementById("fb-head"),
+  fbText: document.getElementById("fb-text"),
+  nextBtn: document.getElementById("next-btn"),
+  restartBtn: document.getElementById("restart-btn")
 };
 
-// ============================================================
-// App State
-// ============================================================
-let pool           = [];   // filtered & shuffled for this session
-let poolIndex      = 0;    // linear cursor – never skip, never repeat in session
-let selectedLang   = null; // "es" | "en"
-let selectedTense  = null; // tense string | "Todos" | null
-let deferredPrompt = null; // PWA install prompt
-
-// ============================================================
-// Utility: Fisher-Yates shuffle (in-place)
-// ============================================================
-function shuffle(arr) {
-  for (let i = arr.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [arr[i], arr[j]] = [arr[j], arr[i]];
-  }
-  return arr;
-}
-
-// ============================================================
-// Screen navigation
-// ============================================================
-function showScreen(id) {
+// --- Screen Navigation ---
+function showScreen(screenName) {
   Object.values(screens).forEach(s => s.classList.remove("active"));
-  screens[id].classList.add("active");
+  screens[screenName].classList.add("active");
 }
 
-// ============================================================
-// Apply i18n strings to all static UI elements for current lang
-// ============================================================
-function applyI18n() {
-  const d = t();
-  els.langTitle.textContent      = d.pickLang;
-  els.langSub.textContent        = d.pickLangSub;
-  els.tenseTitle.textContent     = d.chooseTense;
-  els.tenseSub.textContent       = d.chooseTenseSub;
-  els.backBtnTense.textContent   = d.back;
-  els.nextBtn.textContent        = d.next;
-  els.restartBtn.textContent     = d.backToStart;
-  els.installBannerText.textContent = d.installTitle;
-  els.installBtn.textContent     = d.installBtn;
+// --- Apply I18n ---
+function applyI18n(lang) {
+  const t = i18n[lang] || i18n.en;
+  document.getElementById("lang-title").textContent = t.langTitle;
+  document.getElementById("lang-sub").textContent = t.langSub;
+  document.getElementById("tense-title").textContent = t.tenseTitle;
+  document.getElementById("tense-sub").textContent = t.tenseSub;
+  document.getElementById("install-banner-text").innerHTML = t.installText;
+  exerciseElements.nextBtn.textContent = t.nextBtn;
+  exerciseElements.restartBtn.textContent = t.restartBtn;
 }
 
-// ============================================================
-// Load questions from appropriate JSON file(s)
-// ============================================================
-async function loadQuestions() {
-  let questions = [];
-  
+// --- Language Selection (Screen 1) ---
+document.querySelectorAll(".lang-card").forEach(card => {
+  card.addEventListener("click", () => {
+    selectedLanguage = card.dataset.lang;
+    applyI18n(selectedLanguage);
+
+    if (selectedLanguage === "es") {
+      showScreen("tense");
+    } else {
+      // For English, load questions directly
+      loadQuestions("en", "English Grammar");
+    }
+  });
+
+  card.addEventListener("keydown", (e) => {
+    if (e.key === "Enter" || e.key === " ") {
+      e.preventDefault();
+      card.click();
+    }
+  });
+});
+
+// --- Tense Selection (Screen 2) ---
+document.querySelectorAll(".tense-item").forEach(item => {
+  item.addEventListener("click", () => {
+    selectedTense = item.dataset.tense;
+    loadQuestions(selectedLanguage, selectedTense);
+  });
+});
+
+document.getElementById("back-btn-tense").addEventListener("click", () => {
+  showScreen("lang");
+  selectedLanguage = null;
+  selectedTense = null;
+});
+
+// --- Load Questions ---
+async function loadQuestions(lang, tense) {
   try {
-    if (selectedLang === "en") {
-      // Load English questions
-      const res = await fetch(`./${JSON_FILES.en}`);
-      questions = await res.json();
-    } else if (selectedLang === "es") {
-      if (selectedTense === "Todos") {
-        // Load all Spanish tenses
-        const tenses = [
-          "Presente del Indicativo",
-          "Presente Perfecto",
-          "Pretérito Indefinido",
-          "Pretérito Imperfecto",
-          "Imperativo",
-          "Condicional"
+    let data;
+    
+    if (lang === "en") {
+      const response = await fetch("questions_en.json");
+      data = await response.json();
+      questionPool = data;
+      currentTipData = null;
+      showingTip = false;
+    } else if (lang === "es") {
+      if (tense === "Presente del Indicativo") {
+        // Load the new tip-based structure
+        const response = await fetch("questions_es_presente_new.json");
+        data = await response.json();
+        currentTipData = data;
+        currentTipIndex = 0;
+        currentQuestionIndex = 0;
+        showingTip = true;
+      } else if (tense === "Todos") {
+        // Load all tenses
+        const files = [
+          "questions_es_presente_new.json",
+          "questions_es_perfecto.json",
+          "questions_es_indefinido.json",
+          "questions_es_imperfecto.json",
+          "questions_es_imperativo.json",
+          "questions_es_condicional.json"
         ];
         
-        for (const tense of tenses) {
-          const res = await fetch(`./${JSON_FILES[tense]}`);
-          const data = await res.json();
-          questions = questions.concat(data);
+        const allQuestions = [];
+        for (const file of files) {
+          const response = await fetch(file);
+          const json = await response.json();
+          
+          // Handle both old and new formats
+          if (json.tips) {
+            // New format with tips
+            json.tips.forEach(tip => {
+              tip.questions.forEach(q => {
+                allQuestions.push({
+                  ...q,
+                  language: "es",
+                  tense: json.tense
+                });
+              });
+            });
+          } else {
+            // Old format (array of questions)
+            allQuestions.push(...json);
+          }
+        }
+        
+        questionPool = shuffleArray(allQuestions);
+        currentTipData = null;
+        showingTip = false;
+      } else {
+        // Load specific tense (old format)
+        const tenseFileMap = {
+          "Presente Perfecto": "questions_es_perfecto.json",
+          "Pretérito Indefinido": "questions_es_indefinido.json",
+          "Pretérito Imperfecto": "questions_es_imperfecto.json",
+          "Imperativo": "questions_es_imperativo.json",
+          "Condicional": "questions_es_condicional.json"
+        };
+        
+        const response = await fetch(tenseFileMap[tense]);
+        data = await response.json();
+        questionPool = data;
+        currentTipData = null;
+        showingTip = false;
+      }
+    }
+
+    correctCount = 0;
+    totalAnswered = 0;
+
+    showScreen("exercise");
+    
+    if (showingTip) {
+      renderTip();
+    } else {
+      renderQuestion();
+    }
+  } catch (error) {
+    console.error("Error loading questions:", error);
+    alert("Error loading questions. Please try again.");
+  }
+}
+
+// --- Render Tip Screen ---
+function renderTip() {
+  const tip = currentTipData.tips[currentTipIndex];
+  const t = i18n[selectedLanguage] || i18n.en;
+  
+  // Update progress bar
+  const totalTips = currentTipData.tips.length;
+  const progressPercent = (currentTipIndex / totalTips) * 100;
+  exerciseElements.progressFill.style.width = `${progressPercent}%`;
+  
+  // Set badge
+  exerciseElements.badge.textContent = `${t.tipTitle} ${tip.id}`;
+  
+  // Set tip content
+  exerciseElements.sentence.innerHTML = `
+    <div style="margin-bottom: 16px;">
+      <strong style="font-size: 1.2rem; color: var(--accent);">${tip.title}</strong>
+    </div>
+    <div style="line-height: 1.8; white-space: pre-line;">
+      ${tip.content}
+    </div>
+  `;
+  
+  // Hide options and feedback
+  exerciseElements.options.innerHTML = "";
+  exerciseElements.feedback.classList.remove("show");
+  
+  // Show next button
+  exerciseElements.nextBtn.classList.add("show");
+  exerciseElements.nextBtn.textContent = "Começar exercícios →";
+}
+
+// --- Render Question ---
+function renderQuestion() {
+  let currentQuestion;
+  
+  if (currentTipData && !showingTip) {
+    // Get question from current tip
+    const tip = currentTipData.tips[currentTipIndex];
+    currentQuestion = tip.questions[currentQuestionIndex];
+    
+    // Update progress bar
+    const totalQuestions = currentTipData.tips.reduce((sum, t) => sum + t.questions.length, 0);
+    const questionsAnswered = currentTipData.tips.slice(0, currentTipIndex).reduce((sum, t) => sum + t.questions.length, 0) + currentQuestionIndex;
+    const progressPercent = (questionsAnswered / totalQuestions) * 100;
+    exerciseElements.progressFill.style.width = `${progressPercent}%`;
+    
+    // Set badge
+    exerciseElements.badge.textContent = currentTipData.tense;
+  } else {
+    // Old format - single question pool
+    if (totalAnswered >= questionPool.length) {
+      showFinalScore();
+      return;
+    }
+    
+    currentQuestion = questionPool[totalAnswered];
+    
+    // Update progress bar
+    const progressPercent = ((totalAnswered + 1) / questionPool.length) * 100;
+    exerciseElements.progressFill.style.width = `${progressPercent}%`;
+    
+    // Set badge
+    exerciseElements.badge.textContent = currentQuestion.tense || "Question";
+  }
+  
+  // Render sentence with blank
+  const sentenceWithBlank = currentQuestion.sentence.replace(/_+/g, '<span class="blank"></span>');
+  exerciseElements.sentence.innerHTML = sentenceWithBlank;
+  
+  // Render options
+  exerciseElements.options.innerHTML = "";
+  const letters = ["A", "B", "C", "D"];
+  
+  currentQuestion.options.forEach((option, index) => {
+    const btn = document.createElement("button");
+    btn.className = "option-btn";
+    btn.innerHTML = `
+      <span class="opt-letter">${letters[index]}</span>
+      <span>${option}</span>
+    `;
+    btn.addEventListener("click", () => handleAnswer(index, currentQuestion));
+    exerciseElements.options.appendChild(btn);
+  });
+  
+  // Reset feedback and next button
+  exerciseElements.feedback.classList.remove("show", "correct-fb", "wrong-fb");
+  exerciseElements.nextBtn.classList.remove("show");
+}
+
+// --- Handle Answer ---
+function handleAnswer(selectedIndex, question) {
+  const t = i18n[selectedLanguage] || i18n.en;
+  const optionBtns = exerciseElements.options.querySelectorAll(".option-btn");
+  const isCorrect = selectedIndex === question.correct;
+  
+  // Disable all buttons
+  optionBtns.forEach(btn => btn.disabled = true);
+  
+  // Mark correct and wrong answers
+  optionBtns[question.correct].classList.add("correct");
+  if (!isCorrect) {
+    optionBtns[selectedIndex].classList.add("wrong");
+  }
+  
+  // Update score
+  totalAnswered++;
+  if (isCorrect) {
+    correctCount++;
+  }
+  
+  // Show feedback
+  exerciseElements.feedback.classList.add("show");
+  exerciseElements.feedback.classList.add(isCorrect ? "correct-fb" : "wrong-fb");
+  exerciseElements.fbHead.textContent = isCorrect ? t.correctFeedback : t.wrongFeedback;
+  
+  // Build feedback text
+  let feedbackHTML = "";
+  
+  // Show explanation for selected answer
+  if (question.explanations && question.explanations[selectedIndex]) {
+    feedbackHTML += `<div class="chosen-explanation">${question.explanations[selectedIndex]}</div>`;
+  }
+  
+  // Show all explanations
+  if (question.explanations && question.explanations.length > 1) {
+    feedbackHTML += '<div class="all-explanations-divider"></div>';
+    feedbackHTML += '<div class="all-explanations">';
+    
+    question.options.forEach((option, idx) => {
+      const isThisCorrect = idx === question.correct;
+      const isThisSelected = idx === selectedIndex;
+      const expClass = isThisCorrect ? "correct-option" : "wrong-option";
+      
+      if (!isThisSelected && question.explanations[idx]) {
+        const marker = isThisCorrect ? "✓" : "✗";
+        feedbackHTML += `
+          <div class="explanation-item ${expClass}">
+            <span class="exp-marker">${marker}</span>
+            <strong>${option}:</strong> ${question.explanations[idx]}
+          </div>
+        `;
+      }
+    });
+    
+    feedbackHTML += '</div>';
+  }
+  
+  exerciseElements.fbText.innerHTML = feedbackHTML;
+  
+  // Show next button
+  exerciseElements.nextBtn.classList.add("show");
+  exerciseElements.nextBtn.textContent = t.nextBtn;
+}
+
+// --- Next Button Handler ---
+exerciseElements.nextBtn.addEventListener("click", () => {
+  if (currentTipData) {
+    // Tip-based flow
+    if (showingTip) {
+      // Moving from tip to questions
+      showingTip = false;
+      currentQuestionIndex = 0;
+      renderQuestion();
+    } else {
+      // Moving to next question or tip
+      currentQuestionIndex++;
+      
+      const currentTip = currentTipData.tips[currentTipIndex];
+      if (currentQuestionIndex >= currentTip.questions.length) {
+        // Finished all questions for this tip
+        currentTipIndex++;
+        
+        if (currentTipIndex >= currentTipData.tips.length) {
+          // Finished all tips
+          showFinalScore();
+        } else {
+          // Show next tip
+          showingTip = true;
+          currentQuestionIndex = 0;
+          renderTip();
         }
       } else {
-        // Load specific tense
-        const res = await fetch(`./${JSON_FILES[selectedTense]}`);
-        questions = await res.json();
+        // Show next question in current tip
+        renderQuestion();
       }
     }
-  } catch (e) {
-    console.error("[Language App] Failed to load questions", e);
-  }
-  
-  return questions;
-}
-
-// ============================================================
-// INIT
-// ============================================================
-async function init() {
-  // 1. Language cards
-  document.querySelectorAll(".lang-card").forEach(card => {
-    card.addEventListener("click", () => {
-      selectedLang = card.dataset.lang;
-      applyI18n(); // update all strings before showing next screen
-
-      if (selectedLang === "es") {
-        showScreen("tense");
-      } else {
-        selectedTense = null;
-        buildPool();
-        showScreen("exercise");
-      }
-    });
-  });
-
-  // 2. Back button (tense screen)
-  els.backBtnTense.addEventListener("click", () => showScreen("lang"));
-
-  // 3. Tense items
-  document.querySelectorAll(".tense-item").forEach(item => {
-    item.addEventListener("click", () => {
-      selectedTense = item.dataset.tense;
-      buildPool();
-      showScreen("exercise");
-    });
-  });
-
-  // 4. Next button – advance cursor; reshuffle only when pool is exhausted
-  els.nextBtn.addEventListener("click", () => {
-    poolIndex++;
-    if (poolIndex >= pool.length) {
-      // Session complete – reshuffle for a fresh round
-      shuffle(pool);
-      poolIndex = 0;
-    }
-    renderQuestion();
-  });
-
-  // 5. Restart → back to language screen
-  els.restartBtn.addEventListener("click", () => showScreen("lang"));
-
-  // 6. PWA install prompt
-  window.addEventListener("beforeinstallprompt", (e) => {
-    e.preventDefault();
-    deferredPrompt = e;
-    els.installBanner.classList.add("show");
-  });
-  els.installBtn.addEventListener("click", () => {
-    if (deferredPrompt) {
-      deferredPrompt.prompt();
-      deferredPrompt.userChoice.then(() => {
-        deferredPrompt = null;
-        els.installBanner.classList.remove("show");
-      });
-    }
-  });
-
-  // 7. Service Worker
-  if ("serviceWorker" in navigator) {
-    navigator.serviceWorker.register("service-worker.js")
-      .then(() => console.log("[SW] Registered"))
-      .catch((e) => console.warn("[SW] Registration failed", e));
-  }
-
-  showScreen("lang");
-}
-
-// ============================================================
-// BUILD POOL – load questions, shuffle, reset cursor
-// ============================================================
-async function buildPool() {
-  const questions = await loadQuestions();
-  
-  // Fresh shuffle – every question in the filtered set appears exactly once
-  // before any question can repeat (linear walk)
-  pool      = shuffle([...questions]);
-  poolIndex = 0;
-  renderQuestion();
-}
-
-// ============================================================
-// RENDER QUESTION
-// ============================================================
-function renderQuestion() {
-  const q = pool[poolIndex];
-  if (!q) return;
-
-  const d = t();
-
-  // Badge
-  if (selectedLang === "en") {
-    els.badge.textContent = d.badgeEn;
   } else {
-    els.badge.textContent = selectedTense === "Todos"
-      ? d.badgeAll
-      : d.badgeTense(q.tense);
-  }
-
-  // Sentence – replace _______ with styled blank
-  els.sentence.innerHTML = q.sentence.replace(
-    "_______",
-    '<span class="blank"></span>'
-  );
-
-  // Progress bar (position within current pool round)
-  els.progressBar.style.width = ((poolIndex + 1) / pool.length * 100) + "%";
-
-  // Options
-  els.optionsWrap.innerHTML = "";
-  const letters = ["A", "B", "C", "D"];
-  q.options.forEach((opt, i) => {
-    const btn       = document.createElement("button");
-    btn.className   = "option-btn";
-    btn.innerHTML   = `<span class="opt-letter">${letters[i]}</span>${opt}`;
-    btn.addEventListener("click", () => handleAnswer(i, q));
-    els.optionsWrap.appendChild(btn);
-  });
-
-  // Reset feedback & next btn
-  els.feedback.className = "feedback";
-  els.feedback.classList.remove("show");
-  els.nextBtn.classList.remove("show");
-}
-
-// ============================================================
-// HANDLE ANSWER
-// ============================================================
-function handleAnswer(chosen, q) {
-  const d    = t();
-  const btns = els.optionsWrap.querySelectorAll(".option-btn");
-
-  // Lock all options
-  btns.forEach(b => b.disabled = true);
-
-  const isCorrect = chosen === q.correct;
-
-  // Style the chosen option
-  btns[chosen].classList.add(isCorrect ? "correct" : "wrong");
-
-  // Always highlight the correct answer
-  if (!isCorrect) {
-    btns[q.correct].classList.add("correct");
-  }
-
-  // Build comprehensive feedback showing all explanations
-  els.fbHead.textContent = isCorrect ? d.correct : d.wrong;
-  
-  // Show explanation for the chosen answer prominently
-  let feedbackHTML = `<div class="chosen-explanation">${q.explanations[chosen]}</div>`;
-  
-  // Add a divider and show all options with their explanations
-  feedbackHTML += '<div class="all-explanations-divider"></div>';
-  feedbackHTML += '<div class="all-explanations">';
-  
-  const letters = ["A", "B", "C", "D"];
-  q.explanations.forEach((exp, i) => {
-    if (i !== chosen) { // Don't repeat the chosen answer
-      const marker = i === q.correct ? '✓' : '✗';
-      const className = i === q.correct ? 'correct-option' : 'wrong-option';
-      feedbackHTML += `<div class="explanation-item ${className}">
-        <span class="exp-marker">${letters[i]} ${marker}</span> ${exp}
-      </div>`;
+    // Old format - linear question flow
+    if (totalAnswered >= questionPool.length) {
+      showFinalScore();
+    } else {
+      renderQuestion();
     }
-  });
-  
-  feedbackHTML += '</div>';
-  
-  els.fbText.innerHTML = feedbackHTML;
-  els.feedback.className = "feedback " + (isCorrect ? "correct-fb" : "wrong-fb") + " show";
+  }
+});
 
-  // Reveal Next button
-  els.nextBtn.classList.add("show");
+// --- Restart Button ---
+exerciseElements.restartBtn.addEventListener("click", () => {
+  showScreen("lang");
+  selectedLanguage = null;
+  selectedTense = null;
+  currentTipData = null;
+  currentTipIndex = 0;
+  currentQuestionIndex = 0;
+  showingTip = false;
+  questionPool = [];
+  correctCount = 0;
+  totalAnswered = 0;
+});
+
+// --- Final Score ---
+function showFinalScore() {
+  const percentage = Math.round((correctCount / totalAnswered) * 100);
+  
+  exerciseElements.badge.textContent = "Finished!";
+  exerciseElements.sentence.innerHTML = `
+    <div style="text-align: center;">
+      <div style="font-size: 3rem; margin-bottom: 16px;">🎉</div>
+      <div style="font-size: 1.5rem; font-weight: 600; margin-bottom: 12px;">
+        ${correctCount} / ${totalAnswered}
+      </div>
+      <div style="font-size: 1.2rem; color: var(--text-secondary);">
+        ${percentage}% correct
+      </div>
+    </div>
+  `;
+  
+  exerciseElements.options.innerHTML = "";
+  exerciseElements.feedback.classList.remove("show");
+  exerciseElements.nextBtn.classList.remove("show");
+  exerciseElements.progressFill.style.width = "100%";
 }
 
-// --- Go ---
-init();
+// --- Utility Functions ---
+function shuffleArray(array) {
+  const shuffled = [...array];
+  for (let i = shuffled.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+  }
+  return shuffled;
+}
+
+// --- PWA Install Banner ---
+let deferredPrompt;
+
+window.addEventListener("beforeinstallprompt", (e) => {
+  e.preventDefault();
+  deferredPrompt = e;
+  document.getElementById("install-banner").classList.add("show");
+});
+
+document.getElementById("install-btn").addEventListener("click", async () => {
+  if (!deferredPrompt) return;
+  
+  deferredPrompt.prompt();
+  const { outcome } = await deferredPrompt.userChoice;
+  
+  if (outcome === "accepted") {
+    document.getElementById("install-banner").classList.remove("show");
+  }
+  
+  deferredPrompt = null;
+});
+
+// --- Service Worker Registration ---
+if ("serviceWorker" in navigator) {
+  navigator.serviceWorker.register("service-worker.js").then(() => {
+    console.log("Service Worker registered successfully.");
+  }).catch((error) => {
+    console.error("Service Worker registration failed:", error);
+  });
+}

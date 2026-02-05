@@ -1,0 +1,7 @@
+UPDATE QUESTIONS through git bash
+
+cd C:/Users/User/Downloads/language_app
+
+git add questions.json
+git commit -m "Add new questions"
+git push

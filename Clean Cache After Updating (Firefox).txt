@@ -1,0 +1,8 @@
+Only Works well in Firefox
+
+CTRL + SHIFT + DEL
+
+Check only 
+
+* Cookies and Data
+* Temporary Cache
