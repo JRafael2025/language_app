@@ -28,8 +28,12 @@ echo Committing changes...
 git commit -m "%msg%"
 
 echo.
+echo Pulling latest changes from remote...
+git pull origin main --rebase
+
+echo.
 echo Pushing to remote repository...
-git push
+git push origin main
 
 echo.
 echo ✅ Done!
