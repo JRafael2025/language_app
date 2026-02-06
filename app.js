@@ -188,10 +188,17 @@ async function loadQuestions(lang, tense) {
         currentTipIndex = 0;
         currentQuestionIndex = 0;
         showingTip = true;
+      } else if (tense === "Pretérito Imperfecto") {
+        // Load the new tip-based structure for Pretérito Imperfecto
+        const response = await fetch("questions_es_imperfecto.json");
+        data = await response.json();
+        currentTipData = data;
+        currentTipIndex = 0;
+        currentQuestionIndex = 0;
+        showingTip = true;
       } else {
         // Load specific tense (old format)
         const tenseFileMap = {
-          "Pretérito Imperfecto": "questions_es_imperfecto.json",
           "Imperativo": "questions_es_imperativo.json",
           "Condicional": "questions_es_condicional.json"
         };
