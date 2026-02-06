@@ -1,362 +1,614 @@
-[
-  {
-    "language": "es",
-    "tense": "Pretérito Imperfecto",
-    "sentence": "Durante los años en que mi familia _______ en esa pequeña casa cerca del río, yo recuerdo que todos los veranos nosotros _______ al agua por las tardes y _______ hasta que el sol _______ en el horizonte.",
-    "options": [
-      "vivía... íbamos... jugábamos... ponía",
-      "vivió... íbamos... jugábamos... ponía",
-      "vivía... íbamos... jugábamos... puso",
-      "vivía... fuimos... jugábamos... ponía"
-    ],
-    "correct": 0,
-    "explanations": [
-      "Correcto! Todos los verbos están en imperfecto: 'vivía' describe la situación de fondo, 'íbamos', 'jugábamos' y 'ponía' describen hábitos repetidos durante esa época de la infancia.",
-      "'Vivía' es correcto como situación de fondo, pero 'vivió' es pretérito indefinido, que situaría la vida en esa casa como un evento puntual, no como una situación prolongada.",
-      "'Vivía', 'íbamos' y 'jugábamos' son correctos, pero 'puso' es pretérito indefinido. La caída del sol era un proceso diario repetido, no un evento puntual.",
-      "'Vivía', 'íbamos' y 'ponía' son correctos, pero 'fuimos' es pretérito indefinido. Las ida al agua eran un hábito repetido cada verano, no una única visita."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Pretérito Imperfecto",
-    "sentence": "La profesora que _______ en nuestra clase cuando _______ pequeños siempre _______ que cada uno de nosotros _______ un potencial enorme que, si se desarrollaba correctamente, podía llegar a cambiar la vida de muchas personas.",
-    "options": [
-      "daba... éramos... creía... tenía",
-      "dio... éramos... creyó... tenía",
-      "daba... fuimos... creía... tenía",
-      "daba... éramos... creía... tuvo"
-    ],
-    "correct": 0,
-    "explanations": [
-      "Correcto! Todos los verbos están en imperfecto: 'daba' (enseñaba), 'éramos' (estábamos en esa edad), 'creía' (opinión habitual) y 'tenía' (estado persistente durante esa época) describen situaciones y características de ese periodo.",
-      "'Daba' y 'éramos' son correctos, pero 'dio' y 'creyó' son pretérito, que situarían la enseñanza y la opinión como eventos puntuales, no como características constantes de esa profesora.",
-      "'Daba' y 'creía' son correctos, pero 'fuimos' es pretérito indefinido. La infancia fue un periodo prolongado, no un evento puntual, por lo que debe estar en imperfecto.",
-      "'Daba', 'éramos' y 'creía' son correctos, pero 'tuvo' es pretérito indefinido. El potencial era una característica persistente durante esa época, no un evento puntual."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Pretérito Imperfecto",
-    "sentence": "En los tiempos en que mi abuelo _______ en el campo, la vida _______ mucho más sencilla: los aldeanos _______ sus propios alimentos, _______ las noticias por la radio antigua y casi nunca _______ la necesidad de salir del pueblo.",
-    "options": [
-      "trabajaba... era... cultivaban... escuchaban... sentían",
-      "trabajó... era... cultivaban... escuchaban... sentían",
-      "trabajaba... fue... cultivaban... escuchaban... sentían",
-      "trabajaba... era... cultivaban... escuchaban... sintieron"
-    ],
-    "correct": 0,
-    "explanations": [
-      "Correcto! Todos los verbos están en imperfecto, que es el tense adecuado para describir una época pasada con sus costumbres, estados y características habituales.",
-      "'Era' y los demás verbos son correctos, pero 'trabajó' es pretérito indefinido. El trabajo de mi abuelo en el campo fue una situación prolongada, no un evento puntual.",
-      "'Trabajaba' es correcto como situación de fondo, pero 'fue' es pretérito indefinido. La vida sencilla era una característica de esa época, no un evento puntual.",
-      "Todos los verbos excepto 'sintieron' son correctos. 'Sintieron' es pretérito indefinido, pero la necesidad de salir del pueblo era algo que raramente experimentaban como situación habitual."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Pretérito Imperfecto",
-    "sentence": "Mientras yo _______ tranquilamente en el jardín y el sol _______ suavemente por la ventana, de repente el perro de los vecinos _______ corriendo hacia nuestra puerta y _______ sin parar durante varios minutos.",
-    "options": [
-      "leía... entraba... llegó... ladraba",
-      "leía... entraba... llegó... ladró",
-      "leía... entraba... llegaba... ladró",
-      "leyó... entraba... llegó... ladró"
-    ],
-    "correct": 0,
-    "explanations": [
-      "Correcto! 'Leía' y 'entraba' son imperfecto, que describe las situaciones en progreso. 'Llegó' es pretérito indefinido, que marca el evento que interrumpió esa situación. 'Ladraba' es imperfecto, ya que el ladrar era una acción que continuaba después del evento.",
-      "'Leía' y 'entraba' son correctos, pero 'ladró' es pretérito indefinido. El ladrar no fue un evento puntual sino una acción que duró varios minutos después de la llegada.",
-      "'Leía' y 'entraba' son correctos, pero 'llegaba' es imperfecto. La llegada del perro fue el evento puntual que interrumpió la situación, por lo que debe estar en pretérito.",
-      "'Entraba' es correcto como situación de fondo, pero 'leyó' es pretérito. La lectura era una acción en progreso que estaba ocurriendo cuando llegó el perro."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Pretérito Imperfecto",
-    "sentence": "Cuando llegamos al hotel después de un largo viaje, nos sorprendió descubrir que la habitación que nos _______ no _______ ninguna vista al mar, aunque en la confirmación original del alojamiento _______ claramente que _______ en una de las habitaciones más privilegiadas del edificio.",
-    "options": [
-      "habían asignado... tenía... ponía... estaríamos",
-      "habían asignado... tenía... ponía... estábamos",
-      "habían asignado... tenía... decía... estaríamos",
-      "habían asignado... tenía... ponía... estamos"
-    ],
-    "correct": 2,
-    "explanations": [
-      "'Habían asignado' y 'tenía' son correctos, pero 'ponía' no es la expresión más natural aquí. 'Estaríamos' es condicional, que sugiere una expectativa, no lo que decía el documento.",
-      "'Habían asignado' y 'tenía' son correctos, pero 'estábamos' es imperfecto de estar, que no describe lo que decía la confirmación sino una situación real.",
-      "Correcto! 'Habían asignado' es pluscuamperfecto (la asignación previa al viaje). 'Tenía' es imperfecto para la situación del hotel. 'Decía' es imperfecto para describir el contenido de la confirmación. 'Estaríamos' es condicional, que refleja la expectativa creada por la confirmación.",
-      "'Habían asignado', 'tenía' y 'ponía' son aceptables, pero 'estamos' es presente, que no tiene sentido en este contexto narrativo del pasado."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Pretérito Imperfecto",
-    "sentence": "En la época en que todos nosotros _______ todavía en la misma escuela, los profesores siempre _______ que la educación _______ el único camino seguro hacia un futuro mejor, aunque no todos los estudiantes _______ de esa opinión.",
-    "options": [
-      "estábamos... repetían... era... compartían",
-      "estuvimos... repetían... era... compartían",
-      "estábamos... repitieron... era... compartían",
-      "estábamos... repetían... fue... compartían"
-    ],
-    "correct": 0,
-    "explanations": [
-      "Correcto! Todos los verbos están en imperfecto, que es el tense adecuado para describir situaciones, opiniones y hábitos de esa época pasada con sus características persistentes.",
-      "'Repetían', 'era' y 'compartían' son correctos como imperfecto, pero 'estuvimos' es pretérito indefinido. La etapa escolar fue un periodo prolongado, no un evento puntual.",
-      "'Estábamos' y 'repetían' son correctos, pero 'repitieron' es pretérito indefinido. Los profesores repetían esa opinión de manera habitual, no como un evento único.",
-      "'Estábamos', 'repetían' y 'compartían' son correctos, pero 'fue' es pretérito indefinido. La educación being el camino seguro era una opinión persistente, no un evento puntual."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Pretérito Imperfecto",
-    "sentence": "Justo en el momento en que el avión _______ preparando su despegue y los pasajeros _______ acomodándose en sus asientos, los controladores aéreos _______ una alerta que obligó al piloto a abortar inmediatamente la maniobra.",
-    "options": [
-      "estaba... estaban... emitieron",
-      "estaba... estaban... emitían",
-      "estaba... estaban... han emitido",
-      "estaba... estaban... emitía"
-    ],
-    "correct": 0,
-    "explanations": [
-      "Correcto! 'Estaba' y 'estaban' son imperfecto compuesto que describen las acciones en progreso. 'Emitieron' es pretérito indefinido, que marca el evento puntual que interrumpió esas acciones.",
-      "'Estaba' y 'estaban' son correctos, pero 'emitían' es imperfecto, que sugeriría que la alerta era una situación en progreso. La emisión de la alerta fue un evento puntual y urgente.",
-      "'Estaba' y 'estaban' son correctos, pero 'han emitido' es presente perfecto, que conectaría la alerta con el presente. Es un evento del pasado cerrado.",
-      "'Estaba' es correcto, pero 'emitía' es imperfecto singular, que no es adecuado para describir la emisión concreta de una alerta urgente por parte de los controladores."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Pretérito Imperfecto",
-    "sentence": "Cuando _______ más joven, mi madre siempre _______ que algún día yo _______ la oportunidad de viajar por todos los países que _______ en los libros de geografía que yo _______ en la escuela.",
-    "options": [
-      "era... decía... tendría... aparecían... estudiaba",
-      "era... dijo... tendría... aparecían... estudiaba",
-      "era... decía... tendría... aparecieron... estudiaba",
-      "era... decía... tendría... aparecían... estudié"
-    ],
-    "correct": 0,
-    "explanations": [
-      "Correcto! 'Era', 'decía', 'aparecían' y 'estudiaba' son todos imperfecto, que describen situaciones y hábitos de la juventud. 'Tendría' es condicional, que refleja la expectativa de mi madre sobre el futuro desde ese punto del pasado.",
-      "'Era' es correcto, pero 'dijo' es pretérito indefinido. Mi madre decía eso de manera habitual, no como una única declaración.",
-      "'Era', 'decía' y 'estudiaba' son correctos, pero 'aparecieron' es pretérito. Los países aparecían de manera habitual en los libros, no como un evento único.",
-      "'Era', 'decía' y 'aparecían' son correctos, pero 'estudié' es pretérito indefinido. El estudio en la escuela era un hábito durante esa época, no un evento único."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Pretérito Imperfecto",
-    "sentence": "El antiguo parque que _______ en el centro del barrio era un lugar donde los niños del vecindario _______ todos los días después del colegio, aunque los padres siempre _______ preocupados porque la zona _______ bastante descuidada.",
-    "options": [
-      "existía... jugaban... estaban... estaba",
-      "existió... jugaban... estaban... estaba",
-      "existía... jugaron... estaban... estaba",
-      "existía... jugaban... estaban... estuvo"
-    ],
-    "correct": 0,
-    "explanations": [
-      "Correcto! Todos los verbos están en imperfecto: 'existía' (situación de fondo), 'jugaban' (hábito diario), 'estaban preocupados' (estado emocional persistente) y 'estaba descuidada' (condición del lugar durante esa época).",
-      "'Jugaban', 'estaban' y 'estaba' son correctos, pero 'existió' es pretérito indefinido. La existencia del parque fue una situación prolongada, no un evento puntual.",
-      "'Existía' y 'estaban' son correctos, pero 'jugaron' es pretérito indefinido. Los niños jugaban todos los días como hábito repetido, no como un único evento.",
-      "'Existía', 'jugaban' y 'estaban' son correctos, pero 'estuvo' es pretérito indefinido. El estado de descuido era una condición persistente durante esa época."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Pretérito Imperfecto",
-    "sentence": "En los años que _______ inmediatamente después de la guerra, la situación económica del país _______ tan precaria que la mayoría de las familias _______ que _______ difícil encontrar suficiente comida para todos los miembros del hogar.",
-    "options": [
-      "siguieron... era... reconocían... era",
-      "siguieron... era... reconocían... fue",
-      "siguieron... fue... reconocían... era",
-      "siguieron... era... reconocían... estaba"
-    ],
-    "correct": 0,
-    "explanations": [
-      "Correcto! 'Siguieron' es pretérito indefinido, adecuado para el periodo posterior a la guerra. 'Era', 'reconocían' y 'era' son imperfecto, que describen la situación persistente y los estados during esa época.",
-      "'Siguieron' y 'reconocían' son correctos, pero 'fue' es pretérito indefinido. La situación económica precaria era una condición persistente, no un evento puntual.",
-      "'Siguieron' y 'reconocían' son correctos, pero la segunda 'fue' es pretérito indefinido. La dificultad de encontrar comida era una realidad habitual, no un evento único.",
-      "'Reconocían' es correcto, pero 'estaba' no es la expresión más natural aquí. La dificultad de encontrar comida _______ difícil, no estaba difícil."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Pretérito Imperfecto",
-    "sentence": "Cada noche, antes de dormirse, mi pequeña hija _______ que yo le _______ un cuento diferente, y siempre _______ los cuentos que _______ sobre princesas que _______ aventuras extraordinarias por tierras lejanas.",
-    "options": [
-      "pedía... leyera... prefería... hablaban... describían",
-      "pidió... leyera... prefería... hablaban... describían",
-      "pedía... leyera... prefirió... hablaban... describían",
-      "pedía... leyera... prefería... hablaban... describió"
-    ],
-    "correct": 0,
-    "explanations": [
-      "Correcto! Todos los verbos están en imperfecto o subjuntivo imperfecto: 'pedía' (hábito nocterno), 'leyera' (subjuntivo imperfecto tras 'pedía'), 'prefería' (preferencia habitual), 'hablaban' (contenido habitual) y 'describían' (contenido habitual de los cuentos).",
-      "'Leyera' y los demás son correctos, pero 'pidió' es pretérito indefinido. La petición de un cuento era un hábito diario, no un evento único.",
-      "'Pedía' y 'leyera' son correctos, pero 'prefirió' es pretérito indefinido. La preferencia por los cuentos de princesas era habitual, no un evento único.",
-      "'Pedía', 'prefería' y 'hablaban' son correctos, pero 'describió' es pretérito indefinido. La descripción de las aventuras era un contenido habitual de los cuentos favoritos."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Pretérito Imperfecto",
-    "sentence": "Cuando yo _______ en la universidad hace más de veinte años, los estudiantes _______ mucho tiempo debatiendo sobre política y filosofía, y los profesores _______ que ese tipo de conversaciones _______ fundamental para el desarrollo intelectual de los jóvenes.",
-    "options": [
-      "estudiaba... pasaban... creían... era",
-      "estudié... pasaban... creían... era",
-      "estudiaba... pasaban... creyeron... era",
-      "estudiaba... pasaban... creían... fue"
-    ],
-    "correct": 0,
-    "explanations": [
-      "Correcto! Todos los verbos están en imperfecto: 'estudiaba' (situación durante esa época), 'pasaban' (hábito habitual), 'creían' (opinión persistente de los profesores), 'era' (estado de la realidad durante ese periodo).",
-      "'Pasaban', 'creían' y 'era' son correctos, pero 'estudié' es pretérito indefinido. El periodo universitario fue una etapa prolongada, no un evento puntual.",
-      "'Estudiaba', 'pasaban' y 'era' son correctos, pero 'creyeron' es pretérito indefinido. La opinión de los profesores era una postura habitual, no un evento único.",
-      "'Estudiaba', 'pasaban' y 'creían' son correctos, pero 'fue' es pretérito indefinido. La importancia de las conversaciones era una realidad persistente durante esa época."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Pretérito Imperfecto",
-    "sentence": "La ciudad, que antes de la transformación urbana _______ un aspecto completamente diferente, _______ llena de calles estrechas y edificios antiguos que _______ historia en cada esquina, y los vecinos más mayores _______ orgullosos de esa identidad que _______ poco a poco desapareciendo.",
-    "options": [
-      "tenía... estaba... respiraban... estaban... estaba",
-      "tuvo... estaba... respiraban... estaban... estaba",
-      "tenía... estaba... respiraban... estaban... desapareció",
-      "tenía... estaba... respiraban... estaban... ha estado"
-    ],
-    "correct": 0,
-    "explanations": [
-      "Correcto! Todos los verbos están en imperfecto, que es el tense adecuado para describir la situación persistente de la ciudad antes de la transformación: su aspecto, sus características, y los sentimientos de los vecinos.",
-      "'Estaba' y los demás son correctos, pero 'tuvo' es pretérito indefinido. El aspecto anterior de la ciudad era una situación prolongada, no un evento puntual.",
-      "Todos los verbos son correctos excepto 'desapareció', que es pretérito indefinido. La desaparición de la identidad era un proceso gradual ('poco a poco'), no un evento puntual.",
-      "Todos los verbos son correctos excepto 'ha estado', que es presente perfecto. La situación descrita es del pasado cerrado y no tiene conexión con el presente."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Pretérito Imperfecto",
-    "sentence": "Todos los inviernos, cuando las temperaturas _______ caer de manera brusca, los habitantes del pueblo _______ preparar grandes cantidades de conservas y _______ la comida para los meses más fríos, una tradición que _______ de generación en generación desde hace siglos.",
-    "options": [
-      "empezaban... comenzaban... almacenaban... pasaba",
-      "empezaban... comenzaban... almacenaban... pasó",
-      "empezaban... comenzaban... almacenaban... ha pasado",
-      "empezaron... comenzaban... almacenaban... pasaba"
-    ],
-    "correct": 0,
-    "explanations": [
-      "Correcto! Todos los verbos están en imperfecto: 'empezaban', 'comenzaban', 'almacenaban' y 'pasaba' describen hábitos y situaciones repetidas que ocurrían cada invierno durante esa época.",
-      "'Empezaban', 'comenzaban' y 'almacenaban' son correctos, pero 'pasó' es pretérito indefinido. La transmisión de la tradición era un proceso prolongado, no un evento único.",
-      "'Empezaban', 'comenzaban' y 'almacenaban' son correctos, pero 'ha pasado' es presente perfecto, que conectaría la tradición con el presente. El contexto es del pasado cerrado.",
-      "'Comenzaban' y 'almacenaban' son correctos, pero 'empezaron' es pretérito indefinido. La llegada del frío y los preparativos eran acciones habituales cada invierno, no eventos únicos."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Pretérito Imperfecto",
-    "sentence": "En la casa de mis abuelos, que _______ en un pueblito costero, siempre _______ un olor especial a pan reciente por las mañanas, porque mi abuela _______ levantándose antes del amanecer para _______ el pan con sus propias manos, algo que _______ desde que era muy joven.",
-    "options": [
-      "estaba... había... se ponía... hacer... hacía",
-      "estaba... había... se ponía... hizo... hacía",
-      "estaba... había... se ponía... hacer... hizo",
-      "estuvo... había... se ponía... hacer... hacía"
-    ],
-    "correct": 0,
-    "explanations": [
-      "Correcto! 'Estaba' (ubicación), 'había' (situación), 'se ponía' (hábito) y 'hacía' (hábito de largo tiempo) son todos imperfecto. 'Hacer' es infinitivo, necesario tras 'para' (Purpose).",
-      "Todos son correctos excepto 'hizo'. 'Hizo' es pretérito indefinido, pero 'hacer el pan' era una actividad habitual, no un evento único.",
-      "'Estaba', 'había' y 'se ponía' son correctos, pero 'hizo' es pretérito indefinido. El hacen del pan era un hábito, no un evento único.",
-      "'Estaba', 'había', 'se ponía' y 'hacer' son correctos, pero 'estuvo' es pretérito indefinido. La ubicación de la casa era una situación permanente, no un evento puntual."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Pretérito Imperfecto",
-    "sentence": "Cuando los científicos finalmente _______ el resultado de sus experimentos, todos los que _______ presentes en el laboratorio _______ que la fórmula que _______ desarrollando durante años _______ funcionando exactamente como _______ previsto en los cálculos iniciales.",
-    "options": [
-      "obtuvieron... estaban... comprendieron... habían estado... estaba... había sido",
-      "obtuvieron... estaban... comprendieron... desarrollaban... estaba... había sido",
-      "obtuvieron... estaban... comprendían... habían estado... estaba... había sido",
-      "obtuvieron... estaban... comprendieron... habían estado... estaba... fue"
-    ],
-    "correct": 0,
-    "explanations": [
-      "Correcto! 'Obtuvieron' y 'comprendieron' son pretérito para los eventos puntuales. 'Estaban' es imperfecto compuesto para la situación en progreso. 'Habían estado desarrollando' es pluscuamperfecto compuesto para la duración previa. 'Estaba funcionando' es imperfecto compuesto. 'Había sido previsto' es pluscuamperfecto pasivo.",
-      "Todos son correctos excepto 'desarrollaban'. 'Desarrollaban' es imperfecto simple, pero la oración enfatiza la duración del proceso con 'durante años', lo que requiere pluscuamperfecto compuesto.",
-      "Todos son correctos excepto 'comprendían'. 'Comprendían' es imperfecto, pero la comprensión fue un resultado concreto e inmediato del obtener el resultado.",
-      "Todos son correctos excepto 'fue'. 'Fue' es pretérito indefinido, pero 'había sido previsto' es necesario para mostrar que las predicciones fueron hechas antes de los experimentos."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Pretérito Imperfecto",
-    "sentence": "La pequeña librería que _______ en la esquina de nuestra calle _______ un lugar donde yo _______ pasar las tardes leyendo, y el anciano propietario siempre _______ que los libros _______ la mejor forma de conocer el mundo sin necesidad de salir de casa.",
-    "options": [
-      "había... era... pasaba... me decía... eran",
-      "había... era... pasaba... me dijo... eran",
-      "había... era... pasaba... me decía... fueron",
-      "hubo... era... pasaba... me decía... eran"
-    ],
-    "correct": 0,
-    "explanations": [
-      "Correcto! Todos los verbos están en imperfecto: 'había' (existencia de la librería), 'era' (su característica), 'pasaba' (mi hábito), 'me decía' (opinión habitual del propietario) y 'eran' (su creencia persistente).",
-      "Todos son correctos excepto 'dijo'. 'Dijo' es pretérito indefinido, pero el propietario decía eso de manera habitual, no como una única declaración.",
-      "Todos son correctos excepto 'fueron'. 'Fueron' es pretérito indefinido, pero la opinión sobre los libros era una creencia persistente del propietario, no un evento único.",
-      "'Había', 'era', 'pasaba' y 'me decía' son correctos, pero 'hubo' es pretérito indefinido. La existencia de la librería era una situación prolongada, no un evento puntual."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Pretérito Imperfecto",
-    "sentence": "Mientras el resto del mundo _______ concentrado en los grandes cambios tecnológicos de los últimos años, los moradores de esa pequeña isla _______ viviendo exactamente de la misma manera en que _______ viviendo sus antepasados hace varios siglos, completamente ajenos a esa agitación.",
-    "options": [
-      "estaba... seguían... habían estado",
-      "estaba... siguieron... habían estado",
-      "estaba... seguían... estaban",
-      "estuvo... seguían... habían estado"
-    ],
-    "correct": 0,
-    "explanations": [
-      "Correcto! 'Estaba' es imperfecto compuesto para la situación del mundo en progreso. 'Seguían' es imperfecto que muestra la continuidad. 'Habían estado' es pluscuamperfecto compuesto, que muestra que los antepasados vivían así desde antes.",
-      "'Estaba' es correcto, pero 'siguieron' es pretérito indefinido. La continuidad del estilo de vida de los isleños no fue un evento puntual sino una situación prolongada.",
-      "'Estaba' y 'seguían' son correctos, pero 'estaban' es imperfecto simple, que no establece claramente que la forma de vida de los antepasados precedía a la de los isleños.",
-      "'Seguían' y 'habían estado' son correctos, pero 'estuvo' es pretérito indefinido. La concentración del mundo en los cambios tecnológicos era una situación en progreso, no un evento puntual."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Pretérito Imperfecto",
-    "sentence": "Cuando _______ pequeños, nosotros no _______ la televisión ni la internet, así que _______ mucho de la imaginación para entretenernos durante las largas tardes de verano en el jardín de la casa familiar.",
-    "options": [
-      "éramos... teníamos... dependíamos",
-      "fuimos... teníamos... dependíamos",
-      "éramos... tuvimos... dependíamos",
-      "éramos... teníamos... dependimos"
-    ],
-    "correct": 0,
-    "explanations": [
-      "Correcto! 'Éramos', 'teníamos' y 'dependíamos' son todos imperfecto, que describe la situación habitual y las características de la infancia de manera continua y repetida.",
-      "'Fuimos' es pretérito indefinido. La infancia fue un periodo prolongado, no un evento puntual, por lo que debe estar en imperfecto: 'éramos'.",
-      "'Éramos' y 'dependíamos' son correctos, pero 'tuvimos' es pretérito indefinido. La ausencia de televisión e internet era una situación persistente durante la infancia, no un evento único.",
-      "'Éramos' y 'teníamos' son correctos, pero 'dependimos' es pretérito indefinido. La dependencia de la imaginación era un hábito repetido durante todos esos veranos, no un evento único."
-    ]
-  },
-  {
-    "language": "es",
-    "tense": "Pretérito Imperfecto",
-    "sentence": "En los días en que el clima _______ especialmente agradable y el sol _______ con una intensidad suave, los profesores _______ dar las clases al aire libre en el jardín de la escuela, y los estudiantes _______ mucho más contentos y participativos que de costumbre.",
-    "options": [
-      "estaba... brillaba... decidían... estaban",
-      "estuvo... brillaba... decidían... estaban",
-      "estaba... brilló... decidían... estaban",
-      "estaba... brillaba... decidieron... estaban"
-    ],
-    "correct": 0,
-    "explanations": [
-      "Correcto! Todos los verbos están en imperfecto: 'estaba' y 'brillaba' describen las condiciones del clima, 'decidían' es el hábito de los profesores y 'estaban' describe el estado emocional de los estudiantes en esas circunstancias.",
-      "'Brillaba', 'decidían' y 'estaban' son correctos, pero 'estuvo' es pretérito indefinido. Las condiciones climáticas eran una situación que se repetía, no un evento único.",
-      "'Estaba' y 'decidían' son correctos, pero 'brilló' es pretérito indefinido. El brillo del sol era una condición habitual en esos días, no un evento puntual.",
-      "'Estaba', 'brillaba' y 'estaban' son correctos, pero 'decidieron' es pretérito indefinido. Los profesores decidían dar clases al aire libre de manera habitual, no como un único evento."
-    ]
-  }
-]
+{
+  "tense": "Pretérito Imperfecto",
+  "tips": [
+    {
+      "id": 1,
+      "title": "Es el 'Escenario Pasado'. Describe cómo eran las cosas, hábitos, contexto.",
+      "content": "El Pretérito Imperfecto se usa para describir situaciones, escenarios, características y contextos del pasado. Es como pintar el fondo de una escena.\n\nEjemplos:\n• La casa era grande y luminosa. (descripción)\n• Mi abuela tenía el pelo largo. (característica)\n• Vivíamos en el campo. (situación prolongada)\n• El cielo estaba nublado. (contexto/escenario)\n\nRecuerda: El imperfecto pinta el escenario donde ocurren las acciones puntuales (que van en indefinido).",
+      "questions": [
+        {
+          "sentence": "Durante los años en que mi familia _______ en esa pequeña casa cerca del río, yo recuerdo que todos los veranos nosotros _______ al agua por las tardes y _______ hasta que el sol _______ en el horizonte mientras los pájaros _______ sus melodías vespertinas.",
+          "options": [
+            "vivió... íbamos... jugábamos... se ponía... cantaban",
+            "vivía... íbamos... jugábamos... se ponía... cantaban",
+            "vivía... fuimos... jugamos... se puso... cantaron",
+            "vivía... íbamos... jugábamos... se puso... cantaban"
+          ],
+          "correct": 1,
+          "explanations": [
+            "'Vivió' es pretérito indefinido, que presenta la vida en la casa como un evento puntual. El imperfecto 'vivía' es necesario para mostrar una situación prolongada que servía de escenario.",
+            "¡Perfecto! Todos los verbos en imperfecto describen el escenario y las costumbres de aquella época: 'vivía' (situación prolongada), 'íbamos', 'jugábamos' (hábitos repetidos), 'se ponía' (proceso habitual), 'cantaban' (contexto).",
+            "Todos estos verbos están en pretérito indefinido, que marcarían eventos puntuales específicos. El contexto requiere imperfecto para describir situaciones habituales y repetidas.",
+            "'Se puso' es indefinido, que marcaría un evento específico. La puesta del sol era un proceso que ocurría habitualmente cada tarde, por lo que requiere imperfecto: 'se ponía'."
+          ]
+        },
+        {
+          "sentence": "La ciudad donde _______ mis abuelos durante su juventud _______ calles empedradas que _______ historias centenarias, plazas antiguas que _______ llenas de vida cada domingo, y mercados tradicionales donde los vendedores _______ sus productos frescos con orgullo.",
+          "options": [
+            "vivían... tenía... contaban... estaban... ofrecían",
+            "vivieron... tuvo... contaron... estuvieron... ofrecieron",
+            "vivían... tuvo... contaban... estaban... ofrecían",
+            "vivían... tenía... contaron... estaban... ofrecían"
+          ],
+          "correct": 0,
+          "explanations": [
+            "¡Excelente! Todos los verbos en imperfecto pintan el escenario de esa ciudad antigua: 'vivían' (situación prolongada), 'tenía' (característica), 'contaban' (cualidad permanente), 'estaban' (estado habitual), 'ofrecían' (acción repetida).",
+            "Todos en pretérito indefinido. Este tiempo marcaría eventos puntuales, pero el contexto pide una descripción del escenario y características de la ciudad durante una época prolongada.",
+            "'Tuvo' es indefinido, inadecuado para describir una característica permanente de la ciudad. El imperfecto 'tenía' describe mejor que las calles eran una característica constante del lugar.",
+            "'Contaron' es indefinido, que marcaría un evento puntual. Las historias que las calles 'contaban' eran una cualidad permanente, no un evento específico, por lo que requiere 'contaban' en imperfecto."
+          ]
+        },
+        {
+          "sentence": "El antiguo teatro municipal que _______ en el centro de la ciudad _______ una arquitectura impresionante con columnas de mármol que _______ hasta el techo, vitrales coloridos que _______ la luz del sol, y un escenario enorme donde _______ lugar las mejores obras de la temporada.",
+          "options": [
+            "estaba... presentaba... se elevaban... filtraban... tenían",
+            "estuvo... presentó... se elevaron... filtraron... tuvieron",
+            "estaba... presentó... se elevaban... filtraban... tenían",
+            "estaba... presentaba... se elevaron... filtraban... tenían"
+          ],
+          "correct": 0,
+          "explanations": [
+            "¡Correcto! Todos los verbos en imperfecto describen características permanentes del teatro: 'estaba' (ubicación), 'presentaba' (característica arquitectónica), 'se elevaban' (descripción física), 'filtraban' (cualidad), 'tenían lugar' (situación habitual).",
+            "Todos en indefinido. Este tiempo sería apropiado para eventos puntuales, pero aquí se describen características permanentes y situaciones habituales del teatro, que requieren imperfecto.",
+            "'Presentó' es indefinido, que marcaría un evento específico. La arquitectura era una característica permanente del edificio, no algo que ocurrió una vez, por lo que debe ser 'presentaba'.",
+            "'Se elevaron' es indefinido. Las columnas que llegaban hasta el techo eran una característica física permanente, no un evento puntual, por lo que requiere el imperfecto 'se elevaban'."
+          ]
+        },
+        {
+          "sentence": "En aquella época dorada de mi infancia, nuestro barrio _______ un lugar mágico donde los niños _______ libremente por las calles seguras, los vecinos _______ las puertas abiertas sin temor, y las familias _______ reuniones espontáneas en las tardes de verano mientras el aroma del café recién hecho _______ por todas partes.",
+          "options": [
+            "fue... jugaron... dejaron... organizaron... se esparció",
+            "era... jugaban... dejaban... organizaban... se esparcía",
+            "era... jugaron... dejaban... organizaban... se esparcía",
+            "era... jugaban... dejaron... organizaban... se esparcía"
+          ],
+          "correct": 1,
+          "explanations": [
+            "Todos en indefinido. Este tiempo marcaría eventos puntuales específicos, pero el contexto describe un escenario habitual y características de una época, que requieren imperfecto.",
+            "¡Perfecto! Todos en imperfecto describen el escenario y costumbres de aquella época: 'era' (característica del lugar), 'jugaban' (hábito), 'dejaban' (costumbre), 'organizaban' (acción repetida), 'se esparcía' (situación habitual).",
+            "'Jugaron' es indefinido, que marcaría un evento específico. Los niños jugando era una situación habitual y repetida, no un evento puntual, por lo que debe ser 'jugaban' en imperfecto.",
+            "'Dejaron' es indefinido. Las puertas abiertas eran una costumbre habitual de los vecinos, no un evento puntual, por lo que requiere el imperfecto 'dejaban'."
+          ]
+        },
+        {
+          "sentence": "El pequeño pueblo costero donde _______ mi familia cada verano _______ playas vírgenes de arena blanca que _______ kilómetros de extensión, aguas cristalinas que _______ todas las tonalidades del azul, y pescadores locales que _______ cada madrugada en sus barcas tradicionales para capturar el pescado más fresco.",
+          "options": [
+            "veraneaba... tenía... ocupaban... mostraban... salían",
+            "veraneó... tuvo... ocuparon... mostraron... salieron",
+            "veraneaba... tenía... ocuparon... mostraban... salían",
+            "veraneaba... tuvo... ocupaban... mostraban... salieron"
+          ],
+          "correct": 0,
+          "explanations": [
+            "¡Excelente! Todos en imperfecto pintan el escenario de ese pueblo: 'veraneaba' (situación repetida cada verano), 'tenía' (característica permanente), 'ocupaban' (descripción física), 'mostraban' (cualidad), 'salían' (rutina habitual de los pescadores).",
+            "Todos en indefinido. Este tiempo sería para eventos puntuales, pero aquí se describen características permanentes del lugar y costumbres habituales que requieren imperfecto.",
+            "'Ocuparon' es indefinido, inadecuado para una descripción física permanente. Las playas que se extendían kilómetros era una característica constante, por lo que debe ser 'ocupaban'.",
+            "'Tuvo' y 'salieron' son indefinido. Las características del pueblo y las rutinas de los pescadores eran permanentes y habituales, no eventos puntuales, por lo que requieren imperfecto."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Conjugación fácil: Todos los verbos regulares terminan en -aba/-abas/-aba (1ª conjugación) o -ía/-ías/-ía (2ª/3ª).",
+      "content": "La conjugación del Pretérito Imperfecto es una de las más simples del español. Solo necesitas recordar dos patrones:\n\nVerbos -AR (hablar, caminar, estudiar):\n• Yo hablaba\n• Tú hablabas\n• Él/Ella hablaba\n• Nosotros hablábamos\n• Vosotros hablabais\n• Ellos hablaban\n\nVerbos -ER/-IR (comer, vivir):\n• Yo comía / vivía\n• Tú comías / vivías\n• Él/Ella comía / vivía\n• Nosotros comíamos / vivíamos\n• Vosotros comíais / vivíais\n• Ellos comían / vivían\n\nNota: Solo hay 3 verbos irregulares en TODO el idioma (ver siguiente dica).",
+      "questions": [
+        {
+          "sentence": "Cuando _______ pequeños, mis hermanos y yo _______ todo el día en el parque del barrio, _______ a las escondidas con los vecinos, y _______ helados en la tienda de la esquina mientras _______ historias fantásticas sobre aventuras imaginarias.",
+          "options": [
+            "éramos... jugábamos... jugábamos... comprábamos... inventábamos",
+            "fuimos... jugamos... jugamos... compramos... inventamos",
+            "éramos... jugábamos... jugábamos... comprábamos... inventamos",
+            "éramos... jugamos... jugábamos... comprábamos... inventábamos"
+          ],
+          "correct": 0,
+          "explanations": [
+            "¡Perfecto! Todas las conjugaciones regulares en imperfecto: 'éramos' (ser, irregular), 'jugábamos' (jugar, -AR → -ábamos), 'comprábamos' (comprar, -AR → -ábamos), 'inventábamos' (inventar, -AR → -ábamos). Patrón perfecto de verbos -AR.",
+            "Todos en indefinido. El contexto describe situaciones habituales de la infancia que requieren imperfecto, no eventos puntuales que requieren indefinido.",
+            "'Inventamos' es indefinido. Las historias que inventaban era una actividad habitual, no un evento puntual, por lo que debe ser 'inventábamos' (inventar, -AR → -ábamos).",
+            "'Jugamos' y 'compramos' son indefinido. Jugar y comprar eran acciones repetidas habitualmente, no eventos puntuales, por lo que deben estar en imperfecto: 'jugábamos', 'comprábamos'."
+          ]
+        },
+        {
+          "sentence": "Durante aquellos años universitarios, nosotros _______ largas horas en la biblioteca preparando exámenes difíciles, _______ café constantemente para mantenernos despiertos, _______ en grupos de estudio cada semana, y _______ nuestros conocimientos con compañeros que también _______ las mismas materias complicadas.",
+          "options": [
+            "pasamos... bebimos... nos reunimos... compartimos... cursaban",
+            "pasábamos... bebíamos... nos reuníamos... compartíamos... cursaban",
+            "pasábamos... bebimos... nos reuníamos... compartíamos... cursaban",
+            "pasábamos... bebíamos... nos reunimos... compartíamos... cursaban"
+          ],
+          "correct": 1,
+          "explanations": [
+            "Todos en indefinido excepto el último. El contexto describe rutinas habituales de los años universitarios que requieren imperfecto en todos los verbos, no solo en el último.",
+            "¡Excelente! Todos los verbos regulares en imperfecto: 'pasábamos' (pasar, -AR → -ábamos), 'bebíamos' (beber, -ER → -íamos), 'nos reuníamos' (reunir, -IR → -íamos), 'compartíamos' (compartir, -IR → -íamos), 'cursaban' (cursar, -AR → -aban).",
+            "'Bebimos' y 'nos reunimos' son indefinido. Beber café y reunirse eran acciones habituales repetidas, no eventos puntuales, por lo que deben ser 'bebíamos' (-ER → -íamos) y 'nos reuníamos' (-IR → -íamos).",
+            "'Nos reunimos' es indefinido. Reunirse en grupos era una actividad semanal habitual, no un evento puntual, por lo que debe ser 'nos reuníamos' (reunir, -IR → -íamos)."
+          ]
+        },
+        {
+          "sentence": "En las mañanas de domingo, mi abuelo _______ temprano para preparar el desayuno especial, _______ música clásica en la radio antigua, _______ pan fresco que _______ deliciosamente por toda la casa, mientras mi abuela _______ el jardín con flores coloridas.",
+          "options": [
+            "se levantaba... escuchaba... horneaba... olía... regaba",
+            "se levantó... escuchó... horneó... olió... regó",
+            "se levantaba... escuchó... horneaba... olía... regaba",
+            "se levantaba... escuchaba... horneó... olía... regaba"
+          ],
+          "correct": 0,
+          "explanations": [
+            "¡Correcto! Todas las conjugaciones regulares en imperfecto describiendo rutinas dominicales: 'se levantaba' (levantar, -AR → -aba), 'escuchaba' (escuchar, -AR → -aba), 'horneaba' (hornear, -AR → -aba), 'olía' (oler, -ER → -ía), 'regaba' (regar, -AR → -aba).",
+            "Todos en indefinido. Las rutinas de los domingos eran acciones habituales repetidas que requieren imperfecto, no eventos puntuales que requieren indefinido.",
+            "'Escuchó' y 'horneó' son indefinido. Escuchar música y hornear pan eran actividades habituales de cada domingo, no eventos puntuales, por lo que deben ser 'escuchaba' y 'horneaba'.",
+            "'Horneó' es indefinido. Hornear pan era parte de la rutina dominical habitual, no un evento puntual, por lo que debe ser 'horneaba' (hornear, -AR → -aba)."
+          ]
+        },
+        {
+          "sentence": "Los estudiantes que _______ en ese colegio prestigioso _______ uniformes elegantes todos los días, _______ clases rigurosas desde temprano, _______ actividades extracurriculares por las tardes, y _______ con orgullo su institución educativa.",
+          "options": [
+            "estudiaban... usaban... asistían... practicaban... representaban",
+            "estudiaron... usaron... asistieron... practicaron... representaron",
+            "estudiaban... usaron... asistían... practicaban... representaban",
+            "estudiaban... usaban... asistieron... practicaban... representaban"
+          ],
+          "correct": 0,
+          "explanations": [
+            "¡Perfecto! Todos los verbos regulares en imperfecto: 'estudiaban' (estudiar, -AR → -aban), 'usaban' (usar, -AR → -aban), 'asistían' (asistir, -IR → -ían), 'practicaban' (practicar, -AR → -aban), 'representaban' (representar, -AR → -aban). Patrón perfecto.",
+            "Todos en indefinido. El contexto describe situaciones y rutinas habituales de los estudiantes que requieren imperfecto, no eventos puntuales que requieren indefinido.",
+            "'Usaron' y 'asistieron' son indefinido. Usar uniformes y asistir a clases eran actividades diarias habituales, no eventos puntuales, por lo que deben ser 'usaban' y 'asistían'.",
+            "'Asistieron' es indefinido. Asistir a clases era una actividad diaria regular, no un evento puntual, por lo que debe ser 'asistían' (asistir, -IR → -ían)."
+          ]
+        },
+        {
+          "sentence": "Todas las tardes después del trabajo, mi padre _______ el periódico en su sillón favorito, _______ noticias internacionales con interés, _______ café negro sin azúcar, y _______ en voz alta artículos interesantes que _______ su atención especialmente.",
+          "options": [
+            "leía... seguía... tomaba... comentaba... captaban",
+            "leyó... siguió... tomó... comentó... captaron",
+            "leía... siguió... tomaba... comentaba... captaban",
+            "leía... seguía... tomó... comentaba... captaban"
+          ],
+          "correct": 0,
+          "explanations": [
+            "¡Excelente! Todos los verbos regulares en imperfecto: 'leía' (leer, -ER → -ía), 'seguía' (seguir, -IR → -ía), 'tomaba' (tomar, -AR → -aba), 'comentaba' (comentar, -AR → -aba), 'captaban' (captar, -AR → -aban). Rutina perfectamente descrita.",
+            "Todos en indefinido. Las rutinas vespertinas del padre eran acciones habituales repetidas diariamente que requieren imperfecto, no eventos puntuales que requieren indefinido.",
+            "'Siguió' y 'tomó' son indefinido. Seguir noticias y tomar café eran partes de la rutina diaria, no eventos puntuales, por lo que deben ser 'seguía' y 'tomaba'.",
+            "'Tomó' es indefinido. Tomar café era parte de la rutina vespertina habitual, no un evento puntual, por lo que debe ser 'tomaba' (tomar, -AR → -aba)."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "El Truco del 3: Solo existen tres verbos irregulares en todo el idioma: Ser (era), Ir (iba) y Ver (veía).",
+      "content": "Una de las mejores noticias del español: el Pretérito Imperfecto solo tiene TRES verbos irregulares en TODO el idioma. Memorízalos:\n\nSER (to be):\n• Yo era\n• Tú eras\n• Él/Ella era\n• Nosotros éramos\n• Vosotros erais\n• Ellos eran\n\nIR (to go):\n• Yo iba\n• Tú ibas\n• Él/Ella iba\n• Nosotros íbamos\n• Vosotros ibais\n• Ellos iban\n\nVER (to see):\n• Yo veía\n• Tú veías\n• Él/Ella veía\n• Nosotros veíamos\n• Vosotros veíais\n• Ellos veían\n\nNota: VER parece regular (-ER → -ía), pero técnicamente es irregular porque mantiene la 'e' de la raíz.\n\nTODOS los demás verbos son regulares. ¡Solo 3 irregulares!",
+      "questions": [
+        {
+          "sentence": "Cuando mis padres _______ jóvenes y recién casados, ellos _______ en autobús al trabajo cada mañana porque no _______ automóvil propio, y desde las ventanas del transporte público _______ cómo la ciudad _______ lentamente transformándose con nuevos edificios y avenidas modernas.",
+          "options": [
+            "fueron... iban... tenían... veían... iba",
+            "eran... iban... tenían... veían... iba",
+            "eran... fueron... tenían... veían... iba",
+            "eran... iban... tuvieron... veían... fue"
+          ],
+          "correct": 1,
+          "explanations": [
+            "'Fueron' es pretérito indefinido de SER/IR. El contexto describe una situación prolongada de juventud que requiere el imperfecto 'eran', no un evento puntual.",
+            "¡Perfecto! 'Eran' (SER, irregular), 'iban' (IR, irregular), 'tenían' (tener, regular -ER → -ían), 'veían' (VER, irregular), 'iba' (IR, irregular). Los tres irregulares perfectamente conjugados junto con verbos regulares.",
+            "'Fueron' es indefinido. Ir al trabajo era una acción habitual repetida cada mañana, no un evento puntual, por lo que debe ser 'iban' (IR, irregular en imperfecto).",
+            "'Tuvieron' y 'fue' son indefinido. No tener coche era una situación prolongada, y la transformación de la ciudad era un proceso gradual, ambos requieren imperfecto: 'tenían' y 'iba'."
+          ]
+        },
+        {
+          "sentence": "En aquella época memorable, yo _______ apenas un niño curioso que _______ constantemente al museo de ciencias naturales porque desde allí _______ exposiciones fascinantes de dinosaurios, _______ películas educativas sobre el universo, y _______ un lugar mágico donde aprender era pura diversión.",
+          "options": [
+            "era... iba... veía... era",
+            "fui... fui... vi... fue",
+            "era... fui... veía... era",
+            "era... iba... vi... era"
+          ],
+          "correct": 0,
+          "explanations": [
+            "¡Excelente! Todos los irregulares correctos: 'era' (SER, dos veces), 'iba' (IR), 'veía' (VER). Describe perfectamente las características y hábitos de aquella época usando los tres únicos verbos irregulares del imperfecto.",
+            "Todos en indefinido. El contexto describe características personales ('era un niño') y hábitos repetidos ('iba constantemente') que requieren imperfecto, no eventos puntuales.",
+            "'Fui' es indefinido. Ir constantemente al museo era un hábito repetido, no un evento puntual, por lo que debe ser 'iba' (IR, irregular en imperfecto).",
+            "'Vi' es indefinido. Ver exposiciones era parte de las visitas habituales al museo, no un evento puntual, por lo que debe ser 'veía' (VER, irregular en imperfecto)."
+          ]
+        },
+        {
+          "sentence": "Los domingos familiares que _______ tan especiales _______ siempre la misma rutina reconfortante: todos nosotros _______ a misa por la mañana, después _______ juntos a la casa de los abuelos donde _______ películas antiguas en blanco y negro, y finalmente _______ una cena abundante que mi abuela preparaba con amor.",
+          "options": [
+            "eran... seguían... íbamos... veíamos... era",
+            "fueron... siguieron... fuimos... vimos... fue",
+            "eran... seguían... fuimos... veíamos... era",
+            "eran... siguieron... íbamos... veíamos... fue"
+          ],
+          "correct": 0,
+          "explanations": [
+            "¡Correcto! 'Eran' (SER, irregular), 'seguían' (seguir, regular -IR → -ían), 'íbamos' (IR, irregular), 'veíamos' (VER, irregular), 'era' (SER, irregular). Perfecta combinación de los tres irregulares con verbos regulares describiendo rutinas dominicales.",
+            "Todos en indefinido. El contexto describe rutinas habituales de los domingos que se repetían regularmente, lo cual requiere imperfecto, no eventos puntuales únicos.",
+            "'Fuimos' es indefinido. Ir a misa era parte de la rutina dominical habitual, no un evento puntual, por lo que debe ser 'íbamos' (IR, irregular en imperfecto).",
+            "'Siguieron' y 'fue' son indefinido. Seguir una rutina y la cena eran situaciones habituales repetidas cada domingo, no eventos puntuales, por lo que deben estar en imperfecto."
+          ]
+        },
+        {
+          "sentence": "Mi tía favorita, que _______ una persona extraordinariamente generosa, _______ cada fin de semana a visitar ancianos solitarios en el asilo municipal, _______ con ellos durante horas escuchando sus historias de juventud, y desde la ventana del lugar _______ el parque donde muchos de esos ancianos _______ cuando _______ niños décadas atrás.",
+          "options": [
+            "era... iba... veía... iban... eran",
+            "fue... fue... vio... fueron... fueron",
+            "era... fue... veía... iban... eran",
+            "era... iba... vio... fueron... eran"
+          ],
+          "correct": 0,
+          "explanations": [
+            "¡Perfecto! Los tres irregulares impecables: 'era' (SER, dos veces), 'iba' (IR, dos veces), 'veía' (VER). Describe características ('era generosa'), hábitos ('iba cada fin de semana'), y situaciones pasadas habituales usando exclusivamente los irregulares.",
+            "Todos en indefinido. El contexto describe características de personalidad y acciones habituales repetidas que requieren imperfecto, no eventos puntuales únicos que requieren indefinido.",
+            "'Fue' es indefinido. Ir cada fin de semana era un hábito repetido regularmente, no un evento puntual, por lo que debe ser 'iba' (IR, irregular en imperfecto).",
+            "'Vio' y 'fueron' son indefinido. Ver el parque desde la ventana era habitual durante las visitas, e ir al parque cuando eran niños era una costumbre de la infancia, ambos requieren imperfecto."
+          ]
+        },
+        {
+          "sentence": "Durante mis años de estudiante universitario en el extranjero, yo _______ un joven lleno de sueños que _______ caminando a todas partes porque la ciudad _______ pequeña y desde cualquier punto _______ los monumentos históricos principales, lo cual _______ perfecto para un estudiante sin mucho dinero.",
+          "options": [
+            "fui... iba... fue... veía... era",
+            "era... iba... era... veía... era",
+            "era... fui... era... veía... era",
+            "era... iba... era... vi... fue"
+          ],
+          "correct": 1,
+          "explanations": [
+            "'Fui' y 'fue' son indefinido. 'Ser un joven' describe una característica de esa época, y la ciudad pequeña era una situación constante, ambos requieren imperfecto: 'era'.",
+            "¡Excelente! Triple uso de los irregulares: 'era' (SER, tres veces para características), 'iba' (IR, para hábito de caminar), 'veía' (VER, para lo que se podía observar). Todos los irregulares del imperfecto perfectamente aplicados.",
+            "'Fui' es indefinido. Ir caminando era el método habitual de transporte, no un evento puntual, por lo que debe ser 'iba' (IR, irregular en imperfecto).",
+            "'Vi' y 'fue' son indefinido. Ver los monumentos desde cualquier punto y que la situación fuera perfecta eran características constantes, no eventos puntuales, requieren imperfecto."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "El eco del portugués: Verbos -AR terminan en -aba (igual que en portugués: hablaba/falava).",
+      "content": "¡Buena noticia para hablantes de portugués! Los verbos -AR en imperfecto son casi idénticos al portugués:\n\nESPAÑOL → PORTUGUÉS\n• Yo hablaba → Eu falava\n• Tú caminabas → Tu caminhavas\n• Él estudiaba → Ele estudava\n• Nosotros trabajábamos → Nós trabalhávamos\n• Ellos jugaban → Eles jogavam\n\nLa terminación -aba/-abas/-aba es la misma estructura que en portugués -ava/-avas/-ava.\n\nEsto hace que los verbos -AR sean extremadamente fáciles de aprender para brasileños:\n• Cantar → cantaba (cantava)\n• Bailar → bailaba (dançava)\n• Comprar → compraba (comprava)\n• Cocinar → cocinaba (cozinhava)\n\nNota: La única diferencia está en la primera persona plural: español usa tilde (hablábamos), portugués no (falávamos).",
+      "questions": [
+        {
+          "sentence": "Todos los días después de la escuela, mis compañeros y yo _______ fútbol en el campito del barrio, _______ goles espectaculares que luego _______ durante días, _______ estrategias complejas para ganar, y _______ a casa completamente agotados pero felices cuando el sol _______ escondiéndose tras las montañas.",
+          "options": [
+            "jugábamos... celebrábamos... comentábamos... planeábamos... regresábamos... empezaba",
+            "jugamos... celebramos... comentamos... planeamos... regresamos... empezó",
+            "jugábamos... celebramos... comentábamos... planeábamos... regresábamos... empezaba",
+            "jugábamos... celebrábamos... comentamos... planeábamos... regresábamos... empezó"
+          ],
+          "correct": 0,
+          "explanations": [
+            "¡Perfecto! Todos los verbos -AR en imperfecto siguiendo el patrón portugués: 'jugábamos' (jogávamos), 'celebrábamos' (celebrávamos), 'comentábamos' (comentávamos), 'planeábamos' (planejávamos), 'regresábamos' (regressávamos), 'empezaba' (começava). ¡Idéntico al portugués!",
+            "Todos en indefinido. El contexto describe rutinas diarias habituales ('todos los días después de la escuela') que requieren imperfecto, no eventos puntuales que requieren indefinido.",
+            "'Celebramos' y 'comentamos' son indefinido. Celebrar y comentar eran acciones habituales repetidas, no eventos puntuales, por lo que deben ser 'celebrábamos' y 'comentábamos'.",
+            "'Comentamos' y 'empezó' son indefinido. Comentar era habitual y el sol escondiéndose era un proceso que ocurría cada tarde, ambos requieren imperfecto: 'comentábamos' y 'empezaba'."
+          ]
+        },
+        {
+          "sentence": "Durante las vacaciones de verano que _______ en la casa de la playa, mi familia _______ temprano cada mañana, _______ el desayuno juntos en la terraza mientras _______ el amanecer sobre el mar, y después todos nosotros _______ largas caminatas por la orilla donde _______ conchas marinas hermosas.",
+          "options": [
+            "pasábamos... desayunábamos... observábamos... caminábamos... buscábamos",
+            "pasábamos... se despertaba... desayunábamos... observábamos... caminábamos... buscábamos",
+            "pasamos... se despertó... desayunamos... observamos... caminamos... buscamos",
+            "pasábamos... se despertó... desayunábamos... observábamos... caminábamos... buscábamos"
+          ],
+          "correct": 1,
+          "explanations": [
+            "Falta el verbo 'se despertaba'. La oración necesita expresar que la familia despertaba temprano como parte de la rutina veraniega. Esta opción está incompleta.",
+            "¡Excelente! Todos los verbos -AR en imperfecto: 'pasábamos' (passávamos), 'se despertaba' (se despertava), 'desayunábamos' (café da manhávamos), 'observábamos' (observávamos), 'caminábamos' (caminhávamos), 'buscábamos' (buscávamos). Patrón idéntico al portugués.",
+            "Todos en indefinido. Las rutinas de las vacaciones de verano eran acciones habituales repetidas cada día que requieren imperfecto, no eventos puntuales únicos.",
+            "'Se despertó' es indefinido. Despertarse temprano era parte de la rutina diaria de vacaciones, no un evento puntual, por lo que debe ser 'se despertaba'."
+          ]
+        },
+        {
+          "sentence": "Mi abuela, que _______ historias maravillosas de su juventud, siempre _______ con nosotros después de la cena, _______ anécdotas fascinantes sobre cómo _______ la vida en su época, _______ detalles vívidos que _______ la escena perfectamente, y nosotros _______ cada palabra con atención absoluta.",
+          "options": [
+            "contaba... conversaba... narraba... era... agregaba... pintaban... escuchábamos",
+            "contó... conversó... narró... fue... agregó... pintaron... escuchamos",
+            "contaba... conversó... narraba... era... agregaba... pintaban... escuchábamos",
+            "contaba... conversaba... narró... era... agregó... pintaban... escuchábamos"
+          ],
+          "correct": 0,
+          "explanations": [
+            "¡Correcto! Todos los verbos -AR siguen el patrón portugués: 'contaba' (contava), 'conversaba' (conversava), 'narraba' (narrava), 'agregaba' (agregava), 'pintaban' (pintavam), 'escuchábamos' (escutávamos). Más 'era' (irregular). Rutina perfectamente descrita.",
+            "Todos en indefinido. Las rutinas vespertinas de la abuela contando historias eran acciones habituales repetidas regularmente que requieren imperfecto, no eventos puntuales únicos.",
+            "'Conversó' y 'narró' son indefinido. Conversar y narrar eran acciones habituales después de la cena, no eventos puntuales, por lo que deben ser 'conversaba' y 'narraba'.",
+            "'Narró' y 'agregó' son indefinido. Narrar anécdotas y agregar detalles eran acciones habituales de las sesiones de historias, no eventos puntuales, requieren imperfecto."
+          ]
+        },
+        {
+          "sentence": "Los comerciantes del mercado tradicional que _______ sus puestos cada madrugada _______ productos frescos con orgullo, _______ precios justos a sus clientes habituales, _______ sobre el clima y las noticias locales, y _______ el ambiente comunitario del barrio con su presencia alegre y constante.",
+          "options": [
+            "preparaban... ofrecían... cobraban... conversaban... animaban",
+            "prepararon... ofrecieron... cobraron... conversaron... animaron",
+            "preparaban... ofrecieron... cobraban... conversaban... animaban",
+            "preparaban... ofrecían... cobraron... conversaban... animaron"
+          ],
+          "correct": 0,
+          "explanations": [
+            "¡Perfecto! Todos los verbos -AR en imperfecto: 'preparaban' (preparavam), 'ofrecían' (-ER, regular), 'cobraban' (cobravam), 'conversaban' (conversavam), 'animaban' (animavam). Cuatro verbos -AR siguiendo perfectamente el patrón portugués.",
+            "Todos en indefinido. Las rutinas diarias de los comerciantes eran acciones habituales repetidas cada día que requieren imperfecto, no eventos puntuales únicos que requieren indefinido.",
+            "'Ofrecieron' y 'cobraron' son indefinido. Ofrecer productos y cobrar precios eran acciones habituales de cada día de mercado, no eventos puntuales, deben ser 'ofrecían' y 'cobraban'.",
+            "'Cobraron' y 'animaron' son indefinido. Cobrar y animar el ambiente eran actividades constantes y habituales, no eventos puntuales, por lo que requieren imperfecto."
+          ]
+        },
+        {
+          "sentence": "En las noches de invierno cuando la temperatura _______ considerablemente y el viento frío _______ por las calles desiertas, las familias del pueblo _______ alrededor de la chimenea encendida, _______ chocolate caliente en tazas grandes, _______ manteles tejidos sobre las piernas, y _______ historias antiguas que _______ de generación en generación.",
+          "options": [
+            "bajaba... soplaba... se reunían... tomaban... colocaban... contaban... pasaban",
+            "bajó... sopló... se reunieron... tomaron... colocaron... contaron... pasaron",
+            "bajaba... soplaba... se reunieron... tomaban... colocaban... contaban... pasaban",
+            "bajaba... sopló... se reunían... tomaron... colocaban... contó... pasaban"
+          ],
+          "correct": 0,
+          "explanations": [
+            "¡Excelente! Todos en imperfecto: 'bajaba' (baixava), 'soplaba' (soprava), 'se reunían' (se reuniam), 'tomaban' (tomavam), 'colocaban' (colocavam), 'contaban' (contavam), 'pasaban' (passavam). Siete verbos -AR siguiendo perfectamente el patrón portugués describiendo rutinas invernales.",
+            "Todos en indefinido. El contexto describe rutinas habituales de las noches de invierno que se repetían regularmente, lo cual requiere imperfecto, no eventos puntuales únicos.",
+            "'Se reunieron' es indefinido. Reunirse alrededor de la chimenea era una actividad habitual de cada noche fría, no un evento puntual, debe ser 'se reunían'.",
+            "'Sopló', 'tomaron' y 'contó' son indefinido. Todas estas acciones eran habituales en las noches de invierno, no eventos puntuales, por lo que requieren imperfecto."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Verbos -ER/-IR terminan en -ía (comía, vivía).",
+      "content": "Los verbos terminados en -ER y -IR tienen exactamente la misma conjugación en Pretérito Imperfecto, terminando siempre en -ía:\n\nVerbos -ER (comer, beber, leer):\n• Yo comía\n• Tú comías\n• Él/Ella comía\n• Nosotros comíamos\n• Vosotros comíais\n• Ellos comían\n\nVerbos -IR (vivir, escribir, recibir):\n• Yo vivía\n• Tú vivías\n• Él/Ella vivía\n• Nosotros vivíamos\n• Vosotros vivíais\n• Ellos vivían\n\nEjemplos comparados:\n• Comer → comía (exactamente igual que vivir → vivía)\n• Beber → bebía (exactamente igual que escribir → escribía)\n• Leer → leía (exactamente igual que salir → salía)\n\nNota: A diferencia del presente, donde -ER/-IR tienen algunas diferencias, en imperfecto son IDÉNTICOS.",
+      "questions": [
+        {
+          "sentence": "Durante los años que _______ en aquel departamento pequeño del centro, yo _______ libros constantemente porque no _______ televisor, _______ correspondencia con amigos lejanos cada semana, y _______ música clásica mientras _______ ensayos para la universidad.",
+          "options": [
+            "vivía... leía... tenía... escribía... escuchaba... componía",
+            "viví... leí... tuve... escribí... escuché... compuse",
+            "vivía... leía... tuve... escribía... escuchaba... componía",
+            "vivía... leí... tenía... escribí... escuchaba... componía"
+          ],
+          "correct": 0,
+          "explanations": [
+            "¡Perfecto! Todos los verbos -ER/-IR en imperfecto con terminación -ía: 'vivía' (-IR), 'leía' (-ER), 'tenía' (-ER), 'escribía' (-IR), 'escuchaba' (-AR), 'componía' (-ER). Perfecta combinación de -ER/-IR todos con -ía.",
+            "Todos en indefinido. El contexto describe situaciones y hábitos de aquella época de vida que requieren imperfecto, no eventos puntuales que requieren indefinido.",
+            "'Tuve' y 'escribí' son indefinido. No tener televisor era una situación constante, y escribir cartas era un hábito semanal, ambos requieren imperfecto con -ía.",
+            "'Leí' y 'escribí' son indefinido. Leer constantemente y escribir cada semana eran hábitos repetidos, no eventos puntuales, deben ser 'leía' y 'escribía' con -ía."
+          ]
+        },
+        {
+          "sentence": "Los científicos que _______ en ese laboratorio prestigioso durante la década de los ochenta _______ investigaciones revolucionarias, _______ experimentos complejos cada día, _______ resultados sorprendentes en revistas especializadas, y _______ el conocimiento humano de manera significativa con sus descubrimientos innovadores.",
+          "options": [
+            "trabajaban... conducían... hacían... compartían... expandían",
+            "trabajaron... condujeron... hicieron... compartieron... expandieron",
+            "trabajaban... condujeron... hacían... compartían... expandían",
+            "trabajaban... conducían... hicieron... compartieron... expandían"
+          ],
+          "correct": 0,
+          "explanations": [
+            "¡Excelente! Todos los verbos -ER/-IR con -ía: 'trabajaban' (-AR), 'conducían' (-IR, conducir → conducía), 'hacían' (-ER, hacer → hacía irregular en raíz pero regular en terminación), 'compartían' (-IR), 'expandían' (-IR). Patrón perfecto de -ER/-IR.",
+            "Todos en indefinido. El contexto describe actividades habituales durante toda una década que requieren imperfecto, no eventos puntuales que requieren indefinido.",
+            "'Condujeron', 'hicieron' y 'compartieron' son indefinido. Todas estas acciones eran actividades habituales del trabajo científico diario, no eventos puntuales, requieren -ía.",
+            "'Hicieron' y 'compartieron' son indefinido. Hacer experimentos cada día y compartir resultados eran actividades regulares, no eventos puntuales, deben ser 'hacían' y 'compartían'."
+          ]
+        },
+        {
+          "sentence": "En las tardes tranquilas de mi infancia rural, mi hermano mayor y yo _______ en el arroyo cercano pescando con cañas artesanales, _______ a las aves migratorias que _______ sobre nosotros, _______ frutas silvestres que _______ naturalmente en el bosque, y _______ momentos de paz absoluta que ahora _______ con nostalgia profunda.",
+          "options": [
+            "nos sentábamos... observábamos... volaban... comíamos... crecían... vivíamos... recuerdo",
+            "nos sentamos... observamos... volaron... comimos... crecieron... vivimos... recordé",
+            "nos sentábamos... observamos... volaban... comíamos... crecían... vivíamos... recuerdo",
+            "nos sentábamos... observábamos... volaron... comimos... crecían... vivimos... recuerdo"
+          ],
+          "correct": 0,
+          "explanations": [
+            "¡Correcto! Perfecta mezcla: 'nos sentábamos' (-AR), 'observábamos' (-AR), 'volaban' (-AR), 'comíamos' (-ER con -ía), 'crecían' (-ER con -ía), 'vivíamos' (-IR con -ía), 'recuerdo' (presente). Los verbos -ER/-IR todos con -ía.",
+            "Todos los pasados en indefinido. Las rutinas de la infancia eran actividades habituales repetidas que requieren imperfecto, no eventos puntuales que requieren indefinido.",
+            "'Observamos' y 'comimos' son indefinido. Observar aves y comer frutas eran actividades habituales de las tardes, no eventos puntuales, deben tener -ía.",
+            "'Volaron', 'comimos' y 'vivimos' son indefinido. Todas estas acciones describían situaciones habituales de la infancia, no eventos puntuales, requieren imperfecto con -ía."
+          ]
+        },
+        {
+          "sentence": "Los estudiantes universitarios que _______ en residencias compartidas durante esos años _______ sus espacios reducidos, _______ libros y apuntes con generosidad, _______ juntos para los exámenes difíciles, _______ experiencias valiosas de convivencia, y _______ amistades duraderas que _______ décadas después.",
+          "options": [
+            "vivían... compartían... compartían... estudiaban... vivían... construían... permanecían",
+            "vivieron... compartieron... compartieron... estudiaron... vivieron... construyeron... permanecieron",
+            "vivían... compartieron... compartían... estudiaban... vivían... construían... permanecían",
+            "vivían... compartían... compartieron... estudiaron... vivían... construían... permanecieron"
+          ],
+          "correct": 0,
+          "explanations": [
+            "¡Perfecto! Todos los verbos -ER/-IR con terminación -ía perfecta: 'vivían' (-IR), 'compartían' (-IR, dos veces), 'estudiaban' (-AR), 'vivían' (-IR), 'construían' (-IR), 'permanecían' (-ER). Cinco verbos -ER/-IR con -ía describiendo la vida universitaria.",
+            "Todos en indefinido. El contexto describe situaciones y hábitos de los años universitarios que requieren imperfecto, no eventos puntuales que requieren indefinido.",
+            "'Compartieron' y 'estudiaron' son indefinido. Compartir libros y estudiar juntos eran actividades habituales de la vida en residencia, no eventos puntuales, requieren -ía.",
+            "'Compartieron', 'estudiaron' y 'permanecieron' son indefinido. Todas estas acciones describían la rutina universitaria habitual, no eventos puntuales, deben llevar -ía."
+          ]
+        },
+        {
+          "sentence": "Mi tío aventurero, que _______ viajando constantemente por el mundo durante su juventud, _______ en hostales económicos, _______ la gastronomía local de cada región que _______, _______ postales descriptivas a la familia desde lugares exóticos, y _______ fotografías artísticas que todavía _______ en álbumes antiguos.",
+          "options": [
+            "vivía... dormía... comía... visitaba... escribía... tomaba... existen",
+            "vivió... durmió... comió... visitó... escribió... tomó... existieron",
+            "vivía... durmió... comía... visitaba... escribía... tomaba... existen",
+            "vivía... dormía... comió... visitó... escribía... tomó... existen"
+          ],
+          "correct": 0,
+          "explanations": [
+            "¡Excelente! Todos los verbos -ER/-IR en imperfecto: 'vivía' (-IR), 'dormía' (-IR), 'comía' (-ER), 'visitaba' (-AR), 'escribía' (-IR), 'tomaba' (-AR), 'existen' (presente). Cinco verbos -ER/-IR todos con terminación -ía perfecta.",
+            "Todos los pasados en indefinido. Los hábitos de viaje del tío durante su juventud eran actividades habituales repetidas que requieren imperfecto, no eventos puntuales.",
+            "'Durmió', 'comió' y 'visitó' son indefinido. Dormir en hostales, comer local y visitar regiones eran actividades habituales de sus viajes, no eventos puntuales, requieren -ía.",
+            "'Comió', 'visitó' y 'tomó' son indefinido. Todas estas acciones eran hábitos de viaje repetidos, no eventos únicos, deben ser 'comía', 'visitaba' y 'tomaba'."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Acciones en progreso cuando otra acción puntual (indefinido) interrumpió: 'Mientras veía TV (imperfecto), sonó el teléfono (indefinido)'.",
+      "content": "Una de las funciones más importantes del Pretérito Imperfecto es describir una acción que estaba en progreso cuando otra acción puntual la interrumpió (o ocurrió durante ella).\n\nESTRUCTURA:\n• Acción en progreso → IMPERFECTO\n• Acción que interrumpe → INDEFINIDO\n\nEjemplos:\n• Mientras cocinaba (imperfecto), llegó mi hermano (indefinido).\n• Cuando caminaba por la calle (imperfecto), vi a mi profesor (indefinido).\n• Leía un libro (imperfecto) cuando sonó el teléfono (indefinido).\n\nPalabras clave que indican esta estructura:\n• Mientras... (mientras estudiaba, llegaron)\n• Cuando... (cuando dormía, sonó la alarma)\n• Estar + gerundio → imperfecto (estaba comiendo cuando...)\n\nRecuerda: La acción en curso (más larga) va en IMPERFECTO, la que interrumpe (más corta, puntual) va en INDEFINIDO.",
+      "questions": [
+        {
+          "sentence": "Mientras mi madre _______ tranquilamente en el jardín disfrutando del sol primaveral y mis hermanos _______ videojuegos en la sala de estar, de repente _______ un ruido extraño en el techo, todos nosotros _______ corriendo para investigar, y _______ que una familia de ardillas _______ un nido en el ático de la casa.",
+          "options": [
+            "leía... jugaban... escuchamos... salimos... descubrimos... había construido",
+            "leyó... jugaron... escuchamos... salimos... descubrimos... construyó",
+            "leía... jugaban... escuchábamos... salíamos... descubríamos... construía",
+            "leía... jugaron... escuchamos... salimos... descubrimos... había construido"
+          ],
+          "correct": 0,
+          "explanations": [
+            "¡Perfecto! Estructura ideal: 'leía' y 'jugaban' (imperfecto, acciones en progreso) fueron interrumpidas por 'escuchamos' (indefinido, evento puntual), seguido de 'salimos' y 'descubrimos' (indefinido, reacciones puntuales), y 'había construido' (pluscuamperfecto, acción anterior).",
+            "Todos en indefinido. 'Leyó' y 'jugaron' marcarían eventos puntuales, pero estas acciones estaban en progreso cuando fueron interrumpidas, por lo que requieren imperfecto.",
+            "Todos en imperfecto. 'Escuchamos', 'salimos' y 'descubrimos' deben estar en indefinido porque son las acciones puntuales que interrumpen o siguen a la interrupción, no acciones en progreso.",
+            "'Jugaron' es indefinido. Jugar era la acción en progreso cuando ocurrió el ruido, no un evento puntual, por lo que debe ser 'jugaban' en imperfecto."
+          ]
+        },
+        {
+          "sentence": "Cuando el profesor _______ pacientemente la lección de matemáticas complejas en la pizarra y los estudiantes _______ atentamente tomando apuntes detallados, inesperadamente _______ la alarma de incendios, todos _______ sus mochilas rápidamente, y el grupo completo _______ del edificio siguiendo los protocolos de emergencia establecidos.",
+          "options": [
+            "explicó... escucharon... sonó... agarraron... salió",
+            "explicaba... escuchaban... sonó... agarraron... salió",
+            "explicaba... escuchaban... sonaba... agarraban... salía",
+            "explicaba... escucharon... sonó... agarraron... salió"
+          ],
+          "correct": 1,
+          "explanations": [
+            "'Explicó' y 'escucharon' son indefinido. Explicar y escuchar eran las acciones en progreso cuando sonó la alarma, no eventos puntuales, requieren imperfecto.",
+            "¡Excelente! 'Explicaba' y 'escuchaban' (imperfecto, acciones en progreso) fueron interrumpidas por 'sonó' (indefinido, evento puntual que interrumpe), seguido de 'agarraron' y 'salió' (indefinido, reacciones puntuales a la interrupción).",
+            "Todos en imperfecto. 'Sonó', 'agarraron' y 'salió' deben estar en indefinido porque son las acciones puntuales de la emergencia que interrumpen y siguen a la interrupción.",
+            "'Escucharon' es indefinido. Escuchar atentamente era la acción en progreso de los estudiantes, no un evento puntual, debe ser 'escuchaban' en imperfecto."
+          ]
+        },
+        {
+          "sentence": "Mientras los turistas _______ fotografías admirados del paisaje montañoso espectacular y el guía local _______ leyendas fascinantes sobre la historia antigua del valle, súbitamente _______ una tormenta eléctrica impresionante, el cielo _______ oscureciéndose dramáticamente en cuestión de minutos, y todo el grupo _______ refugio urgente en una cabaña cercana.",
+          "options": [
+            "tomaban... narraba... se desató... comenzó... buscó",
+            "tomaron... narró... se desató... comenzó... buscó",
+            "tomaban... narraba... se desataba... comenzaba... buscaba",
+            "tomaban... narró... se desató... comenzó... buscó"
+          ],
+          "correct": 0,
+          "explanations": [
+            "¡Correcto! 'Tomaban' y 'narraba' (imperfecto, acciones en progreso) interrumpidas por 'se desató' (indefinido, evento puntual), 'comenzó' (indefinido, inicio abrupto), y 'buscó' (indefinido, reacción puntual). Estructura perfecta de interrupción.",
+            "Todos en indefinido. 'Tomaron' y 'narró' marcarían eventos puntuales, pero tomar fotos y narrar leyendas eran actividades en progreso cuando llegó la tormenta.",
+            "Todos en imperfecto. 'Se desató', 'comenzó' y 'buscó' deben estar en indefinido porque son los eventos puntuales de la tormenta y la reacción, no acciones en progreso.",
+            "'Narró' es indefinido. Narrar leyendas era la actividad en progreso del guía, no un evento puntual, debe ser 'narraba' en imperfecto."
+          ]
+        },
+        {
+          "sentence": "Cuando la orquesta sinfónica _______ la obra maestra de Beethoven con pasión desbordante en el teatro abarrotado y el público _______ extasiado cada nota sublime, de pronto _______ un apagón total inesperado, los músicos _______ de tocar momentáneamente confundidos, pero enseguida el director _______ la decisión brillante de continuar en la oscuridad y todos _______ la interpretación creando una atmósfera mágica inolvidable.",
+          "options": [
+            "interpretaba... escuchaba... ocurrió... dejaron... tomó... reanudaron",
+            "interpretó... escuchó... ocurrió... dejaron... tomó... reanudaron",
+            "interpretaba... escuchaba... ocurría... dejaban... tomaba... reanudaban",
+            "interpretaba... escuchó... ocurrió... dejaron... tomó... reanudaron"
+          ],
+          "correct": 0,
+          "explanations": [
+            "¡Perfecto! 'Interpretaba' y 'escuchaba' (imperfecto, acciones en progreso) interrumpidas por 'ocurrió' (indefinido, evento puntual), 'dejaron' (indefinido, reacción inmediata), 'tomó' (indefinido, decisión puntual), 'reanudaron' (indefinido, acción puntual de retomar).",
+            "Todos en indefinido. 'Interpretó' y 'escuchó' marcarían que tocar y escuchar fueron eventos puntuales completos, pero eran acciones en progreso interrumpidas por el apagón.",
+            "Todos en imperfecto. 'Ocurrió', 'dejaron', 'tomó' y 'reanudaron' deben estar en indefinido porque son los eventos puntuales que interrumpen y las reacciones, no acciones en progreso.",
+            "'Escuchó' es indefinido. Escuchar extasiado era la acción en progreso del público durante la interpretación, no un evento puntual, debe ser 'escuchaba'."
+          ]
+        },
+        {
+          "sentence": "Mientras la familia _______ cenando placenteramente en el restaurante elegante celebrando el aniversario de bodas de los abuelos y todos _______ animadamente sobre recuerdos felices del pasado, repentinamente _______ el mesero principal con una tarta sorpresa espectacular encendida con velas, los músicos del local _______ tocando una serenata romántica, y los presentes _______ ovacionando emocionados la pareja homenajeada.",
+          "options": [
+            "estaba... conversaban... apareció... empezaron... comenzaron",
+            "estuvo... conversaron... apareció... empezaron... comenzaron",
+            "estaba... conversaban... aparecía... empezaban... comenzaban",
+            "estaba... conversaron... apareció... empezaron... comenzaron"
+          ],
+          "correct": 0,
+          "explanations": [
+            "¡Excelente! 'Estaba cenando' y 'conversaban' (imperfecto, acciones en progreso) interrumpidas por 'apareció' (indefinido, evento puntual sorpresa), 'empezaron' y 'comenzaron' (indefinido, inicio de nuevas acciones puntuales). Estructura perfecta con gerundio.",
+            "Todos en indefinido. 'Estuvo' y 'conversaron' marcarían eventos puntuales, pero cenar y conversar eran las actividades en progreso cuando apareció la sorpresa.",
+            "Todos en imperfecto. 'Apareció', 'empezaron' y 'comenzaron' deben estar en indefinido porque son las acciones puntuales de la sorpresa que interrumpen las actividades en curso.",
+            "'Conversaron' es indefinido. Conversar animadamente era la acción en progreso de la familia, no un evento puntual, debe ser 'conversaban' en imperfecto."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Usos clave (L.E.M.A.S.): Lugares, personas y cosas / Estado físico o emocional / Momento del día-Hora / Acciones habituales / Situaciones en progreso.",
+      "content": "Memoriza esta sigla L.E.M.A.S. para recordar cuándo usar el Pretérito Imperfecto:\n\nL - Lugares, personas y cosas (descripción):\n• La casa era grande y blanca.\n• Mi abuelo tenía el pelo canoso.\n• El coche era viejo pero funcionaba bien.\n\nE - Estado físico o emocional:\n• Estaba cansado después del trabajo.\n• Me sentía feliz en aquella época.\n• Tenía hambre y sueño.\n\nM - Momento del día / Hora:\n• Eran las tres de la tarde.\n• Era de noche cuando llegué.\n• Era temprano todavía.\n\nA - Acciones habituales (repetidas):\n• Íbamos a la playa todos los veranos.\n• Estudiaba cada noche.\n• Mis padres trabajaban los fines de semana.\n\nS - Situaciones en progreso (especialmente cuando son interrumpidas):\n• Cuando él llegó, yo leía. (la lectura estaba en progreso)\n• Mientras cocinaba, sonó el teléfono.\n• Estaba durmiendo cuando llamaste.\n\nRecuerda: Si puedes encuadrar tu situación en cualquiera de estas categorías de L.E.M.A.S., usa IMPERFECTO.",
+      "questions": [
+        {
+          "sentence": "Durante aquella época memorable de mi adolescencia, yo _______ un estudiante tímido y reservado (L) que _______ constantemente inseguro sobre mi futuro (E), _______ las siete de la mañana cuando _______ de casa cada día (M), siempre _______ el mismo autobús escolar junto con mis vecinos (A), y frecuentemente _______ profundamente cuando _______ el despertador molesto (S).",
+          "options": [
+            "era... me sentía... eran... salía... tomaba... dormía... sonaba",
+            "fui... me sentí... fueron... salí... tomé... dormí... sonó",
+            "era... me sentía... fueron... salía... tomaba... dormía... sonaba",
+            "era... me sentí... eran... salí... tomaba... dormía... sonó"
+          ],
+          "correct": 0,
+          "explanations": [
+            "¡Perfecto! Todos los verbos en imperfecto aplicando L.E.M.A.S.: 'era' (L-descripción personal), 'me sentía' (E-estado emocional), 'eran' (M-hora), 'salía' (A-acción habitual diaria), 'tomaba' (A-hábito), 'dormía' y 'sonaba' (S-situación en progreso interrumpida).",
+            "Todos en indefinido. Cada verbo corresponde a una categoría de L.E.M.A.S. que requiere imperfecto: descripción, estado, hora, hábitos y situación en progreso.",
+            "'Fueron' y 'salí' son indefinido. 'Eran' (M-hora) y 'salía' (A-acción habitual cada día) deben estar en imperfecto según L.E.M.A.S.",
+            "'Me sentí', 'salí' y 'sonó' son indefinido. Estos corresponden a E (estado emocional), A (hábito diario) y S (interrupción), todos requieren imperfecto."
+          ]
+        },
+        {
+          "sentence": "El barrio donde _______ mis abuelos durante décadas _______ un lugar pintoresco y acogedor (L) con calles arboladas que _______ sombra fresca, los vecinos _______ las puertas abiertas confiadamente (A) porque _______ mutuamente y _______ un fuerte sentido comunitario (E), _______ aproximadamente las seis de la tarde cuando todos _______ reuniéndose en la plaza central (M-S).",
+          "options": [
+            "vivían... era... daban... dejaban... se conocían... compartían... eran... empezaban",
+            "vivieron... fue... dieron... dejaron... se conocieron... compartieron... fueron... empezaron",
+            "vivían... era... daban... dejaron... se conocían... compartían... eran... empezaban",
+            "vivían... fue... daban... dejaban... se conocieron... compartieron... fueron... empezaron"
+          ],
+          "correct": 0,
+          "explanations": [
+            "¡Excelente! Todos en imperfecto siguiendo L.E.M.A.S.: 'vivían' (situación prolongada), 'era/daban' (L-descripción del lugar), 'dejaban' (A-costumbre habitual), 'se conocían/compartían' (E-estado de relación), 'eran' (M-hora), 'empezaban' (S-acción en progreso).",
+            "Todos en indefinido. El contexto describe características permanentes del barrio (L), costumbres (A), estados de relación (E), hora (M) y situaciones habituales (S), todo requiere imperfecto.",
+            "'Dejaron' es indefinido. Dejar las puertas abiertas era una costumbre habitual (A en L.E.M.A.S.), no un evento puntual, requiere 'dejaban' en imperfecto.",
+            "'Fue', 'se conocieron', 'compartieron', 'fueron' y 'empezaron' son indefinido. Todos corresponden a categorías de L.E.M.A.S. que requieren imperfecto."
+          ]
+        },
+        {
+          "sentence": "Cuando _______ niño pequeño (L), yo _______ constantemente miedo a la oscuridad (E) y cada noche _______ alrededor de las nueve cuando mis padres _______ apagando las luces de la casa (M-S), siempre _______ revisando debajo de mi cama antes de acostarme (A), porque _______ convencido de que allí _______ monstruos imaginarios escondidos esperando.",
+          "options": [
+            "era... tenía... era... comenzaban... estaba... estaba... había",
+            "fui... tuve... fue... comenzaron... estuve... estuve... hubo",
+            "era... tenía... fue... comenzaban... estaba... estaba... había",
+            "era... tuve... era... comenzaron... estaba... estuve... hubo"
+          ],
+          "correct": 0,
+          "explanations": [
+            "¡Correcto! Todos aplicando L.E.M.A.S. perfectamente: 'era' (L-descripción personal), 'tenía' (E-estado emocional), 'era' (M-hora), 'comenzaban' (S-acción en progreso), 'estaba revisando' (A-hábito nocturno), 'estaba/había' (E-estado de creencia y existencia imaginaria).",
+            "Todos en indefinido. Cada verbo corresponde a una categoría específica de L.E.M.A.S. que requiere imperfecto: descripción personal, estados emocionales, hora, hábitos y situaciones.",
+            "'Fue' y 'comenzaron' son indefinido. 'Era' (M-hora específica cada noche) y 'comenzaban' (S-acción en progreso cuando ocurría el ritual) requieren imperfecto según L.E.M.A.S.",
+            "'Tuve', 'comenzaron', 'estuve' y 'hubo' son indefinido. Todos estos verbos corresponden a categorías de L.E.M.A.S.: E (estado emocional continuo), M-S (hora y situación), A (hábito), requieren imperfecto."
+          ]
+        },
+        {
+          "sentence": "Mi profesor favorito de literatura _______ un hombre sabio y paciente (L) que _______ genuino entusiasmo por enseñar a sus estudiantes (E), _______ puntualmente las ocho de la mañana cuando _______ su primera clase (M), todos los lunes _______ poemas clásicos en voz alta con dramatismo (A), y mientras _______ apasionadamente sobre Shakespeare, nosotros _______ transportados a otra época completamente (S).",
+          "options": [
+            "era... sentía... eran... daba... recitaba... hablaba... nos sentíamos",
+            "fue... sintió... fueron... dio... recitó... habló... nos sentimos",
+            "era... sentía... fueron... daba... recitaba... hablaba... nos sentíamos",
+            "era... sintió... eran... dio... recitó... hablaba... nos sentimos"
+          ],
+          "correct": 0,
+          "explanations": [
+            "¡Perfecto! Aplicación completa de L.E.M.A.S.: 'era' (L-descripción del profesor), 'sentía' (E-estado emocional), 'eran' (M-hora), 'daba' (A-rutina de clase), 'recitaba' (A-hábito semanal), 'hablaba' y 'nos sentíamos' (S-acciones/estados en progreso simultáneos).",
+            "Todos en indefinido. El contexto describe características personales (L), estados (E), hora (M), hábitos (A) y situaciones en progreso (S), todas categorías de L.E.M.A.S. que requieren imperfecto.",
+            "'Fueron' es indefinido. 'Eran las ocho' (M-hora habitual de inicio de clase) requiere imperfecto según la categoría M de L.E.M.A.S.",
+            "'Sintió', 'dio', 'recitó' y 'nos sentimos' son indefinido. Estos corresponden a E (estado), A (hábitos semanales) y S (estado en progreso), requieren imperfecto según L.E.M.A.S."
+          ]
+        },
+        {
+          "sentence": "El antiguo cine del barrio _______ un edificio majestuoso con decoración art déco (L) que _______ un aroma característico a palomitas de maíz recién hechas (E), _______ exactamente las siete de la tarde cuando _______ la función principal cada sábado (M), las familias _______ comprando boletos con anticipación entusiasmadas (A), y mientras la película _______ proyectándose en la pantalla gigante, los espectadores _______ completamente absortos en las historias cinematográficas (S).",
+          "options": [
+            "era... tenía... eran... comenzaba... estaban... estaba... estaban",
+            "fue... tuvo... fueron... comenzó... estuvieron... estuvo... estuvieron",
+            "era... tuvo... eran... comenzaba... estaban... estaba... estaban",
+            "era... tenía... fueron... comenzó... estuvieron... estuvo... estaban"
+          ],
+          "correct": 0,
+          "explanations": [
+            "¡Excelente! L.E.M.A.S. completo: 'era/tenía' (L-descripción del lugar y característica), 'eran' (M-hora específica habitual), 'comenzaba' (M-inicio rutinario), 'estaban comprando' (A-hábito semanal), 'estaba proyectándose/estaban absortos' (S-situaciones simultáneas en progreso).",
+            "Todos en indefinido. Cada verbo corresponde a una categoría clara de L.E.M.A.S.: L (descripción del edificio), E (característica sensorial), M (hora), A (hábito), S (situaciones en progreso).",
+            "'Tuvo' es indefinido. El aroma característico era una cualidad permanente del lugar (L en L.E.M.A.S.), no un evento puntual, requiere 'tenía' en imperfecto.",
+            "'Fueron', 'comenzó' y 'estuvieron' son indefinido. Estos corresponden a M (hora habitual), M (inicio rutinario) y A (hábito semanal), categorías de L.E.M.A.S. que requieren imperfecto."
+          ]
+        }
+      ]
+    }
+  ]
+}
