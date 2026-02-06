@@ -196,10 +196,17 @@ async function loadQuestions(lang, tense) {
         currentTipIndex = 0;
         currentQuestionIndex = 0;
         showingTip = true;
+      } else if (tense === "Imperativo") {
+        // Load the new tip-based structure for Imperativo
+        const response = await fetch("questions_es_imperativo.json");
+        data = await response.json();
+        currentTipData = data;
+        currentTipIndex = 0;
+        currentQuestionIndex = 0;
+        showingTip = true;
       } else {
         // Load specific tense (old format)
         const tenseFileMap = {
-          "Imperativo": "questions_es_imperativo.json",
           "Condicional": "questions_es_condicional.json"
         };
         
