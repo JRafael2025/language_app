@@ -1,362 +1,380 @@
 [
   {
-    "language": "en",
-    "tense": "Present Simple vs. Present Continuous",
-    "sentence": "Despite the fact that she generally _______ very early in the morning, today she _______ in because she had a late flight back from Vienna last night.",
+    "language": "es",
+    "tense": "Presente del Indicativo",
+    "sentence": "Todas las mañanas, mi hermana _______ el desayuno mientras yo _______ el periódico y nuestro padre _______ las noticias en la radio de la cocina.",
     "options": [
-      "wakes up... is sleeping",
-      "is waking up... sleeps",
-      "wakes up... sleeps",
-      "is waking up... is sleeping"
+      "prepara... leo... escucha",
+      "preparas... leo... escucha",
+      "prepara... lees... escucha",
+      "prepara... leo... escuchas"
     ],
     "correct": 0,
     "explanations": [
-      "Correct! 'Wakes up' reflects her habitual routine (present simple), while 'is sleeping' describes what she is doing right now, an exception to that routine (present continuous).",
-      "'Is waking up' would imply the action of waking is in progress now, which contradicts 'sleeping in'. The structure is inverted.",
-      "Both present simple forms would suggest two permanent habits, missing the contrast between routine and today's exception entirely.",
-      "'Is waking up... is sleeping' is contradictory — she can't be in the process of waking up and also sleeping in at the same time."
+      "¡Correcto! 'Prepara' (ella), 'leo' (yo), 'escucha' (él) - concordancia perfecta.",
+      "'Preparas' es tú, pero el sujeto es 'mi hermana' (tercera persona).",
+      "'Lees' es tú, pero el sujeto es 'yo' (primera persona).",
+      "'Escuchas' es tú, pero 'nuestro padre' es tercera persona singular."
     ]
   },
   {
-    "language": "en",
-    "tense": "Past Perfect vs. Past Simple",
-    "sentence": "By the time the investigators arrived at the scene, the suspect _______ and left no trace of evidence behind, which _______ the case significantly more difficult to solve.",
+    "language": "es",
+    "tense": "Presente del Indicativo",
+    "sentence": "Los profesores _______ la importancia de la educación, _______ métodos innovadores en sus clases y _______ mucho esfuerzo en motivar a los alumnos cada día.",
     "options": [
-      "had already disappeared... made",
-      "disappeared... had made",
-      "had already disappeared... had made",
-      "disappeared... made"
+      "entiende... usa... pone",
+      "entienden... usan... ponen",
+      "entendemos... usamos... ponemos",
+      "entiendes... usas... pones"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanations": [
-      "Correct! 'Had already disappeared' (past perfect) indicates the suspect's departure happened before the investigators arrived. 'Made' (past simple) is the next event in the narrative sequence.",
-      "'Disappeared... had made' inverts the logical timeline — 'had made' would imply the difficulty existed before the disappearance, which doesn't fit the cause-and-effect here.",
-      "Using past perfect for both ('had already disappeared... had made') breaks the narrative sequence; 'made' should be past simple as it follows directly in the chain of events.",
-      "Both past simple forms flatten the timeline and lose the crucial point that the disappearance occurred prior to the arrival of the investigators."
+      "Todos los verbos están en singular, pero el sujeto es plural.",
+      "¡Correcto! Los tres verbos en tercera persona plural.",
+      "Es primera persona plural (nosotros), no tercera.",
+      "Es segunda persona singular (tú), no tercera plural."
     ]
   },
   {
-    "language": "en",
-    "tense": "Present Perfect Continuous vs. Present Perfect",
-    "sentence": "The research team _______ on this particular strain of the virus for nearly three years, and they _______ a breakthrough that could potentially revolutionize the way we treat autoimmune disorders.",
+    "language": "es",
+    "tense": "Presente del Indicativo - Cambios vocálicos",
+    "sentence": "Cuando tengo problemas, yo siempre _______ en soluciones positivas, _______ mantener la calma y _______ que todo va a mejorar pronto.",
     "options": [
-      "have been working... have finally achieved",
-      "have worked... have been achieving",
-      "have been working... have been achieving",
-      "have worked... have finally achieved"
+      "pienso... quiero... creo",
+      "pienso... puedo... creo",
+      "pensamos... queremos... creemos",
+      "piensas... quieres... crees"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanations": [
-      "Correct! 'Have been working' (present perfect continuous) emphasizes the duration and ongoing effort over three years. 'Have finally achieved' (present perfect) marks a completed milestone that is relevant to the present.",
-      "'Have worked... have been achieving' reverses the logic — the ongoing nature applies to the research process, not the breakthrough, which is a concrete, completed result.",
-      "Using present perfect continuous for both implies both the work and the breakthrough are still ongoing processes, but a breakthrough is by definition a singular, completed event.",
-      "'Have worked' loses the emphasis on the sustained, continuous effort over three years that the sentence is clearly building toward with 'nearly three years'."
+      "El verbo correcto es 'poder', no 'querer' en este contexto.",
+      "¡Correcto! 'Pienso' (e→ie), 'puedo' (o→ue) y 'creo' en primera singular.",
+      "Es primera persona plural (nosotros), no singular.",
+      "Es segunda persona singular (tú), no primera."
     ]
   },
   {
-    "language": "en",
-    "tense": "Third Conditional",
-    "sentence": "If the engineering team _______ the structural flaw in the bridge's foundation during the initial inspection, the city _______ forced to shut it down for an emergency overhaul costing millions.",
+    "language": "es",
+    "tense": "Presente del Indicativo - Irregulares",
+    "sentence": "Por las mañanas, yo _______ de casa temprano, _______ todos los preparativos del día y _______ al trabajo con energía positiva.",
     "options": [
-      "had identified... would not have been",
-      "identified... would not have been",
-      "had identified... would not have been forced",
-      "had identified... was not"
+      "salgo... hago... voy",
+      "sales... haces... vas",
+      "sale... hace... va",
+      "salimos... hacemos... vamos"
     ],
     "correct": 0,
     "explanations": [
-      "Correct! 'Had identified' (past perfect) is required in the 'if' clause of a third conditional, referring to a past situation that didn't actually happen. 'Would not have been' completes the hypothetical result correctly.",
-      "'Identified' (past simple) is grammatically incorrect in the 'if' clause of a third conditional — this structure specifically requires the past perfect to signal an unrealized past scenario.",
-      "While 'had identified' is correct, 'would not have been forced' adds an unnecessary word — 'would not have been' already carries the full passive structure implicitly in this context.",
-      "'Was not' is past simple and has no place in the result clause of a third conditional, which requires 'would have + past participle' to express the hypothetical outcome."
+      "¡Correcto! Los tres verbos irregulares en primera persona singular.",
+      "Es segunda persona singular (tú), no primera.",
+      "Es tercera persona singular, no primera.",
+      "Es primera persona plural (nosotros), no singular."
     ]
   },
   {
-    "language": "en",
-    "tense": "Mixed Conditionals",
-    "sentence": "If the pharmaceutical company _______ invested more heavily in clinical trials back in the early 2000s, there _______ a viable treatment on the market for patients suffering from this condition today.",
+    "language": "es",
+    "tense": "Pretérito Perfecto",
+    "sentence": "Durante los últimos meses, nosotros _______ muchos cambios importantes en nuestras vidas y _______ nuevas oportunidades que antes no teníamos.",
     "options": [
-      "had... would be",
-      "have... would have been",
-      "had... would have been",
-      "has... would be"
+      "experimentamos... descubrimos",
+      "hemos experimentado... hemos descubierto",
+      "habíamos experimentado... habíamos descubierto",
+      "experimentábamos... descubríamos"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanations": [
-      "Correct! This is a mixed conditional: 'had invested' (past perfect) refers to a past action that didn't happen, while 'would be' (present conditional) reflects the hypothetical present-day consequence of that missed past action.",
-      "'Have... would have been' uses present perfect in the 'if' clause, which doesn't properly anchor the action in a specific past moment, and 'would have been' suggests a past result rather than a present-day one.",
-      "'Had... would have been' correctly uses past perfect but 'would have been' implies the result would also have been in the past, contradicting 'today' which clearly points to a present situation.",
-      "'Has... would be' uses present perfect, which doesn't convey the specific past decision point that the sentence requires for the conditional to work logically."
+      "Es pretérito indefinido, pero 'durante los últimos meses' pide pretérito perfecto.",
+      "¡Correcto! Pretérito perfecto para acciones recientes con relevancia presente.",
+      "Es pluscuamperfecto, pero no hay punto de referencia en el pasado.",
+      "Es imperfecto, pero no expresa acciones completadas recientes."
     ]
   },
   {
-    "language": "en",
-    "tense": "Passive Voice — Past Perfect",
-    "sentence": "The classified documents _______ by a whistleblower long before the government _______ aware that sensitive intelligence had been compromised.",
+    "language": "es",
+    "tense": "Pretérito Perfecto",
+    "sentence": "Esta semana _______ tres reuniones importantes, _______ varios informes y _______ con clientes de diferentes países.",
     "options": [
-      "had already been leaked... became",
-      "were leaked... had become",
-      "had already been leaked... had become",
-      "were already leaked... became"
+      "tuve... escribí... hablé",
+      "he tenido... he escrito... he hablado",
+      "tenía... escribía... hablaba",
+      "había tenido... había escrito... había hablado"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanations": [
-      "Correct! 'Had already been leaked' (past perfect passive) establishes that the leak occurred before the next event in the timeline. 'Became' (past simple) marks the moment the government realized the breach — the natural next step in the narrative.",
-      "'Were leaked... had become' inverts the timeline — 'had become' would suggest the government was already aware before the leak, which contradicts the logical sequence of events described.",
-      "Using past perfect for both ('had already been leaked... had become') over-shifts the timeline and removes the clear sequential contrast the sentence is building between the two events.",
-      "'Were already leaked' is grammatically awkward in this context — 'already' pairs with the past perfect ('had been leaked'), not with simple past, to properly signal prior action."
+      "Es indefinido, pero 'esta semana' (periodo aún abierto) requiere pretérito perfecto.",
+      "¡Correcto! 'Esta semana' es un periodo que incluye el presente.",
+      "Es imperfecto, pero se necesita expresar acciones completadas.",
+      "Es pluscuamperfecto, innecesario sin punto de referencia en el pasado."
     ]
   },
   {
-    "language": "en",
-    "tense": "Reported Speech — Tense Shift",
-    "sentence": "The CEO announced to the press that the company _______ all operations in the affected region and that affected employees _______ full compensation by the end of the fiscal quarter.",
+    "language": "es",
+    "tense": "Pretérito Indefinido",
+    "sentence": "El año pasado, nuestra empresa _______ un nuevo producto, _______ una campaña de marketing exitosa y _______ las ventas en un 40%.",
     "options": [
-      "was suspending... would receive",
-      "is suspending... will receive",
-      "had suspended... would have received",
-      "suspended... received"
+      "ha lanzado... ha implementado... ha incrementado",
+      "lanzó... implementó... incrementó",
+      "lanzaba... implementaba... incrementaba",
+      "había lanzado... había implementado... había incrementado"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanations": [
-      "Correct! In reported speech, present continuous shifts to past continuous ('was suspending'), and future ('will receive') shifts to conditional ('would receive'), accurately reflecting the tense shift rules when reporting a past statement.",
-      "'Is suspending... will receive' represents the original direct speech tenses and is not grammatically appropriate when reporting what was said in the past — the tenses must shift back.",
-      "'Had suspended... would have received' over-shifts the tenses — past perfect and past conditional imply completed or hypothetical past events, but the actions were still ongoing or future at the time of the announcement.",
-      "'Suspended... received' uses past simple for both, which collapses the original meaning — it loses both the ongoing nature of the suspension and the future promise of compensation."
+      "Es pretérito perfecto, pero 'el año pasado' (periodo cerrado) requiere indefinido.",
+      "¡Correcto! Pretérito indefinido para acciones completadas en periodo cerrado.",
+      "Es imperfecto, pero se necesitan acciones específicas completadas.",
+      "Es pluscuamperfecto, pero no hay secuencia de eventos que lo requiera."
     ]
   },
   {
-    "language": "en",
-    "tense": "Present Perfect vs. Past Simple — Contrast",
-    "sentence": "Although the city _______ a significant amount of funding toward infrastructure development over the past decade, the most recent audit revealed that a substantial portion of those resources _______ misallocated due to bureaucratic inefficiencies.",
+    "language": "es",
+    "tense": "Pretérito Indefinido - Irregulares",
+    "sentence": "Ayer por la noche, María _______ a visitarme, _______ un pastel delicioso y _______ hablando conmigo hasta la medianoche.",
     "options": [
-      "has allocated... was",
-      "allocated... has been",
-      "has allocated... has been",
-      "allocated... was"
+      "viene... trae... está",
+      "vino... trajo... estuvo",
+      "venía... traía... estaba",
+      "ha venido... ha traído... ha estado"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanations": [
-      "Correct! 'Has allocated' (present perfect) spans the entire past decade up to now, showing the cumulative investment. 'Was' (past simple) refers to the specific finding revealed in the recent audit — a completed event with a clear past reference point.",
-      "'Allocated... has been' inverts the logic — 'has been' would imply the misallocation is an ongoing, present-relevant issue being discovered now, but the audit 'revealed' it as a past finding.",
-      "Both present perfect forms ('has allocated... has been') would blur the distinction between the long-term investment and the specific, completed audit finding, losing the cause-and-effect clarity.",
-      "Both past simple forms ('allocated... was') would strip away the crucial sense that the investment has been ongoing and cumulative over the past decade, flattening the temporal contrast."
+      "Es presente, pero 'ayer por la noche' requiere pasado.",
+      "¡Correcto! Verbos irregulares en pretérito indefinido (venir, traer, estar).",
+      "Es imperfecto, pero 'ayer por la noche' pide acciones específicas completadas.",
+      "Es pretérito perfecto, pero 'ayer' es un marcador de periodo cerrado."
     ]
   },
   {
-    "language": "en",
-    "tense": "Future Perfect vs. Future Continuous",
-    "sentence": "By the time the delegation returns from the summit next month, the technical team _______ the entire system upgrade, while the marketing department _______ on the product relaunch campaign throughout the entire period.",
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "Cuando yo _______ niño, mi familia y yo _______ todos los veranos a la playa y _______ momentos inolvidables juntos.",
     "options": [
-      "will have completed... will be working",
-      "will be completing... will have worked",
-      "will have completed... will have worked",
-      "will be completing... will be working"
+      "fui... fuimos... pasamos",
+      "era... íbamos... pasábamos",
+      "he sido... hemos ido... hemos pasado",
+      "era... fuimos... pasamos"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanations": [
-      "Correct! 'Will have completed' (future perfect) indicates the upgrade will be finished by that future point in time. 'Will be working' (future continuous) shows the marketing team's activity will be ongoing throughout the entire period, not necessarily finished by then.",
-      "'Will be completing... will have worked' reverses the meaning — the system upgrade is described as a completed milestone ('entire system upgrade'), not an ongoing process, while the campaign is explicitly described as continuous ('throughout the entire period').",
-      "Using future perfect for both implies both tasks will be finished by the delegation's return, but the sentence specifically says the campaign will be ongoing 'throughout the entire period', not concluded.",
-      "Using future continuous for both implies both activities are simply ongoing, losing the key distinction that the system upgrade will be a completed task by a specific deadline."
+      "Es indefinido, pero se necesita imperfecto para acciones habituales del pasado.",
+      "¡Correcto! Imperfecto para describir situaciones y acciones habituales del pasado.",
+      "Es pretérito perfecto, inadecuado para narrar memorias de la infancia.",
+      "Mezcla imperfecto con indefinido incorrectamente."
     ]
   },
   {
-    "language": "en",
-    "tense": "Subjunctive vs. Indicative",
-    "sentence": "It is absolutely essential that the board _______ the revised financial projections before the shareholders' meeting, even though many of the executives _______ that the figures are overly conservative.",
+    "language": "es",
+    "tense": "Pretérito Imperfecto",
+    "sentence": "Durante mi época universitaria, yo _______ en una cafetería, _______ clases por las mañanas y _______ mis proyectos por las noches.",
     "options": [
-      "review... believe",
-      "reviews... believe",
-      "review... believed",
-      "reviews... believed"
+      "trabajé... asistí... desarrollé",
+      "trabajaba... asistía... desarrollaba",
+      "he trabajado... he asistido... he desarrollado",
+      "había trabajado... había asistido... había desarrollado"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanations": [
-      "Correct! 'Review' (subjunctive) is required after 'it is essential that' — this construction demands the base form regardless of the subject. 'Believe' (present simple indicative) is correct for the 'even though' clause, which states a current opinion as a fact.",
-      "'Reviews' adds a third-person 's' which is incorrect — the subjunctive mood does not take inflected forms, so 'review' must remain in its base form after 'it is essential that'.",
-      "'Review' is correctly subjunctive, but 'believed' (past tense) implies the belief existed only in the past, which contradicts the present-tense context of the sentence and the ongoing nature of their skepticism.",
-      "'Reviews... believed' makes both errors — it incorrectly inflects the subjunctive and unnecessarily shifts the second clause into past tense without any narrative reason to do so."
+      "Es indefinido, pero se describen acciones habituales de un periodo del pasado.",
+      "¡Correcto! Imperfecto para describir rutinas y hábitos en el pasado.",
+      "Es pretérito perfecto, inadecuado para describir rutinas pasadas.",
+      "Es pluscuamperfecto, innecesario sin punto de referencia posterior."
     ]
   },
   {
-    "language": "en",
-    "tense": "Past Continuous vs. Past Simple — Interruption",
-    "sentence": "The laboratory technician _______ the delicate chemical compounds when the sudden power outage _______ the entire building and forced an emergency evacuation of the facility.",
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "_______ (tú) las instrucciones cuidadosamente, _______ (tú) todos los pasos en orden y _______ (tú) si tienes alguna duda durante el proceso.",
     "options": [
-      "was carefully mixing... knocked out",
-      "carefully mixed... was knocking out",
-      "was carefully mixing... was knocking out",
-      "carefully mixed... knocked out"
+      "Lee... sigue... pregunta",
+      "Lees... sigues... preguntas",
+      "Lea... siga... pregunte",
+      "Leed... seguid... preguntad"
     ],
     "correct": 0,
     "explanations": [
-      "Correct! 'Was carefully mixing' (past continuous) shows the ongoing action at the time of the interruption. 'Knocked out' (past simple) is the sudden event that interrupted it — the classic past continuous / past simple contrast for interrupted actions.",
-      "'Carefully mixed... was knocking out' inverts the roles entirely — the mixing is made to sound like the completed, punctual event, while the power outage becomes the drawn-out background action, which contradicts the logic of an interruption.",
-      "Both past continuous ('was mixing... was knocking out') would suggest two simultaneous ongoing actions with no clear interruption point, losing the sharp cause-and-effect dynamic the sentence is building.",
-      "Both past simple ('mixed... knocked out') flattens both actions into a simple sequence of completed events, eliminating the crucial sense that the mixing was actively in progress when the outage struck."
+      "¡Correcto! Los tres verbos en imperativo afirmativo de 'tú'.",
+      "Son formas de presente indicativo, no imperativo.",
+      "Son formas de imperativo para 'usted', no 'tú'.",
+      "Son formas de imperativo para 'vosotros', no 'tú'."
     ]
   },
   {
-    "language": "en",
-    "tense": "Present Perfect Continuous — Duration and Relevance",
-    "sentence": "Epidemiologists _______ a troubling pattern in the distribution of cases across rural communities for the better part of two years, and the data they _______ so far strongly suggests a link to contaminated water supplies.",
+    "language": "es",
+    "tense": "Imperativo",
+    "sentence": "Por favor, _______ (usted) este documento detenidamente, _______ (usted) su firma al final y _______ (usted) una copia para sus archivos personales.",
     "options": [
-      "have been tracking... have gathered",
-      "have tracked... have been gathering",
-      "have been tracking... have been gathering",
-      "have tracked... have gathered"
+      "revisa... coloca... guarda",
+      "revise... coloque... guarde",
+      "revisad... colocad... guardad",
+      "revisen... coloquen... guarden"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanations": [
-      "Correct! 'Have been tracking' (present perfect continuous) emphasizes the sustained, ongoing monitoring effort over two years. 'Have gathered' (present perfect) marks the data as a concrete, accumulated result that is now available for analysis.",
-      "'Have tracked... have been gathering' misplaces the continuous emphasis — tracking a pattern over two years is the sustained process, while the gathered data is the tangible, completed result being referenced.",
-      "Both present perfect continuous ('have been tracking... have been gathering') would imply both the tracking and the data collection are equally ongoing processes, but the sentence frames the data as something already compiled and ready to be interpreted.",
-      "'Have tracked... have gathered' loses the emphasis on the sustained, continuous effort of monitoring over nearly two years, which is a key element the sentence is building toward."
+      "Son formas de imperativo para 'tú', no 'usted'.",
+      "¡Correcto! Los tres verbos en imperativo afirmativo de 'usted' (vocal opuesta).",
+      "Son formas de imperativo para 'vosotros', no 'usted'.",
+      "Son formas de imperativo para 'ustedes', no 'usted'."
     ]
   },
   {
-    "language": "en",
-    "tense": "Conditional — Degree of Likelihood",
-    "sentence": "Provided that the municipal council _______ the proposed zoning amendments by next quarter, the development company _______ begin construction on the affordable housing project ahead of the original timeline.",
+    "language": "es",
+    "tense": "Imperativo - Negativo",
+    "sentence": "¡No _______ (tú) tanto tiempo en redes sociales, _______ (tú) en tus estudios y _______ (tú) tus responsabilidades académicas!",
     "options": [
-      "approves... will be able to",
-      "approved... would be able to",
-      "approves... would be able to",
-      "approved... will be able to"
+      "pierdes... concéntrate... cumples",
+      "pierde... concéntrate... cumple",
+      "pierdas... concéntrate... cumplas",
+      "pierda... concéntrese... cumpla"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanations": [
-      "Correct! 'Approves' (present simple) in the condition clause signals a realistic, probable future scenario — this is the structure for conditions that are likely to happen. 'Will be able to' in the result clause matches that degree of likelihood with a confident future prediction.",
-      "'Approved... would be able to' uses past simple and conditional, which is the second conditional structure for hypothetical or unlikely scenarios — but 'provided that' here frames this as a realistic expectation, not a remote hypothesis.",
-      "'Approves... would be able to' mixes the likely condition (present simple) with an uncertain result (conditional), creating an inconsistency in the degree of likelihood expressed across the two clauses.",
-      "'Approved... will be able to' pairs a hypothetical past condition with a confident future result, which is logically and grammatically inconsistent — the tenses signal contradictory levels of certainty."
+      "Son formas de presente indicativo, no imperativo negativo.",
+      "Mezcla presente con imperativo incorrectamente.",
+      "¡Correcto! 'No pierdas' (negativo), 'concéntrate' y 'cumplas' (imperativo de tú).",
+      "Son formas de imperativo para 'usted', no 'tú'."
     ]
   },
   {
-    "language": "en",
-    "tense": "Participial Phrases — Tense and Agreement",
-    "sentence": "Having _______ by the committee for her outstanding contributions to the field, Dr. Hernandez _______ that she would dedicate the award to the ongoing research efforts of her team.",
+    "language": "es",
+    "tense": "Condicional Simple",
+    "sentence": "Si yo tuviera más tiempo libre, _______ aprender un nuevo idioma, _______ más libros y _______ viajar a diferentes países para conocer otras culturas.",
     "options": [
-      "been recognized... announced",
-      "been recognizing... announced",
-      "been recognized... has announced",
-      "recognized... announced"
+      "quiero... leo... me gusta",
+      "querría... leería... me gustaría",
+      "quise... leí... me gustó",
+      "he querido... he leído... me ha gustado"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanations": [
-      "Correct! 'Been recognized' (past participle in passive) correctly forms the participial phrase to show an action done to Dr. Hernandez before the main event. 'Announced' (past simple) is the main action that followed — she made her statement after receiving recognition.",
-      "'Been recognizing' would imply Dr. Hernandez was doing the recognizing, which inverts the meaning entirely — she was the one being recognized, so the passive form is required.",
-      "'Been recognized' is correct, but 'has announced' (present perfect) shifts the timeframe unnecessarily — the announcement was a specific past event tied to the award ceremony, not an action with present relevance.",
-      "'Recognized' without 'been' creates an active participial phrase ('having recognized'), implying she did the recognizing, which completely contradicts the intended meaning of the sentence."
+      "Es presente indicativo, pero la condición hipotética requiere condicional.",
+      "¡Correcto! Condicional simple para expresar deseos hipotéticos.",
+      "Es pretérito indefinido, inadecuado para situaciones hipotéticas.",
+      "Es pretérito perfecto, pero se necesita condicional para la hipótesis."
     ]
   },
   {
-    "language": "en",
-    "tense": "Relative Clauses — Tense Consistency",
-    "sentence": "The whistleblower, who _______ inside the corporation for over a decade before going public, _______ internal communications that proved the company had been deliberately falsifying emissions data.",
+    "language": "es",
+    "tense": "Condicional Simple",
+    "sentence": "Con un presupuesto mayor, la organización _______ implementar mejores programas, _______ contratar más personal cualificado y _______ expandir sus servicios a otras regiones.",
     "options": [
-      "had worked... released",
-      "worked... had released",
-      "had worked... had released",
-      "worked... released"
+      "puede... puede... puede",
+      "podría... podría... podría",
+      "pudo... pudo... pudo",
+      "ha podido... ha podido... ha podido"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanations": [
-      "Correct! 'Had worked' (past perfect) in the relative clause establishes that the decade of employment came before the act of going public. 'Released' (past simple) is the main action — the moment the communications were made available — which is the central event the sentence is reporting.",
-      "'Worked... had released' inverts the timeline — 'had released' would imply the documents were released before the main narrative event, but the sentence frames the release as the key action that happened after the period of insider access.",
-      "Both past perfect ('had worked... had released') over-shifts the timeline by making both actions prior to an unspecified reference point, losing the clear sequence: worked inside, then released the documents.",
-      "Both past simple ('worked... released') flattens the sequence and loses the critical emphasis that the decade inside the corporation was a prolonged period that preceded and enabled the eventual release of the documents."
+      "Es presente indicativo, pero el contexto hipotético requiere condicional.",
+      "¡Correcto! Condicional simple para expresar posibilidades hipotéticas.",
+      "Es pretérito indefinido, inadecuado para expresar hipótesis.",
+      "Es pretérito perfecto, pero se necesita condicional para situaciones hipotéticas."
     ]
   },
   {
-    "language": "en",
-    "tense": "Present Perfect — Result vs. Experience",
-    "sentence": "The urban planning department _______ a comprehensive transit map that integrates all public rail and bus networks, and as a result, commuters throughout the city _______ a dramatic reduction in their average daily travel times.",
+    "language": "es",
+    "tense": "Condicional Simple - Cortesía",
+    "sentence": "Disculpe, ¿_______ usted ayudarme con esta información? _______ muy agradecido si _______ dedicarme unos minutos de su tiempo.",
     "options": [
-      "has developed... have experienced",
-      "developed... have experienced",
-      "has developed... experienced",
-      "developed... experienced"
+      "puede... Estoy... puede",
+      "podría... Estaría... pudiera",
+      "pudo... Estuve... pudo",
+      "ha podido... He estado... ha podido"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanations": [
-      "Correct! 'Has developed' (present perfect) highlights the completed development effort that is now yielding results. 'Have experienced' (present perfect) conveys that commuters are currently feeling the effects — both actions have clear present relevance, making present perfect the right choice for each.",
-      "'Developed... have experienced' uses past simple for the map's creation, which would suggest it happened at a specific past time with no current connection, undermining the cause-and-effect relationship the sentence is establishing.",
-      "'Has developed... experienced' correctly uses present perfect for the first action but then drops into past simple for the commuters' experience, severing the link between the development and its ongoing present-day impact.",
-      "Both past simple ('developed... experienced') would place both actions firmly in the past with no connection to the present, losing the sense that the transit map is currently in use and actively benefiting commuters right now."
+      "Es presente indicativo, pero la cortesía requiere condicional.",
+      "¡Correcto! Condicional para peticiones corteses (podría, estaría) y subjuntivo (pudiera).",
+      "Es pretérito indefinido, inadecuado para peticiones corteses.",
+      "Es pretérito perfecto, pero se necesita condicional para expresar cortesía."
     ]
   },
   {
-    "language": "en",
-    "tense": "Future Perfect Passive",
-    "sentence": "According to the project timeline, the entire network of underground fiber-optic cables _______ by the end of next year, which _______ high-speed internet access to over two million households in previously underserved areas.",
+    "language": "es",
+    "tense": "Condicional + Subjuntivo",
+    "sentence": "Si el gobierno _______ invertir más en educación pública, los estudiantes de zonas desfavorecidas _______ tener mejores oportunidades académicas y profesionales en el futuro.",
     "options": [
-      "will have been installed... will provide",
-      "will be installed... will have provided",
-      "will have been installed... will have provided",
-      "will be installed... will provide"
+      "decide... pueden",
+      "decidiera... podrían",
+      "ha decidido... han podido",
+      "decidió... pudieron"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanations": [
-      "Correct! 'Will have been installed' (future perfect passive) signals that the installation will be completed by a specific future deadline. 'Will provide' (simple future) indicates the consequence that begins once the installation is done — it's the next logical step, not yet completed.",
-      "'Will be installed... will have provided' inverts the sequence — 'will have provided' suggests the internet access will already have been delivered before the cables are even installed, which is logically impossible.",
-      "Both future perfect forms ('will have been installed... will have provided') would imply both the installation and the provision of internet access will be completed by the same deadline, but the access is a consequence that follows from — not simultaneous with — the completion of installation.",
-      "'Will be installed... will provide' uses simple future for both, which loses the emphasis that the installation will be a fully completed milestone by a specific deadline — 'by the end of next year' calls for future perfect."
+      "Son presente indicativo, pero la condición hipotética requiere subjuntivo y condicional.",
+      "¡Correcto! Subjuntivo imperfecto (decidiera) + condicional (podrían) para hipótesis.",
+      "Son pretérito perfecto, inadecuado para situaciones hipotéticas.",
+      "Son pretérito indefinido, pero se necesita la estructura condicional."
     ]
   },
   {
-    "language": "en",
-    "tense": "Past Perfect Continuous vs. Past Simple",
-    "sentence": "The forensic accountant later discovered that the auditor _______ discrepancies in the company's financial records for nearly two years before anyone _______ that something was seriously wrong.",
+    "language": "es",
+    "tense": "Presente + Futuro",
+    "sentence": "Aunque ahora _______ algunos desafíos en el proyecto, estoy seguro de que _______ superarlos y _______ los objetivos establecidos antes de la fecha límite.",
     "options": [
-      "had been overlooking... noticed",
-      "had overlooked... had noticed",
-      "was overlooking... noticed",
-      "had been overlooking... had noticed"
+      "enfrentamos... podremos... alcanzaremos",
+      "enfrentábamos... podríamos... alcanzaríamos",
+      "enfrentamos... podemos... alcanzamos",
+      "hemos enfrentado... hemos podido... hemos alcanzado"
     ],
     "correct": 0,
     "explanations": [
-      "Correct! 'Had been overlooking' (past perfect continuous) emphasizes that the auditor's failure was a sustained, ongoing process stretching over two years before the main event. 'Noticed' (past simple) marks the specific moment when the problem was finally detected.",
-      "'Had overlooked... had noticed' uses past perfect for both actions, which makes them both prior to an unspecified reference point and loses the crucial emphasis on the duration of the oversight that 'nearly two years' demands.",
-      "'Was overlooking' (past continuous) does suggest an ongoing action, but it lacks the 'had' that anchors it firmly before the moment of discovery — past perfect continuous is needed to clearly establish it happened prior to 'noticed'.",
-      "'Had been overlooking... had noticed' over-shifts 'noticed' into past perfect, implying someone had already noticed before the reference point, but the sentence's logic is that the noticing came after the prolonged oversight."
+      "¡Correcto! Presente (enfrentamos) + futuro (podremos, alcanzaremos) para presente y proyección.",
+      "Imperfecto + condicional sugiere situación pasada hipotética, no presente y futuro.",
+      "Todo en presente pierde la proyección futura que expresa 'estoy seguro de que'.",
+      "Pretérito perfecto sugiere que todo ya ocurrió, pero el contexto habla del futuro."
     ]
   },
   {
-    "language": "en",
-    "tense": "Conditional — Unless / Provided",
-    "sentence": "Unless the regulatory agency _______ its position on the new drug approval standards by the end of the fiscal year, the pharmaceutical industry _______ to explore alternative markets overseas for the distribution of several promising compounds.",
+    "language": "es",
+    "tense": "Imperfecto + Indefinido",
+    "sentence": "Mientras yo _______ tranquilamente en el parque, de repente _______ a llover torrencialmente y todos los visitantes _______ a buscar refugio inmediatamente.",
     "options": [
-      "revises... will be forced",
-      "revised... would be forced",
-      "revises... would be forced",
-      "revised... will be forced"
+      "caminaba... empezó... corrieron",
+      "caminé... empezaba... corrían",
+      "caminaba... empezaba... corrían",
+      "caminé... empezó... corrieron"
     ],
     "correct": 0,
     "explanations": [
-      "Correct! 'Revises' (present simple) after 'unless' signals a real, anticipated condition — something that could realistically happen within the stated timeframe. 'Will be forced' (future) matches by expressing a confident prediction about the likely consequence if that condition is not met.",
-      "'Revised... would be forced' uses the second conditional structure (past simple + conditional), which is appropriate for hypothetical or unlikely situations — but 'unless' here frames the scenario as a realistic possibility tied to a concrete deadline.",
-      "'Revises... would be forced' mixes a likely condition with an uncertain result, creating an inconsistency — if the condition is presented as realistic, the consequence should also reflect that confidence.",
-      "'Revised... will be forced' pairs a hypothetical past condition with a confident future result, which is logically and structurally inconsistent across the two clauses of the conditional."
+      "¡Correcto! Imperfecto (caminaba) para acción en progreso + indefinido (empezó, corrieron) para acciones puntuales.",
+      "Invierte la lógica: la acción en progreso debe estar en imperfecto, no la interrupción.",
+      "Todo en imperfecto pierde el contraste entre acción en progreso e interrupciones.",
+      "Todo en indefinido pierde la descripción de la acción en progreso (caminaba)."
     ]
   },
   {
-    "language": "en",
-    "tense": "Complex Passive — Multi-Step Process",
-    "sentence": "The contaminated water samples _______ by an independent laboratory, and the results _______ to all affected municipalities before any further action could be taken on the matter.",
+    "language": "es",
+    "tense": "Subjuntivo - Presente",
+    "sentence": "Es fundamental que todos los empleados _______ las nuevas políticas de seguridad, _______ los protocolos establecidos y _______ cualquier irregularidad a sus supervisores.",
     "options": [
-      "had to be re-analyzed... were then sent",
-      "were re-analyzed... had to be sent",
-      "had to be re-analyzed... had been sent",
-      "were re-analyzed... were then sent"
+      "comprenden... siguen... reportan",
+      "comprendan... sigan... reporten",
+      "comprendían... seguían... reportaban",
+      "han comprendido... han seguido... han reportado"
+    ],
+    "correct": 1,
+    "explanations": [
+      "Es presente indicativo, pero 'es fundamental que' requiere subjuntivo.",
+      "¡Correcto! Presente de subjuntivo después de 'es fundamental que'.",
+      "Es imperfecto, inadecuado después de 'es fundamental que'.",
+      "Es pretérito perfecto, pero se necesita subjuntivo presente."
+    ]
+  },
+  {
+    "language": "es",
+    "tense": "Contraste de tiempos",
+    "sentence": "Cuando _______ joven, siempre _______ que algún día _______ mi propio negocio, y finalmente el año pasado _______ ese sueño realidad.",
+    "options": [
+      "era... pensaba... tendría... hice",
+      "fui... pensé... tendré... he hecho",
+      "era... pensé... tendría... hice",
+      "fui... pensaba... tendré... hice"
     ],
     "correct": 0,
     "explanations": [
-      "Correct! 'Had to be re-analyzed' (passive modal) conveys both the necessity and the sequence — the samples needed re-analysis as a required step. 'Were then sent' (past simple passive with 'then') clearly marks the next step in the process, maintaining a logical and chronological flow.",
-      "'Were re-analyzed... had to be sent' inverts the urgency — the necessity ('had to be') should attach to the first required step (re-analysis), and the distribution of results is the natural follow-up action, not the other way around.",
-      "'Had to be re-analyzed... had been sent' mixes necessity with prior completion — 'had been sent' would imply the results were already distributed before the re-analysis was completed, which contradicts the logical sequence.",
-      "'Were re-analyzed... were then sent' uses simple past passive for both, which loses the sense of obligation and necessity that the scenario implies — the re-analysis was not optional, it was a required procedural step."
+      "¡Correcto! Imperfecto (era, pensaba) para descripción + condicional (tendría) futuro en pasado + indefinido (hice) acción completada.",
+      "Mezcla indefinido con presente perfecto incorrectamente.",
+      "Mezcla imperfecto con indefinido de forma incorrecta para 'pensaba'.",
+      "Invierte el uso de imperfecto e indefinido en las descripciones del pasado."
     ]
   }
 ]
