@@ -204,17 +204,17 @@ async function loadQuestions(lang, tense) {
         currentTipIndex = 0;
         currentQuestionIndex = 0;
         showingTip = true;
-      } else {
-        // Load specific tense (old format)
-        const tenseFileMap = {
-          "Condicional": "questions_es_condicional.json"
-        };
-        
-        const response = await fetch(tenseFileMap[tense]);
+      } else if (tense === "Condicional") {
+        // Load the new tip-based structure for Condicional
+        const response = await fetch("questions_es_condicional.json");
         data = await response.json();
-        questionPool = data;
-        currentTipData = null;
-        showingTip = false;
+        currentTipData = data;
+        currentTipIndex = 0;
+        currentQuestionIndex = 0;
+        showingTip = true;
+      } else {
+        // No old format tenses remaining
+        alert("Tiempo verbal no disponible");
       }
     }
 
