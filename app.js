@@ -172,10 +172,17 @@ async function loadQuestions(lang, tense) {
         questionPool = shuffleArray(allQuestions);
         currentTipData = null;
         showingTip = false;
+      } else if (tense === "Presente Perfecto") {
+        // Load the new tip-based structure for Presente Perfecto
+        const response = await fetch("questions_es_perfecto.json");
+        data = await response.json();
+        currentTipData = data;
+        currentTipIndex = 0;
+        currentQuestionIndex = 0;
+        showingTip = true;
       } else {
         // Load specific tense (old format)
         const tenseFileMap = {
-          "Presente Perfecto": "questions_es_perfecto.json",
           "Pretérito Indefinido": "questions_es_indefinido.json",
           "Pretérito Imperfecto": "questions_es_imperfecto.json",
           "Imperativo": "questions_es_imperativo.json",
