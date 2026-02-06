@@ -261,6 +261,93 @@
           ]
         }
       ]
+    },
+    {
+      "id": 4,
+      "title": "Participios irregulares más comunes",
+      "content": "Algunos verbos tienen participios irregulares que debes memorizar:\n\nABRIR → abierto (he abierto)\nDECIR → dicho (he dicho)\nESCRIBIR → escrito (he escrito)\nHACER → hecho (he hecho)\nMORIR → muerto (ha muerto)\nPONER → puesto (he puesto)\nROMPER → roto (he roto)\nVER → visto (he visto)\nVOLVER → vuelto (he vuelto)\n\nEstos participios NO terminan en -ado/-ido.",
+      "questions": [
+        {
+          "sentence": "Este mes nosotros _______ muchas cartas importantes a nuestros clientes, _______ varios contratos nuevos en la mesa del director y _______ grandes cambios en la organización de la oficina.",
+          "options": [
+            "escribimos... ponemos... hacemos",
+            "escribíamos... poníamos... hacíamos",
+            "escribimos... pusimos... hicimos",
+            "hemos escrito... hemos puesto... hemos hecho"
+          ],
+          "correct": 3,
+          "explanations": [
+            "Es presente simple, pero 'este mes' exige presente perfecto.",
+            "Es imperfecto, no funciona con el contexto temporal.",
+            "Es pretérito, pero 'este mes' no está cerrado todavía.",
+            "¡Correcto! Participios irregulares: escrito, puesto, hecho en presente perfecto."
+          ]
+        },
+        {
+          "sentence": "Yo todavía no _______ ese libro tan famoso que todos recomiendan, no _______ la película basada en la novela y tampoco _______ ninguna reseña crítica sobre la historia.",
+          "options": [
+            "he leído... he visto... he leído",
+            "leí... vi... leí",
+            "leo... veo... leo",
+            "leía... veía... leía"
+          ],
+          "correct": 0,
+          "explanations": [
+            "¡Correcto! 'Todavía no' exige presente perfecto con participios irregulares.",
+            "Es pretérito, pero 'todavía no' requiere presente perfecto.",
+            "Es presente simple, no expresa ausencia de acción hasta ahora.",
+            "Es imperfecto, no funciona con 'todavía no' en este contexto."
+          ]
+        },
+        {
+          "sentence": "Durante esta semana mis compañeros _______ tres veces a la cafetería del barrio, _______ al jefe sobre el nuevo proyecto innovador y _______ muchas ideas creativas en las reuniones matutinas.",
+          "options": [
+            "vuelven... dicen... ponen",
+            "volvieron... dijeron... pusieron",
+            "han vuelto... han dicho... han puesto",
+            "volvían... decían... ponían"
+          ],
+          "correct": 2,
+          "explanations": [
+            "Es presente simple, pero el contexto indica acciones completadas.",
+            "Es pretérito, pero 'esta semana' llega hasta el presente.",
+            "¡Correcto! 'Esta semana' exige presente perfecto: vuelto, dicho, puesto.",
+            "Es imperfecto, no funciona con este contexto temporal."
+          ]
+        },
+        {
+          "sentence": "Tú ya _______ todas las ventanas de la casa para que entre aire fresco, _______ la televisión en el salón principal y _______ todo listo para recibir a los invitados esta tarde.",
+          "options": [
+            "abriste... pusiste... hiciste",
+            "abres... pones... haces",
+            "abrías... ponías... hacías",
+            "has abierto... has puesto... has hecho"
+          ],
+          "correct": 3,
+          "explanations": [
+            "Es pretérito, pero 'ya' con presente perfecto indica acción terminada.",
+            "Es presente simple, no expresa acciones ya completadas.",
+            "Es imperfecto, no funciona con 'ya' en este contexto.",
+            "¡Correcto! 'Ya' con presente perfecto: abierto, puesto, hecho."
+          ]
+        },
+        {
+          "sentence": "Vosotras nunca _______ el cristal de ninguna ventana en vuestra casa, nunca _______ nada irresponsable con las pertenencias ajenas y siempre _______ mucho cuidado con los objetos delicados y frágiles.",
+          "options": [
+            "rompéis... hacéis... tenéis",
+            "habéis roto... habéis hecho... habéis tenido",
+            "rompisteis... hicisteis... tuvisteis",
+            "rompíais... hacíais... teníais"
+          ],
+          "correct": 1,
+          "explanations": [
+            "Es presente simple, pero 'nunca' con experiencia pide presente perfecto.",
+            "¡Correcto! 'Nunca' indica experiencia de vida con participios irregulares.",
+            "Es pretérito, pero 'nunca' con presente perfecto habla de toda la vida.",
+            "Es imperfecto, no funciona con 'nunca' en este contexto de experiencia."
+          ]
+        }
+      ]
     }
   ]
 }
