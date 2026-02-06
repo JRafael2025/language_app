@@ -180,10 +180,17 @@ async function loadQuestions(lang, tense) {
         currentTipIndex = 0;
         currentQuestionIndex = 0;
         showingTip = true;
+      } else if (tense === "Pretérito Indefinido") {
+        // Load the new tip-based structure for Pretérito Indefinido
+        const response = await fetch("questions_es_indefinido.json");
+        data = await response.json();
+        currentTipData = data;
+        currentTipIndex = 0;
+        currentQuestionIndex = 0;
+        showingTip = true;
       } else {
         // Load specific tense (old format)
         const tenseFileMap = {
-          "Pretérito Indefinido": "questions_es_indefinido.json",
           "Pretérito Imperfecto": "questions_es_imperfecto.json",
           "Imperativo": "questions_es_imperativo.json",
           "Condicional": "questions_es_condicional.json"
