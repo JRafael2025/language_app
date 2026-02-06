@@ -7,83 +7,83 @@
       "content": "La acción comienza en el pasado. El resultado, experiencia o consecuencia llega hasta ahora.\n\nFórmula Infalível:\nHABER (presente) + PARTICIPIO (-ado / -ido)\n\nHe, Has, Ha, Hemos, Habéis, Han + hablado/comido/vivido\n\nEjemplos:\nHe comprado un coche nuevo (y lo tengo ahora)\nHemos visitado tres países (experiencia que tenemos)\nHan terminado el proyecto (y está listo)",
       "questions": [
         {
-          "sentence": "Esta mañana yo _______ muy temprano del ruido de la calle, _______ un desayuno rápido con café y tostadas, y después _______ todas mis tareas pendientes antes del mediodía.",
+          "sentence": "Esta mañana yo _______ muy temprano del ruido de la calle, _______ un desayuno rápido con café, y _______ todas mis tareas antes del mediodía.",
           "options": [
             "me he despertado... he tomado... he terminado",
-            "me desperté... tomé... terminé",
-            "me despertaba... tomaba... terminaba",
-            "me he despertado... tomé... he terminado"
+            "me he despertado... tomé... he terminado",
+            "me desperté... he tomado... he terminado",
+            "me desperté... tomé... terminé"
           ],
           "correct": 0,
           "explanations": [
-            "¡Correcto! 'Esta mañana' es un período que continúa hasta ahora, por eso los tres verbos van en presente perfecto.",
-            "Es pretérito indefinido, pero 'esta mañana' aún no ha terminado, así que en España se prefiere el presente perfecto.",
-            "Es imperfecto, que describe acciones habituales del pasado, no acciones específicas de esta mañana.",
-            "Mezcla tiempos: si 'esta mañana' no está cerrada, los tres verbos deben ser presente perfecto, no solo dos."
+            "¡Correcto! 'Esta mañana' no ha terminado, todos en presente perfecto.",
+            "Mezcla perfecto con pretérito. 'Esta mañana' exige uniformidad.",
+            "Mezcla pretérito con perfecto. Si continúa, todo debe ser perfecto.",
+            "Todo en pretérito cierra 'esta mañana' en el pasado completado."
           ]
         },
         {
-          "sentence": "Mis padres _______ en cinco países diferentes durante su carrera diplomática, _______ docenas de idiomas y dialectos locales, y _______ experiencias increíbles que todavía nos cuentan en las cenas familiares.",
+          "sentence": "Mis padres _______ en cinco países durante su carrera, _______ docenas de idiomas, y _______ experiencias que todavía nos cuentan.",
           "options": [
-            "vivieron... aprendieron... acumularon",
             "han vivido... aprendieron... han acumulado",
+            "vivieron... han aprendido... han acumulado",
             "han vivido... han aprendido... han acumulado",
-            "vivieron... han aprendido... acumularon"
+            "vivieron... aprendieron... acumularon"
           ],
           "correct": 2,
           "explanations": [
-            "Todo en pretérito sugiere que esas experiencias quedaron en el pasado, pero todavía nos las cuentan ahora.",
-            "Mezcla presente perfecto con pretérito indefinido sin justificación clara para el cambio de tiempo.",
-            "¡Correcto! Las tres acciones tienen resultado o consecuencia en el presente: 'todavía nos cuentan' indica relevancia actual.",
-            "Mezcla tiempos de forma inconsistente. Si las experiencias siguen siendo relevantes, todo debe ir en presente perfecto."
+            "Mezcla tiempos. 'Todavía cuentan' exige uniformidad en perfecto.",
+            "Mezcla pretérito con perfecto. Relevancia presente exige perfecto.",
+            "¡Correcto! 'Todavía cuentan' indica relevancia actual, todo perfecto.",
+            "Todo en pretérito cierra experiencias sin conexión con el presente."
           ]
         },
         {
-          "sentence": "Nosotros todavía no _______ la nueva película del director español que todos recomiendan, no _______ tiempo libre ninguna tarde esta semana, y tampoco _______ conseguir entradas para el fin de semana porque están agotadas.",
+          "sentence": "Nosotros todavía no _______ la nueva película, no _______ tiempo esta semana, y tampoco _______ conseguir entradas.",
           "options": [
-            "vimos... tuvimos... pudimos",
+            "hemos visto... tuvimos... hemos podido",
+            "vimos... hemos tenido... hemos podido",
             "hemos visto... hemos tenido... hemos podido",
-            "hemos visto... tuvimos... pudimos",
-            "vimos... hemos tenido... hemos podido"
+            "vimos... tuvimos... pudimos"
           ],
-          "correct": 1,
+          "correct": 2,
           "explanations": [
-            "Todo en pretérito situaría la acción en el pasado cerrado, pero 'todavía no' conecta con el presente.",
-            "¡Correcto! 'Todavía no' siempre exige presente perfecto, y 'esta semana' tampoco ha terminado.",
-            "Mezcla tiempos: 'esta semana' no está cerrada, así que todos los verbos deben ir en presente perfecto.",
-            "Mezcla tiempos sin coherencia. Con 'todavía no' y 'esta semana', todo debe ser presente perfecto."
+            "Mezcla perfecto con pretérito. 'Esta semana' exige uniformidad.",
+            "Mezcla pretérito con perfecto. 'Todavía no' exige perfecto.",
+            "¡Correcto! 'Todavía no' y 'esta semana' exigen presente perfecto.",
+            "Todo en pretérito contradice 'todavía no' y 'esta semana'."
           ]
         },
         {
-          "sentence": "Este año tú _______ un progreso impresionante en tu desarrollo profesional, _______ tres promociones consecutivas en diferentes departamentos, y _______ el respeto y la admiración de absolutamente todos tus colegas en la empresa.",
+          "sentence": "Este año tú _______ un progreso impresionante, _______ tres promociones, y _______ el respeto de todos tus colegas.",
           "options": [
-            "has logrado... has recibido... has ganado",
             "lograste... recibiste... ganaste",
-            "has logrado... recibiste... ganaste",
-            "lograste... has recibido... has ganado"
+            "has logrado... recibiste... has ganado",
+            "lograste... has recibido... has ganado",
+            "has logrado... has recibido... has ganado"
           ],
-          "correct": 0,
+          "correct": 3,
           "explanations": [
-            "¡Correcto! 'Este año' es un período que no ha terminado, por eso los tres verbos van en presente perfecto.",
-            "Todo en pretérito cerraría el año, pero 'este año' todavía continúa (no ha terminado).",
-            "Mezcla presente perfecto con pretérito indefinido. Si 'este año' no está cerrado, todo debe ser perfecto.",
-            "Mezcla tiempos de forma inconsistente. El marcador temporal 'este año' exige presente perfecto en todos los verbos."
+            "Todo en pretérito cierra 'este año', pero el año continúa.",
+            "Mezcla perfecto con pretérito sin coherencia temporal.",
+            "Mezcla pretérito con perfecto. 'Este año' exige uniformidad.",
+            "¡Correcto! 'Este año' no ha terminado, todo en presente perfecto."
           ]
         },
         {
-          "sentence": "Hoy vosotros _______ más de ocho horas seguidas en el proyecto de investigación final, _______ todas las secciones principales del informe con mucho detalle, y _______ unos resultados preliminares absolutamente excelentes según vuestro profesor supervisor.",
+          "sentence": "Hoy vosotros _______ ocho horas en el proyecto, _______ todas las secciones, y _______ resultados excelentes.",
           "options": [
             "trabajasteis... completasteis... obtuvisteis",
-            "habéis trabajado... completasteis... obtuvisteis",
+            "habéis trabajado... completasteis... habéis obtenido",
             "trabajasteis... habéis completado... habéis obtenido",
             "habéis trabajado... habéis completado... habéis obtenido"
           ],
           "correct": 3,
           "explanations": [
-            "Todo en pretérito cerraría el día, pero 'hoy' es un período que continúa hasta el momento actual.",
-            "Mezcla presente perfecto con pretérito. Si 'hoy' no ha terminado, todos los verbos deben ir en perfecto.",
-            "Mezcla pretérito con presente perfecto sin coherencia temporal. 'Hoy' exige uniformidad en presente perfecto.",
-            "¡Correcto! 'Hoy' no está cerrado como período temporal, por eso los tres verbos van en presente perfecto."
+            "Todo en pretérito cierra el día, pero 'hoy' continúa.",
+            "Mezcla perfecto con pretérito. 'Hoy' exige uniformidad.",
+            "Mezcla pretérito con perfecto sin coherencia temporal.",
+            "¡Correcto! 'Hoy' no ha terminado, todo en presente perfecto."
           ]
         }
       ]
@@ -94,83 +94,83 @@
       "content": "En Brasil, usamos mucho el pretérito perfecto ('Eu comi', 'Eu falei') para acciones recientes. En España, para acciones que ocurrieron HOY, ESTA SEMANA, ESTE AÑO, o que tienen consecuencia en el presente, se usa el Presente Perfecto.\n\nPortugués = 'Já comi' o 'Hoje eu comi'\nEspañol = 'He comido' o 'Hoy he comido'\n\nLa clave: si el período de tiempo NO está cerrado, usa Presente Perfecto.",
       "questions": [
         {
-          "sentence": "Esta semana los estudiantes de medicina _______ tres exámenes extremadamente difíciles sobre anatomía avanzada, _______ más de cuarenta horas estudiando intensamente en la biblioteca universitaria, y apenas _______ cuatro o cinco horas para descansar adecuadamente cada noche.",
+          "sentence": "Esta semana los estudiantes _______ tres exámenes difíciles, _______ cuarenta horas estudiando, y apenas _______ tiempo para descansar.",
           "options": [
+            "han tenido... pasaron... han tenido",
+            "tuvieron... han pasado... han tenido",
             "han tenido... han pasado... han tenido",
-            "tuvieron... pasaron... tuvieron",
-            "han tenido... pasaron... tuvieron",
-            "tuvieron... han pasado... han tenido"
+            "tuvieron... pasaron... tuvieron"
           ],
-          "correct": 0,
+          "correct": 2,
           "explanations": [
-            "¡Correcto! 'Esta semana' no ha terminado todavía, por eso los tres verbos van en presente perfecto.",
-            "Todo en pretérito cerraría la semana en el pasado, pero 'esta semana' continúa hasta el momento presente.",
-            "Mezcla presente perfecto con pretérito indefinido. Si 'esta semana' no está cerrada, todo debe ser perfecto.",
-            "Mezcla tiempos sin coherencia. El marcador 'esta semana' exige presente perfecto en todos los verbos."
+            "Mezcla perfecto con pretérito. 'Esta semana' exige uniformidad.",
+            "Mezcla pretérito con perfecto sin coherencia temporal.",
+            "¡Correcto! 'Esta semana' no ha terminado, todo en perfecto.",
+            "Todo en pretérito cierra la semana en el pasado."
           ]
         },
         {
-          "sentence": "Hoy nosotros _______ seis reuniones consecutivas con clientes potenciales de diferentes países, _______ propuestas comerciales innovadoras adaptadas a cada mercado específico, y _______ comentarios muy positivos y prometedores de absolutamente todos los participantes presentes.",
+          "sentence": "Hoy nosotros _______ seis reuniones con clientes, _______ propuestas innovadoras, y _______ comentarios positivos.",
           "options": [
-            "tuvimos... presentamos... recibimos",
-            "hemos tenido... hemos presentado... recibimos",
+            "hemos tenido... presentamos... hemos recibido",
             "tuvimos... hemos presentado... hemos recibido",
-            "hemos tenido... hemos presentado... hemos recibido"
+            "hemos tenido... hemos presentado... hemos recibido",
+            "tuvimos... presentamos... recibimos"
+          ],
+          "correct": 2,
+          "explanations": [
+            "Mezcla perfecto con pretérito. 'Hoy' exige uniformidad.",
+            "Mezcla pretérito con perfecto sin coherencia.",
+            "¡Correcto! 'Hoy' no ha terminado, todo en presente perfecto.",
+            "Todo en pretérito cierra el día en el pasado."
+          ]
+        },
+        {
+          "sentence": "Este mes la empresa _______ gastos innecesarios, _______ su estrategia digital, y _______ mejores resultados.",
+          "options": [
+            "redujo... transformó... obtuvo",
+            "ha reducido... transformó... ha obtenido",
+            "redujo... ha transformado... ha obtenido",
+            "ha reducido... ha transformado... ha obtenido"
           ],
           "correct": 3,
           "explanations": [
-            "Todo en pretérito cerraría el día, pero 'hoy' es un período que llega hasta el momento actual.",
-            "Mezcla presente perfecto con pretérito. Si 'hoy' no ha terminado, todos los verbos deben ir en perfecto.",
-            "Mezcla pretérito con presente perfecto sin coherencia temporal. 'Hoy' exige uniformidad.",
-            "¡Correcto! 'Hoy' no está cerrado como período temporal, por eso los tres verbos van en presente perfecto."
+            "Todo en pretérito cierra el mes, pero 'este mes' continúa.",
+            "Mezcla perfecto con pretérito sin coherencia temporal.",
+            "Mezcla pretérito con perfecto. 'Este mes' exige uniformidad.",
+            "¡Correcto! 'Este mes' no está cerrado, todo en presente perfecto."
           ]
         },
         {
-          "sentence": "Este mes la empresa multinacional _______ significativamente sus gastos operativos innecesarios, _______ por completo su estrategia de marketing digital para redes sociales, y _______ mejores resultados financieros que durante todo el trimestre anterior completo.",
+          "sentence": "Estos últimos días tú _______ un esfuerzo enorme, _______ información de veinte fuentes, y _______ un trabajo impresionante.",
           "options": [
-            "ha reducido... ha transformado... ha obtenido",
-            "redujo... transformó... obtuvo",
-            "ha reducido... transformó... obtuvo",
-            "redujo... ha transformado... ha obtenido"
-          ],
-          "correct": 0,
-          "explanations": [
-            "¡Correcto! 'Este mes' es un período que todavía no ha terminado, por eso se usa presente perfecto.",
-            "Todo en pretérito cerraría el mes en el pasado, pero 'este mes' continúa hasta ahora.",
-            "Mezcla presente perfecto con pretérito indefinido sin justificación para cambiar de tiempo verbal.",
-            "Mezcla tiempos de forma inconsistente. Si 'este mes' no está cerrado, todo debe ir en presente perfecto."
-          ]
-        },
-        {
-          "sentence": "Durante estos últimos días tú _______ un esfuerzo sobrehumano preparando la presentación para inversores, _______ información detallada y verificada de más de veinte fuentes diferentes y confiables, y _______ un trabajo realmente profesional, completo e impresionante que superará todas las expectativas.",
-          "options": [
+            "has hecho... recopilaste... has producido",
+            "hiciste... has recopilado... has producido",
             "has hecho... has recopilado... has producido",
-            "hiciste... recopilaste... produjiste",
-            "has hecho... recopilaste... produjiste",
-            "hiciste... has recopilado... has producido"
+            "hiciste... recopilaste... produjiste"
           ],
-          "correct": 0,
+          "correct": 2,
           "explanations": [
-            "¡Correcto! 'Estos últimos días' es un período que llega hasta el presente, exige presente perfecto.",
-            "Todo en pretérito situaría los días en el pasado cerrado, pero 'estos últimos días' incluyen hoy.",
-            "Mezcla presente perfecto con pretérito indefinido. 'Estos últimos días' exige coherencia en perfecto.",
-            "Mezcla tiempos de forma inconsistente. El marcador temporal exige uniformidad en presente perfecto."
+            "Mezcla perfecto con pretérito. 'Estos últimos días' exige uniformidad.",
+            "Mezcla pretérito con perfecto sin coherencia.",
+            "¡Correcto! 'Estos últimos días' llegan hasta hoy, todo en perfecto.",
+            "Todo en pretérito cierra los días en el pasado."
           ]
         },
         {
-          "sentence": "En lo que va del año vosotras _______ cuatro idiomas completamente diferentes (mandarín, árabe, ruso y japonés), _______ certificaciones internacionales oficialmente reconocidas en cada uno de ellos, y _______ oportunidades laborales increíbles en empresas multinacionales gracias precisamente a vuestro impresionante esfuerzo constante.",
+          "sentence": "En lo que va del año vosotras _______ cuatro idiomas, _______ certificaciones oficiales, y _______ oportunidades increíbles.",
           "options": [
-            "habéis estudiado... habéis obtenido... habéis conseguido",
             "estudiasteis... obtuvisteis... conseguisteis",
-            "habéis estudiado... obtuvisteis... conseguisteis",
-            "estudiasteis... habéis obtenido... habéis conseguido"
+            "habéis estudiado... obtuvisteis... habéis conseguido",
+            "estudiasteis... habéis obtenido... habéis conseguido",
+            "habéis estudiado... habéis obtenido... habéis conseguido"
           ],
-          "correct": 0,
+          "correct": 3,
           "explanations": [
-            "¡Correcto! 'En lo que va del año' indica que el año no ha terminado, por eso se usa presente perfecto.",
-            "Todo en pretérito cerraría el año, pero 'en lo que va del año' claramente incluye el presente.",
-            "Mezcla tiempos verbales sin coherencia. Si el año no ha terminado, todo debe ir en presente perfecto.",
-            "Mezcla pretérito con presente perfecto de forma inconsistente con el marcador temporal usado."
+            "Todo en pretérito cierra el año, pero el año continúa.",
+            "Mezcla perfecto con pretérito sin coherencia.",
+            "Mezcla pretérito con perfecto. El año exige uniformidad.",
+            "¡Correcto! 'En lo que va del año' no está cerrado, todo perfecto."
           ]
         }
       ]
@@ -181,83 +181,83 @@
       "content": "Palabras que normalmente piden Presente Perfecto:\n\nHOY - Esta mañana he desayunado bien\nESTA SEMANA - Esta semana hemos trabajado mucho\nESTE MES/AÑO - Este año han viajado a España\nYA - Ya he terminado los deberes\nTODAVÍA NO - Todavía no ha llegado el paquete\nNUNCA - Nunca he estado en París\nALGUNA VEZ - ¿Alguna vez has probado sushi?\n\nEstas palabras conectan el pasado con el presente.",
       "questions": [
         {
-          "sentence": "¿Alguna vez tú _______ durante más de seis meses consecutivos en un país completamente extranjero, _______ totalmente en otra cultura radicalmente diferente a la tuya, y _______ en carne propia cómo esa experiencia profunda transforma completamente tu perspectiva sobre la vida?",
+          "sentence": "¿Alguna vez tú _______ en un país extranjero, _______ en otra cultura, y _______ cómo eso cambia tu perspectiva?",
           "options": [
-            "has vivido... te has sumergido... has sentido",
             "viviste... te sumergiste... sentiste",
-            "has vivido... te sumergiste... sentiste",
-            "viviste... te has sumergido... has sentido"
+            "has vivido... te sumergiste... has sentido",
+            "viviste... te has sumergido... has sentido",
+            "has vivido... te has sumergido... has sentido"
           ],
-          "correct": 0,
+          "correct": 3,
           "explanations": [
-            "¡Correcto! 'Alguna vez' pregunta sobre experiencias de vida acumuladas hasta el presente, exige presente perfecto.",
-            "Todo en pretérito preguntaría por un momento específico del pasado, no por experiencia acumulada de vida.",
-            "Mezcla presente perfecto con pretérito indefinido. Con 'alguna vez', todos los verbos deben ir en perfecto.",
-            "Mezcla tiempos de forma inconsistente. 'Alguna vez' exige uniformidad en presente perfecto para experiencias."
+            "Todo en pretérito pregunta por momento específico, no experiencia.",
+            "Mezcla perfecto con pretérito. 'Alguna vez' exige uniformidad.",
+            "Mezcla pretérito con perfecto sin coherencia.",
+            "¡Correcto! 'Alguna vez' pregunta experiencia de vida, todo perfecto."
           ]
         },
         {
-          "sentence": "Nosotros todavía no _______ la oportunidad de conocer personalmente al nuevo director ejecutivo de la empresa, no _______ ninguna reunión formal ni informal con él desde su nombramiento, y tampoco _______ sus planes estratégicos concretos para reorganizar completamente nuestro departamento durante este trimestre fiscal.",
+          "sentence": "Nosotros todavía no _______ al nuevo director, no _______ reuniones con él, y tampoco _______ sus planes.",
           "options": [
-            "hemos tenido... hemos tenido... hemos conocido",
-            "tuvimos... tuvimos... conocimos",
-            "hemos tenido... tuvimos... conocimos",
-            "tuvimos... hemos tenido... hemos conocido"
+            "conocimos... tuvimos... conocimos",
+            "hemos conocido... tuvimos... hemos conocido",
+            "conocimos... hemos tenido... hemos conocido",
+            "hemos conocido... hemos tenido... hemos conocido"
           ],
-          "correct": 0,
+          "correct": 3,
           "explanations": [
-            "¡Correcto! 'Todavía no' siempre exige presente perfecto porque indica ausencia de acción hasta el presente.",
-            "Todo en pretérito cerraría la posibilidad en el pasado, pero 'todavía no' mantiene la expectativa presente.",
-            "Mezcla tiempos verbales. Si la situación persiste con 'todavía no', todo debe ir en presente perfecto.",
-            "Mezcla pretérito con presente perfecto de forma inconsistente con 'todavía no' como marcador temporal."
+            "Todo en pretérito cierra en el pasado, pero 'todavía no' conecta con ahora.",
+            "Mezcla perfecto con pretérito. 'Todavía no' exige uniformidad.",
+            "Mezcla pretérito con perfecto sin coherencia.",
+            "¡Correcto! 'Todavía no' siempre exige presente perfecto."
           ]
         },
         {
-          "sentence": "Ya vosotros _______ todas las asignaturas obligatorias del semestre académico, _______ exitosamente los exámenes finales con calificaciones sobresalientes, y _______ oficialmente vuestros certificados de finalización expedidos por la universidad.",
+          "sentence": "Ya vosotros _______ todas las asignaturas, _______ los exámenes finales, y _______ vuestros certificados.",
           "options": [
             "completasteis... aprobasteis... recibisteis",
-            "habéis completado... aprobasteis... recibisteis",
+            "habéis completado... aprobasteis... habéis recibido",
             "completasteis... habéis aprobado... habéis recibido",
             "habéis completado... habéis aprobado... habéis recibido"
           ],
           "correct": 3,
           "explanations": [
-            "Todo en pretérito cerraría las acciones en el pasado, pero 'ya' con perfecto enfatiza el resultado presente.",
-            "Mezcla presente perfecto con pretérito indefinido sin coherencia temporal clara con el marcador 'ya'.",
-            "Mezcla pretérito con presente perfecto de forma inconsistente. 'Ya' pide uniformidad en presente perfecto.",
-            "¡Correcto! 'Ya' indica acción completada cuyo resultado llega hasta ahora, por eso se usa presente perfecto."
+            "Todo en pretérito cierra acciones, pero 'ya' enfatiza resultado presente.",
+            "Mezcla perfecto con pretérito sin coherencia.",
+            "Mezcla pretérito con perfecto. 'Ya' exige uniformidad.",
+            "¡Correcto! 'Ya' indica acción terminada con resultado presente, perfecto."
           ]
         },
         {
-          "sentence": "Yo nunca _______ problemas técnicos serios ni frustrantes con dispositivos tecnológicos modernos, nunca _______ dificultades significativas para aprender y dominar nuevos programas informáticos complejos, y siempre _______ muy cómodo y confiado usando todo tipo de dispositivos digitales avanzados.",
+          "sentence": "Yo nunca _______ problemas con tecnología, nunca _______ dificultades con programas, y siempre _______ cómodo con dispositivos.",
           "options": [
-            "he tenido... he tenido... me he sentido",
             "tuve... tuve... me sentí",
-            "he tenido... tuve... me sentí",
-            "tuve... he tenido... me he sentido"
+            "he tenido... tuve... me he sentido",
+            "tuve... he tenido... me he sentido",
+            "he tenido... he tenido... me he sentido"
           ],
-          "correct": 0,
+          "correct": 3,
           "explanations": [
-            "¡Correcto! 'Nunca' con presente perfecto habla de toda tu experiencia de vida acumulada hasta el momento presente.",
-            "Todo en pretérito limitaría la negación a un período pasado específico, no a toda la experiencia de vida.",
-            "Mezcla presente perfecto con pretérito indefinido. 'Nunca' como experiencia exige presente perfecto.",
-            "Mezcla tiempos sin coherencia. Si 'nunca' se refiere a experiencia de vida, todo debe ir en presente perfecto."
+            "Todo en pretérito limita a período pasado, no experiencia de vida.",
+            "Mezcla perfecto con pretérito. 'Nunca' exige uniformidad.",
+            "Mezcla pretérito con perfecto sin coherencia.",
+            "¡Correcto! 'Nunca' para experiencia de vida exige presente perfecto."
           ]
         },
         {
-          "sentence": "Mis hermanos menores todavía no _______ la decisión definitiva sobre qué universidad prestigiosa elegir para sus estudios superiores, no _______ personalmente todas las instalaciones y laboratorios de cada campus universitario disponible, y tampoco _______ en profundidad con suficientes estudiantes actuales de cada institución para poder formar una opinión realmente fundamentada.",
+          "sentence": "Mis hermanos todavía no _______ qué universidad elegir, no _______ todos los campus, y tampoco _______ con estudiantes.",
           "options": [
-            "han tomado... han visitado... han hablado",
-            "tomaron... visitaron... hablaron",
-            "han tomado... visitaron... hablaron",
-            "tomaron... han visitado... han hablado"
+            "decidieron... visitaron... hablaron",
+            "han decidido... visitaron... han hablado",
+            "decidieron... han visitado... han hablado",
+            "han decidido... han visitado... han hablado"
           ],
-          "correct": 0,
+          "correct": 3,
           "explanations": [
-            "¡Correcto! 'Todavía no' siempre requiere presente perfecto porque la acción no se ha completado hasta el presente.",
-            "Todo en pretérito cerraría las acciones en el pasado, pero 'todavía no' mantiene la conexión con ahora.",
-            "Mezcla presente perfecto con pretérito indefinido. 'Todavía no' exige uniformidad en presente perfecto.",
-            "Mezcla tiempos de forma inconsistente. El marcador 'todavía no' exige presente perfecto en todos los verbos."
+            "Todo en pretérito cierra acciones, pero 'todavía no' conecta con ahora.",
+            "Mezcla perfecto con pretérito. 'Todavía no' exige uniformidad.",
+            "Mezcla pretérito con perfecto sin coherencia.",
+            "¡Correcto! 'Todavía no' siempre requiere presente perfecto."
           ]
         }
       ]
@@ -268,83 +268,83 @@
       "content": "Algunos verbos tienen participios irregulares que debes memorizar:\n\nABRIR → abierto (he abierto)\nDECIR → dicho (he dicho)\nESCRIBIR → escrito (he escrito)\nHACER → hecho (he hecho)\nMORIR → muerto (ha muerto)\nPONER → puesto (he puesto)\nROMPER → roto (he roto)\nVER → visto (he visto)\nVOLVER → vuelto (he vuelto)\n\nEstos participios NO terminan en -ado/-ido.",
       "questions": [
         {
-          "sentence": "Este mes nosotros _______ docenas de cartas comerciales importantes a nuestros principales clientes corporativos internacionales, _______ varios contratos estratégicos nuevos encima de la mesa del director general, y _______ cambios organizacionales significativos en toda la estructura administrativa de las tres oficinas regionales.",
+          "sentence": "Este mes nosotros _______ cartas a clientes, _______ contratos en la mesa, y _______ cambios organizacionales.",
           "options": [
-            "hemos escrito... hemos puesto... hemos hecho",
             "escribimos... pusimos... hicimos",
-            "hemos escrito... pusimos... hicimos",
-            "escribimos... hemos puesto... hemos hecho"
+            "hemos escrito... pusimos... hemos hecho",
+            "escribimos... hemos puesto... hemos hecho",
+            "hemos escrito... hemos puesto... hemos hecho"
           ],
-          "correct": 0,
+          "correct": 3,
           "explanations": [
-            "¡Correcto! 'Este mes' no ha terminado, exige presente perfecto con participios irregulares: escrito, puesto, hecho.",
-            "Todo en pretérito cerraría el mes en el pasado, pero 'este mes' es un período que continúa hasta ahora.",
-            "Mezcla presente perfecto con pretérito indefinido sin coherencia temporal con el marcador 'este mes'.",
-            "Mezcla tiempos de forma inconsistente. Si 'este mes' no está cerrado, todo debe ir en presente perfecto."
+            "Todo en pretérito cierra el mes, pero 'este mes' continúa.",
+            "Mezcla perfecto con pretérito. 'Este mes' exige uniformidad.",
+            "Mezcla pretérito con perfecto sin coherencia.",
+            "¡Correcto! 'Este mes' no ha terminado, perfecto: escrito, puesto, hecho."
           ]
         },
         {
-          "sentence": "Yo todavía no _______ ese libro bestseller tan famoso que absolutamente todos mis amigos recomiendan insistentemente, no _______ la película taquillera basada en la novela original, y tampoco _______ ninguna reseña crítica profesional sobre la historia para formarme una opinión.",
+          "sentence": "Yo todavía no _______ ese libro famoso, no _______ la película, y tampoco _______ reseñas.",
           "options": [
             "leí... vi... leí",
-            "he leído... vi... leí",
+            "he leído... vi... he leído",
             "leí... he visto... he leído",
             "he leído... he visto... he leído"
           ],
           "correct": 3,
           "explanations": [
-            "Todo en pretérito cerraría las acciones en el pasado, pero 'todavía no' conecta con el presente.",
-            "Mezcla presente perfecto con pretérito indefinido. 'Todavía no' exige uniformidad en presente perfecto.",
-            "Mezcla pretérito con presente perfecto de forma inconsistente con el marcador 'todavía no'.",
-            "¡Correcto! 'Todavía no' siempre exige presente perfecto con participios irregulares: leído, visto, leído."
+            "Todo en pretérito cierra acciones, pero 'todavía no' conecta con ahora.",
+            "Mezcla perfecto con pretérito. 'Todavía no' exige uniformidad.",
+            "Mezcla pretérito con perfecto sin coherencia.",
+            "¡Correcto! 'Todavía no' exige perfecto: leído, visto, leído (irregulares)."
           ]
         },
         {
-          "sentence": "Durante esta semana mis compañeros de trabajo _______ cuatro veces consecutivas a la cafetería artesanal del barrio antiguo, _______ al jefe del departamento sobre el proyecto innovador que estamos desarrollando, y _______ muchísimas ideas creativas y originales en todas las reuniones matutinas de brainstorming que hemos organizado.",
+          "sentence": "Esta semana mis compañeros _______ a la cafetería, _______ al jefe del proyecto, y _______ muchas ideas creativas.",
           "options": [
-            "han vuelto... han dicho... han puesto",
             "volvieron... dijeron... pusieron",
-            "han vuelto... dijeron... pusieron",
-            "volvieron... han dicho... han puesto"
+            "han vuelto... dijeron... han puesto",
+            "volvieron... han dicho... han puesto",
+            "han vuelto... han dicho... han puesto"
           ],
-          "correct": 0,
+          "correct": 3,
           "explanations": [
-            "¡Correcto! 'Esta semana' no está cerrada, exige presente perfecto: vuelto, dicho, puesto (irregulares).",
-            "Todo en pretérito cerraría la semana en el pasado, pero 'esta semana' continúa hasta el presente.",
-            "Mezcla presente perfecto con pretérito indefinido sin coherencia con 'esta semana' como marcador temporal.",
-            "Mezcla tiempos de forma inconsistente. 'Esta semana' exige uniformidad en presente perfecto."
+            "Todo en pretérito cierra la semana, pero 'esta semana' continúa.",
+            "Mezcla perfecto con pretérito. 'Esta semana' exige uniformidad.",
+            "Mezcla pretérito con perfecto sin coherencia.",
+            "¡Correcto! 'Esta semana' no está cerrada, perfecto: vuelto, dicho, puesto."
           ]
         },
         {
-          "sentence": "Tú ya _______ todas las ventanas principales de la casa para que entre aire fresco y renovado, _______ la televisión inteligente de última generación en el salón principal renovado, y _______ absolutamente todo perfectamente listo para recibir cómodamente a los invitados especiales esta tarde.",
+          "sentence": "Tú ya _______ todas las ventanas, _______ la televisión en el salón, y _______ todo listo para los invitados.",
           "options": [
-            "has abierto... has puesto... has hecho",
             "abriste... pusiste... hiciste",
-            "has abierto... pusiste... hiciste",
-            "abriste... has puesto... has hecho"
+            "has abierto... pusiste... has hecho",
+            "abriste... has puesto... has hecho",
+            "has abierto... has puesto... has hecho"
           ],
-          "correct": 0,
+          "correct": 3,
           "explanations": [
-            "¡Correcto! 'Ya' indica acción completada hasta el presente, usa perfecto: abierto, puesto, hecho (irregulares).",
-            "Todo en pretérito cerraría las acciones en el pasado, pero 'ya' enfatiza el resultado presente.",
-            "Mezcla presente perfecto con pretérito indefinido sin coherencia temporal con el marcador 'ya'.",
-            "Mezcla tiempos de forma inconsistente. 'Ya' con resultado presente exige presente perfecto uniformemente."
+            "Todo en pretérito cierra acciones, pero 'ya' enfatiza resultado presente.",
+            "Mezcla perfecto con pretérito sin coherencia.",
+            "Mezcla pretérito con perfecto. 'Ya' exige uniformidad.",
+            "¡Correcto! 'Ya' con resultado presente exige perfecto: abierto, puesto, hecho."
           ]
         },
         {
-          "sentence": "Vosotras nunca _______ accidentalmente el cristal frágil de ninguna ventana en vuestra casa familiar, nunca _______ nada irresponsable ni peligroso con las pertenencias delicadas ajenas, y siempre _______ extremo cuidado meticuloso con todos los objetos frágiles y valiosos que os han confiado.",
+          "sentence": "Vosotras nunca _______ el cristal de ventanas, nunca _______ nada irresponsable, y siempre _______ mucho cuidado.",
           "options": [
-            "habéis roto... habéis hecho... habéis tenido",
             "rompisteis... hicisteis... tuvisteis",
-            "habéis roto... hicisteis... tuvisteis",
-            "rompisteis... habéis hecho... habéis tenido"
+            "habéis roto... hicisteis... habéis tenido",
+            "rompisteis... habéis hecho... habéis tenido",
+            "habéis roto... habéis hecho... habéis tenido"
           ],
-          "correct": 0,
+          "correct": 3,
           "explanations": [
-            "¡Correcto! 'Nunca' para experiencia de vida exige presente perfecto: roto, hecho, tenido (irregulares).",
-            "Todo en pretérito limitaría la negación a un período pasado específico, no a experiencia de vida completa.",
-            "Mezcla presente perfecto con pretérito indefinido. 'Nunca' como experiencia exige presente perfecto.",
-            "Mezcla tiempos sin coherencia. Si 'nunca' se refiere a experiencia de vida, todo debe ir en perfecto."
+            "Todo en pretérito limita a período pasado, no experiencia de vida.",
+            "Mezcla perfecto con pretérito. 'Nunca' exige uniformidad.",
+            "Mezcla pretérito con perfecto sin coherencia.",
+            "¡Correcto! 'Nunca' para experiencia exige perfecto: roto, hecho, tenido."
           ]
         }
       ]
