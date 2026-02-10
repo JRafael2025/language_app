@@ -103,6 +103,47 @@
   </section>
 
   <!-- ============================================================
+       SCREEN 2.5 – Tips Selection
+       ============================================================ -->
+  <section id="screen-tips" class="screen">
+    <button id="back-btn-tips" class="back-btn">← Back</button>
+
+    <h2 class="section-title" id="tips-title">Ver Dicas</h2>
+    <p  class="section-sub"  id="tips-sub">Escolha qual tempo verbal deseja revisar</p>
+
+    <div id="tips-list" class="tense-list">
+      <div class="tense-item" data-tip-tense="Presente del Indicativo">
+        <span class="num">1</span>
+        <span class="name">Presente del Indicativo</span>
+      </div>
+      <div class="tense-item" data-tip-tense="Presente Perfecto">
+        <span class="num">2</span>
+        <span class="name">Presente Perfecto</span>
+      </div>
+      <div class="tense-item" data-tip-tense="Pretérito Indefinido">
+        <span class="num">3</span>
+        <span class="name">Pretérito Indefinido</span>
+      </div>
+      <div class="tense-item" data-tip-tense="Pretérito Imperfecto">
+        <span class="num">4</span>
+        <span class="name">Pretérito Imperfecto</span>
+      </div>
+      <div class="tense-item" data-tip-tense="Imperativo">
+        <span class="num">5</span>
+        <span class="name">Imperativo</span>
+      </div>
+      <div class="tense-item" data-tip-tense="Condicional">
+        <span class="num">6</span>
+        <span class="name">Condicional</span>
+      </div>
+      <div class="tense-item highlight" data-tip-tense="Todos">
+        <span class="num">★</span>
+        <span class="name">Todas as Dicas</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================================================
        SCREEN 3 – Exercise
        ============================================================ -->
   <section id="screen-exercise" class="screen">
@@ -130,7 +171,10 @@
     </div>
 
     <!-- Next button (text set by i18n) -->
-    <button id="next-btn" class="next-btn">Next question →</button>
+    <div style="display: flex; gap: 10px; width: 100%;">
+      <button id="prev-btn" class="prev-btn" style="display: none;">← Dica anterior</button>
+      <button id="next-btn" class="next-btn">Next question →</button>
+    </div>
 
     <!-- Restart link (text set by i18n) -->
     <button id="restart-btn" class="restart-btn">← Back to start</button>
