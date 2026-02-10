@@ -172,6 +172,41 @@ async function loadQuestions(lang, tense) {
         questionPool = shuffleArray(allQuestions);
         currentTipData = null;
         showingTip = false;
+      } else if (tense === "Dicas") {
+        // Load all tips only (no questions)
+        const files = [
+          "questions_es_presente.json",
+          "questions_es_perfecto.json",
+          "questions_es_indefinido.json",
+          "questions_es_imperfecto.json",
+          "questions_es_imperativo.json",
+          "questions_es_condicional.json"
+        ];
+        
+        const allTips = [];
+        for (const file of files) {
+          const response = await fetch(file);
+          const json = await response.json();
+          
+          if (json.tips) {
+            json.tips.forEach(tip => {
+              allTips.push({
+                ...tip,
+                tenseName: json.tense
+              });
+            });
+          }
+        }
+        
+        // Create a special structure for tips-only mode
+        currentTipData = {
+          tense: "Dicas de Todos os Tempos",
+          tips: allTips,
+          tipsOnlyMode: true
+        };
+        currentTipIndex = 0;
+        currentQuestionIndex = 0;
+        showingTip = true;
       } else if (tense === "Presente Perfecto") {
         // Load the new tip-based structure for Presente Perfecto
         const response = await fetch("questions_es_perfecto.json");
@@ -196,25 +231,18 @@ async function loadQuestions(lang, tense) {
         currentTipIndex = 0;
         currentQuestionIndex = 0;
         showingTip = true;
-      } else if (tense === "Imperativo") {
-        // Load the new tip-based structure for Imperativo
-        const response = await fetch("questions_es_imperativo.json");
-        data = await response.json();
-        currentTipData = data;
-        currentTipIndex = 0;
-        currentQuestionIndex = 0;
-        showingTip = true;
-      } else if (tense === "Condicional") {
-        // Load the new tip-based structure for Condicional
-        const response = await fetch("questions_es_condicional.json");
-        data = await response.json();
-        currentTipData = data;
-        currentTipIndex = 0;
-        currentQuestionIndex = 0;
-        showingTip = true;
       } else {
-        // No old format tenses remaining
-        alert("Tiempo verbal no disponible");
+        // Load specific tense (old format)
+        const tenseFileMap = {
+          "Imperativo": "questions_es_imperativo.json",
+          "Condicional": "questions_es_condicional.json"
+        };
+        
+        const response = await fetch(tenseFileMap[tense]);
+        data = await response.json();
+        questionPool = data;
+        currentTipData = null;
+        showingTip = false;
       }
     }
 
@@ -244,8 +272,12 @@ function renderTip() {
   const progressPercent = (currentTipIndex / totalTips) * 100;
   exerciseElements.progressFill.style.width = `${progressPercent}%`;
   
-  // Set badge
-  exerciseElements.badge.textContent = `${t.tipTitle} ${tip.id}`;
+  // Set badge - show tense name if in tips-only mode
+  if (currentTipData.tipsOnlyMode) {
+    exerciseElements.badge.textContent = `${tip.tenseName} - ${t.tipTitle} ${tip.id}`;
+  } else {
+    exerciseElements.badge.textContent = `${t.tipTitle} ${tip.id}`;
+  }
   
   // Set tip content
   exerciseElements.sentence.innerHTML = `
@@ -263,7 +295,18 @@ function renderTip() {
   
   // Show next button
   exerciseElements.nextBtn.classList.add("show");
-  exerciseElements.nextBtn.textContent = "Começar exercícios →";
+  
+  // Change button text based on mode
+  if (currentTipData.tipsOnlyMode) {
+    // In tips-only mode, check if this is the last tip
+    if (currentTipIndex >= totalTips - 1) {
+      exerciseElements.nextBtn.textContent = "← Voltar ao início";
+    } else {
+      exerciseElements.nextBtn.textContent = "Próxima dica →";
+    }
+  } else {
+    exerciseElements.nextBtn.textContent = "Começar exercícios →";
+  }
 }
 
 // --- Render Question ---
@@ -394,10 +437,33 @@ exerciseElements.nextBtn.addEventListener("click", () => {
   if (currentTipData) {
     // Tip-based flow
     if (showingTip) {
-      // Moving from tip to questions
-      showingTip = false;
-      currentQuestionIndex = 0;
-      renderQuestion();
+      // Check if we're in tips-only mode
+      if (currentTipData.tipsOnlyMode) {
+        // In tips-only mode, just navigate between tips
+        currentTipIndex++;
+        
+        if (currentTipIndex >= currentTipData.tips.length) {
+          // Finished all tips - go back to start
+          showScreen("lang");
+          selectedLanguage = null;
+          selectedTense = null;
+          currentTipData = null;
+          currentTipIndex = 0;
+          currentQuestionIndex = 0;
+          showingTip = false;
+          questionPool = [];
+          correctCount = 0;
+          totalAnswered = 0;
+        } else {
+          // Show next tip
+          renderTip();
+        }
+      } else {
+        // Normal mode: moving from tip to questions
+        showingTip = false;
+        currentQuestionIndex = 0;
+        renderQuestion();
+      }
     } else {
       // Moving to next question or tip
       currentQuestionIndex++;
