@@ -46,6 +46,7 @@ const i18n = {
 const screens = {
   lang: document.getElementById("screen-lang"),
   tense: document.getElementById("screen-tense"),
+  tips: document.getElementById("screen-tips"),
   exercise: document.getElementById("screen-exercise")
 };
 
@@ -58,6 +59,7 @@ const exerciseElements = {
   fbHead: document.getElementById("fb-head"),
   fbText: document.getElementById("fb-text"),
   nextBtn: document.getElementById("next-btn"),
+  prevBtn: document.getElementById("prev-btn"),
   restartBtn: document.getElementById("restart-btn")
 };
 
@@ -105,8 +107,26 @@ document.querySelectorAll(".lang-card").forEach(card => {
 document.querySelectorAll(".tense-item").forEach(item => {
   item.addEventListener("click", () => {
     selectedTense = item.dataset.tense;
-    loadQuestions(selectedLanguage, selectedTense);
+    
+    // Check if this is the "Ver Dicas" button
+    if (selectedTense === "Dicas") {
+      showScreen("tips");
+    } else {
+      loadQuestions(selectedLanguage, selectedTense);
+    }
   });
+});
+
+// --- Tips Selection (Screen 2.5) ---
+document.querySelectorAll("#tips-list .tense-item").forEach(item => {
+  item.addEventListener("click", () => {
+    const tipTense = item.dataset.tipTense;
+    loadTipsOnly(selectedLanguage, tipTense);
+  });
+});
+
+document.getElementById("back-btn-tips").addEventListener("click", () => {
+  showScreen("tense");
 });
 
 document.getElementById("back-btn-tense").addEventListener("click", () => {
@@ -114,6 +134,81 @@ document.getElementById("back-btn-tense").addEventListener("click", () => {
   selectedLanguage = null;
   selectedTense = null;
 });
+
+// --- Load Tips Only ---
+async function loadTipsOnly(lang, tense) {
+  try {
+    if (lang !== "es") return;
+    
+    let allTips = [];
+    
+    if (tense === "Todos") {
+      // Load all tips from all tenses
+      const files = [
+        { file: "questions_es_presente.json", name: "Presente del Indicativo" },
+        { file: "questions_es_perfecto.json", name: "Presente Perfecto" },
+        { file: "questions_es_indefinido.json", name: "Pretérito Indefinido" },
+        { file: "questions_es_imperfecto.json", name: "Pretérito Imperfecto" },
+        { file: "questions_es_imperativo.json", name: "Imperativo" },
+        { file: "questions_es_condicional.json", name: "Condicional" }
+      ];
+      
+      for (const { file, name } of files) {
+        const response = await fetch(file);
+        const json = await response.json();
+        
+        if (json.tips) {
+          json.tips.forEach(tip => {
+            allTips.push({
+              ...tip,
+              tenseName: name
+            });
+          });
+        }
+      }
+    } else {
+      // Load tips from specific tense
+      const tenseFileMap = {
+        "Presente del Indicativo": "questions_es_presente.json",
+        "Presente Perfecto": "questions_es_perfecto.json",
+        "Pretérito Indefinido": "questions_es_indefinido.json",
+        "Pretérito Imperfecto": "questions_es_imperfecto.json",
+        "Imperativo": "questions_es_imperativo.json",
+        "Condicional": "questions_es_condicional.json"
+      };
+      
+      const response = await fetch(tenseFileMap[tense]);
+      const json = await response.json();
+      
+      if (json.tips) {
+        json.tips.forEach(tip => {
+          allTips.push({
+            ...tip,
+            tenseName: tense
+          });
+        });
+      }
+    }
+    
+    // Create a special structure for tips-only mode
+    currentTipData = {
+      tense: tense === "Todos" ? "Dicas de Todos os Tempos" : `Dicas - ${tense}`,
+      tips: allTips,
+      tipsOnlyMode: true
+    };
+    currentTipIndex = 0;
+    currentQuestionIndex = 0;
+    showingTip = true;
+    correctCount = 0;
+    totalAnswered = 0;
+
+    showScreen("exercise");
+    renderTip();
+  } catch (error) {
+    console.error("Error loading tips:", error);
+    alert("Error loading tips. Please try again.");
+  }
+}
 
 // --- Load Questions ---
 async function loadQuestions(lang, tense) {
@@ -172,41 +267,6 @@ async function loadQuestions(lang, tense) {
         questionPool = shuffleArray(allQuestions);
         currentTipData = null;
         showingTip = false;
-      } else if (tense === "Dicas") {
-        // Load all tips only (no questions)
-        const files = [
-          "questions_es_presente.json",
-          "questions_es_perfecto.json",
-          "questions_es_indefinido.json",
-          "questions_es_imperfecto.json",
-          "questions_es_imperativo.json",
-          "questions_es_condicional.json"
-        ];
-        
-        const allTips = [];
-        for (const file of files) {
-          const response = await fetch(file);
-          const json = await response.json();
-          
-          if (json.tips) {
-            json.tips.forEach(tip => {
-              allTips.push({
-                ...tip,
-                tenseName: json.tense
-              });
-            });
-          }
-        }
-        
-        // Create a special structure for tips-only mode
-        currentTipData = {
-          tense: "Dicas de Todos os Tempos",
-          tips: allTips,
-          tipsOnlyMode: true
-        };
-        currentTipIndex = 0;
-        currentQuestionIndex = 0;
-        showingTip = true;
       } else if (tense === "Presente Perfecto") {
         // Load the new tip-based structure for Presente Perfecto
         const response = await fetch("questions_es_perfecto.json");
@@ -231,18 +291,22 @@ async function loadQuestions(lang, tense) {
         currentTipIndex = 0;
         currentQuestionIndex = 0;
         showingTip = true;
-      } else {
-        // Load specific tense (old format)
-        const tenseFileMap = {
-          "Imperativo": "questions_es_imperativo.json",
-          "Condicional": "questions_es_condicional.json"
-        };
-        
-        const response = await fetch(tenseFileMap[tense]);
+      } else if (tense === "Imperativo") {
+        // Load the new tip-based structure for Imperativo
+        const response = await fetch("questions_es_imperativo.json");
         data = await response.json();
-        questionPool = data;
-        currentTipData = null;
-        showingTip = false;
+        currentTipData = data;
+        currentTipIndex = 0;
+        currentQuestionIndex = 0;
+        showingTip = true;
+      } else if (tense === "Condicional") {
+        // Load the new tip-based structure for Condicional
+        const response = await fetch("questions_es_condicional.json");
+        data = await response.json();
+        currentTipData = data;
+        currentTipIndex = 0;
+        currentQuestionIndex = 0;
+        showingTip = true;
       }
     }
 
@@ -292,6 +356,17 @@ function renderTip() {
   // Hide options and feedback
   exerciseElements.options.innerHTML = "";
   exerciseElements.feedback.classList.remove("show");
+  
+  // Show/hide previous button in tips-only mode
+  if (currentTipData.tipsOnlyMode) {
+    if (currentTipIndex > 0) {
+      exerciseElements.prevBtn.style.display = "block";
+    } else {
+      exerciseElements.prevBtn.style.display = "none";
+    }
+  } else {
+    exerciseElements.prevBtn.style.display = "none";
+  }
   
   // Show next button
   exerciseElements.nextBtn.classList.add("show");
@@ -493,6 +568,16 @@ exerciseElements.nextBtn.addEventListener("click", () => {
       showFinalScore();
     } else {
       renderQuestion();
+    }
+  }
+});
+
+// --- Previous Button Handler (for tips-only mode) ---
+exerciseElements.prevBtn.addEventListener("click", () => {
+  if (currentTipData && currentTipData.tipsOnlyMode && showingTip) {
+    if (currentTipIndex > 0) {
+      currentTipIndex--;
+      renderTip();
     }
   }
 });
