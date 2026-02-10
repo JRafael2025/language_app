@@ -521,6 +521,26 @@ html, body {
   box-shadow: 0 6px 24px rgba(0,212,170,0.45);
 }
 
+.prev-btn {
+  width: 100%;
+  padding: 16px;
+  background: var(--bg-card);
+  border: 1.5px solid var(--text-muted);
+  border-radius: var(--radius-sm);
+  color: var(--text-primary);
+  font-family: var(--font-body);
+  font-size: 0.95rem;
+  font-weight: 600;
+  cursor: pointer;
+  margin-top: 20px;
+  transition: transform 0.15s, border-color 0.2s, background 0.2s;
+}
+.prev-btn:active { transform: scale(0.96); }
+.prev-btn:hover {
+  border-color: var(--accent);
+  background: var(--bg-card-hover);
+}
+
 /* Restart / back-to-start link */
 .restart-btn {
   background: none;
