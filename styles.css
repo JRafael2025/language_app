@@ -237,6 +237,15 @@ html, body {
   color: var(--bg-deep);
 }
 
+.tense-item.tips-only {
+  border-color: #6c63ff;
+  background: linear-gradient(135deg, rgba(108, 99, 255, 0.15), var(--bg-card));
+}
+.tense-item.tips-only .num {
+  background: #6c63ff;
+  color: var(--bg-deep);
+}
+
 /* Back button */
 .back-btn {
   background: none;
