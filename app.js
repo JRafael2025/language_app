@@ -104,7 +104,7 @@ document.querySelectorAll(".lang-card").forEach(card => {
 });
 
 // --- Tense Selection (Screen 2) ---
-document.querySelectorAll(".tense-item").forEach(item => {
+document.querySelectorAll("#tense-list .tense-item").forEach(item => {
   item.addEventListener("click", () => {
     selectedTense = item.dataset.tense;
     
@@ -375,7 +375,7 @@ function renderTip() {
   if (currentTipData.tipsOnlyMode) {
     // In tips-only mode, check if this is the last tip
     if (currentTipIndex >= totalTips - 1) {
-      exerciseElements.nextBtn.textContent = "← Voltar ao início";
+      exerciseElements.nextBtn.textContent = "← Volver arriba";
     } else {
       exerciseElements.nextBtn.textContent = "Próxima dica →";
     }
