@@ -231,38 +231,15 @@ async function loadQuestions(lang, tense) {
         currentQuestionIndex = 0;
         showingTip = true;
       } else if (tense === "Todos") {
-        // Load all tenses
-        const files = [
-          "questions_es_presente.json",
-          "questions_es_perfecto.json",
-          "questions_es_indefinido.json",
-          "questions_es_imperfecto.json",
-          "questions_es_imperativo.json",
-          "questions_es_condicional.json"
-        ];
+        // Load dedicated mixed-tense questions file
+        const response = await fetch("questions_es_todos.json");
+        const json = await response.json();
         
-        const allQuestions = [];
-        for (const file of files) {
-          const response = await fetch(file);
-          const json = await response.json();
-          
-          // Handle both old and new formats
-          if (json.tips) {
-            // New format with tips
-            json.tips.forEach(tip => {
-              tip.questions.forEach(q => {
-                allQuestions.push({
-                  ...q,
-                  language: "es",
-                  tense: json.tense
-                });
-              });
-            });
-          } else {
-            // Old format (array of questions)
-            allQuestions.push(...json);
-          }
-        }
+        const allQuestions = json.questions.map(q => ({
+          ...q,
+          language: "es",
+          tense: json.tense
+        }));
         
         questionPool = shuffleArray(allQuestions);
         currentTipData = null;
