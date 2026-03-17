@@ -1,0 +1,485 @@
+{
+  "tense": "Todos los Tiempos",
+  "questions": [
+    {
+      "sentence": "Oye, _______ lo que te voy a decir: hoy _______ con Laura, que me _______ que cuando ustedes _______ juntos siempre _______ nuevas ideas.",
+      "options": [
+        "escucha... he hablado... contó... trabajaban... tenían",
+        "escuchas... hablé... contaba... trabajaron... tenían",
+        "escucha... hablé... contó... trabajaban... tuvieron",
+        "escuchas... he hablado... contó... trabajaron... tenían"
+      ],
+      "correct": 0,
+      "explanations": [
+        "¡Correcto! 'Escucha' (imperativo de tú), 'he hablado' (perfecto – acción reciente), 'contó' (indefinido – relato puntual), 'trabajaban' (imperfecto – contexto habitual), 'tenían' (imperfecto – estado continuo).",
+        "'Escuchas' es presente, no imperativo. 'Hablé' podría funcionar, pero 'contaba' (imperfecto) no cuadra con el relato puntual; y 'trabajaron' (indefinido) rompe el contexto habitual.",
+        "'Escucha' y 'contó' son correctos, pero 'hablé' es indefinido mientras que 'he hablado' (perfecto) es más natural para una acción de hoy. Además 'tuvieron' rompe el imperfecto habitual.",
+        "'Escuchas' es presente indicativo, no imperativo. El resto de la cadena también falla en coherencia temporal."
+      ]
+    },
+    {
+      "sentence": "Cuando nosotros _______ al restaurante, Marta ya _______ la mesa porque el jefe le _______ que la reunión _______ importante, así que _______ esto con atención.",
+      "options": [
+        "llegamos... había reservado... había dicho... era... escucha",
+        "llegábamos... reservó... dijo... fue... escuchas",
+        "llegamos... reservó... había dicho... era... escuchas",
+        "llegábamos... había reservado... dijo... fue... escucha"
+      ],
+      "correct": 0,
+      "explanations": [
+        "¡Correcto! 'Llegamos' (indefinido – acción puntual), 'había reservado' (pluscuamperfecto – anterior a llegar), 'había dicho' (pluscuamperfecto – anterior a la reserva), 'era' (imperfecto – descripción), 'escucha' (imperativo de tú).",
+        "'Llegábamos' sería imperfecto (acción en curso), pero el contexto pide un momento puntual. 'Reservó' elimina la anterioridad. 'Escuchas' no es imperativo.",
+        "'Llegamos' es correcto, pero 'reservó' pierde la anterioridad que aporta el pluscuamperfecto. 'Escuchas' tampoco es imperativo.",
+        "'Llegábamos' no expresa la llegada puntual. Aunque 'había reservado' sí es correcto, 'dijo' y 'fue' rompen la cadena temporal."
+      ]
+    },
+    {
+      "sentence": "Ayer _______ a mi vecina, que me _______ que si _______ tiempo este fin de semana, _______ pasar por su casa; yo le _______ que sí.",
+      "options": [
+        "vi... dijo... tenía... podría... dije",
+        "veía... dijo... tenía... podría... dije",
+        "vi... decía... tenía... podría... dije",
+        "vi... dijo... tenía... podría... decía"
+      ],
+      "correct": 0,
+      "explanations": [
+        "¡Correcto! 'Vi' (indefinido – acción puntual de ayer), 'dijo' (indefinido – acto de habla puntual), 'tenía' (imperfecto – condición hipotética en estilo indirecto), 'podría' (condicional – posibilidad), 'dije' (indefinido – respuesta puntual).",
+        "'Veía' es imperfecto, pero encontrar a alguien ayer es una acción puntual; debería ser 'vi'.",
+        "'Vi' es correcto, pero 'decía' (imperfecto) convierte el acto de habla puntual en algo habitual. Lo apropiado es 'dijo'.",
+        "'Vi', 'dijo', 'tenía' y 'podría' son correctos, pero 'decía' al final vuelve a hacer habitual una respuesta puntual. Debe ser 'dije'."
+      ]
+    },
+    {
+      "sentence": "Si _______ más tiempo libre, _______ aprender japonés, pero como siempre _______ muy ocupada, hoy simplemente _______ los verbos del libro y _______ una hora de vocabulario.",
+      "options": [
+        "tuviera... podría... estoy... repasa... dedica",
+        "tuviera... podría... estaba... repasa... dedica",
+        "tuviera... podría... estoy... repasa... dedicaré",
+        "tendría... podría... estoy... repasa... dedica"
+      ],
+      "correct": 0,
+      "explanations": [
+        "¡Correcto! 'Tuviera' (subjuntivo – condición irreal), 'podría' (condicional – consecuencia), 'estoy' (presente – realidad actual), 'repasa' (imperativo de tú – consejo) y 'dedica' (imperativo de tú – instrucción).",
+        "'Estaba' es imperfecto y describe el pasado; el contexto pide 'estoy' para contrastar con la hipótesis actual.",
+        "'Dedicaré' es futuro simple, no tiene la fuerza imperativa que pide el contexto de instrucción.",
+        "'Tendría' es condicional; en la cláusula con 'si' hipotético se necesita subjuntivo: 'tuviera'."
+      ]
+    },
+    {
+      "sentence": "Esta mañana _______ un mensaje de Andrés: dice que ayer _______ con el director y que le _______ que el proyecto ya _______ aprobado; por favor, _______ esto a todos.",
+      "options": [
+        "he recibido... habló... confirmó... había sido... comunica",
+        "recibí... habló... confirmó... había sido... comunica",
+        "he recibido... habló... confirmó... fue... comunica",
+        "he recibido... hablaba... confirmó... había sido... comunica"
+      ],
+      "correct": 0,
+      "explanations": [
+        "¡Correcto! 'He recibido' (perfecto – esta mañana, hoy), 'habló' (indefinido – ayer, puntual), 'confirmó' (indefinido – acto puntual), 'había sido' (pluscuamperfecto – aprobación anterior a la charla), 'comunica' (imperativo de tú).",
+        "'Recibí' es indefinido y se usa más con marcadores de tiempo pasado como 'ayer'; 'esta mañana' prefiere el perfecto 'he recibido' en español peninsular.",
+        "'Fue' sería pasivo simple pero pierde la anterioridad: el proyecto fue aprobado antes de la charla, de ahí el pluscuamperfecto 'había sido'.",
+        "'Hablaba' es imperfecto y convertiría la reunión con el director en algo habitual o en curso, no un evento puntual de ayer."
+      ]
+    },
+    {
+      "sentence": "Cuando _______ niño, mis abuelos siempre _______ que _______ mis verduras, pero yo nunca les _______; ahora de adulto _______ que tenían razón.",
+      "options": [
+        "era... decían... comiera... hacía caso... reconozco",
+        "fui... decían... comiera... hacía caso... reconozco",
+        "era... dijeron... comiera... hacía caso... reconozco",
+        "era... decían... come... hacía caso... reconozco"
+      ],
+      "correct": 0,
+      "explanations": [
+        "¡Correcto! 'Era' (imperfecto – estado de la infancia), 'decían' (imperfecto – hábito repetido), 'comiera' (imperfecto de subjuntivo – petición en estilo indirecto), 'hacía caso' (imperfecto – hábito negativo), 'reconozco' (presente – estado actual).",
+        "'Fui' es indefinido y describe un momento puntual; ser niño es un estado duradero, por eso se usa imperfecto 'era'.",
+        "'Dijeron' (indefinido) haría la instrucción puntual, pero el contexto 'siempre' indica repetición habitual: 'decían'.",
+        "'Come' es imperativo o presente; en estilo indirecto con 'que' y verbo principal en pasado se necesita subjuntivo: 'comiera'."
+      ]
+    },
+    {
+      "sentence": "Mira, _______ (tú) un momento: nosotros ya _______ tres soluciones al problema, pero el cliente _______ que ninguna _______ válida, así que _______ desde cero.",
+      "options": [
+        "escucha... hemos propuesto... dijo... era... empezaremos",
+        "escucha... hemos propuesto... dijo... era... empezamos",
+        "escucha... hemos propuesto... decía... era... empezaremos",
+        "escucha... propusimos... dijo... era... empezaremos"
+      ],
+      "correct": 0,
+      "explanations": [
+        "¡Correcto! 'Escucha' (imperativo), 'hemos propuesto' (perfecto – resultado presente), 'dijo' (indefinido – acto puntual), 'era' (imperfecto – descripción en estilo indirecto), 'empezaremos' (futuro – decisión).",
+        "'Empezamos' es presente o indefinido; el contexto proyecta una acción futura, por lo que 'empezaremos' es más apropiado.",
+        "'Decía' convertiría el rechazo del cliente en algo habitual o en curso; un acto de habla puntual pide 'dijo'.",
+        "'Propusimos' es indefinido y podría funcionar, pero 'hemos propuesto' enfatiza el resultado presente de esas propuestas."
+      ]
+    },
+    {
+      "sentence": "Ayer _______ que el nuevo empleado ya _______ todos los informes del trimestre, aunque nadie le _______ que lo _______; hoy el jefe le _______ felicitar.",
+      "options": [
+        "me enteré... había completado... había pedido... hiciera... va a",
+        "me enteré... había completado... pidió... hiciera... va a",
+        "me enteré... completó... había pedido... hiciera... va a",
+        "me enteraba... había completado... había pedido... hiciera... va a"
+      ],
+      "correct": 0,
+      "explanations": [
+        "¡Correcto! 'Me enteré' (indefinido), 'había completado' (pluscuamperfecto – anterior a enterarse), 'había pedido' (pluscuamperfecto – anterior también), 'hiciera' (imperfecto subjuntivo – estilo indirecto en pasado), 'va a' (presente – futuro próximo).",
+        "'Pidió' es indefinido; ambas acciones son anteriores al momento de enterarse, así que el pluscuamperfecto 'había pedido' expresa mejor esa doble anterioridad.",
+        "'Completó' es indefinido; la anterioridad respecto al 'me enteré' se expresa mejor con pluscuamperfecto: 'había completado'.",
+        "'Me enteraba' es imperfecto; enterarse de algo ayer de forma puntual pide indefinido: 'me enteré'."
+      ]
+    },
+    {
+      "sentence": "_______ (vosotros) en cuenta que el año pasado _______ muchos errores, que _______ evitarse si todos _______ los procedimientos, y que este año _______ mejor.",
+      "options": [
+        "Tened... hubo... podrían... siguieran... haremos",
+        "Tened... había... podrían... siguieran... haremos",
+        "Tened... hubo... podían... siguieran... haremos",
+        "Tened... hubo... podrían... siguieron... haremos"
+      ],
+      "correct": 0,
+      "explanations": [
+        "¡Correcto! 'Tened' (imperativo de vosotros), 'hubo' (indefinido – evento del año pasado), 'podrían' (condicional – posibilidad hipotética), 'siguieran' (imperfecto subjuntivo – condición en el pasado), 'haremos' (futuro – compromiso).",
+        "'Había' (imperfecto) no es incorrecto para contextos continuos, pero 'hubo muchos errores' usa el indefinido para un número concreto de errores en un período pasado.",
+        "'Podían' es imperfecto indicativo; aquí se necesita el condicional 'podrían' para expresar la posibilidad hipotética de haberlos evitado.",
+        "'Siguieron' es indefinido; después de 'si' con valor hipotético en el pasado se usa imperfecto de subjuntivo: 'siguieran'."
+      ]
+    },
+    {
+      "sentence": "Hoy _______ con mi madre, que me _______ que cuando papá _______ joven _______ todos los fines de semana y nunca _______ en casa.",
+      "options": [
+        "he hablado... contó... era... salía... se quedaba",
+        "hablé... contó... era... salía... se quedaba",
+        "he hablado... contaba... era... salía... se quedaba",
+        "he hablado... contó... fue... salía... se quedaba"
+      ],
+      "correct": 0,
+      "explanations": [
+        "¡Correcto! 'He hablado' (perfecto – hoy), 'contó' (indefinido – acto puntual de relato), 'era' (imperfecto – estado pasado de ser joven), 'salía' (imperfecto – hábito pasado), 'se quedaba' (imperfecto – hábito negativo).",
+        "'Hablé' es indefinido; 'hoy' en español peninsular favorece el perfecto compuesto 'he hablado'.",
+        "'Contaba' convierte el relato en algo habitual o en curso; el acto puntual de contar algo pide indefinido 'contó'.",
+        "'Fue' describe un evento puntual; ser joven es una etapa de duración, que requiere imperfecto 'era'."
+      ]
+    },
+    {
+      "sentence": "_______ (usted) los documentos antes de firmar, _______ que todos los datos _______ correctos, y si _______ algún error, _______ inmediatamente al departamento.",
+      "options": [
+        "Revise... verifique... estén... encontrara... notifique",
+        "Revisa... verifica... estén... encontrara... notifique",
+        "Revise... verifique... son... encontrara... notifique",
+        "Revise... verifique... estén... encuentra... notifique"
+      ],
+      "correct": 0,
+      "explanations": [
+        "¡Correcto! 'Revise' y 'verifique' (imperativo de usted – vocal opuesta), 'estén' (presente subjuntivo – duda en subordinada), 'encontrara' (imperfecto subjuntivo – condición hipotética), 'notifique' (imperativo de usted).",
+        "'Revisa' y 'verifica' son imperativo de tú, no de usted. La forma correcta para usted es la vocal opuesta: 'revise', 'verifique'.",
+        "'Son' es indicativo; después de 'que' con valor de verificación se prefiere subjuntivo 'estén' para expresar la incertidumbre.",
+        "'Encuentra' es presente indicativo o imperativo de tú; la condición hipotética con 'si' pide imperfecto subjuntivo: 'encontrara'."
+      ]
+    },
+    {
+      "sentence": "Antes de conocer a Sergio, ella _______ muy tímida, _______ muy poco y casi nunca _______ a fiestas; desde que se conocieron _______ mucho y _______ muy felices.",
+      "options": [
+        "era... hablaba... iba... han cambiado... parecen",
+        "fue... hablaba... iba... han cambiado... parecen",
+        "era... habló... iba... han cambiado... parecen",
+        "era... hablaba... fue... han cambiado... parecen"
+      ],
+      "correct": 0,
+      "explanations": [
+        "¡Correcto! 'Era', 'hablaba', 'iba' (imperfectos – estados y hábitos pasados), 'han cambiado' (perfecto – cambio con resultado presente), 'parecen' (presente – estado actual).",
+        "'Fue' es indefinido; ser tímida es un estado duradero en el pasado, no un evento puntual, por eso se usa imperfecto 'era'.",
+        "'Habló' es indefinido; hablar poco era un hábito continuado, no una acción puntual. Debe ser imperfecto 'hablaba'.",
+        "'Fue' para 'ir a fiestas' convierte algo habitual en un evento puntual; el imperfecto 'iba' expresa la costumbre repetida."
+      ]
+    },
+    {
+      "sentence": "Les _______ que la reunión _______ mañana a las diez, que _______ todos los informes y que si alguien no _______ asistir, _______ con antelación.",
+      "options": [
+        "recuerdo... es... traigan... pudiera... avise",
+        "recuerdo... es... traigan... puede... avise",
+        "recuerdo... será... traigan... pudiera... avise",
+        "recuerdo... es... traerán... pudiera... avise"
+      ],
+      "correct": 0,
+      "explanations": [
+        "¡Correcto! 'Recuerdo' (presente – acto comunicativo), 'es' (presente – dato fijo), 'traigan' (presente subjuntivo – instrucción indirecta), 'pudiera' (imperfecto subjuntivo – hipótesis con 'si'), 'avise' (presente subjuntivo / imperativo indirecto).",
+        "'Puede' es indicativo; la cláusula hipotética con 'si' requiere subjuntivo: 'pudiera'.",
+        "'Será' es futuro; aquí la reunión tiene hora fijada y se presenta como dato conocido: 'es'.",
+        "'Traerán' es futuro indicativo; la instrucción indirecta con 'que' pide subjuntivo: 'traigan'."
+      ]
+    },
+    {
+      "sentence": "Ayer, mientras yo _______ la cena, mi hermano _______ y me _______ que _______ un nuevo trabajo; en ese momento _______ tan contento que se me olvidó la sartén.",
+      "options": [
+        "preparaba... llegó... contó... había conseguido... me puse",
+        "preparé... llegó... contó... había conseguido... me puse",
+        "preparaba... llegaba... contó... había conseguido... me puse",
+        "preparaba... llegó... contó... consiguió... me puse"
+      ],
+      "correct": 0,
+      "explanations": [
+        "¡Correcto! 'Preparaba' (imperfecto – acción en curso), 'llegó' (indefinido – interrupción), 'contó' (indefinido – acto puntual), 'había conseguido' (pluscuamperfecto – anterior a contar), 'me puse' (indefinido – reacción puntual).",
+        "'Preparé' es indefinido; la cena era una actividad en curso que sirve de fondo a la llegada del hermano: imperfecto 'preparaba'.",
+        "'Llegaba' es imperfecto; la llegada del hermano es la interrupción puntual, no una acción en curso: indefinido 'llegó'.",
+        "'Consiguió' es indefinido; el trabajo fue conseguido antes del momento en que él llegó y lo contó, de ahí el pluscuamperfecto 'había conseguido'."
+      ]
+    },
+    {
+      "sentence": "Con más inversión, las ciudades _______ mejores transportes, los ciudadanos _______ menos tiempo en desplazarse y la contaminación _______ notablemente; por eso _______ (tú) a tus representantes que actúen.",
+      "options": [
+        "tendrían... perderían... bajaría... pide",
+        "tendrían... perderían... bajó... pide",
+        "tendrían... perderían... bajaría... pides",
+        "tendrían... pierden... bajaría... pide"
+      ],
+      "correct": 0,
+      "explanations": [
+        "¡Correcto! 'Tendrían', 'perderían', 'bajaría' (condicional – consecuencias hipotéticas), 'pide' (imperativo de tú – acción solicitada).",
+        "'Bajó' es indefinido y describe un hecho pasado; aquí se habla de una consecuencia hipotética que requiere condicional: 'bajaría'.",
+        "'Pides' es presente indicativo, no imperativo; la solicitud directa pide imperativo: 'pide'.",
+        "'Pierden' es presente indicativo; la consecuencia hipotética de mayor inversión requiere condicional: 'perderían'."
+      ]
+    },
+    {
+      "sentence": "Nunca antes _______ tanto estrés como el que _______ este año; por eso, esta noche _______ temprano, _______ nada de trabajo y _______ un rato sin pensar en nada.",
+      "options": [
+        "había sentido... he tenido... me acostaré... haré... descansaré",
+        "había sentido... tenía... me acostaré... haré... descansaré",
+        "sentí... he tenido... me acostaré... haré... descansaré",
+        "había sentido... he tenido... me acosté... haré... descansaré"
+      ],
+      "correct": 0,
+      "explanations": [
+        "¡Correcto! 'Había sentido' (pluscuamperfecto – nunca antes de ahora), 'he tenido' (perfecto – este año, período no concluido), 'me acostaré', 'haré', 'descansaré' (futuro – plan para esta noche).",
+        "'Tenía' es imperfecto; 'este año' es un período con relevancia presente que pide perfecto: 'he tenido'.",
+        "'Sentí' es indefinido; 'nunca antes' marca una comparación con el presente que pide pluscuamperfecto: 'había sentido'.",
+        "'Me acosté' es indefinido pasado; los planes para esta noche requieren futuro: 'me acostaré'."
+      ]
+    },
+    {
+      "sentence": "_______ (ustedes) los datos del informe, _______ las conclusiones con el equipo, y si algo _______ confuso, _______ una reunión adicional; yo estaré disponible si me _______.",
+      "options": [
+        "Verifiquen... compartan... pareciera... organicen... necesitan",
+        "Verificad... compartid... pareciera... organizad... necesitan",
+        "Verifiquen... compartan... parece... organicen... necesitan",
+        "Verifiquen... compartan... pareciera... organicen... necesitaran"
+      ],
+      "correct": 0,
+      "explanations": [
+        "¡Correcto! 'Verifiquen' y 'compartan' (imperativo de ustedes), 'pareciera' (imperfecto subjuntivo – condición hipotética), 'organicen' (imperativo de ustedes), 'necesitan' (presente – condición real).",
+        "'Verificad' y 'compartid' son imperativo de vosotros; en Latinoamérica y para 'ustedes' se usan 'verifiquen', 'compartan'.",
+        "'Parece' es indicativo; la condición hipotética con 'si' pide subjuntivo: 'pareciera'.",
+        "'Necesitaran' es imperfecto subjuntivo; la última cláusula describe una condición real y presente, por lo que 'necesitan' (indicativo) es correcto."
+      ]
+    },
+    {
+      "sentence": "_______ (tú) el correo que te _______ ayer: en él _______ los detalles del viaje que nosotros _______ juntos y que todavía _______ confirmar.",
+      "options": [
+        "Abre... mandé... están... planificamos... tenemos que",
+        "Abre... mandaba... están... planificamos... tenemos que",
+        "Abre... mandé... estaban... planificamos... tenemos que",
+        "Abres... mandé... están... planificamos... tenemos que"
+      ],
+      "correct": 0,
+      "explanations": [
+        "¡Correcto! 'Abre' (imperativo de tú), 'mandé' (indefinido – ayer), 'están' (presente – contenido actual del correo), 'planificamos' (indefinido – acción pasada conjunta), 'tenemos que' (presente – obligación actual).",
+        "'Mandaba' es imperfecto; enviar un correo ayer es una acción puntual: indefinido 'mandé'.",
+        "'Estaban' es imperfecto; los detalles siguen estando ahí ahora mismo, por lo que 'están' (presente) es correcto.",
+        "'Abres' es presente indicativo, no imperativo; la instrucción directa pide imperativo: 'abre'."
+      ]
+    },
+    {
+      "sentence": "Si el médico me _______ que _______ más deporte y _______ mejor, yo lo _______ sin dudarlo; pero nadie me _______ nada todavía.",
+      "options": [
+        "dijera... hiciera... comiera... haría... ha dicho",
+        "dijera... hiciera... comiera... haría... dijo",
+        "dijo... hiciera... comiera... haría... ha dicho",
+        "dijera... hiciera... comiera... hice... ha dicho"
+      ],
+      "correct": 0,
+      "explanations": [
+        "¡Correcto! 'Dijera', 'hiciera', 'comiera' (imperfecto subjuntivo – condición hipotética), 'haría' (condicional – consecuencia), 'ha dicho' (perfecto – negación hasta ahora).",
+        "'Dijo' es indefinido; la condición sigue siendo hipotética y no real, por eso se necesita subjuntivo: 'dijera'.",
+        "'Dijo' en la cláusula con 'si' es indicativo; la hipótesis no cumplida requiere imperfecto de subjuntivo: 'dijera'.",
+        "'Hice' es indefinido; la consecuencia hipotética requiere condicional: 'haría'."
+      ]
+    },
+    {
+      "sentence": "Cuando _______ pequeño, mi ciudad _______ muy tranquila, pero desde que _______ la nueva autopista, el tráfico _______ muchísimo y los vecinos _______ quejarse constantemente.",
+      "options": [
+        "era... era... construyeron... ha aumentado... han empezado",
+        "fui... era... construyeron... ha aumentado... han empezado",
+        "era... fue... construyeron... ha aumentado... han empezado",
+        "era... era... construían... ha aumentado... han empezado"
+      ],
+      "correct": 0,
+      "explanations": [
+        "¡Correcto! 'Era' (imperfecto – estado de ser pequeño), 'era' (imperfecto – estado de la ciudad), 'construyeron' (indefinido – evento puntual), 'ha aumentado' (perfecto – cambio con impacto presente), 'han empezado' (perfecto – cambio reciente).",
+        "'Fui' es indefinido; ser pequeño es un estado de duración, no un evento puntual: imperfecto 'era'.",
+        "El segundo 'fue' es indefinido; la tranquilidad de la ciudad era un estado continuo, no puntual: imperfecto 'era'.",
+        "'Construían' es imperfecto; la construcción de la autopista fue un evento puntual y terminado: indefinido 'construyeron'."
+      ]
+    },
+    {
+      "sentence": "_______ (tú) un momento: esta semana ya _______ cinco reuniones, _______ el informe y además _______ a dos clientes; la próxima semana _______ más tranquila.",
+      "options": [
+        "Respira... he tenido... he terminado... he atendido... será",
+        "Respira... tuve... he terminado... he atendido... será",
+        "Respira... he tenido... terminé... he atendido... será",
+        "Respiras... he tenido... he terminado... he atendido... será"
+      ],
+      "correct": 0,
+      "explanations": [
+        "¡Correcto! 'Respira' (imperativo de tú), 'he tenido', 'he terminado', 'he atendido' (perfecto – esta semana, período vigente), 'será' (futuro – predicción).",
+        "'Tuve' es indefinido; 'esta semana' es un período que aún no ha concluido, por lo que el perfecto 'he tenido' es apropiado en español peninsular.",
+        "'Terminé' es indefinido; la acción ocurre dentro de 'esta semana', período no concluido: perfecto 'he terminado'.",
+        "'Respiras' es presente indicativo, no imperativo; la instrucción directa pide imperativo: 'respira'."
+      ]
+    },
+    {
+      "sentence": "Me _______ que de niña _______ ballet durante diez años, que _______ en varios espectáculos y que si no _______ una lesión, _______ seguir con su carrera.",
+      "options": [
+        "contó... practicó... actuó... hubiera tenido... habría podido",
+        "contó... practicaba... actuó... hubiera tenido... habría podido",
+        "contó... practicó... actuaba... hubiera tenido... habría podido",
+        "contó... practicó... actuó... había tenido... habría podido"
+      ],
+      "correct": 0,
+      "explanations": [
+        "¡Correcto! 'Contó' (indefinido – relato puntual), 'practicó' (indefinido – período acotado de diez años), 'actuó' (indefinido – participaciones puntuales), 'hubiera tenido' (pluscuamperfecto subjuntivo – condición irreal pasada), 'habría podido' (condicional compuesto – consecuencia irreal pasada).",
+        "'Practicaba' es imperfecto; practicar durante diez años es un período definido y terminado: indefinido 'practicó'.",
+        "'Actuaba' es imperfecto habitual; actuar en espectáculos concretos son eventos puntuales: indefinido 'actuó'.",
+        "'Había tenido' es pluscuamperfecto de indicativo; la condición irreal en el pasado pide pluscuamperfecto de subjuntivo: 'hubiera tenido'."
+      ]
+    },
+    {
+      "sentence": "Si ustedes _______ más cuidado con los plazos, el cliente no _______ tantas quejas y el equipo _______ más tiempo para innovar; por eso les _______ que _______ la organización.",
+      "options": [
+        "tuvieran... tendría... dispondría... pido... mejoren",
+        "tuvieran... tenía... dispondría... pido... mejoren",
+        "tuvieran... tendría... dispondría... pido... mejorarán",
+        "tuvieron... tendría... dispondría... pido... mejoren"
+      ],
+      "correct": 0,
+      "explanations": [
+        "¡Correcto! 'Tuvieran' (imperfecto subjuntivo – condición hipotética), 'tendría', 'dispondría' (condicional – consecuencias), 'pido' (presente – acto de comunicación), 'mejoren' (presente subjuntivo – petición).",
+        "'Tenía' es imperfecto indicativo; la consecuencia hipotética requiere condicional: 'tendría'.",
+        "'Mejorarán' es futuro indicativo; después de 'pido que' se usa subjuntivo: 'mejoren'.",
+        "'Tuvieron' es indefinido; la condición hipotética (no real) necesita imperfecto subjuntivo: 'tuvieran'."
+      ]
+    },
+    {
+      "sentence": "Antes _______ a la biblioteca todos los días, pero desde que _______ un ordenador en casa, todo _______ y ahora simplemente _______ desde el sofá; _______ (tú) lo mismo.",
+      "options": [
+        "iba... compré... cambió... estudio... haz",
+        "fui... compré... cambió... estudio... haz",
+        "iba... compraba... cambió... estudio... haz",
+        "iba... compré... cambiaba... estudio... haz"
+      ],
+      "correct": 0,
+      "explanations": [
+        "¡Correcto! 'Iba' (imperfecto – hábito pasado), 'compré' (indefinido – evento puntual), 'cambió' (indefinido – cambio puntual), 'estudio' (presente – hábito actual), 'haz' (imperativo irregular de hacer).",
+        "'Fui' es indefinido; ir a la biblioteca era un hábito repetido, no un evento puntual: imperfecto 'iba'.",
+        "'Compraba' es imperfecto; comprar el ordenador fue un evento puntual y definido: indefinido 'compré'.",
+        "'Cambiaba' es imperfecto; el cambio fue un punto de inflexión puntual: indefinido 'cambió'."
+      ]
+    },
+    {
+      "sentence": "_______ (tú) que hace dos años _______ en esta misma silla, _______ nada de experiencia y _______ que todos mis compañeros _______ mucho mejor que yo.",
+      "options": [
+        "Imagina... estaba... tenía... creía... trabajaban",
+        "Imagina... estuve... tenía... creía... trabajaban",
+        "Imagina... estaba... tuve... creía... trabajaban",
+        "Imagina... estaba... tenía... creí... trabajaban"
+      ],
+      "correct": 0,
+      "explanations": [
+        "¡Correcto! 'Imagina' (imperativo), 'estaba' (imperfecto – estado en aquel momento), 'tenía' (imperfecto – estado de carencia), 'creía' (imperfecto – creencia continua de entonces), 'trabajaban' (imperfecto – capacidad percibida continua).",
+        "'Estuve' es indefinido; el estado de estar en esa silla hace dos años era una situación de duración: imperfecto 'estaba'.",
+        "'Tuve' es indefinido; la carencia de experiencia era un estado continuo de entonces: imperfecto 'tenía'.",
+        "'Creí' es indefinido; la creencia era continua durante ese período, no un acto puntual: imperfecto 'creía'."
+      ]
+    },
+    {
+      "sentence": "El próximo año _______ a Madrid, _______ a mucha gente nueva y si todo _______ bien, quizás _______ abrir mi propia empresa; por ahora _______ (tú) lo que puedas aquí.",
+      "options": [
+        "me mudaré... conoceré... va... podré... aprovecha",
+        "me mudé... conoceré... va... podré... aprovecha",
+        "me mudaré... conoceré... fue... podré... aprovecha",
+        "me mudaré... conoceré... va... podría... aprovecha"
+      ],
+      "correct": 0,
+      "explanations": [
+        "¡Correcto! 'Me mudaré', 'conoceré' (futuro – planes), 'va' (presente en condicional real con 'si'), 'podré' (futuro – posibilidad futura), 'aprovecha' (imperativo de tú).",
+        "'Me mudé' es indefinido pasado; la mudanza es un plan futuro: futuro 'me mudaré'.",
+        "'Fue' es indefinido; la condición 'si todo va bien' es abierta y real, por lo que usa presente indicativo: 'va'.",
+        "'Podría' es condicional; la condición 'si todo va bien' es real, así que la consecuencia puede ir en futuro: 'podré'."
+      ]
+    },
+    {
+      "sentence": "Lo que _______ es que el equipo _______ muy bien últimamente, _______ todos los objetivos del trimestre y _______ una actitud increíble; _______ (ustedes) así de motivados.",
+      "options": [
+        "noto... ha trabajado... ha cumplido... ha mantenido... sigan",
+        "noto... trabajó... ha cumplido... ha mantenido... sigan",
+        "noto... ha trabajado... cumplió... ha mantenido... sigan",
+        "noto... ha trabajado... ha cumplido... mantiene... sigan"
+      ],
+      "correct": 0,
+      "explanations": [
+        "¡Correcto! 'Noto' (presente), 'ha trabajado', 'ha cumplido', 'ha mantenido' (perfecto – últimamente, período vigente), 'sigan' (imperativo de ustedes / presente subjuntivo en exhortación).",
+        "'Trabajó' es indefinido; 'últimamente' indica un período con relevancia presente: perfecto 'ha trabajado'.",
+        "'Cumplió' es indefinido; los objetivos del trimestre en curso se expresan con perfecto: 'ha cumplido'.",
+        "'Mantiene' es presente simple; el perfecto 'ha mantenido' enfatiza que esa actitud se ha mantenido hasta ahora."
+      ]
+    },
+    {
+      "sentence": "_______ (vosotros) esta historia: cuando _______ el contrato, nadie _______ que el proyecto _______ tan complejo y que _______ tantos meses de trabajo.",
+      "options": [
+        "Escuchad... firmamos... sabía... sería... requeriría",
+        "Escuchad... firmamos... sabíamos... sería... requeriría",
+        "Escuchad... firmamos... sabía... fue... requeriría",
+        "Escuchad... firmábamos... sabía... sería... requeriría"
+      ],
+      "correct": 0,
+      "explanations": [
+        "¡Correcto! 'Escuchad' (imperativo de vosotros), 'firmamos' (indefinido – acción puntual), 'sabía' (imperfecto – estado de conocimiento en ese momento), 'sería' (condicional – futuro en el pasado), 'requeriría' (condicional – consecuencia futura en el pasado).",
+        "Con 'nadie', el verbo va en singular: 'sabía', no 'sabíamos'.",
+        "'Fue' es indefinido; 'sería' expresa el futuro en el pasado (lo que se veía en ese momento), no un hecho ya consumado.",
+        "'Firmábamos' es imperfecto; firmar el contrato fue un acto puntual y definitivo: indefinido 'firmamos'."
+      ]
+    },
+    {
+      "sentence": "_______ (tú) a Pedro que _______ los materiales esta tarde, que los _______ en la sala de reuniones y que si no _______ tiempo, _______ a alguien del equipo.",
+      "options": [
+        "Dile... recoja... deje... tuviera... avise",
+        "Dile... recoja... deje... tiene... avise",
+        "Di... recoja... deje... tuviera... avise",
+        "Dile... recoge... deje... tuviera... avise"
+      ],
+      "correct": 0,
+      "explanations": [
+        "¡Correcto! 'Dile' (imperativo de decir + pronombre), 'recoja' y 'deje' (imperativo de usted / presente subjuntivo en mandato indirecto), 'tuviera' (imperfecto subjuntivo – condición hipotética), 'avise' (imperativo indirecto).",
+        "'Tiene' es indicativo; la condición con 'si' hipotético pide subjuntivo: 'tuviera'.",
+        "'Di' es el imperativo de decir sin pronombre; aquí se necesita el pronombre: 'dile'.",
+        "'Recoge' es imperativo de tú; el mandato indirecto para Pedro (usted) requiere 'recoja'."
+      ]
+    },
+    {
+      "sentence": "Nunca _______ que _______ tan lejos con este proyecto; cuando _______ el primer prototipo, todos _______ que fracasaría, pero _______ y aquí estamos.",
+      "options": [
+        "imaginé... llegaríamos... presentamos... decían... perseveramos",
+        "imaginé... llegaremos... presentamos... decían... perseveramos",
+        "imaginaba... llegaríamos... presentamos... decían... perseveramos",
+        "imaginé... llegaríamos... presentábamos... decían... perseveramos"
+      ],
+      "correct": 0,
+      "explanations": [
+        "¡Correcto! 'Imaginé' (indefinido – acto puntual de imaginar), 'llegaríamos' (condicional – imposibilidad imaginada), 'presentamos' (indefinido – evento puntual), 'decían' (imperfecto – opinión continua de entonces), 'perseveramos' (indefinido – acción que produjo el resultado).",
+        "'Llegaremos' es futuro; la perspectiva desde el pasado de lo que parecía imposible pide condicional: 'llegaríamos'.",
+        "'Imaginaba' es imperfecto; no imaginar algo fue un momento puntual de sorpresa: indefinido 'imaginé'.",
+        "'Presentábamos' es imperfecto; presentar el prototipo fue un evento puntual y definido: indefinido 'presentamos'."
+      ]
+    }
+  ]
+}
