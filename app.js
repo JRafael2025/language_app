@@ -235,11 +235,19 @@ async function loadQuestions(lang, tense) {
         const response = await fetch("questions_es_todos.json");
         const json = await response.json();
         
-        const allQuestions = json.questions.map(q => ({
-          ...q,
-          language: "es",
-          tense: json.tense
-        }));
+        const allQuestions = json.questions.map(q => {
+          // Shuffle options while keeping the correct answer tracked
+          const indexed = q.options.map((opt, i) => ({ opt, exp: q.explanations?.[i], correct: i === q.correct }));
+          const shuffledIndexed = shuffleArray(indexed);
+          return {
+            ...q,
+            options: shuffledIndexed.map(x => x.opt),
+            explanations: shuffledIndexed.map(x => x.exp),
+            correct: shuffledIndexed.findIndex(x => x.correct),
+            language: "es",
+            tense: json.tense
+          };
+        });
         
         questionPool = shuffleArray(allQuestions);
         currentTipData = null;
